@@ -7,5 +7,4 @@ git add first-commit.bat
 git add git-pull.bat
 git commit -m "NXT Guide"
 git push -u origin main
-pause
 exit
