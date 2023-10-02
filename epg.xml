@@ -747,62 +747,77 @@
   </channel>
   <channel id="beIN SPORTS MAX 5">
     <display-name lang="fr">beIN Sports Max 5</display-name>
+    <icon src="https://tv-sports.fr/pic_v4/chaines/svg/optimized/135.svg" />
     <url>http://www.tv-sports.fr</url>
   </channel>
   <channel id="beIN SPORTS MAX 6">
     <display-name lang="fr">beIN Sports Max 6</display-name>
+    <icon src="https://tv-sports.fr/pic_v4/chaines/svg/optimized/136.svg" />
     <url>http://www.tv-sports.fr</url>
   </channel>
   <channel id="beIN SPORTS MAX 7">
     <display-name lang="fr">beIN Sports Max 7</display-name>
+    <icon src="https://tv-sports.fr/pic_v4/chaines/svg/optimized/137.svg" />
     <url>http://www.tv-sports.fr</url>
   </channel>
   <channel id="beIN SPORTS MAX 8">
     <display-name lang="fr">beIN Sports Max 8</display-name>
+    <icon src="https://tv-sports.fr/pic_v4/chaines/svg/optimized/138.svg" />
     <url>http://www.tv-sports.fr</url>
   </channel>
   <channel id="beIN SPORTS MAX 9">
     <display-name lang="fr">beIN Sports Max 9</display-name>
+    <icon src="https://tv-sports.fr/pic_v4/chaines/svg/optimized/139.svg" />
     <url>http://www.tv-sports.fr</url>
   </channel>
   <channel id="beIN SPORTS MAX 10">
     <display-name lang="fr">beIN Sports Max 10</display-name>
+    <icon src="https://tv-sports.fr/pic_v4/chaines/svg/optimized/140.svg" />
     <url>http://www.tv-sports.fr</url>
   </channel>
   <channel id="TNT Sports Argentina">
     <display-name lang="es">TNT Sports AR</display-name>
+    <icon src="https://tntsports.cl/__export/1610632534176/sites/cdfchile/arte/logo_20210114.svg" />
     <url>http://www.tntsports</url>
   </channel>
   <channel id="TNT Sports  Cile">
     <display-name lang="es">TNT Sports CL</display-name>
+    <icon src="https://tntsports.cl/__export/1610632534176/sites/cdfchile/arte/logo_20210114.svg" />
     <url>http://www.tntsports</url>
   </channel>
   <channel id="TNT Sport 2">
     <display-name lang="es">TNT Sport 2 CL</display-name>
+    <icon src="https://tntsports.cl/__export/1610632534176/sites/cdfchile/arte/logo_20210114.svg" />
     <url>http://www.tntsports</url>
   </channel>
   <channel id="TNS Sports 3HD">
     <display-name lang="es">TNS Sports 3 CL</display-name>
+    <icon src="https://tntsports.cl/__export/1610632534176/sites/cdfchile/arte/logo_20210114.svg" />
     <url>http://www.tntsports</url>
   </channel>
   <channel id="VamosporMovistarPlus.es">
     <display-name lang="es">M+ #Vamos</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/VAMOSD.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="RealMadridTV.es">
     <display-name lang="es">Real Madrid TV</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="BarcaTV.es">
     <display-name lang="es">Barca TV</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="CazayPesca.es">
     <display-name lang="es">Caza y Pesca</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="AdrenalinaSportsNetwork.us">
     <display-name lang="es">Adrenalina Sports Network</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Claro Sports">
@@ -823,6 +838,7 @@
   </channel>
   <channel id="RMC Sport 1">
     <display-name lang="fr">RMC Sport 1</display-name>
+    <icon src="https://tv-sports.fr/pic_v4/chaines/svg/optimized/130.svg" />
     <url>http://www.tv-sports.fr</url>
   </channel>
   <channel id="RMC Sport 2">
@@ -54909,5 +54925,1984 @@ Repetición</title>
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
     <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002020000 +0200" stop="20231002060000 +0200" channel="beIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002060000 +0200" stop="20231002100000 +0200" channel="beIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002100000 +0200" stop="20231002152500 +0200" channel="beIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002152500 +0200" stop="20231002173000 +0200" channel="beIN SPORTS MAX 5">
+    <title lang="fr">Torino / Hellas Vérone</title>
+    <desc lang="fr">Retransmission d'un match du championnat d'Italie de football, appelé Serie A. Il s'agit de la plus prestigieuse compétition de football d'Italie. Placée sous la supervision de la Fédération italienne de football, elle a été fondée en 1898.(n)</desc>
+    <category lang="fr">Foot</category>
+  </programme>
+  <programme start="20231002173000 +0200" stop="20231002175500 +0200" channel="beIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002175500 +0200" stop="20231002200000 +0200" channel="beIN SPORTS MAX 5">
+    <title lang="fr">Espanyol Barcelone / Ferrol</title>
+    <desc lang="fr">Suivez des matchs de LaLiga 2, le deuxième division professionnelle masculine de football en Espagne. Antichambre de l'élite, cette division permet aux clubs de rêver à l'accession en Liga soit en s'emparant d'une des deux premières places, qui les envoient automatiquement dans la division supérieure, soit au terme des barrages disputés en fin de saison entre les équipes classées de la troisième à la sixième place. Créé en 1929, il se compose de 22 clubs actuellement.(n)</desc>
+    <category lang="fr">Foot</category>
+  </programme>
+  <programme start="20231002200000 +0200" stop="20231002220000 +0200" channel="beIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231001210000 +0200" stop="20231002020000 +0200" channel="beIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002020000 +0200" stop="20231002060000 +0200" channel="beIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002060000 +0200" stop="20231002100000 +0200" channel="beIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002100000 +0200" stop="20231002140000 +0200" channel="beIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002140000 +0200" stop="20231002180000 +0200" channel="beIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002180000 +0200" stop="20231002200000 +0200" channel="beIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002200000 +0200" stop="20231003020000 +0200" channel="beIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231001220000 +0200" stop="20231002020000 +0200" channel="beIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002020000 +0200" stop="20231002060000 +0200" channel="beIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002060000 +0200" stop="20231002100000 +0200" channel="beIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002100000 +0200" stop="20231002140000 +0200" channel="beIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002140000 +0200" stop="20231002180000 +0200" channel="beIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002180000 +0200" stop="20231002200000 +0200" channel="beIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002200000 +0200" stop="20231003020000 +0200" channel="beIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002020000 +0200" stop="20231002060000 +0200" channel="beIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002060000 +0200" stop="20231002100000 +0200" channel="beIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002100000 +0200" stop="20231002140000 +0200" channel="beIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002140000 +0200" stop="20231002180000 +0200" channel="beIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002180000 +0200" stop="20231002200000 +0200" channel="beIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002200000 +0200" stop="20231003020000 +0200" channel="beIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002020000 +0200" stop="20231002060000 +0200" channel="beIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002060000 +0200" stop="20231002100000 +0200" channel="beIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002100000 +0200" stop="20231002140000 +0200" channel="beIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002140000 +0200" stop="20231002180000 +0200" channel="beIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002180000 +0200" stop="20231002200000 +0200" channel="beIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002200000 +0200" stop="20231003020000 +0200" channel="beIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002020000 +0200" stop="20231002060000 +0200" channel="beIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002060000 +0200" stop="20231002100000 +0200" channel="beIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002100000 +0200" stop="20231002140000 +0200" channel="beIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002140000 +0200" stop="20231002180000 +0200" channel="beIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002180000 +0200" stop="20231002200000 +0200" channel="beIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002200000 +0200" stop="20231003020000 +0200" channel="beIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <desc lang="fr">Profitez des grands championnats et les meilleurs événements sportifs sur beIN Sports, la chêne qui couvre toutes sortes de disciplines avec un accent particulier sur les sports d'équipe.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20231002000000 +0000" stop="20231002020000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">BOCA JRS. VS. RIVER</title>
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20231002020000 +0000" stop="20231002040000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">COLÓN VS UNIÓN</title>
+    <episode-num system="onscreen">S7 E8</episode-num>
+  </programme>
+  <programme start="20231002040000 +0000" stop="20231002060000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">ESTUDIANTES VS. GIMNASIA LP</title>
+    <episode-num system="onscreen">S7 E9</episode-num>
+  </programme>
+  <programme start="20231002060000 +0000" stop="20231002080000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">SAN LORENZO VS. HURACÁN</title>
+    <episode-num system="onscreen">S7 E3</episode-num>
+  </programme>
+  <programme start="20231002080000 +0000" stop="20231002100000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">RACING VS. INDEPENDIENTE</title>
+    <episode-num system="onscreen">S7 E5</episode-num>
+  </programme>
+  <programme start="20231002100000 +0000" stop="20231002120000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">BOCA JRS. VS. RIVER</title>
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20231002120000 +0000" stop="20231002140000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">PELOTA PARADA</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002140000 +0000" stop="20231002150000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">TNT DATA SPORTS</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002150000 +0000" stop="20231002160000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">TNT DATA SPORTS</title>
+    <episode-num system="onscreen">E169</episode-num>
+  </programme>
+  <programme start="20231002160000 +0000" stop="20231002180000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">TNT FÚTBOL</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002180000 +0000" stop="20231002181500 +0000" channel="TNT Sports Argentina">
+    <title lang="es">MATCHDAY</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002181500 +0000" stop="20231002204000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">BARRACAS CENTRAL VS. SARMIENTO</title>
+    <episode-num system="onscreen">S7 E11</episode-num>
+  </programme>
+  <programme start="20231002204000 +0000" stop="20231002230000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">ATLÉTICO TUCUMÁN VS. CENTRAL CÓRDOBA</title>
+    <episode-num system="onscreen">S7 E14</episode-num>
+  </programme>
+  <programme start="20231002230000 +0000" stop="20231003010000 +0000" channel="TNT Sports Argentina">
+    <title lang="es">TNT SPORTS EN CNN RADIO</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002010000 +0000" stop="20231002021000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">TODOS SOMOS TÉCNICOS (REPETICIÓN) 01-10-2023</title>
+    <episode-num system="onscreen">E1116</episode-num>
+  </programme>
+  <programme start="20231002021000 +0000" stop="20231002043000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">O'HIGGINS VS U. LA CALERA</title>
+    <episode-num system="onscreen">S25 E5</episode-num>
+  </programme>
+  <programme start="20231002043000 +0000" stop="20231002050000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">SANTIAGO 2023 SIN LIMITES - 30-09-2023</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20231002050000 +0000" stop="20231002053000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">MARTINA WEIL</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20231002053000 +0000" stop="20231002060000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">PODCAST TODOS SOMOS TECNICOS - JUEVES 28 DE SEPTIEMBRE</title>
+    <episode-num system="onscreen">E78</episode-num>
+  </programme>
+  <programme start="20231002060000 +0000" stop="20231002082000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">MAGALLANES VS EVERTON</title>
+    <episode-num system="onscreen">S25 E2</episode-num>
+  </programme>
+  <programme start="20231002082000 +0000" stop="20231002085000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">MARTINA WEIL</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20231002085000 +0000" stop="20231002092000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">SANTIAGO 2023 SIN LIMITES - 30-09-2023</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20231002092000 +0000" stop="20231002114000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">COBRESAL VS PALESTINO</title>
+    <episode-num system="onscreen">S25 E7</episode-num>
+  </programme>
+  <programme start="20231002114000 +0000" stop="20231002140000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">COLO COLO VS U. CATÓLICA</title>
+    <episode-num system="onscreen">S25 E6</episode-num>
+  </programme>
+  <programme start="20231002140000 +0000" stop="20231002163000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">PELOTA PARADA</title>
+    <desc lang="es">DESCRIPCION.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20231002163000 +0000" stop="20231002173000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">PULSO</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002173000 +0000" stop="20231002183000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">TNT DATA SPORTS</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002183000 +0000" stop="20231002212000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">U. DE CHILE VS A. ITALIANO</title>
+    <episode-num system="onscreen">S25 E8</episode-num>
+  </programme>
+  <programme start="20231002212000 +0000" stop="20231002234000 +0000" channel="TNT Sports  Cile">
+    <title lang="es">DEP. IQUIQUE VS RANGERS</title>
+    <episode-num system="onscreen">S28 E7</episode-num>
+  </programme>
+  <programme start="20231002234000 +0000" stop="20231003005500 +0000" channel="TNT Sports  Cile">
+    <title lang="es">GOLES (REPETICIÓN) 02-10-2023</title>
+    <episode-num system="onscreen">E147</episode-num>
+  </programme>
+  <programme start="20231002010000 +0000" stop="20231002021000 +0000" channel="TNT Sport 2">
+    <title lang="es">TODOS SOMOS TÉCNICOS (REPETICIÓN) 01-10-2023</title>
+    <episode-num system="onscreen">E1116</episode-num>
+  </programme>
+  <programme start="20231002021000 +0000" stop="20231002043000 +0000" channel="TNT Sport 2">
+    <title lang="es">O'HIGGINS VS U. LA CALERA</title>
+    <episode-num system="onscreen">S25 E5</episode-num>
+  </programme>
+  <programme start="20231002043000 +0000" stop="20231002050000 +0000" channel="TNT Sport 2">
+    <title lang="es">SANTIAGO 2023 SIN LIMITES - 30-09-2023</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20231002050000 +0000" stop="20231002053000 +0000" channel="TNT Sport 2">
+    <title lang="es">MARTINA WEIL</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20231002053000 +0000" stop="20231002060000 +0000" channel="TNT Sport 2">
+    <title lang="es">PODCAST TODOS SOMOS TECNICOS - JUEVES 28 DE SEPTIEMBRE</title>
+    <episode-num system="onscreen">E78</episode-num>
+  </programme>
+  <programme start="20231002060000 +0000" stop="20231002082000 +0000" channel="TNT Sport 2">
+    <title lang="es">MAGALLANES VS EVERTON</title>
+    <episode-num system="onscreen">S25 E2</episode-num>
+  </programme>
+  <programme start="20231002082000 +0000" stop="20231002085000 +0000" channel="TNT Sport 2">
+    <title lang="es">MARTINA WEIL</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20231002085000 +0000" stop="20231002092000 +0000" channel="TNT Sport 2">
+    <title lang="es">SANTIAGO 2023 SIN LIMITES - 30-09-2023</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20231002092000 +0000" stop="20231002114000 +0000" channel="TNT Sport 2">
+    <title lang="es">COBRESAL VS PALESTINO</title>
+    <episode-num system="onscreen">S25 E7</episode-num>
+  </programme>
+  <programme start="20231002114000 +0000" stop="20231002140000 +0000" channel="TNT Sport 2">
+    <title lang="es">COLO COLO VS U. CATÓLICA</title>
+    <episode-num system="onscreen">S25 E6</episode-num>
+  </programme>
+  <programme start="20231002140000 +0000" stop="20231002163000 +0000" channel="TNT Sport 2">
+    <title lang="es">PELOTA PARADA</title>
+    <desc lang="es">DESCRIPCION.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20231002163000 +0000" stop="20231002173000 +0000" channel="TNT Sport 2">
+    <title lang="es">PULSO</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002173000 +0000" stop="20231002183000 +0000" channel="TNT Sport 2">
+    <title lang="es">TNT DATA SPORTS</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002183000 +0000" stop="20231002212000 +0000" channel="TNT Sport 2">
+    <title lang="es">U. DE CHILE VS A. ITALIANO</title>
+    <episode-num system="onscreen">S25 E8</episode-num>
+  </programme>
+  <programme start="20231002212000 +0000" stop="20231002234000 +0000" channel="TNT Sport 2">
+    <title lang="es">DEP. IQUIQUE VS RANGERS</title>
+    <episode-num system="onscreen">S28 E7</episode-num>
+  </programme>
+  <programme start="20231002234000 +0000" stop="20231003005500 +0000" channel="TNT Sport 2">
+    <title lang="es">GOLES (REPETICIÓN) 02-10-2023</title>
+    <episode-num system="onscreen">E147</episode-num>
+  </programme>
+  <programme start="20231002002000 +0000" stop="20231002024000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">COBRESAL VS PALESTINO</title>
+    <episode-num system="onscreen">S25 E7</episode-num>
+  </programme>
+  <programme start="20231002024000 +0000" stop="20231002050000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">HUACHIPATO VS DEP. COPIAPÓ</title>
+    <episode-num system="onscreen">S25 E3</episode-num>
+  </programme>
+  <programme start="20231002050000 +0000" stop="20231002053000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">SANTIAGO 2023 SIN LIMITES - 30-09-2023</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20231002053000 +0000" stop="20231002060000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">MARTINA WEIL</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20231002060000 +0000" stop="20231002082000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">MAGALLANES VS EVERTON</title>
+    <episode-num system="onscreen">S25 E2</episode-num>
+  </programme>
+  <programme start="20231002082000 +0000" stop="20231002085000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">MARTINA WEIL</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20231002085000 +0000" stop="20231002092000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">SANTIAGO 2023 SIN LIMITES - 30-09-2023</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20231002092000 +0000" stop="20231002114000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">COBRESAL VS PALESTINO</title>
+    <episode-num system="onscreen">S25 E7</episode-num>
+  </programme>
+  <programme start="20231002114000 +0000" stop="20231002140000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">COLO COLO VS U. CATÓLICA</title>
+    <episode-num system="onscreen">S25 E6</episode-num>
+  </programme>
+  <programme start="20231002140000 +0000" stop="20231002163000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">PELOTA PARADA</title>
+    <desc lang="es">DESCRIPCION.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20231002163000 +0000" stop="20231002173000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">PULSO</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002173000 +0000" stop="20231002190000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">TNT DATA SPORTS</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20231002190000 +0000" stop="20231002212000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">TODOS SOMOS TÉCNICOS</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20231002212000 +0000" stop="20231002234000 +0000" channel="TNS Sports 3HD">
+    <title lang="es">SAN MARCOS VS DEP. SANTA CRUZ</title>
+    <episode-num system="onscreen">S28 E8</episode-num>
+  </programme>
+  <programme start="20231002234000 +0000" stop="20231003005500 +0000" channel="TNS Sports 3HD">
+    <title lang="es">GOLES (REPETICIÓN) 02-10-2023</title>
+    <episode-num system="onscreen">E147</episode-num>
+  </programme>
+  <programme start="20231001174500 +0200" stop="20231001190000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">DeportePlus+ con Juanma Castaño</title>
+    <title lang="en">DeportePlus+ con Juanma Castaño/24</title>
+    <desc lang="es">Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo en el Estadio infinito de Movistar+ de la mano de Juanma Castaño. Las mejores imágenes, las previas, los resúmenes, los testimonios y el análisis de nuestros expertos.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4127461" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001190000 +0200" stop="20231001200000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Carreras de Caballos- Turf: La Zarzuela</title>
+    <title lang="en">Carreras de Caballos- Turf</title>
+    <desc lang="es">Las carreras de caballos son un espectáculo extendido por todo el mundo y generan multitud de apuestas. Monturas y jinetes se exprimen al máximo para llegar a la meta en el menor tiempo posible.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3990974" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001200000 +0200" stop="20231001204500 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Overtime</title>
+    <title lang="en">Overtime/24</title>
+    <desc lang="es">Overtime recorre, desde la cancha en la que acaba de terminar la jornada y de la mano de Fran Fermoso, lo más destacado del fin de semana en la Liga Endesa: entrevistas a los principales protagonistas, las imágenes más curiosas, reportajes humanos, píldoras históricas, análisis tácticos, las mejores jugadas¿ Si te gusta el baloncesto, necesitas esta prórroga.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1828125V3121228" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001204500 +0200" stop="20231001223000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Mundial de Rugby: Australia - Portugal</title>
+    <title lang="en">Mundial de Rugby</title>
+    <desc lang="es">Las dos derrotas ante Fiyi y Gales han convertido el Mundial de Francia en una pesadilla para Australia, que hoy apura sus remotas opciones de cuartos frente a Portugal. Los Wallabies fueron arrollados por Gales (40-6) y firmaron su peor derrota en un partido de Copa del Mundo. Pero Os Lobos también llegan tocados tras su empate in extremis (18-18) en el duelo europeo con Georgia.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Rugby</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125457" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231001223000 +0200" stop="20231002001500 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Serie A Calcio: Roma - Frosinone</title>
+    <title lang="en">Serie A Calcio/24</title>
+    <desc lang="es">Situación crítica para Mourinho. La dura derrota ante el Genoa sitúa a "la loba" cerca de puestos de descenso y sin capacidad de respuesta. El Frosinone de Di Francesco ocupa una cómoda octava plaza y enlaza cinco partidos sin perder.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125980" />
+  </programme>
+  <programme start="20231002001500 +0200" stop="20231002020000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Mundial de Rugby: Sudáfrica - Tonga</title>
+    <title lang="en">Mundial de Rugby</title>
+    <desc lang="es">Sudáfrica y Tonga cierran la cuarta jornada del Mundial de Francia 2023 con un duelo desigual a priori en el Vélodrome de Marsella. Los Springboks encajaron su primera derrota en el duelo de colosos frente a Irlanda (8-13) y ahora quieren un contundente triunfo para sacar el billete a cuartos y llenarse de confianza antes de las eliminatorias. Por su parte, los Ikale Tahi cuentan sus partidos por derrotas, pero buscarán el zarpazo apoyados en su rugby físico y el liderazgo del capitán Tameifuna.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Rugby</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125397" />
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002020000 +0200" stop="20231002031500 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">DeportePlus+ con Juanma Castaño</title>
+    <title lang="en">DeportePlus+ con Juanma Castaño/24</title>
+    <desc lang="es">Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo en el Estadio infinito de Movistar+ de la mano de Juanma Castaño. Las mejores imágenes, las previas, los resúmenes, los testimonios y el análisis de nuestros expertos.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4127461" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002031500 +0200" stop="20231002050000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Serie A Calcio: Atalanta - Juventus</title>
+    <title lang="en">Serie A Calcio/24</title>
+    <desc lang="es">Atalanta y Juventus, a tres y dos puntos respectivamente de la cabeza de la tabla, se miden en uno de los partidos más atractivos de la séptima jornada de la Serie A. La Atalanta viene de ganar al Hellas Verona para encadenar dos triunfos consecutivos sin encajar un gol. La Juventus, tras su victoria ante el Lecce entre semana con un gol de Milik, consiguió olvidar la goleada sufrida ante el Sassuolo el pasado fin de semana.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125970" />
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002050000 +0200" stop="20231002064500 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Liga Endesa: Real Madrid - Barça</title>
+    <title lang="en">Liga Endesa/24</title>
+    <desc lang="es">El primer Clásico de la Liga Endesa llega pronto esta temporada. El Real Madrid se impuso en la Supercopa gracias a un colosal Campazzo, pero la mejora del Barça en estas dos semanas permite al entrenador Grimau soñar con la victoria en el Wizink Center.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4129846" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002064500 +0200" stop="20231002080000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">DeportePlus+ con Juanma Castaño</title>
+    <title lang="en">DeportePlus+ con Juanma Castaño/24</title>
+    <desc lang="es">Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo en el Estadio infinito de Movistar+ de la mano de Juanma Castaño. Las mejores imágenes, las previas, los resúmenes, los testimonios y el análisis de nuestros expertos.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4127461" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002080000 +0200" stop="20231002094500 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Torneo de Beijing: A. Zverev - N. Jarry</title>
+    <title lang="en">Torneo de Beijing</title>
+    <desc lang="es">Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tenis</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4123850" />
+  </programme>
+  <programme start="20231002094500 +0200" stop="20231002113000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">NFL: New York Jets - Kansas City Chiefs</title>
+    <title lang="en">NFL/24</title>
+    <desc lang="es">Los Chiefs de Patrick Mahomes visitan en New Jersey a unos Jets todavía afectados por la grave lesión de Aaron Rodgers en la primera jornada de la temporada. Sin su estrella en el campo, los Jets han perdido sus dos siguientes partidos y no terminan de encontrar el rumbo correcto dirigidos en el campo por el joven Zach Wilson.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol americano</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4127438" />
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002113000 +0200" stop="20231002130000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">El tercer tiempo</title>
+    <title lang="en">El tercer tiempo/24</title>
+    <desc lang="es">Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3945365" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002130000 +0200" stop="20231002133000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Magazine Champions League</title>
+    <title lang="en">Magazine Champions League/24</title>
+    <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3759787" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002133000 +0200" stop="20231002143000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Venus y Serena: revolución en la pista</title>
+    <title lang="en">Venus &amp; Serena, Ces icônes que l'Amérique ne voulait pas voir</title>
+    <desc lang="es">Las hermanas Williams cambiaron el mundo del tenis para siempre. Este documental recorre su increíble historia de superación: de jugar en los guetos más peligrosos de Estados Unidos a ganar en las mejores pistas de tenis del mundo.(n)</desc>
+    <credits>
+      <writer>Sonia Dauger</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4124715" />
+    <country lang="es">Francia</country>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002143000 +0200" stop="20231002150000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">InfoDeportePlus+: 02/10/2023</title>
+    <title lang="en">InfoDeportePlus+/24</title>
+    <desc lang="es">Deporte Plus es LaLiga, la Champions, la acb, la NBA, la F1, el tenis, el Golf. Esto es el estadio infinito de los deportes.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4119317" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002150000 +0200" stop="20231002160000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">El día después</title>
+    <title lang="en">El día después/24</title>
+    <desc lang="es">'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4123148" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002160000 +0200" stop="20231002175500 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Torneo de Beijing</title>
+    <title lang="en">TEMPORADA 2023</title>
+    <desc lang="es">El ATP 500 de Pekín vuelve a lo grande tras tres años de ausencia. Carlos Alcaraz lidera un cuadro en el que están ocho de los diez primeros tenistas del ranking mundial.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tenis</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4078607" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002175500 +0200" stop="20231002185500 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Mo Farah: toda la verdad</title>
+    <title lang="en">The Real Mo Farah</title>
+    <desc lang="es">Mo Farah revela la impactante verdad sobre su infancia. El viaje que hizo desde Somalia al Reino Unido cuando era niño y los años posteriores que le llevaron a ganar dos medallas de oro en los Juegos Olímpicos de Londres 2012.(n)</desc>
+    <credits>
+      <director>Leo Burley</director>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4070419" />
+    <country lang="es">R.U</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002185500 +0200" stop="20231002191500 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Interceptados por la NFL</title>
+    <title lang="en">Interceptados por la NFL/24</title>
+    <desc lang="es">Interceptados por la NFL aterriza en Movistar todos los lunes para disfrutar del mejor repaso a la jornada de la NFL, analizar quiénes han sido los jugadores más destacados y repasar las mejores jugadas y los detalles más curiosos de la mejor liga de fútbol americano.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4034317" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002191500 +0200" stop="20231002224500 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">NFL: New York Giants - Seattle Seahawks</title>
+    <title lang="en">NFL/24</title>
+    <desc lang="es">Una temporada más, Movistar+ se vuelca con una de las competiciones más espectaculares y emocionantes de Estados Unidos: la NFL. 32 conjuntos repartidos en ocho divisiones y dos conferencias -Americana y Nacional-, disputan una temporada regular de 17 jornadas y unas rondas eliminatorias que tendrán como colofón el gran partido final, la Super Bowl.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol americano</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4127440" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002224500 +0200" stop="20231003003000 +0200" channel="VamosporMovistarPlus.es">
+    <title lang="es">Serie A Calcio: Salernitana - Milan</title>
+    <title lang="en">Serie A Calcio/24</title>
+    <desc lang="es">El fútbol italiano tiene la competitividad como seña, a la que ha añadido un tono más ofensivo en las últimas campañas. La Serie A colocó el curso pasado a tres equipos en las finales continentales, fruto del buen trabajo de la liga. El Nápoles defiende título.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4124195" />
+  </programme>
+  <programme start="20231001182000 +0200" stop="20231001201500 +0200" channel="RealMadridTV.es">
+    <title lang="es">UEFA Champions League: Real Madrid - Union Berlín</title>
+    <title lang="en">UEFA Champions League/24</title>
+    <desc lang="es">El Real Madrid inicia la búsqueda de su título más deseado. Los blancos se estrenan en Champions frente a uno de los equipos nuevos de esta campaña, el Union de Berlín. Los de Ancelotti pretenden estrenarse con tres puntos en el casillero.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP3086098" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231001201500 +0200" stop="20231001222000 +0200" channel="RealMadridTV.es">
+    <title lang="es">UEFA Champions League: Liverpool-Real Madrid</title>
+    <title lang="en">UEFA Champions League/22</title>
+    <desc lang="es">El Real Madrid, tras superar a PSG, Chelsea y Manchester City con remontadas increíbles, busca el que sería su 14º título en esta competición. Enfrente tendrá un Liverpool con ganas de revancha tras la derrota en la final de Kiev de 2018.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP1927496" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231001222000 +0200" stop="20231002010000 +0200" channel="RealMadridTV.es">
+    <title lang="es">UEFA Champions League: Real Madrid - At. Madrid</title>
+    <title lang="en">UEFA Champions League/14</title>
+    <desc lang="es">El fútbol español firma con letras de oro otra página de la historia del deporte al protagonizar la primera final de Champions entre equipos de la misma ciudad. Todo está preparado en el Estadio de la Luz para que Real Madrid o Atlético vivan una fiesta de campeonato.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP1104203" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002010000 +0200" stop="20231002011500 +0200" channel="RealMadridTV.es">
+    <title lang="es">Aprende inglés con Vaughan en Realmadrid TV</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Programa que ofrece a los espectadores la oportunidad de aprender inglés de la mano del profesor Richard Vaughan. El espacio pretende introducir al público de lleno en el idioma, tanto desde el punto de vista gramatical como desde el analítico.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Cultural/Educativo</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP1598547" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002011500 +0200" stop="20231002015000 +0200" channel="RealMadridTV.es">
+    <title lang="es">Ciudad Real Madrid</title>
+    <title lang="en">TEMPORADA 23/24</title>
+    <desc lang="es">Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP3095819" />
+  </programme>
+  <programme start="20231002015000 +0200" stop="20231002034000 +0200" channel="RealMadridTV.es">
+    <title lang="es">LaLiga EA Sports: Real Madrid - Las Palmas</title>
+    <title lang="en">LaLiga EA Sports/24</title>
+    <desc lang="es">LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. El Real Madrid defiende corona.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP3064507" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002034000 +0200" stop="20231002053000 +0200" channel="RealMadridTV.es">
+    <title lang="es">Historia que tú hiciste</title>
+    <sub-title lang="es">Champions League 16/17: Nápoles-Real Madrid</sub-title>
+    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid. Títulos, grandes remontadas, épicas victorias, el debut de leyendas y algunos de sus protagonistas se dan cita en el programa.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP1483466" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002053000 +0200" stop="20231002073000 +0200" channel="RealMadridTV.es">
+    <title lang="es">UEFA Champions League: Real Madrid - Union Berlín</title>
+    <title lang="en">UEFA Champions League/24</title>
+    <desc lang="es">El Real Madrid inicia la búsqueda de su título más deseado. Los blancos se estrenan en Champions frente a uno de los equipos nuevos de esta campaña, el Union de Berlín. Los de Ancelotti pretenden estrenarse con tres puntos en el casillero.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP3086098" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002073000 +0200" stop="20231002080000 +0200" channel="RealMadridTV.es">
+    <title lang="es">Conecta Informativo</title>
+    <title lang="en">TEMPORADA 2021</title>
+    <desc lang="es">Un profundo repaso a la actualidad que ha generado el Real Madrid en las últimas horas, tanto a nivel institucional, como en los equipos de fútbol, de baloncesto y de la cantera. En el informativo también se escucharán a los protagonistas de las noticias.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP1860676" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002080000 +0200" stop="20231002083500 +0200" channel="RealMadridTV.es">
+    <title lang="es">Ciudad Real Madrid</title>
+    <title lang="en">TEMPORADA 23/24</title>
+    <desc lang="es">Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP3095819" />
+  </programme>
+  <programme start="20231002083500 +0200" stop="20231002102500 +0200" channel="RealMadridTV.es">
+    <title lang="es">¿Qué nos importa la revolución?</title>
+    <title lang="en">Che c'entriamo con la rivoluzione</title>
+    <desc lang="es">Un actor italiano es contratado para representar una obra de Shakespeare en México. Allí conoce a un sacerdote que prepara la visita de un representante del Vaticano. Juntos se enfrentarán a los revolucionarios de Emiliano Zapata, que quieren ajusticiarles.(n)</desc>
+    <credits>
+      <director>Sergio Corbucci</director>
+      <actor>Vittorio Gassman</actor>
+      <actor>Paolo Villaggio</actor>
+      <actor>Riccardo Garrone</actor>
+      <actor>Eduardo Fajardo</actor>
+      <actor>Leo Anchóriz</actor>
+      <actor>Rosanna Yanni</actor>
+      <actor>Víctor Israel</actor>
+      <actor>José Canalejas</actor>
+      <writer>Sergio Corbucci</writer>
+      <writer>Sabatino Ciuffini</writer>
+      <writer>Massimo Franciosa</writer>
+      <producer>Mario Cecchi Gori</producer>
+      <composer>Ennio Morricone</composer>
+    </credits>
+    <date>1973</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Oeste</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP9797" />
+    <country lang="es">España e Italia</country>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002102500 +0200" stop="20231002110000 +0200" channel="RealMadridTV.es">
+    <title lang="es">Ciudad Real Madrid</title>
+    <title lang="en">TEMPORADA 23/24</title>
+    <desc lang="es">Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP3095819" />
+  </programme>
+  <programme start="20231002110000 +0200" stop="20231002143000 +0200" channel="RealMadridTV.es">
+    <title lang="es">Real Madrid Conecta</title>
+    <title lang="en">TEMPORADA 23/24</title>
+    <desc lang="es">Programa que repasa la actualidad y la última hora blanca a través de entrevistas y debates con leyendas del fútbol y el baloncesto del equipo madridista.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP3102043" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002143000 +0200" stop="20231002162500 +0200" channel="RealMadridTV.es">
+    <title lang="es">Robocop</title>
+    <desc lang="es">En una sociedad determinada por el consumismo y la política conservadora, en la que el crimen está a la orden del día y las calles son escenario de batallas, la policía de Detroit está controlada por una gran compañía privada: la OCP, corporación que tiene al cuerpo en su paquete de acciones. Uno de los mejores agentes de la ciudad, Alex Murphy, muere acribillado a balazos en un enfrentamiento con la poderosa banda de asesinos liderada por Clarence Bottiker. La OCP decide entonces utilizar el cuerpo inerte del policía para unirlo a una estructura metálica y a un sistema informático, para conseguir 'el policía de futuro', un agente perfecto que no tenga que dormir ni comer, que sea prácticamente invulnerable y cumpla estrictamente la ley sin ningún tipo de remordimientos. Un robot policía al que denominarán Robocop, mitad hombre, mitad máquina.(n)</desc>
+    <credits>
+      <director>Paul Verhoeven</director>
+      <actor>Peter Weller</actor>
+      <actor>Nancy Allen</actor>
+      <actor>Dan O'Herlihy</actor>
+      <actor>Ronny Cox</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Miguel Ferrer</actor>
+      <actor>Ray Wise</actor>
+      <actor>Paul McCrane</actor>
+      <writer>Edward Neumeier</writer>
+      <writer>Michael Miner</writer>
+      <producer>Arne Schmidt</producer>
+      <composer>Basil Poledouris</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP10676" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002162500 +0200" stop="20231002182000 +0200" channel="RealMadridTV.es">
+    <title lang="es">24 hours</title>
+    <desc lang="es">Un equipo SWAT de élite tiene apenas 24 horas para impedir que un terrorista mate a personas inocentes parando un ataque en Los Ángeles y así hacer justicia.(n)</desc>
+    <credits>
+      <director>Timothy Woodward Jr.</director>
+      <actor>Tom Sizemore</actor>
+      <actor>Michael Paré</actor>
+      <actor>Jeremy London</actor>
+      <actor>Mischa Barton</actor>
+      <actor>Timothy Woodward Jr.</actor>
+      <writer>Lauren De Normandie</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP1512722" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002182000 +0200" stop="20231003010000 +0200" channel="RealMadridTV.es">
+    <title lang="es">Ciudad Real Madrid</title>
+    <title lang="en">TEMPORADA 23/24</title>
+    <desc lang="es">Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MREALMP3095819" />
+  </programme>
+  <programme start="20231001170000 +0200" stop="20231001173000 +0200" channel="CazayPesca.es">
+    <title lang="es">Truchas de La Vera</title>
+    <desc lang="es">Las gargantas veratas en la provincia extremeña de Cáceres son el lugar donde el campeón del mundo Carlos Delgado ha forjado su experiencia. La cara sur de Gredos condiciona la presencia de truchas bravas pero sobre todo un escenario duro donde la condición física juega un papel muy importante.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125549" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001173000 +0200" stop="20231001175500 +0200" channel="CazayPesca.es">
+    <title lang="es">El rey del río</title>
+    <sub-title lang="es">Rivière Jupiter, Part 2</sub-title>
+    <desc lang="es">Guiado por Philippe Lachapelle, André continúa su viaje por el río Júpiter. Con una población de más de 160.000 ciervos de cola blanca en la isla, no es raro encontrarse con esta bestia que, junto con el salmón del Atlántico, simboliza el patrimonio de vida silvestre de la isla a punto de ser catalogada como Patrimonio de la Humanidad por la UNESCO.(n)</desc>
+    <credits>
+      <director>André Paradis</director>
+      <director>David Pierrat</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4117262" />
+    <country lang="es">Canadá y Francia</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001175500 +0200" stop="20231001182500 +0200" channel="CazayPesca.es">
+    <title lang="es">Berrea, los monstruos alcarreños</title>
+    <desc lang="es">La Bujeda es una finca de caza mayor ubicada en la provincia de Guadalajara. Gracias a una correcta gestión, cuenta con una buena población de venados trofeos. Un cazador aprovecha el comienzo de la pasada berrea para intentar recechar dos grandes venados con la ayuda de la propiedad y sus guías de caza.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3881824" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001182500 +0200" stop="20231001190500 +0200" channel="CazayPesca.es">
+    <title lang="es">Carpfishing y feeder en Carboneras</title>
+    <desc lang="es">Una jornada de pesca diferente, combinando el feeder y el carpfishing en el pantano de Carboneras. Un escenario conocido por albergar peces de gran tamaño. Antonio, apasionado del feeder, Jorge experto en carpfishing los dos acompañados por Mauri una joven promesa que comienza con mucho entusiasmo en la pesca. El equipo se adentra en la aventura de la pesca, con la esperanza de atrapar ejemplares notables y disfrutar de un día memorable en el pantano.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125546" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001190500 +0200" stop="20231001193500 +0200" channel="CazayPesca.es">
+    <title lang="es">Ciento dos años de caza</title>
+    <desc lang="es">Nuestro protagonista acaba de cumplir 102 años y ha tenido una vida dedicada al campo y a la caza siempre acompañado de su paralela del 12. A pesar de su edad sigue monteando con la misma ilusión, un ejemplo a seguir en unos tiempos donde los mayores suelen recluirse en centros especializados olvidados por la sociedad.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3888241" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231001193500 +0200" stop="20231001200500 +0200" channel="CazayPesca.es">
+    <title lang="es">Recechando en los Cárpatos rumanos</title>
+    <desc lang="es">Los montes Cárpatos son la segunda cordillera más larga de Europa tras los alpes escandinavos. En la parte Rumana, quizas se encuentran los mejores rebecos de Europa. En este reportaje seremos testigos de apasionantes recechos con una de las especies mejor adaptadas a la alta montaña.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4005602" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001200500 +0200" stop="20231001203500 +0200" channel="CazayPesca.es">
+    <title lang="es">Namibia: La caza aliada de la conservación de la naturaleza</title>
+    <desc lang="es">De la mano del reconocido cazador portugués, Joao Corceiro, nos trasladamos hasta Namibia para vivir junto a varios cazadores distintos safaris de antílopes. Este país es ejemplo de caza sostenible y de la conservación de la naturaleza.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3795698" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231001203500 +0200" stop="20231001210500 +0200" channel="CazayPesca.es">
+    <title lang="es">Rececho de corzo en alta montaña</title>
+    <desc lang="es">Hace algo más de tres décadas que el corzo se estableció en el valle de Benasque, uno de los grandes valles del Pirineo Central, en el que se concentran las montañas más altas de toda la cordillera. Gracias a su capacidad de adaptación a estos terrenos, la población del corzo ha ido progresivamente en aumento, circunstancia que ha sido aprovechada por los cazadores de la zona para convertirla en una de las especies de alta montaña con más interés cinegético en la modalidad de rececho.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3893104" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231001210500 +0200" stop="20231001213000 +0200" channel="CazayPesca.es">
+    <title lang="es">Pasión italiana por la caza</title>
+    <sub-title lang="es">Del bosque a la cocina 1</sub-title>
+    <desc lang="es">El corzo es una especie de caza mayor que en densidades elevadas puede afectar a diferentes cultivos, siendo los viñedos uno de sus lugares favoritos. Nuestro anfitrión, profesional de la hosteleria, visita las tierras de unos amigos para intentar paliar los daños que el pequeño cérvido causa en sus viñedos.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Caza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3999096" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001213000 +0200" stop="20231001220500 +0200" channel="CazayPesca.es">
+    <title lang="es">A Pulmón</title>
+    <sub-title lang="es">Costas cántabras con Ángel Cruz</sub-title>
+    <desc lang="es">Visitamos Cantabria con Ángel Cruz, un campeón de España de pesca submarina. Con nuestro protagonista descubriremos cómo es la pesca submarina en la zona en dos jornadas de verano. Además, conoceremos la temporada del percebe. Pura pasión por el Cantábrico.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3893699" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231001220500 +0200" stop="20231001225500 +0200" channel="CazayPesca.es">
+    <title lang="es">Los últimos gigantes</title>
+    <desc lang="es">En medio de los entornos salvajes del planeta, Cyril y su equipo tienen el tiempo justo para atravesar los peligros de los entornos más salvajes y regresar a la civilización. Están en una misión importante: encontrar la última especie de pez gigante en peligro de extinción y tomar muestras preciosas para ayudar a la ciencia.(n)</desc>
+    <credits>
+      <director>Cyril Chauquet</director>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4064644" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001225500 +0200" stop="20231001232000 +0200" channel="CazayPesca.es">
+    <title lang="es">Pasión italiana por la caza</title>
+    <sub-title lang="es">Del bosque a la cocina 2</sub-title>
+    <desc lang="es">En esta segunda parte, nuestro protagonista sigue cazando corzos para finalizar en dos de sus negocios con dos platos donde la carne de corzo es el principal ingrediente.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Caza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3999096" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001232000 +0200" stop="20231001235500 +0200" channel="CazayPesca.es">
+    <title lang="es">Los sarrios de Plan</title>
+    <desc lang="es">Ubicado en la comarca de Sobrarbe en pleno Pirineo Aragonés el término de Plan alberga una buena población de Sarrios, especie que intentará cazar un grupo de jovenes recechistas.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125951" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001235500 +0200" stop="20231002002500 +0200" channel="CazayPesca.es">
+    <title lang="es">Calibre pequeño con Certeros Ballesteros</title>
+    <desc lang="es">El uso de pequeños calibres es una práctica cada vez más habitual entre los aficionados a la caza menor.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3851966" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002002500 +0200" stop="20231002010000 +0200" channel="CazayPesca.es">
+    <title lang="es">Monteando en El Revuelo. 1ª parte</title>
+    <desc lang="es">Espectacular montería celebrada en la sierra norte de Sevilla donde venados y, sobre todo, jabalíes depararon emocionantes lances. Fueron los grandes jabalíes los que aceleraron las pulsaciones de los monteros gracias al impresionante trabajo de las rehalas que no pararon de levantar reses hasta el toque final de las caracolas. El tablón final con unas bocas impresionantes en las primeras filas puso colofón a una montería de las que hacen afición.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899991" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002010000 +0200" stop="20231002013000 +0200" channel="CazayPesca.es">
+    <title lang="es">Ciento dos años de caza</title>
+    <desc lang="es">Nuestro protagonista acaba de cumplir 102 años y ha tenido una vida dedicada al campo y a la caza siempre acompañado de su paralela del 12. A pesar de su edad sigue monteando con la misma ilusión, un ejemplo a seguir en unos tiempos donde los mayores suelen recluirse en centros especializados olvidados por la sociedad.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3888241" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002013000 +0200" stop="20231002020000 +0200" channel="CazayPesca.es">
+    <title lang="es">Berrea, los monstruos alcarreños</title>
+    <desc lang="es">La Bujeda es una finca de caza mayor ubicada en la provincia de Guadalajara. Gracias a una correcta gestión, cuenta con una buena población de venados trofeos. Un cazador aprovecha el comienzo de la pasada berrea para intentar recechar dos grandes venados con la ayuda de la propiedad y sus guías de caza.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3881824" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002020000 +0200" stop="20231002023500 +0200" channel="CazayPesca.es">
+    <title lang="es">XXV años de Gran Tarajal</title>
+    <desc lang="es">La localidad canaria de Gran Tarajal, está de aniversario. Una de las pruebas de pesca de altura más importantes de nuestro país, nos adentra en la tradición majorera de la pesca del marlin.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3792892" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002023500 +0200" stop="20231002031500 +0200" channel="CazayPesca.es">
+    <title lang="es">Los sarrios de Plan</title>
+    <desc lang="es">Ubicado en la comarca de Sobrarbe en pleno Pirineo Aragonés el término de Plan alberga una buena población de Sarrios, especie que intentará cazar un grupo de jovenes recechistas.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125951" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002031500 +0200" stop="20231002035000 +0200" channel="CazayPesca.es">
+    <title lang="es">Calibre pequeño con Certeros Ballesteros</title>
+    <desc lang="es">El uso de pequeños calibres es una práctica cada vez más habitual entre los aficionados a la caza menor.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3851966" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002035000 +0200" stop="20231002042000 +0200" channel="CazayPesca.es">
+    <title lang="es">Unica oportunidad</title>
+    <sub-title lang="es">Alpujarreños</sub-title>
+    <desc lang="es">Caza de machos monteses en las Alpujarras.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125691" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002042000 +0200" stop="20231002052000 +0200" channel="CazayPesca.es">
+    <title lang="es">De viaje: Darién a toda costa</title>
+    <desc lang="es">Panamá es un pequeño país centroamericano que ha jugado un importante papel en la conexión del hemisferio norte y del sur. Su istmo sirvió de paso para el fenómeno de la migración de especies entre las dos américas y además una de las obras de ingeniería más ambiciosas, el canal de Panamá, logró el paso soñado entre el Atlántico y el Pacífico. En ese mismo territorio, una de las vías de comunicación, más importante de américa, la famosa ¿Panamericana¿, tuvo que interrumpirse en el conocido ¿tapón de Darién¿.  Un conjunto de sierras abruptas, donde el bosque primario aún se encuentra en pleno esplendor. Darién es una zona protegida que conserva unos de los mayores índices de biodiversidad de Planeta. En sus costas, resguardadas de la pesca comercial, sus ecosistemas presentan una diversidad riquísima. Un equipo de Caza y Pesca viaja a Darién para pescar practicando el trolling, jigging y el lance y completan la aventura conociendo el modo de vida de las poblaciones indígenas ribereñas de los innumerables ríos de la región.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3510395" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002052000 +0200" stop="20231002055000 +0200" channel="CazayPesca.es">
+    <title lang="es">Bretón, pequeño pero cazador</title>
+    <desc lang="es">Un apasionado cazador y criador de Epagneul Bretón nos muestra en este reportaje las características de esta pequeña raza de muestra durante la pasada media veda. El Bretón es una de las razas más extendidas en Francia y entre las primeras en España. Su pasión por la caza y polivalencia unido a su buen carácter para vivir en familia le hacen ser el preferido por miles de aficionados.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899784" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002055000 +0200" stop="20231002062500 +0200" channel="CazayPesca.es">
+    <title lang="es">Stalking: jabalíes junto al río</title>
+    <desc lang="es">Los jóvenes protagonistas de la serie plantan sus tiendas de campaña junto al río, buscando jabalíes para darles caza tanto con arco como con rifle. Intensas esperas y emocionantes recechos ante uno de los animales más astutos cuando se les caza en terrenos abiertos. Como siempre, la gastronomía a pie de campo, estará presente de la mano del chef cazador.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Caza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3409742" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002062500 +0200" stop="20231002071500 +0200" channel="CazayPesca.es">
+    <title lang="es">Los últimos gigantes</title>
+    <desc lang="es">En medio de los entornos salvajes del planeta, Cyril y su equipo tienen el tiempo justo para atravesar los peligros de los entornos más salvajes y regresar a la civilización. Están en una misión importante: encontrar la última especie de pez gigante en peligro de extinción y tomar muestras preciosas para ayudar a la ciencia.(n)</desc>
+    <credits>
+      <director>Cyril Chauquet</director>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4064644" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002071500 +0200" stop="20231002080500 +0200" channel="CazayPesca.es">
+    <title lang="es">Monster Carp</title>
+    <desc lang="es">Los pescadores Ali, Dovey y Spooner se embarcan en otra aventura de pesca en busca de algunas de las carpas más grandes de la tierra, visitando en esta temporada los escenarios más importantes de Francia.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4029905" />
+    <country lang="es">R.U</country>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002080500 +0200" stop="20231002085500 +0200" channel="CazayPesca.es">
+    <title lang="es">Al acecho 2023</title>
+    <desc lang="es">El embalse de Mequinenza-Fayón acoge el Mundial de Agua Dulce Flotador de este 2023 con el triunfo de un español en lo más alto del podio. Además las cañas de salmónidos mosca más jóvenes se ven la cara en su nacional que se ha celebrado en aguas asturianas. En caza, vuelve la temporada de ferias que inauguramos en Badajoz con FECIEX 2023.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4066381" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S14 E19</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002085500 +0200" stop="20231002093000 +0200" channel="CazayPesca.es">
+    <title lang="es">Sierra de Leyre. El reino del jabalí salvaje</title>
+    <desc lang="es">La sierra de Leyre es una cadena montañosa que se alza sobre el río Aragón. Esta sierra forma un pasillo entre Navarra y Aragón, siendo la caza una actividad secular que con la explosión demográfica del jabalí no ha hecho más que consolidarse entre los aficionados al suído. En este reportaje disfrutaremos de las batidas jabalineras locales en un entorno puro y salvaje desprovisto de mallas cinegéticas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3985515" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002093000 +0200" stop="20231002100000 +0200" channel="CazayPesca.es">
+    <title lang="es">Unica oportunidad</title>
+    <sub-title lang="es">El carnero de Salória</sub-title>
+    <desc lang="es">Cacería de muflón en Os de Civís, el único periclave español.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125691" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002100000 +0200" stop="20231002103000 +0200" channel="CazayPesca.es">
+    <title lang="es">Veda Abierta Pesca</title>
+    <sub-title lang="es">La Jarosa el coto del Guadarrama</sub-title>
+    <desc lang="es">El coto intensivo de La Jarosa a los pies del parque nacional de la Sierra del Guadarrama ha cambiado recientemente su gestión de pesca desde sus inicios en 2010. Durante los meses de frio se comporta como un coto de trucha arcoíris y en los meses estivales cambia la gestión hacia los predadores y los grandes ciprínidos. Charlamos de la gestión del coto con la guradería y pulsamos la opinión de los pescadores de la zona.(n)</desc>
+    <credits>
+      <director>Ignacio Rojo</director>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4066377" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002103000 +0200" stop="20231002110500 +0200" channel="CazayPesca.es">
+    <title lang="es">Stalking: berrea y gastronomía</title>
+    <desc lang="es">Los protagonistas se enfrentan en esta ocasión al reto de cazar ciervos con sus arcos en época de berrea en terreno abierto y a la elaboración como siempre de exquisitos platos con la carne de las piezas abatidas.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Caza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3429018" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002110500 +0200" stop="20231002113500 +0200" channel="CazayPesca.es">
+    <title lang="es">El Sil en Ponferrada</title>
+    <desc lang="es">El Sil es el escenario elegido por nuestros protagonistas para disfrutar de una inolvidable jornada de pesca. Su recorrido vertebra uno de los valles mineros más importantes de la península ibérica y en sus aguas, en estos últimos años se mantiene una excelente población truchera.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125552" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002113500 +0200" stop="20231002120500 +0200" channel="CazayPesca.es">
+    <title lang="es">Truchas de La Vera</title>
+    <desc lang="es">Las gargantas veratas en la provincia extremeña de Cáceres son el lugar donde el campeón del mundo Carlos Delgado ha forjado su experiencia. La cara sur de Gredos condiciona la presencia de truchas bravas pero sobre todo un escenario duro donde la condición física juega un papel muy importante.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125549" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002120500 +0200" stop="20231002123000 +0200" channel="CazayPesca.es">
+    <title lang="es">El rey del río</title>
+    <sub-title lang="es">Rivière Jupiter, Part 2</sub-title>
+    <desc lang="es">Guiado por Philippe Lachapelle, André continúa su viaje por el río Júpiter. Con una población de más de 160.000 ciervos de cola blanca en la isla, no es raro encontrarse con esta bestia que, junto con el salmón del Atlántico, simboliza el patrimonio de vida silvestre de la isla a punto de ser catalogada como Patrimonio de la Humanidad por la UNESCO.(n)</desc>
+    <credits>
+      <director>André Paradis</director>
+      <director>David Pierrat</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4117262" />
+    <country lang="es">Canadá y Francia</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002123000 +0200" stop="20231002130000 +0200" channel="CazayPesca.es">
+    <title lang="es">Veda Abierta Caza</title>
+    <sub-title lang="es">Conejos con podenco andaluz</sub-title>
+    <desc lang="es">La caza de conejos con podencos andaluces es una de las modalidades de menor más practicadas en la mitad sur peninsular.(n)</desc>
+    <credits>
+      <director>Agustín Pérez-Mínguez</director>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4066373" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002130000 +0200" stop="20231002133000 +0200" channel="CazayPesca.es">
+    <title lang="es">Streamerman</title>
+    <sub-title lang="es">Streamerman: De vinilos y truchas</sub-title>
+    <desc lang="es">Nos vamos a pescar truchas con vinilos. Los vinilos son señuelos muy efectivos y divertidos de pescar en busca de nuestras queridas pintonas. En este episodio Rodrigo nos va a a enseñar a manejar vinilos de diferentes pesos, formas y colores en diferentes escenarios: tablas, corrientes, chorros, pozos¿ ¿Sabes cual es la diferencia entre pescar con un vinilo en corrientes o aguas paradas? ¿Sabes cómo personalizar un vinilo para que sea super eficaz? En este episodio vas a aprender todos los secretos de la pesca de truchas con vinilos.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4134497" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002133000 +0200" stop="20231002140000 +0200" channel="CazayPesca.es">
+    <title lang="es">El rey del río</title>
+    <sub-title lang="es">Rivière Matane</sub-title>
+    <desc lang="es">Fue en el río Matane donde comenzó la pasión de André por la pesca del salmón del Atlántico. Tras más de 40 años de pescarlo, comparte sus observaciones sobre los cambios que han modificado uno de los pozos míticos a través del tiempo, el Gaudreau. Luego va a conocer a Raynald Canuel, el creador de una de mis moscas favoritas, el Canue.(n)</desc>
+    <credits>
+      <director>André Paradis</director>
+      <director>David Pierrat</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4117262" />
+    <country lang="es">Canadá y Francia</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002140000 +0200" stop="20231002142500 +0200" channel="CazayPesca.es">
+    <title lang="es">Wild Boar Fever: Maestros de la batida</title>
+    <desc lang="es">Franz Albrecht, junto a su equipo de expertos tiradores, nos vuelve a deleitar con esos tiros limpios y fulminantes a jabalíes en plena carrera. Desde hace años es el conductor de la serie de caza de jabalíes más vista en el mundo: Wild Boar Fever.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4051746" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S12 E1</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002142500 +0200" stop="20231002150000 +0200" channel="CazayPesca.es">
+    <title lang="es">Montería de grandes jabalíes en el Cotano. 2ª parte</title>
+    <desc lang="es">Segunda parte de la gran montería celebrada en El Cotano. Los grandes guarros y espectaculares muflones siguieron acelerando el pulso de los monteros.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4133668" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002150000 +0200" stop="20231002153000 +0200" channel="CazayPesca.es">
+    <title lang="es">A fondo: España en llamas</title>
+    <desc lang="es">A fondo es el nuevo espacio de ánalisis y entrevistas de Caza y Pesca sobre grandes temas de actualidad que lidera nuestra editora, Susana García. En su primera entrega, A Fondo investiga los incendios forestales en España, viajando a los focos del problema y conociendo de primera mano la realidad de las zonas más afectadas por las llamas, como la Sierra de la Culebra, en Zamora. Problemas y soluciones en profundidad sobre una de las grandes catástrofes medioambientales de nuestro tiempo.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4098272" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002153000 +0200" stop="20231002160000 +0200" channel="CazayPesca.es">
+    <title lang="es">Berrea en los cielos del Principado</title>
+    <desc lang="es">Intentar cazar un ciervo en Berrea en Asturias, es una de las experiencias cinegéticas más gratificantes de cuantas se pueden realizar en toda la península Ibérica; los paisajes inabarcables, las grandes montañas, y la gran dificultad no impide que el asturiano Anselmo, persevere como ejemplo de gran cazador.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125695" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002160000 +0200" stop="20231002162500 +0200" channel="CazayPesca.es">
+    <title lang="es">Pasión italiana por la caza</title>
+    <sub-title lang="es">Del bosque a la cocina 2</sub-title>
+    <desc lang="es">En esta segunda parte, nuestro protagonista sigue cazando corzos para finalizar en dos de sus negocios con dos platos donde la carne de corzo es el principal ingrediente.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Caza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3999096" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002162500 +0200" stop="20231002173500 +0200" channel="CazayPesca.es">
+    <title lang="es">Monster Carp</title>
+    <desc lang="es">Los pescadores Ali, Dovey y Spooner se embarcan en otra aventura de pesca en busca de algunas de las carpas más grandes de la tierra, visitando en esta temporada los escenarios más importantes de Francia.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4029905" />
+    <country lang="es">R.U</country>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002173500 +0200" stop="20231002180000 +0200" channel="CazayPesca.es">
+    <title lang="es">Guro y Mina</title>
+    <desc lang="es">Guro y Mina se dirigen a la costa en busca de focas y cangrejos reales.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Aventura</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4113016" />
+    <country lang="es">Noruega</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002180000 +0200" stop="20231002183500 +0200" channel="CazayPesca.es">
+    <title lang="es">Monteando en El Revuelo. 2ª parte</title>
+    <desc lang="es">Espectacular montería celebrada en la sierra norte de Sevilla donde venados y, sobre todo, jabalíes depararon emocionantes lances. Fueron los grandes jabalíes los que aceleraron las pulsaciones de los monteros gracias al impresionante trabajo de las rehalas que no pararon de levantar reses hasta el toque final de las caracolas. El tablón final con unas bocas impresionantes en las primeras filas puso colofón a una montería de las que hacen afición.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3900010" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002183500 +0200" stop="20231002191500 +0200" channel="CazayPesca.es">
+    <title lang="es">Surfcasting en La Línea</title>
+    <desc lang="es">Paco y Ricardo se encuentran en la playa de la Torre Nueva de La Línea de la Concepción para pasar el día pescando. Un día prometedor ya que las condiciones del mar son perfectas para la pesca del Sargo y de la Herrera. Aprenderemos de los pescadores locales como pescar con temporal de levante y que equipos son los más adecuados para la pesca en estas condiciones. A pesar de algunas picadas perdidas y desafíos en el agua, finalmente lograrán capturar Sargos y Herreras de buen tamaño.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125631" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002191500 +0200" stop="20231002194500 +0200" channel="CazayPesca.es">
+    <title lang="es">Torcaces a la espera</title>
+    <desc lang="es">Unos buenos aficionados murcianos, nos muestran cómo gracias  a una correcta gestión de las palomas torcaces, disfrutan de excelentes tiradas que nada tienen que envidiar a las comarcas palomeras por excelencia del centro peninsular.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3923081" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002194500 +0200" stop="20231002201500 +0200" channel="CazayPesca.es">
+    <title lang="es">Recechando en los Cárpatos rumanos</title>
+    <desc lang="es">Los montes Cárpatos son la segunda cordillera más larga de Europa tras los alpes escandinavos. En la parte Rumana, quizas se encuentran los mejores rebecos de Europa. En este reportaje seremos testigos de apasionantes recechos con una de las especies mejor adaptadas a la alta montaña.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4005602" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002201500 +0200" stop="20231002204500 +0200" channel="CazayPesca.es">
+    <title lang="es">Pasión italiana por la caza</title>
+    <sub-title lang="es">Del bosque a la cocina 1</sub-title>
+    <desc lang="es">El corzo es una especie de caza mayor que en densidades elevadas puede afectar a diferentes cultivos, siendo los viñedos uno de sus lugares favoritos. Nuestro anfitrión, profesional de la hosteleria, visita las tierras de unos amigos para intentar paliar los daños que el pequeño cérvido causa en sus viñedos.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Caza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3999096" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002204500 +0200" stop="20231002212000 +0200" channel="CazayPesca.es">
+    <title lang="es">A Pulmón</title>
+    <sub-title lang="es">Costas cántabras con Ángel Cruz</sub-title>
+    <desc lang="es">Visitamos Cantabria con Ángel Cruz, un campeón de España de pesca submarina. Con nuestro protagonista descubriremos cómo es la pesca submarina en la zona en dos jornadas de verano. Además, conoceremos la temporada del percebe. Pura pasión por el Cantábrico.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3893699" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002212000 +0200" stop="20231002215500 +0200" channel="CazayPesca.es">
+    <title lang="es">Los sarrios de Plan</title>
+    <desc lang="es">Ubicado en la comarca de Sobrarbe en pleno Pirineo Aragonés el término de Plan alberga una buena población de Sarrios, especie que intentará cazar un grupo de jovenes recechistas.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4125951" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20231002215500 +0200" stop="20231002223000 +0200" channel="CazayPesca.es">
+    <title lang="es">Calibre pequeño con Certeros Ballesteros</title>
+    <desc lang="es">El uso de pequeños calibres es una práctica cada vez más habitual entre los aficionados a la caza menor.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3851966" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20231002223000 +0200" stop="20231002230000 +0200" channel="CazayPesca.es">
+    <title lang="es">Streamerman</title>
+    <sub-title lang="es">Streamerman: De vinilos y truchas</sub-title>
+    <desc lang="es">Nos vamos a pescar truchas con vinilos. Los vinilos son señuelos muy efectivos y divertidos de pescar en busca de nuestras queridas pintonas. En este episodio Rodrigo nos va a a enseñar a manejar vinilos de diferentes pesos, formas y colores en diferentes escenarios: tablas, corrientes, chorros, pozos¿ ¿Sabes cual es la diferencia entre pescar con un vinilo en corrientes o aguas paradas? ¿Sabes cómo personalizar un vinilo para que sea super eficaz? En este episodio vas a aprender todos los secretos de la pesca de truchas con vinilos.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Caza, Pesca y Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4134497" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20231001025000 -0500" stop="20231001043500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+  <programme start="20231001043500 -0500" stop="20231001065000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20231001065000 -0500" stop="20231001083500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Beltran vs. Mendoza
+Repetición</title>
+  </programme>
+  <programme start="20231001083500 -0500" stop="20231001114000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20231001114000 -0500" stop="20231001132500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+  <programme start="20231001132500 -0500" stop="20231001154000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20231001154000 -0500" stop="20231001173000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20231001173000 -0500" stop="20231001203500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20231001203500 -0500" stop="20231001224500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Costa vs. Solorzano</title>
+  </programme>
+  <programme start="20231001224500 -0500" stop="20231002010000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20231002010000 -0500" stop="20231002025000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20231002025000 -0500" stop="20231002034500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+  <programme start="20231002034500 -0500" stop="20231002064000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20231002064000 -0500" stop="20231002073000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20231002073000 -0500" stop="20231002092000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20231002092000 -0500" stop="20231002101500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">De la Torre vs. Cossio
+Repetición</title>
+  </programme>
+  <programme start="20231002101500 -0500" stop="20231002110500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20231002110500 -0500" stop="20231002120000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+  <programme start="20231002120000 -0500" stop="20231002125500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">De la Torre vs. Cossio
+Repetición</title>
+  </programme>
+  <programme start="20231002125500 -0500" stop="20231002144500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20231002144500 -0500" stop="20231002153500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20231002153500 -0500" stop="20231002163000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+  <programme start="20231002163000 -0500" stop="20231002172500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Cisco vs. Mandarina</title>
+  </programme>
+  <programme start="20231002172500 -0500" stop="20231002202000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20231002202000 -0500" stop="20231002211500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+  <programme start="20231002211500 -0500" stop="20231002230500 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20231002230500 -0500" stop="20231003001000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Drako vs. Hooligan 2
+Repetición</title>
+  </programme>
+  <programme start="20231003001000 -0500" stop="20231003010000 -0500" channel="AdrenalinaSportsNetwork.us">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20231001213000 +0200" stop="20231001231500 +0200" channel="RMC Sport 1">
+    <title lang="fr">Brighton &amp; Hove Albion / AEK Athènes</title>
+    <desc lang="fr">A suivre les plus belles affiches de la prestigieuse Ligue Europa, compétition européenne de football organisée par l'UEFA. Cette compétition, qui a changé plusieurs fois de format, a été fondée en 1971. Chaque année 32 équipes se battent pour le trophée et une qualification directe pour la prochaine Ligue des Champions. Le vainqueur participe également à la Supercoupe de l'UEFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231001231500 +0200" stop="20231002010000 +0200" channel="RMC Sport 1">
+    <title lang="fr">West Ham / Topola</title>
+    <desc lang="fr">A suivre les plus belles affiches de la prestigieuse Ligue Europa, compétition européenne de football organisée par l'UEFA. Cette compétition, qui a changé plusieurs fois de format, a été fondée en 1971. Chaque année 32 équipes se battent pour le trophée et une qualification directe pour la prochaine Ligue des Champions. Le vainqueur participe également à la Supercoupe de l'UEFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002010000 +0200" stop="20231002024500 +0200" channel="RMC Sport 1">
+    <title lang="fr">Olympiakos / Fribourg</title>
+    <desc lang="fr">A suivre les plus belles affiches de la prestigieuse Ligue Europa, compétition européenne de football organisée par l'UEFA. Cette compétition, qui a changé plusieurs fois de format, a été fondée en 1971. Chaque année 32 équipes se battent pour le trophée et une qualification directe pour la prochaine Ligue des Champions. Le vainqueur participe également à la Supercoupe de l'UEFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002024500 +0200" stop="20231002030000 +0200" channel="RMC Sport 1">
+    <title lang="fr">Pépite RMC Sport</title>
+    <desc lang="fr">Ce magazine revient sur les plus beaux et forts moments de l'actualité sportive.(n)</desc>
+    <category lang="fr">Multisports</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002030000 +0200" stop="20231002033000 +0200" channel="RMC Sport 1">
+    <title lang="fr">Pépite RMC Sport</title>
+    <desc lang="fr">Ce magazine revient sur les plus beaux et forts moments de l'actualité sportive.(n)</desc>
+    <category lang="fr">Multisports</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002033000 +0200" stop="20231002051500 +0200" channel="RMC Sport 1">
+    <title lang="fr">Panathinaïkos / Villarreal</title>
+    <desc lang="fr">A suivre les plus belles affiches de la prestigieuse Ligue Europa, compétition européenne de football organisée par l'UEFA. Cette compétition, qui a changé plusieurs fois de format, a été fondée en 1971. Chaque année 32 équipes se battent pour le trophée et une qualification directe pour la prochaine Ligue des Champions. Le vainqueur participe également à la Supercoupe de l'UEFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002051500 +0200" stop="20231002070000 +0200" channel="RMC Sport 1">
+    <title lang="fr">West Ham / Topola</title>
+    <desc lang="fr">A suivre les plus belles affiches de la prestigieuse Ligue Europa, compétition européenne de football organisée par l'UEFA. Cette compétition, qui a changé plusieurs fois de format, a été fondée en 1971. Chaque année 32 équipes se battent pour le trophée et une qualification directe pour la prochaine Ligue des Champions. Le vainqueur participe également à la Supercoupe de l'UEFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002070000 +0200" stop="20231002071500 +0200" channel="RMC Sport 1">
+    <title lang="fr">Pépite RMC Sport</title>
+    <desc lang="fr">Ce magazine revient sur les plus beaux et forts moments de l'actualité sportive.(n)</desc>
+    <category lang="fr">Multisports</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002071500 +0200" stop="20231002090000 +0200" channel="RMC Sport 1">
+    <title lang="fr">Tiraspol / AS Roma</title>
+    <desc lang="fr">A suivre les plus belles affiches de la prestigieuse Ligue Europa, compétition européenne de football organisée par l'UEFA. Cette compétition, qui a changé plusieurs fois de format, a été fondée en 1971. Chaque année 32 équipes se battent pour le trophée et une qualification directe pour la prochaine Ligue des Champions. Le vainqueur participe également à la Supercoupe de l'UEFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002090000 +0200" stop="20231002104500 +0200" channel="RMC Sport 1">
+    <title lang="fr">KRC Genk / Fiorentina</title>
+    <desc lang="fr">Au programme, les plus belles affiches de la Ligue Europa Conférence, compétition européenne de football organisée par l'UEFA. Inaugurée lors de la saison 2021/2022, cette épreuve débute par une phase de qualifications à l'issue de laquelle les 32 heureux élus sont placés dans huit groupes de quatre équipes. Viennent ensuite les imprévisibles et brûlants affrontements à élimination directe. En ligne de mire de ces clubs issus de tout le Vieux continent : un prestigieux trophée et la place en Ligue Europa promise au vainqueur.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002104500 +0200" stop="20231002110000 +0200" channel="RMC Sport 1">
+    <title lang="fr">Pépite RMC Sport</title>
+    <desc lang="fr">Ce magazine revient sur les plus beaux et forts moments de l'actualité sportive.(n)</desc>
+    <category lang="fr">Multisports</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002110000 +0200" stop="20231002124500 +0200" channel="RMC Sport 1">
+    <title lang="fr">PSG / Borussia Dortmund</title>
+    <desc lang="fr">A découvrir les plus belles affiches de la prestigieuse Ligue des Champions, compétition européenne de football organisée par l'UEFA. C'est la compétition de clubs la plus célèbre dans le monde, fondée en 1955. Chaque année 32 équipes se battent pour devenir la meilleure équipe en Europe. Le vainqueur est directement qualifié pour l'édition suivante. Il participe également à la Supercoupe de l'UEFA ainsi qu'à la Coupe du monde des clubs de la FIFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002124500 +0200" stop="20231002143000 +0200" channel="RMC Sport 1">
+    <title lang="fr">LASK Linz / Liverpool</title>
+    <desc lang="fr">A suivre les plus belles affiches de la prestigieuse Ligue Europa, compétition européenne de football organisée par l'UEFA. Cette compétition, qui a changé plusieurs fois de format, a été fondée en 1971. Chaque année 32 équipes se battent pour le trophée et une qualification directe pour la prochaine Ligue des Champions. Le vainqueur participe également à la Supercoupe de l'UEFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002143000 +0200" stop="20231002144500 +0200" channel="RMC Sport 1">
+    <title lang="fr">Pépite RMC Sport</title>
+    <desc lang="fr">Ce magazine revient sur les plus beaux et forts moments de l'actualité sportive.(n)</desc>
+    <category lang="fr">Multisports</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002144500 +0200" stop="20231002163000 +0200" channel="RMC Sport 1">
+    <title lang="fr">Ajax Amsterdam / Marseille</title>
+    <desc lang="fr">A suivre les plus belles affiches de la prestigieuse Ligue Europa, compétition européenne de football organisée par l'UEFA. Cette compétition, qui a changé plusieurs fois de format, a été fondée en 1971. Chaque année 32 équipes se battent pour le trophée et une qualification directe pour la prochaine Ligue des Champions. Le vainqueur participe également à la Supercoupe de l'UEFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002163000 +0200" stop="20231002173000 +0200" channel="RMC Sport 1">
+    <title lang="fr">Europa Mag</title>
+    <desc lang="fr">Toute l'actualité du monde du football européen, les informations les plus importantes sur les matchs et les joueurs, ainsi que les moments forts qui ont marqué la période précédente.(n)</desc>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20231002173000 +0200" stop="20231002180000 +0200" channel="RMC Sport 1">
+    <title lang="fr">Champions Weekly</title>
+    <desc lang="fr">Les présentations et résumés des matches, toutes les analyses, les statistiques, les images insolites de la Ligue des champions UEFA de football sont à découvrir dans Champions Weekly, le magazine qui fait le tour de l'actualité de la plus prestigieuse des compétitions de clubs en Europe.(n)</desc>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20231002180000 +0200" stop="20231002194500 +0200" channel="RMC Sport 1">
+    <title lang="fr">FC Séville / Lens</title>
+    <desc lang="fr">A découvrir les plus belles affiches de la prestigieuse Ligue des Champions, compétition européenne de football organisée par l'UEFA. C'est la compétition de clubs la plus célèbre dans le monde, fondée en 1955. Chaque année 32 équipes se battent pour devenir la meilleure équipe en Europe. Le vainqueur est directement qualifié pour l'édition suivante. Il participe également à la Supercoupe de l'UEFA ainsi qu'à la Coupe du monde des clubs de la FIFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20231002194500 +0200" stop="20231002201500 +0200" channel="RMC Sport 1">
+    <title lang="fr">Champions Weekly</title>
+    <desc lang="fr">Les présentations et résumés des matches, toutes les analyses, les statistiques, les images insolites de la Ligue des champions UEFA de football sont à découvrir dans Champions Weekly, le magazine qui fait le tour de l'actualité de la plus prestigieuse des compétitions de clubs en Europe.(n)</desc>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20231002201500 +0200" stop="20231002220000 +0200" channel="RMC Sport 1">
+    <title lang="fr">PSG / Borussia Dortmund</title>
+    <desc lang="fr">A découvrir les plus belles affiches de la prestigieuse Ligue des Champions, compétition européenne de football organisée par l'UEFA. C'est la compétition de clubs la plus célèbre dans le monde, fondée en 1955. Chaque année 32 équipes se battent pour devenir la meilleure équipe en Europe. Le vainqueur est directement qualifié pour l'édition suivante. Il participe également à la Supercoupe de l'UEFA ainsi qu'à la Coupe du monde des clubs de la FIFA.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
   </programme>
 </tv>
