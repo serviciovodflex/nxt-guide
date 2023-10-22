@@ -2303,7 +2303,7 @@
     <title lang="es">Tiempo extra con los protagonistas</title>
   </programme>
   <programme start="20231022190000 -0500" stop="20231022200000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Hechos Fin de Semana</title>
+    <title lang="es">Hechos - Fin de semana</title>
   </programme>
   <programme start="20231022200000 -0500" stop="20231022213000 -0500" channel="AztecaGuatemala.gt">
     <title lang="es">La isla</title>
@@ -3616,14 +3616,13 @@
     <title lang="es">A otro nivel</title>
     <sub-title lang="es">Emisión del día viernes</sub-title>
   </programme>
-  <programme start="20231021134500 -0500" stop="20231021141500 -0500" channel="TigoSports.gt">
-    <title lang="es">90 en 30</title>
-    <sub-title lang="es">Partido LL</sub-title>
-  </programme>
-  <programme start="20231021141500 -0500" stop="20231021151500 -0500" channel="TigoSports.gt">
+  <programme start="20231021134500 -0500" stop="20231021144500 -0500" channel="TigoSports.gt">
     <title lang="es">Nación CA</title>
   </programme>
-  <programme start="20231021151500 -0500" stop="20231021160000 -0500" channel="TigoSports.gt">
+  <programme start="20231021144500 -0500" stop="20231021150000 -0500" channel="TigoSports.gt">
+    <title lang="es">Cápsula deportiva</title>
+  </programme>
+  <programme start="20231021150000 -0500" stop="20231021160000 -0500" channel="TigoSports.gt">
     <title lang="es">Cobán Imperial vs. Municipal</title>
     <sub-title lang="es">Previa - Liga Nacional de Fútbol</sub-title>
   </programme>
@@ -3636,38 +3635,39 @@
     <sub-title lang="es">Post - Liga Nacional de Fútbol</sub-title>
   </programme>
   <programme start="20231021181500 -0500" stop="20231021184500 -0500" channel="TigoSports.gt">
-    <title lang="es">90 en 30</title>
-    <sub-title lang="es">Partido LL</sub-title>
+    <title lang="es">Pasión por GT</title>
   </programme>
   <programme start="20231021184500 -0500" stop="20231021194500 -0500" channel="TigoSports.gt">
     <title lang="es">Nación CA</title>
   </programme>
   <programme start="20231021194500 -0500" stop="20231021201500 -0500" channel="TigoSports.gt">
-    <title lang="es">90 en 30</title>
-    <sub-title lang="es">Partido LL</sub-title>
+    <title lang="es">90 en 10</title>
   </programme>
-  <programme start="20231021201500 -0500" stop="20231021210000 -0500" channel="TigoSports.gt">
-    <title lang="es">Xelajú vs. Zacapa</title>
+  <programme start="20231021201500 -0500" stop="20231021204500 -0500" channel="TigoSports.gt">
+    <title lang="es">Motorsport</title>
+  </programme>
+  <programme start="20231021204500 -0500" stop="20231021210000 -0500" channel="TigoSports.gt">
+    <title lang="es">Cobán Imperial vs. Municipal</title>
     <sub-title lang="es">Previa - Liga Nacional de Fútbol</sub-title>
   </programme>
-  <programme start="20231021210000 -0500" stop="20231021230000 -0500" channel="TigoSports.gt">
-    <title lang="es">Xelajú vs. Zacapa</title>
+  <programme start="20231021210000 -0500" stop="20231021224500 -0500" channel="TigoSports.gt">
+    <title lang="es">Cobán Imperial vs. Municipal</title>
     <sub-title lang="es">Liga Nacional de Fútbol</sub-title>
   </programme>
-  <programme start="20231021230000 -0500" stop="20231021231500 -0500" channel="TigoSports.gt">
-    <title lang="es">Xelajú vs. Zacapa</title>
+  <programme start="20231021224500 -0500" stop="20231021230000 -0500" channel="TigoSports.gt">
+    <title lang="es">Cobán Imperial vs. Municipal</title>
     <sub-title lang="es">Post - Liga Nacional de Fútbol</sub-title>
   </programme>
-  <programme start="20231021231500 -0500" stop="20231022001500 -0500" channel="TigoSports.gt">
+  <programme start="20231021230000 -0500" stop="20231022000000 -0500" channel="TigoSports.gt">
     <title lang="es">A otro nivel</title>
     <sub-title lang="es">Emisión del día sábado</sub-title>
   </programme>
-  <programme start="20231022001500 -0500" stop="20231022004500 -0500" channel="TigoSports.gt">
-    <title lang="es">90 en 30</title>
-    <sub-title lang="es">Partido LL</sub-title>
+  <programme start="20231022000000 -0500" stop="20231022003000 -0500" channel="TigoSports.gt">
+    <title lang="es">LaLiga 360</title>
+    <sub-title lang="es">Emisión del día sábado</sub-title>
   </programme>
-  <programme start="20231022004500 -0500" stop="20231022010000 -0500" channel="TigoSports.gt">
-    <title lang="es">Cápsula deportiva</title>
+  <programme start="20231022003000 -0500" stop="20231022010000 -0500" channel="TigoSports.gt">
+    <title lang="es">90 en 10</title>
   </programme>
   <programme start="20231022010000 -0500" stop="20231022070000 -0500" channel="TigoSports.gt">
     <title lang="es">Programación variada</title>
@@ -3688,39 +3688,39 @@
   <programme start="20231022100000 -0500" stop="20231022103000 -0500" channel="TigoSports.gt">
     <title lang="es">100% Fitness</title>
   </programme>
-  <programme start="20231022103000 -0500" stop="20231022113000 -0500" channel="TigoSports.gt">
-    <title lang="es">Nación CA</title>
+  <programme start="20231022103000 -0500" stop="20231022104500 -0500" channel="TigoSports.gt">
+    <title lang="es">Cápsula deportiva</title>
   </programme>
-  <programme start="20231022113000 -0500" stop="20231022120000 -0500" channel="TigoSports.gt">
-    <title lang="es">Suchitepéquez vs. Sololá</title>
+  <programme start="20231022104500 -0500" stop="20231022111500 -0500" channel="TigoSports.gt">
+    <title lang="es">90 en 10</title>
+  </programme>
+  <programme start="20231022111500 -0500" stop="20231022120000 -0500" channel="TigoSports.gt">
+    <title lang="es">Aurora vs. Mictlán</title>
     <sub-title lang="es">Previa - Primera División de Guatemala</sub-title>
   </programme>
   <programme start="20231022120000 -0500" stop="20231022140000 -0500" channel="TigoSports.gt">
-    <title lang="es">Suchitepéquez vs. Sololá</title>
+    <title lang="es">Aurora vs. Mictlán</title>
     <sub-title lang="es">Primera división de Guatemala</sub-title>
   </programme>
   <programme start="20231022140000 -0500" stop="20231022141500 -0500" channel="TigoSports.gt">
-    <title lang="es">Suchitepéquez vs. Sololá</title>
+    <title lang="es">Aurora vs. Mictlán</title>
     <sub-title lang="es">Post - Primera División de Guatemala</sub-title>
   </programme>
   <programme start="20231022141500 -0500" stop="20231022151500 -0500" channel="TigoSports.gt">
     <title lang="es">A otro nivel</title>
     <sub-title lang="es">Emisión del día sábado</sub-title>
   </programme>
-  <programme start="20231022151500 -0500" stop="20231022153000 -0500" channel="TigoSports.gt">
-    <title lang="es">Cápsula deportiva</title>
-  </programme>
-  <programme start="20231022153000 -0500" stop="20231022160000 -0500" channel="TigoSports.gt">
-    <title lang="es">Sacachispas vs. Fraijanes</title>
+  <programme start="20231022151500 -0500" stop="20231022160000 -0500" channel="TigoSports.gt">
+    <title lang="es">Juv Pinulteca vs. Sacachispas</title>
     <sub-title lang="es">Previa - Primera División de Guatemala</sub-title>
   </programme>
   <programme start="20231022160000 -0500" stop="20231022180000 -0500" channel="TigoSports.gt">
-    <title lang="es">Sacachispas vs. Fraijanes</title>
+    <title lang="es">Juv Pinulteca vs. Sacachispas</title>
     <sub-title lang="es">Primera división de Guatemala</sub-title>
   </programme>
   <programme start="20231022180000 -0500" stop="20231022200000 -0500" channel="TigoSports.gt">
-    <title lang="es">Xinabajul vs. Achuapa</title>
-    <sub-title lang="es">Liga Nacional de Fútbol</sub-title>
+    <title lang="es">North Carolina Courage vs. Gotham FC</title>
+    <sub-title lang="es">National Women's Soccer League</sub-title>
   </programme>
   <programme start="20231022200000 -0500" stop="20231022211500 -0500" channel="TigoSports.gt">
     <title lang="es">En la Jugada</title>
@@ -4407,7 +4407,7 @@
     <title lang="es">The Naked gun 33 1/3</title>
   </programme>
   <programme start="20231022180000 -0500" stop="20231022190000 -0500" channel="Canal6.cr">
-    <title lang="es">Hudson y Rex</title>
+    <title lang="es">Hudson &amp; Rex</title>
   </programme>
   <programme start="20231022190000 -0500" stop="20231022200000 -0500" channel="Canal6.cr">
     <title lang="es">Deportes Repretel</title>
@@ -6089,7 +6089,7 @@
     <title lang="es">Super Girls</title>
   </programme>
   <programme start="20231021150000 -0500" stop="20231021160000 -0500" channel="Canal7.rd">
-    <title lang="es">Hudson y Rex</title>
+    <title lang="es">Hudson &amp; Rex</title>
   </programme>
   <programme start="20231021160000 -0500" stop="20231021170000 -0500" channel="Canal7.rd">
     <title lang="es">WWE Raw</title>
@@ -6363,7 +6363,7 @@
     <title lang="es">Enfasis</title>
   </programme>
   <programme start="20231021180000 -0500" stop="20231021190000 -0500" channel="Canal9.rd">
-    <title lang="es">Noticias SIN: Fin de semana</title>
+    <title lang="es">Noticias SIN fin de semana</title>
   </programme>
   <programme start="20231021190000 -0500" stop="20231021200000 -0500" channel="Canal9.rd">
     <title lang="es">Chicago Fire</title>
@@ -6454,7 +6454,7 @@
     <title lang="es">Casados en caos</title>
   </programme>
   <programme start="20231022180000 -0500" stop="20231022190000 -0500" channel="Canal9.rd">
-    <title lang="es">Noticias SIN: Fin de semana</title>
+    <title lang="es">Noticias SIN fin de semana</title>
   </programme>
   <programme start="20231022190000 -0500" stop="20231022200000 -0500" channel="Canal9.rd">
     <title lang="es">El show de Raymond y Miguel</title>
@@ -6544,7 +6544,7 @@
     <title lang="es">Hay corazón</title>
   </programme>
   <programme start="20231021210000 -0500" stop="20231021213000 -0500" channel="Canal11.rd">
-    <title lang="es">Telenoticias fin de semana</title>
+    <title lang="es">Telenoticias - Fin de semana</title>
   </programme>
   <programme start="20231021213000 -0500" stop="20231021223000 -0500" channel="Canal11.rd">
     <title lang="es">Mujeres al borde</title>
@@ -6616,7 +6616,7 @@
     <title lang="es">Cine espectacular</title>
   </programme>
   <programme start="20231022210000 -0500" stop="20231022213000 -0500" channel="Canal11.rd">
-    <title lang="es">Telenoticias fin de semana</title>
+    <title lang="es">Telenoticias - Fin de semana</title>
   </programme>
   <programme start="20231022213000 -0500" stop="20231022223000 -0500" channel="Canal11.rd">
     <title lang="es">Para contarlo</title>
