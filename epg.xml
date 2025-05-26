@@ -2208,66 +2208,6 @@
     <display-name lang="es">TVEPACO</display-name>
     <url>http://www.inter.com.ve</url>
   </channel>
-  <programme start="20250525013000 -0500" stop="20250525030000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Cine clásico mexicano</title>
-  </programme>
-  <programme start="20250525030000 -0500" stop="20250525043000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Cine clásico mexicano</title>
-  </programme>
-  <programme start="20250525043000 -0500" stop="20250525055500 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Cine clásico mexicano</title>
-  </programme>
-  <programme start="20250525055500 -0500" stop="20250525060000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Himno Nacional</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525070000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Santa Misa</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Pocoyó</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525093000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Casa de dios</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525100000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Friendzoo</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525130000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Que chilero</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525150000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525160000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Acércate a Rocío</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Hechos - Fin de semana</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250526000000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Master Chef México Celebrity</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526003000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Casa de dios</title>
-  </programme>
-  <programme start="20250526003000 -0500" stop="20250526013000 -0500" channel="AztecaGuatemala.gt">
-    <title lang="es">Al extremo</title>
-  </programme>
   <programme start="20250526013000 -0500" stop="20250526030000 -0500" channel="AztecaGuatemala.gt">
     <title lang="es">Cine clásico mexicano</title>
   </programme>
@@ -2321,170 +2261,6 @@
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="AztecaGuatemala.gt">
     <title lang="es">Doctora Lucía</title>
   </programme>
-  <programme start="20250525070000 -0500" stop="20250525091000 -0500" channel="Canal3.gt">
-    <title lang="es">La guerra de los sexos</title>
-  </programme>
-  <programme start="20250525091000 -0500" stop="20250525114000 -0500" channel="Canal3.gt">
-    <title lang="es">Piratas del Caribe: El Cofre de la Muerte</title>
-    <desc lang="es">El encantador pirata Capitán Jack Sparrow (Johnny Depp) regresa para disfrutar de una gran aventura, de capa y espada, llena de humor diabólico de piratas, criaturas marinas monstruosas y una impresionante magia negra. Ahora Jack tiene una deuda de sangre que pagar – le debe su alma al legendario Davy Jones (Bill Nighy), el fantasma soberano del océano profundo… pero el siempre el astuto Jack no va caer sin luchar. En el Camino, el apuesto Will Turner (Orlando Bloom) y la bella Elizabeth Swann (Keira Knightley) quedan atrapados en el emocionante torbellino de desventuras provocadas en la búsqueda de Jack para evitar la condenación eterna apoderándose del legendario Cofre del hombre Muerto.(n)</desc>
-    <credits>
-      <director>Gore Verbinski</director>
-      <actor>Johnny Depp</actor>
-      <actor>Orlando Bloom</actor>
-      <actor>Keira Knightley</actor>
-      <actor>Bill Nighy</actor>
-      <actor>Jack Davenport</actor>
-      <actor>Stellan Skarsgard</actor>
-      <actor>Kevin McNally</actor>
-      <actor>Jonathan Pryce</actor>
-      <producer>Jerry Bruckheimer</producer>
-      <composer>Hans Zimmer</composer>
-    </credits>
-    <date>2006</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/piratas_del_caribe_el_cofre_de_la_muerte.jpg" />
-    <rating system="MX">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525114000 -0500" stop="20250525132000 -0500" channel="Canal3.gt">
-    <title lang="es">Alex y Yo</title>
-  </programme>
-  <programme start="20250525132000 -0500" stop="20250525155000 -0500" channel="Canal3.gt">
-    <title lang="es">Piratas del Caribe: El Cofre de la Muerte</title>
-    <desc lang="es">El encantador pirata Capitán Jack Sparrow (Johnny Depp) regresa para disfrutar de una gran aventura, de capa y espada, llena de humor diabólico de piratas, criaturas marinas monstruosas y una impresionante magia negra. Ahora Jack tiene una deuda de sangre que pagar – le debe su alma al legendario Davy Jones (Bill Nighy), el fantasma soberano del océano profundo… pero el siempre el astuto Jack no va caer sin luchar. En el Camino, el apuesto Will Turner (Orlando Bloom) y la bella Elizabeth Swann (Keira Knightley) quedan atrapados en el emocionante torbellino de desventuras provocadas en la búsqueda de Jack para evitar la condenación eterna apoderándose del legendario Cofre del hombre Muerto.(n)</desc>
-    <credits>
-      <director>Gore Verbinski</director>
-      <actor>Johnny Depp</actor>
-      <actor>Orlando Bloom</actor>
-      <actor>Keira Knightley</actor>
-      <actor>Bill Nighy</actor>
-      <actor>Jack Davenport</actor>
-      <actor>Stellan Skarsgard</actor>
-      <actor>Kevin McNally</actor>
-      <actor>Jonathan Pryce</actor>
-      <producer>Jerry Bruckheimer</producer>
-      <composer>Hans Zimmer</composer>
-    </credits>
-    <date>2006</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/piratas_del_caribe_el_cofre_de_la_muerte.jpg" />
-    <rating system="MX">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525155000 -0500" stop="20250525173000 -0500" channel="Canal3.gt">
-    <title lang="es">Alex y Yo</title>
-  </programme>
-  <programme start="20250525173000 -0500" stop="20250525200000 -0500" channel="Canal3.gt">
-    <title lang="es">Cruella</title>
-    <desc lang="es">Ambientada en la década de 1970 en Londres en medio de la revolución del punk rock, sigue a una joven estafadora llamada Estella (Emma Stone), una chica inteligente y creativa decidida a hacerse de renombre con sus diseños. Se hace amiga de un par de jóvenes ladrones que aprecian su apetito por las travesuras, y juntos pueden construir una vida para ellos mismos en las calles de Londres. Un día, el talento de Estella por la moda llama la atención de la baronesa von Hellman (Emma Thompson), una leyenda de la moda que es devastadoramente elegante y aterradoramente alta. Pero su relación pone en marcha un curso de acontecimientos y revelaciones que harán que Estella abrace su lado perverso y se convierta en la Cruella estridente, de moda y vengativa.(n)</desc>
-    <credits>
-      <director>Craig Gillespie</director>
-      <actor>Emma Stone</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Joel Fry</actor>
-      <actor>Paul Walter Hauser</actor>
-      <actor>Emily Beecham</actor>
-      <actor>Kirby Howell-Baptiste</actor>
-      <actor>Mark Strong</actor>
-      <actor>Tipper Seifert-Cleveland</actor>
-      <producer>Andrew Gunn</producer>
-      <producer>Marc Platt</producer>
-      <composer>Nicholas Britell</composer>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cruella.jpg" />
-    <rating system="MX">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal3.gt">
-    <title lang="es">Telediario</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal3.gt">
-    <title lang="es">Expedientes</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal3.gt">
-    <title lang="es">Vikings</title>
-    <desc lang="es">Los guerreros más feroces de todos los tiempos. Saqueadores y comerciantes, pero también exploradores y visionarios adelantados a su época. Un punto de vista de la sociedad vikinga.(n)</desc>
-    <credits>
-      <actor>Travis Fimmel</actor>
-      <actor>Katheryn Winnick</actor>
-      <actor>Clive Standen</actor>
-      <actor>Jessalyn Gilsig</actor>
-      <actor>Gustaf Skarsgård</actor>
-      <actor>George Blagden</actor>
-      <actor>Gabriel Byrne</actor>
-      <actor>Alyssa Sutherland</actor>
-      <writer>Michael Hirst</writer>
-      <producer>Steve Wakefield</producer>
-      <producer>Keith Thompson</producer>
-      <composer>Trevor Morris</composer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Historia</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/vikingos.jpg" />
-    <country lang="es">Canadá</country>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal3.gt">
-    <title lang="es">Aguila roja</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="Canal3.gt">
-    <title lang="es">Criminal Minds</title>
-    <desc lang="es">Mentes Criminales gira en torno a un equipo de élite de perfiladores del FBI que analizan las mentes criminales más retorcidas del país, anticipando sus próximos movimientos antes de que vuelvan a atacar. El agente más experimentado de la Unidad de Análisis de Comportamiento es David Rossi (Joe Mantegna), miembro fundador de BAU, que es esencial para ayudar al equipo a resolver nuevos casos.Otros miembros incluyen a la agente especial Emily Prentiss (Paget Brewster), la hija de diplomáticos de alto poder que regresa al equipo después de ser la perfiladora principal de Interpol; El agente especial el Dr. Spencer Reid (Matthew Gray Gubler), un genio clásico incomprendido cuyo Coeficiente Intelectual social es tan bajo como su Coeficiente Intelectual es alto; Jennifer "J.J." Jareau (A. J. Cook), la antigua enlace de la unidad del equipo se convirtió en el perfiladora, que combina la maternidad y el matrimonio con la misma habilidad con la que ella utiliza para resolver los casos; Penélope García (Kirsten Vangsness), la indispensable asistente informática del equipo que ayuda a investigar los casos con su encanto único; La Dra. Tara Lewis (Aisha Tyler), una psicóloga forense cuya experiencia es estudiar y entrevistar a asesinos en serie después de haber sido capturados para determinar si pueden ser juzgados; Luke Alvez (Adam Rodríguez), un ex guardabosques del ejército y excelente rastreador reclutado en la BAU de la Fuerza de Tarea de Fugitivos del FBI; y el agente especial Simmons (Daniel Henney), que se une a sus colegas en la BAU después de haberlos reclutado cuando era miembro del Equipo de Respuesta Internacional. Simmons es un ex soldado Delta con grandes habilidades en su perfil y experiencia en operaciones militares especiales.A medida que el equipo evoluciona unidos; el BAU continúa su dedicación al uso de su experiencia para identificar las motivaciones de los depredadores e identificar sus desencadenantes emocionales en el intento de detenerlos.(n)</desc>
-    <credits>
-      <actor>Mandy Patinkin</actor>
-      <actor>Thomas Gibson</actor>
-      <actor>Lola Glaudini</actor>
-      <actor>Shemar Moore</actor>
-      <actor>Matthew Gray Gubler</actor>
-      <actor>A. J. Cook</actor>
-      <actor>Kirsten Vangsness</actor>
-      <actor>Paget Brewster</actor>
-      <writer>Jeff Davis</writer>
-    </credits>
-    <date>2005</date>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Misterio</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/criminal_minds.jpg" />
-    <rating system="MX">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526070000 -0500" channel="Canal3.gt">
-    <title lang="es">Fin de transmisión</title>
-  </programme>
   <programme start="20250526070000 -0500" stop="20250526100000 -0500" channel="Canal3.gt">
     <title lang="es">Telediario - Matutino</title>
   </programme>
@@ -2514,111 +2290,6 @@
   </programme>
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal3.gt">
     <title lang="es">Rebelde</title>
-  </programme>
-  <programme start="20250525013000 -0500" stop="20250525020000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">El cuchubal</title>
-  </programme>
-  <programme start="20250525020000 -0500" stop="20250525023000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Escápate TV</title>
-  </programme>
-  <programme start="20250525023000 -0500" stop="20250525031500 -0500" channel="CanalAntigua.gt">
-    <title lang="es">La hora del té</title>
-  </programme>
-  <programme start="20250525031500 -0500" stop="20250525040000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">A las 845 PM</title>
-  </programme>
-  <programme start="20250525040000 -0500" stop="20250525043000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Top Gamer</title>
-  </programme>
-  <programme start="20250525043000 -0500" stop="20250525050000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Cocina caliente</title>
-  </programme>
-  <programme start="20250525050000 -0500" stop="20250525053000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Cocina caliente</title>
-  </programme>
-  <programme start="20250525053000 -0500" stop="20250525060000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">No quiero terapia</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525070000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Dueños del balón</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">La hora del té</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525093000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Hijos de la gran Patria</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525100000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Sabor &amp; Saber</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Ríos de fe</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525113000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Visión futuro</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525120000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Todo deporte</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525123000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">En forma</title>
-  </programme>
-  <programme start="20250525123000 -0500" stop="20250525130000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Escápate TV</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525133000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Cocina caliente</title>
-  </programme>
-  <programme start="20250525133000 -0500" stop="20250525140000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">El menjurge</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525143000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Cocina caliente</title>
-  </programme>
-  <programme start="20250525143000 -0500" stop="20250525150000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">No quiero terapia</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525153000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Top Gamer</title>
-  </programme>
-  <programme start="20250525153000 -0500" stop="20250525160000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Cocina caliente</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">El camino antiguo</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">La hora del té</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525183000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Enlaces</title>
-  </programme>
-  <programme start="20250525183000 -0500" stop="20250525190000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Escápate TV</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">A fondo</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Contrapunto</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525213000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Figuras Del Deporte</title>
-  </programme>
-  <programme start="20250525213000 -0500" stop="20250525214500 -0500" channel="CanalAntigua.gt">
-    <title lang="es">RPM</title>
-  </programme>
-  <programme start="20250525214500 -0500" stop="20250525230000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">A las 845 PM</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250525233000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Cocina caliente</title>
-  </programme>
-  <programme start="20250525233000 -0500" stop="20250526000000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Ministerios Dios es bueno</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526013000 -0500" channel="CanalAntigua.gt">
-    <title lang="es">Hijos de la gran Patria</title>
   </programme>
   <programme start="20250526013000 -0500" stop="20250526020000 -0500" channel="CanalAntigua.gt">
     <title lang="es">El menjurge</title>
@@ -2685,93 +2356,6 @@
   </programme>
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="CanalAntigua.gt">
     <title lang="es">Dueños del balón</title>
-  </programme>
-  <programme start="20250525013000 -0500" stop="20250525020000 -0500" channel="Guatevision.gt">
-    <title lang="es">Huitevisión</title>
-  </programme>
-  <programme start="20250525020000 -0500" stop="20250525030000 -0500" channel="Guatevision.gt">
-    <title lang="es">Pasión por las motos</title>
-  </programme>
-  <programme start="20250525030000 -0500" stop="20250525070000 -0500" channel="Guatevision.gt">
-    <title lang="es">Soñando en familia</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Guatevision.gt">
-    <title lang="es">Guate música</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="Guatevision.gt">
-    <title lang="es">Guate música</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Guatevision.gt">
-    <title lang="es">Fraternidad Cristiana</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Guatevision.gt">
-    <title lang="es">Guate música</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Guatevision.gt">
-    <title lang="es">Iglesia Vida Real Tv</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="Guatevision.gt">
-    <title lang="es">Vida Ventura - Vida Real</title>
-  </programme>
-  <programme start="20250525103000 -0500" stop="20250525110000 -0500" channel="Guatevision.gt">
-    <title lang="es">Pororo</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525120000 -0500" channel="Guatevision.gt">
-    <title lang="es">Iglesia Vida Real Tv</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Guatevision.gt">
-    <title lang="es">Misa Iglesia La Merced</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="Guatevision.gt">
-    <title lang="es">Guate música</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525143000 -0500" channel="Guatevision.gt">
-    <title lang="es">Guate música</title>
-  </programme>
-  <programme start="20250525143000 -0500" stop="20250525150000 -0500" channel="Guatevision.gt">
-    <title lang="es">Gold Forest</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525153000 -0500" channel="Guatevision.gt">
-    <title lang="es">Huitevisión</title>
-  </programme>
-  <programme start="20250525153000 -0500" stop="20250525160000 -0500" channel="Guatevision.gt">
-    <title lang="es">Secretos mejor guardados</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525163000 -0500" channel="Guatevision.gt">
-    <title lang="es">Vida dura</title>
-  </programme>
-  <programme start="20250525163000 -0500" stop="20250525170000 -0500" channel="Guatevision.gt">
-    <title lang="es">Alter Natura</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Guatevision.gt">
-    <title lang="es">Pasión por las motos</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Guatevision.gt">
-    <title lang="es">Todo Sobre Ruedas</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Guatevision.gt">
-    <title lang="es">Los investigadores médicos</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525203000 -0500" channel="Guatevision.gt">
-    <title lang="es">Guatemala no se detiene</title>
-  </programme>
-  <programme start="20250525203000 -0500" stop="20250525210000 -0500" channel="Guatevision.gt">
-    <title lang="es">Razón de estado, dominical</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Guatevision.gt">
-    <title lang="es">Not. Guatevisión dominical</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Guatevision.gt">
-    <title lang="es">Auténticas</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Guatevision.gt">
-    <title lang="es">Guate música</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="Guatevision.gt">
-    <title lang="es">Todo Sobre Ruedas</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526013000 -0500" channel="Guatevision.gt">
-    <title lang="es">Guate música</title>
   </programme>
   <programme start="20250526013000 -0500" stop="20250526020000 -0500" channel="Guatevision.gt">
     <title lang="es">Guate música</title>
@@ -2854,75 +2438,14 @@
   <programme start="20250527003000 -0500" stop="20250527010000 -0500" channel="Guatevision.gt">
     <title lang="es">Guate música</title>
   </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Handy Manny</title>
+  <programme start="20250527010000 -0500" stop="20250527013000 -0500" channel="Guatevision.gt">
+    <title lang="es">Guate música</title>
   </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Proud Family</title>
+  <programme start="20250527013000 -0500" stop="20250527020000 -0500" channel="Guatevision.gt">
+    <title lang="es">Guate música</title>
   </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Heidi 3D</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Super Hero Squad Show</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525093000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Doraemon</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525100000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Tron Upprising</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Tayo</title>
-  </programme>
-  <programme start="20250525103000 -0500" stop="20250525110000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Plaza Sésamo</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525113000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Motorcity</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525120000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Beware the Batman</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525123000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Fairly Odd Parents</title>
-  </programme>
-  <programme start="20250525123000 -0500" stop="20250525130000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Generator Rex</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Hombre al agua</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525150000 -0500" channel="TeleOnce.gt">
-    <title lang="es">XRC Extreme Reality</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525160000 -0500" channel="TeleOnce.gt">
-    <title lang="es">American Gladiators</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Painkiller Jane</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Guiness World Records Oficially Amazing</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Once upon a time</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Agent of Shield</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Linea de 5 - Las Vegas</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525230000 -0500" channel="TeleOnce.gt">
-    <title lang="es">El protector</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526010000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Inspector Montalbano</title>
-    <sub-title lang="es">El método Catalanotti</sub-title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526070000 -0500" channel="TeleOnce.gt">
-    <title lang="es">Fin de transmisión</title>
+  <programme start="20250527020000 -0500" stop="20250527030000 -0500" channel="Guatevision.gt">
+    <title lang="es">Guate música</title>
   </programme>
   <programme start="20250526070000 -0500" stop="20250526090000 -0500" channel="TeleOnce.gt">
     <title lang="es">Infomerciales</title>
@@ -3042,54 +2565,6 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Televisiete.gt">
-    <title lang="es">Noticiero Univisión</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525093000 -0500" channel="Televisiete.gt">
-    <title lang="es">Cine drama matinee</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525113000 -0500" channel="Televisiete.gt">
-    <title lang="es">Cine familiar</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525130000 -0500" channel="Televisiete.gt">
-    <title lang="es">Cine Gladiadores del Ring</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525150000 -0500" channel="Televisiete.gt">
-    <title lang="es">Ídolos de la comedia</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525170000 -0500" channel="Televisiete.gt">
-    <title lang="es">Cine mexicano</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Televisiete.gt">
-    <title lang="es">Como dice el dicho</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Televisiete.gt">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525193000 -0500" channel="Televisiete.gt">
-    <title lang="es">En la mira con k-riño</title>
-  </programme>
-  <programme start="20250525193000 -0500" stop="20250525200000 -0500" channel="Televisiete.gt">
-    <title lang="es">Moralejas</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525220000 -0500" channel="Televisiete.gt">
-    <title lang="es">Juego de Voces</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Televisiete.gt">
-    <title lang="es">Noti 7</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Televisiete.gt">
-    <title lang="es">Línea de 5</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526003000 -0500" channel="Televisiete.gt">
-    <title lang="es">Noticiero Univisión - Fin de semana</title>
-  </programme>
-  <programme start="20250526003000 -0500" stop="20250526010000 -0500" channel="Televisiete.gt">
-    <title lang="es">Laura</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526070000 -0500" channel="Televisiete.gt">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
   <programme start="20250526070000 -0500" stop="20250526093000 -0500" channel="Televisiete.gt">
     <title lang="es">Noti 7 - Matutino</title>
   </programme>
@@ -3113,123 +2588,6 @@
   </programme>
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Televisiete.gt">
     <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="TreceVision.gt">
-    <title lang="es">Cámara Loca</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="TreceVision.gt">
-    <title lang="es">Santa Misa</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="TreceVision.gt">
-    <title lang="es">¡Listos, a jugar!</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="TreceVision.gt">
-    <title lang="es">Desafío Extremo</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="TreceVision.gt">
-    <title lang="es">Dino Ranch</title>
-  </programme>
-  <programme start="20250525103000 -0500" stop="20250525110000 -0500" channel="TreceVision.gt">
-    <title lang="es">Looney Tunes Show</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525120000 -0500" channel="TreceVision.gt">
-    <title lang="es">Saber y ganar</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="TreceVision.gt">
-    <title lang="es">Escape Perfecto</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525133000 -0500" channel="TreceVision.gt">
-    <title lang="es">Jonas</title>
-  </programme>
-  <programme start="20250525133000 -0500" stop="20250525140000 -0500" channel="TreceVision.gt">
-    <title lang="es">Lab Rats</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525143000 -0500" channel="TreceVision.gt">
-    <title lang="es">Austin &amp; Ally</title>
-  </programme>
-  <programme start="20250525143000 -0500" stop="20250525150000 -0500" channel="TreceVision.gt">
-    <title lang="es">Kickin' It</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525153000 -0500" channel="TreceVision.gt">
-    <title lang="es">Zeke and Luther</title>
-  </programme>
-  <programme start="20250525153000 -0500" stop="20250525160000 -0500" channel="TreceVision.gt">
-    <title lang="es">New Adventures Old Christine</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="TreceVision.gt">
-    <title lang="es">Seventh Heaven</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="TreceVision.gt">
-    <title lang="es">Fringe</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="TreceVision.gt">
-    <title lang="es">Charmed</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="TreceVision.gt">
-    <title lang="es">Supernatural</title>
-    <desc lang="es">Un viaje emocionante que lleva a los espectadores en un viaje al mundo oscuro de lo inexplicado. Unidos por la tragedia y la sangre a una peligrosa misión de otro mundo, dos hermanos viajan del desierto de Colorado a las tierras de cultivo de Nebraska y a los aislados lagos de Wisconsin, encontrando criaturas que la mayoría de la gente cree que solo existen en el folclore, la superstición y las pesadillas.(n)</desc>
-    <credits>
-      <actor>Jared Padalecki</actor>
-      <actor>Jensen Ackles</actor>
-      <actor>Katie Cassidy</actor>
-      <actor>Lauren Cohan</actor>
-      <actor>Misha Collins</actor>
-      <actor>Mark A. Sheppard</actor>
-      <actor>Mark Pellegrino</actor>
-      <actor>Alexander Calvert</actor>
-      <writer>Eric Kripke</writer>
-    </credits>
-    <date>2005</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Terror</category>
-    <category lang="es">Misterio</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/supernatural.jpg" />
-    <rating system="MX">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="MX">
-      <value>9.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="TreceVision.gt">
-    <title lang="es">The vampire diaries</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="TreceVision.gt">
-    <title lang="es">Hawaii 5-0</title>
-    <desc lang="es">Una reedición de la seria de 1968, sobre un detective en su regreso a Oahu, Hawaii para investigar el asesinato de su padre, el oficial naval Steve McGarret (Alex O'Loughlin) es reclutado por el gobernador de Hawaii para encabezar una fuerza elite de la policía para mantener la isla segura para su hija de 8 años, este escuadrón deberá enfrentarse al crimen organizado, asesinatos todo esto con sus reglas. En el equipo también se une Chin Ho Kelly (Daniel Dae Kim), quien fue acusado injustamente de corrupción y su prima Kono (Grace Park) quien acaba de graduarse de la academia.Estando en el pueblo McGarrett también trata de mejorar su relación que por el momento no se encuentra bien sobre su hermana Mary Ann y continuar buscando más pistas sobre el asesinato de su padre.(n)</desc>
-    <credits>
-      <actor>Alex O'Loughlin</actor>
-      <actor>Scott Caan</actor>
-      <actor>Daniel Dae Kim</actor>
-      <actor>Grace Park</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Serie</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/hawaii_five-0.png" />
-    <rating system="MX">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="TreceVision.gt">
-    <title lang="es">Flash</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="TreceVision.gt">
-    <title lang="es">Isabel</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="TreceVision.gt">
-    <title lang="es">La lotería</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526070000 -0500" channel="TreceVision.gt">
-    <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20250526070000 -0500" stop="20250526080000 -0500" channel="TreceVision.gt">
     <title lang="es">Planet's Funniest Animal</title>
@@ -3276,87 +2634,6 @@
   <programme start="20250526183000 -0500" stop="20250526190000 -0500" channel="TreceVision.gt">
     <title lang="es">Merry Melodies Show</title>
   </programme>
-  <programme start="20250525020000 -0500" stop="20250525023000 -0500" channel="LaRed.gt">
-    <title lang="es">Pasión por Guatemala</title>
-  </programme>
-  <programme start="20250525023000 -0500" stop="20250525033000 -0500" channel="LaRed.gt">
-    <title lang="es">El Playlist</title>
-  </programme>
-  <programme start="20250525033000 -0500" stop="20250525063000 -0500" channel="LaRed.gt">
-    <title lang="es">Gente de fútbol</title>
-  </programme>
-  <programme start="20250525063000 -0500" stop="20250525070000 -0500" channel="LaRed.gt">
-    <title lang="es">Tecnología DW</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="LaRed.gt">
-    <title lang="es">El Playlist</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525090000 -0500" channel="LaRed.gt">
-    <title lang="es">La red Fit</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="LaRed.gt">
-    <title lang="es">Garra felina - Previa</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525130000 -0500" channel="LaRed.gt">
-    <title lang="es">Gente de fútbol</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="LaRed.gt">
-    <title lang="es">El Playlist</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525143000 -0500" channel="LaRed.gt">
-    <title lang="es">Pasión por Guatemala</title>
-  </programme>
-  <programme start="20250525143000 -0500" stop="20250525153000 -0500" channel="LaRed.gt">
-    <title lang="es">Tan-Gente podcast</title>
-  </programme>
-  <programme start="20250525153000 -0500" stop="20250525160000 -0500" channel="LaRed.gt">
-    <title lang="es">Ciudad viva</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="LaRed.gt">
-    <title lang="es">Nutrición con sentido</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525173000 -0500" channel="LaRed.gt">
-    <title lang="es">Motor en tv</title>
-  </programme>
-  <programme start="20250525173000 -0500" stop="20250525183000 -0500" channel="LaRed.gt">
-    <title lang="es">Roberto Alejos - Podcast</title>
-  </programme>
-  <programme start="20250525183000 -0500" stop="20250525190000 -0500" channel="LaRed.gt">
-    <title lang="es">Documentales DW-TV</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="LaRed.gt">
-    <title lang="es">Razón de estado</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525203000 -0500" channel="LaRed.gt">
-    <title lang="es">Somos uno</title>
-  </programme>
-  <programme start="20250525203000 -0500" stop="20250525210000 -0500" channel="LaRed.gt">
-    <title lang="es">Tecnología DW</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="LaRed.gt">
-    <title lang="es">La red Fit</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525223000 -0500" channel="LaRed.gt">
-    <title lang="es">Documentales RT</title>
-  </programme>
-  <programme start="20250525223000 -0500" stop="20250525230000 -0500" channel="LaRed.gt">
-    <title lang="es">Tecnología DW-TV</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250525233000 -0500" channel="LaRed.gt">
-    <title lang="es">Ciudad viva</title>
-  </programme>
-  <programme start="20250525233000 -0500" stop="20250526000000 -0500" channel="LaRed.gt">
-    <title lang="es">Refugio mental</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526003000 -0500" channel="LaRed.gt">
-    <title lang="es">Motor en tv</title>
-  </programme>
-  <programme start="20250526003000 -0500" stop="20250526010000 -0500" channel="LaRed.gt">
-    <title lang="es">Documentales DW-TV</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526020000 -0500" channel="LaRed.gt">
-    <title lang="es">Nutrición con sentido</title>
-  </programme>
   <programme start="20250526020000 -0500" stop="20250526023000 -0500" channel="LaRed.gt">
     <title lang="es">Pasión por Guatemala</title>
   </programme>
@@ -3402,73 +2679,6 @@
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="LaRed.gt">
     <title lang="es">Noticias - Tercera emisión</title>
   </programme>
-  <programme start="20250525011500 -0500" stop="20250525070000 -0500" channel="TigoSports.gt">
-    <title lang="es">Programación variada</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="TigoSports.gt">
-    <title lang="es">Nación CA</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="TigoSports.gt">
-    <title lang="es">100% Fitness</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="TigoSports.gt">
-    <title lang="es">Pasión azul y blanco</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525093000 -0500" channel="TigoSports.gt">
-    <title lang="es">Cremas, mi buen amigo</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525100000 -0500" channel="TigoSports.gt">
-    <title lang="es">Vida Fit</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="TigoSports.gt">
-    <title lang="es">Yo soy rojo</title>
-  </programme>
-  <programme start="20250525103000 -0500" stop="20250525113000 -0500" channel="TigoSports.gt">
-    <title lang="es">Nación CA</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525120000 -0500" channel="TigoSports.gt">
-    <title lang="es">100% Fitness</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="TigoSports.gt">
-    <title lang="es">Sorteo Mundial Sub 17</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525150000 -0500" channel="TigoSports.gt">
-    <title lang="es">Municipal vs. Antigua GFC</title>
-    <sub-title lang="es">Liga Nacional de Fútbol</sub-title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525160000 -0500" channel="TigoSports.gt">
-    <title lang="es">A otro nivel</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525163000 -0500" channel="TigoSports.gt">
-    <title lang="es">100% Fitness</title>
-  </programme>
-  <programme start="20250525163000 -0500" stop="20250525170000 -0500" channel="TigoSports.gt">
-    <title lang="es">Pasión azul y blanco</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525173000 -0500" channel="TigoSports.gt">
-    <title lang="es">Cremas, mi buen amigo</title>
-  </programme>
-  <programme start="20250525173000 -0500" stop="20250525183000 -0500" channel="TigoSports.gt">
-    <title lang="es">Sorteo Mundial Sub 17</title>
-  </programme>
-  <programme start="20250525183000 -0500" stop="20250525203000 -0500" channel="TigoSports.gt">
-    <title lang="es">El camino del campeón</title>
-  </programme>
-  <programme start="20250525203000 -0500" stop="20250525210000 -0500" channel="TigoSports.gt">
-    <title lang="es">Pasión azul y blanco</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="TigoSports.gt">
-    <title lang="es">En la Jugada</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250526000000 -0500" channel="TigoSports.gt">
-    <title lang="es">El chiringuito</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="TigoSports.gt">
-    <title lang="es">En la Jugada</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526011500 -0500" channel="TigoSports.gt">
-    <title lang="es">90 en 10</title>
-  </programme>
   <programme start="20250526011500 -0500" stop="20250526070000 -0500" channel="TigoSports.gt">
     <title lang="es">Programación variada</title>
   </programme>
@@ -3478,98 +2688,11 @@
   <programme start="20250526130000 -0500" stop="20250527010000 -0500" channel="TigoSports.gt">
     <title lang="es">Tigo Sports</title>
   </programme>
-  <programme start="20250525021500 -0500" stop="20250525030000 -0500" channel="Canal11.cr">
-    <title lang="es">La hora pico</title>
+  <programme start="20250527010000 -0500" stop="20250527130000 -0500" channel="TigoSports.gt">
+    <title lang="es">Tigo Sports</title>
   </programme>
-  <programme start="20250525030000 -0500" stop="20250525033000 -0500" channel="Canal11.cr">
-    <title lang="es">Simón dice</title>
-  </programme>
-  <programme start="20250525033000 -0500" stop="20250525040000 -0500" channel="Canal11.cr">
-    <title lang="es">Cero en conducta</title>
-  </programme>
-  <programme start="20250525040000 -0500" stop="20250525053000 -0500" channel="Canal11.cr">
-    <title lang="es">Un tipo duro de pelar</title>
-  </programme>
-  <programme start="20250525053000 -0500" stop="20250525060000 -0500" channel="Canal11.cr">
-    <title lang="es">Casado con hijos</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525070000 -0500" channel="Canal11.cr">
-    <title lang="es">Las historias</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="Canal11.cr">
-    <title lang="es">Reino Animal</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Canal11.cr">
-    <title lang="es">Vic, el vikingo</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525084500 -0500" channel="Canal11.cr">
-    <title lang="es">Los padrinos mágicos</title>
-  </programme>
-  <programme start="20250525084500 -0500" stop="20250525090000 -0500" channel="Canal11.cr">
-    <title lang="es">Pequeñas aventureras</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal11.cr">
-    <title lang="es">Plaza Sésamo</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="Canal11.cr">
-    <title lang="es">Dino Ranch</title>
-  </programme>
-  <programme start="20250525103000 -0500" stop="20250525110000 -0500" channel="Canal11.cr">
-    <title lang="es">Heidi</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525113000 -0500" channel="Canal11.cr">
-    <title lang="es">El chapulín colorado animado</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525123000 -0500" channel="Canal11.cr">
-    <title lang="es">Beyblade Burst</title>
-  </programme>
-  <programme start="20250525123000 -0500" stop="20250525133000 -0500" channel="Canal11.cr">
-    <title lang="es">Desafío 2016 Súper humanos</title>
-  </programme>
-  <programme start="20250525133000 -0500" stop="20250525150000 -0500" channel="Canal11.cr">
-    <title lang="es">Carita de primavera</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525160000 -0500" channel="Canal11.cr">
-    <title lang="es">Contacto deportivo</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525163000 -0500" channel="Canal11.cr">
-    <title lang="es">Esta Libre</title>
-  </programme>
-  <programme start="20250525163000 -0500" stop="20250525170000 -0500" channel="Canal11.cr">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525173000 -0500" channel="Canal11.cr">
-    <title lang="es">La Familia Peluche</title>
-  </programme>
-  <programme start="20250525173000 -0500" stop="20250525190000 -0500" channel="Canal11.cr">
-    <title lang="es">Me Pongo de Pie</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal11.cr">
-    <title lang="es">Santa Misa desde la Basílica de Los Ángeles</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525203000 -0500" channel="Canal11.cr">
-    <title lang="es">Una familia de 10</title>
-  </programme>
-  <programme start="20250525203000 -0500" stop="20250525210000 -0500" channel="Canal11.cr">
-    <title lang="es">Relatos Macabrones</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal11.cr">
-    <title lang="es">Faisy nights</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal11.cr">
-    <title lang="es">Las historias</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal11.cr">
-    <title lang="es">Más noche</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526003000 -0500" channel="Canal11.cr">
-    <title lang="es">Noticiero Univisión</title>
-  </programme>
-  <programme start="20250526003000 -0500" stop="20250526010000 -0500" channel="Canal11.cr">
-    <title lang="es">40 y 20</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526030000 -0500" channel="Canal11.cr">
-    <title lang="es">Miembros al aire</title>
+  <programme start="20250527130000 -0500" stop="20250528010000 -0500" channel="TigoSports.gt">
+    <title lang="es">Tigo Sports</title>
   </programme>
   <programme start="20250526030000 -0500" stop="20250526034500 -0500" channel="Canal11.cr">
     <title lang="es">Netas divinas</title>
@@ -3618,51 +2741,6 @@
   </programme>
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal11.cr">
     <title lang="es">Esta historia me suena</title>
-  </programme>
-  <programme start="20250525040000 -0500" stop="20250525070000 -0500" channel="Canal4.cr">
-    <title lang="es">Canal 4 Costa Rica</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="Canal4.cr">
-    <title lang="es">Canal 4 Costa Rica</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525110000 -0500" channel="Canal4.cr">
-    <title lang="es">Fuera del aire</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525113000 -0500" channel="Canal4.cr">
-    <title lang="es">Ojitos hechiceros</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525120000 -0500" channel="Canal4.cr">
-    <title lang="es">Salud y algo más</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525133000 -0500" channel="Canal4.cr">
-    <title lang="es">Muchachitas como tú</title>
-  </programme>
-  <programme start="20250525133000 -0500" stop="20250525150000 -0500" channel="Canal4.cr">
-    <title lang="es">Clase 406</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525163000 -0500" channel="Canal4.cr">
-    <title lang="es">La fea más bella</title>
-  </programme>
-  <programme start="20250525163000 -0500" stop="20250525200000 -0500" channel="Canal4.cr">
-    <title lang="es">Survivor</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal4.cr">
-    <title lang="es">Amores que Matan</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal4.cr">
-    <title lang="es">Aguila roja</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal4.cr">
-    <title lang="es">Crossing lines</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal4.cr">
-    <title lang="es">Justicia verdadera</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="Canal4.cr">
-    <title lang="es">El Barco</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526040000 -0500" channel="Canal4.cr">
-    <title lang="es">Canal 4 Costa Rica</title>
   </programme>
   <programme start="20250526040000 -0500" stop="20250526070000 -0500" channel="Canal4.cr">
     <title lang="es">Canal 4 Costa Rica</title>
@@ -3757,114 +2835,8 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20250525030000 -0500" stop="20250525043000 -0500" channel="Canal6.cr">
-    <title lang="es">Tomorrow You're Gone</title>
-  </programme>
-  <programme start="20250525043000 -0500" stop="20250525060000 -0500" channel="Canal6.cr">
-    <title lang="es">Down and dirty</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525070000 -0500" channel="Canal6.cr">
-    <title lang="es">Rookie blue</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525074500 -0500" channel="Canal6.cr">
-    <title lang="es">Highlander, El Inmortal</title>
-  </programme>
-  <programme start="20250525074500 -0500" stop="20250525083000 -0500" channel="Canal6.cr">
-    <title lang="es">Fear Factor</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Canal6.cr">
-    <title lang="es">Guinness records</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal6.cr">
-    <title lang="es">Comisario Rex</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Canal6.cr">
-    <title lang="es">Scorpion</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525120000 -0500" channel="Canal6.cr">
-    <title lang="es">Wipeout</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Canal6.cr">
-    <title lang="es">NCIS: New Orleans</title>
-    <desc lang="es">NCIS: New Orleans es un drama sobre la oficina de campo local que investiga casos criminales relacionados con personal militar una ciudad conocida por su música, entretenimiento y decadencia. Encabezando el equipo está el agente especial Dwayne Pride (Scott Bakula), alias "King", un nativo de Nueva Orleans que es impulsado por su necesidad de hacer lo correcto. El agente especial Christopher Lasalle (Lucas Black), que juega duro pero trabaja más duro; el agente especial del FBI que fue enviado a Nueva Orleans para investigar y que al finalizar su tarea se une al equipo de Pride; la ex agente de ATF Sonja Percy (Shalita Grant), que aún se está ajustando después de años de tareas secretas en solitario; y el agente forense Sebastián Lund (Rob Kerkovich), un científico brillante que dejó el laboratorio y luego de mucho entrenamiento se convirtió en agente. La doctora Loretta Wade (CCH Pounder), que es tan excéntrica como inteligente y la investigativa especialista en computadoras, Patton Plame (Daryl "Chill" Mitchell), una hacker animada y talentosa. Esta colorida ciudad alberga un lado que alberga un lado oscuro es un imán para el personal de servicio, y cuando la indulgencia es seguida por problemas, el equipo de Pride está en su mejor momento.(n)</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-      <actor>Rob Kerkovich</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Daryl "Chill" Mitchell</actor>
-      <actor>Shalita Grant</actor>
-      <actor>Vanessa Ferlito</actor>
-      <writer>Gary Glasberg</writer>
-      <producer>David Appelbaum</producer>
-      <producer>Joshua Rexon</producer>
-      <composer>John Lee Hooker</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_new_orleans.jpg" />
-    <rating system="MX">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="Canal6.cr">
-    <title lang="es">Noticias Repretel</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525150000 -0500" channel="Canal6.cr">
-    <title lang="es">American ninja warrior</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525160000 -0500" channel="Canal6.cr">
-    <title lang="es">NCIS: Los Ángeles</title>
-    <desc lang="es">La Oficina de Proyectos Especiales (OSP), una división de NCIS que se encarga de aprehender a delincuentes peligrosos y elusivos que representan una amenaza para la seguridad del país. Al asumir identidades falsas y utilizar la tecnología más avanzada, este equipo de agentes altamente entrenados se oculta profundamente, poniendo sus vidas en línea en el campo para derribar sus objetivos. El agente especial "G" Callen (Chris O'Donnell) es un camaleón que se transforma en quien necesita ser para infiltrarse en el inframundo criminal. Su compañero es el agente especial Sam Hanna (LL Cool J.), un ex SEAL de la Marina de los Estados Unidos que ha participado en actividades tanto en Afganistán como en Irak, y un experto en vigilancia que utiliza equipos de monitoreo de vanguardia para vigilar a aquellos en el campo y darles información crucial. Asistiendo al equipo está la agente especial Kensi Blye (Daniela Ruah), la hija excepcionalmente brillante de un Marine asesinado que vive por la adrenalina que viene con el trabajo encubierto; El psicólogo operativo Nate Getz (Peter Cambor), experto en meterse en la cabeza de cualquiera, perfilando el objetivo y supervisando los estados de ánimo de los agentes antes, durante y después de las misiones; Dominic Vail (Adam Jamal Craig), la incorporación más reciente al equipo, está altamente calificada pero carece de experiencia práctica; y Henrietta "Hetty" Lange (Linda Hunt), quién supervisa el personal de apoyo "de trastienda" encargado de proporcionar todo, desde cámaras de micro vigilancia hasta automóviles para el equipo. Armada con lo último en equipos de alta tecnología y enviada regularmente a situaciones de riesgo vital, esta unidad muy unida confía el uno al otro para hacer lo que sea necesario para proteger los intereses nacionales.(n)</desc>
-    <credits>
-      <actor>Chris O'Donnell</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>LL Cool J</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Barrett Foa</actor>
-      <actor>Eric Christian Olsen</actor>
-      <writer>Shane Brennan</writer>
-      <composer>James S. Levine</composer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Misterio</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525180000 -0500" channel="Canal6.cr">
-    <title lang="es">Young Connecticut yankee</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal6.cr">
-    <title lang="es">Hudson &amp; Rex</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal6.cr">
-    <title lang="es">Deportes Repretel</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal6.cr">
-    <title lang="es">Noticias Repretel</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525230000 -0500" channel="Canal6.cr">
-    <title lang="es">Juego de Voces</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526010000 -0500" channel="Canal6.cr">
-    <title lang="es">Angel of Death</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526020000 -0500" channel="Canal6.cr">
-    <title lang="es">Mujer, casos de la vida real</title>
+  <programme start="20250527010000 -0500" stop="20250527040000 -0500" channel="Canal4.cr">
+    <title lang="es">Canal 4 Costa Rica</title>
   </programme>
   <programme start="20250526020000 -0500" stop="20250526024500 -0500" channel="Canal6.cr">
     <title lang="es">La Rosa de Guadalupe</title>
@@ -3923,76 +2895,14 @@
   <programme start="20250527000000 -0500" stop="20250527010000 -0500" channel="Canal6.cr">
     <title lang="es">Mujer, casos de la vida real</title>
   </programme>
-  <programme start="20250525030000 -0500" stop="20250525050000 -0500" channel="Teletica.cr">
-    <title lang="es">Cine madrugada</title>
+  <programme start="20250527010000 -0500" stop="20250527020000 -0500" channel="Canal6.cr">
+    <title lang="es">Mujer, casos de la vida real</title>
   </programme>
-  <programme start="20250525050000 -0500" stop="20250525070000 -0500" channel="Teletica.cr">
-    <title lang="es">Cine madrugada</title>
+  <programme start="20250527020000 -0500" stop="20250527024500 -0500" channel="Canal6.cr">
+    <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20250525070000 -0500" stop="20250525090000 -0500" channel="Teletica.cr">
-    <title lang="es">Bloque Religioso</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Teletica.cr">
-    <title lang="es">Deporte</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Teletica.cr">
-    <title lang="es">Teletica Deportes</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525113000 -0500" channel="Teletica.cr">
-    <title lang="es">Cristela</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525120000 -0500" channel="Teletica.cr">
-    <title lang="es">Familia moderna</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525140000 -0500" channel="Teletica.cr">
-    <title lang="es">Cine Matineé</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525160000 -0500" channel="Teletica.cr">
-    <title lang="es">Cine para todos</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525183000 -0500" channel="Teletica.cr">
-    <title lang="es">Cine Pop</title>
-  </programme>
-  <programme start="20250525183000 -0500" stop="20250525190000 -0500" channel="Teletica.cr">
-    <title lang="es">Resumen deportivo</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Teletica.cr">
-    <title lang="es">Telenoticias</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525230000 -0500" channel="Teletica.cr">
-    <title lang="es">Nace una estrella</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526010000 -0500" channel="Teletica.cr">
-    <title lang="es">Super cine</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526013000 -0500" channel="Teletica.cr">
-    <title lang="es">Modern Family</title>
-    <desc lang="es">Phil (Ty Burrell) y Claire (Julie Bowen) dos padres que desean una relación abierta, sana y honestas con sus hijos. No siempre es fácil, sobre todo cuando tienes una hija adolescente que está creciendo demasiado rápido y además es muy inteligente para su propio bien y un chico un poco robusto. Por otra parte, está Jay (Ed O'Neill), un adulto que está viviendo una crisis de mediana edad. Jay ha encontrado una esposa mucho más joven Gloria (Sofía Vergara), que se ha convertido en el centro de su vida. Ella es una mujer apasionada y divorciada que llega con un hijo llamado Manny Delgado (Rico Rodriguez). Mitchell (Jesse Tyler Ferguson) y su pareja Cameron (Eric Stonestreet) han decidido dar un paso adelante y adoptan a LiLy (Aubrey Anderson-Emmons). Cameron tiene una personalidad un poco dramática mientras que Mitchell es el más serio de los dos, pero ellos se compensan el uno al otro. La vida no parece estar cerca de ser ordenada, políticamente correcta o de ninguna manera predecible. Son pocas cosas de esas la que harán que sean interesantes, a veces algo retorcido.(n)</desc>
-    <credits>
-      <actor>Sofía Vergara</actor>
-      <actor>Ed O'Neill</actor>
-      <actor>Ty Burrell</actor>
-      <actor>Julie Bowen</actor>
-      <actor>Jesse Tyler Ferguson</actor>
-      <actor>Eric Stonestreet</actor>
-      <actor>Nolan Gould</actor>
-      <actor>Sarah Hyland</actor>
-      <writer>Christopher Lloyd</writer>
-      <writer>Steven Levitan</writer>
-      <producer>Christopher Lloyd</producer>
-      <producer>Steven Levitan</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/modern_family.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>9.0</value>
-    </star-rating>
+  <programme start="20250527024500 -0500" stop="20250527041500 -0500" channel="Canal6.cr">
+    <title lang="es">Mujeres al Límite</title>
   </programme>
   <programme start="20250526013000 -0500" stop="20250526023000 -0500" channel="Teletica.cr">
     <title lang="es">De boca en boca</title>
@@ -4114,115 +3024,6 @@
   <programme start="20250526183000 -0500" stop="20250526193000 -0500" channel="Teletica.cr">
     <title lang="es">¡Qué buena tarde!</title>
   </programme>
-  <programme start="20250525060000 -0500" stop="20250525063000 -0500" channel="Canal2.ni">
-    <title lang="es">La casa de Mickey Mouse de Disney</title>
-  </programme>
-  <programme start="20250525063000 -0500" stop="20250525070000 -0500" channel="Canal2.ni">
-    <title lang="es">La Sirenita</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Canal2.ni">
-    <title lang="es">Sticht</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="Canal2.ni">
-    <title lang="es">Jake y los Piratas del País de Nunca Jamás</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Canal2.ni">
-    <title lang="es">X Men</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Canal2.ni">
-    <title lang="es">Miles del mañana</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525093000 -0500" channel="Canal2.ni">
-    <title lang="es">Un verano de misterios</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525100000 -0500" channel="Canal2.ni">
-    <title lang="es">Guardianes de la Galaxia</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Canal2.ni">
-    <title lang="es">Jonas Brothers</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525113000 -0500" channel="Canal2.ni">
-    <title lang="es">Jessie</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525120000 -0500" channel="Canal2.ni">
-    <title lang="es">Atrapada en el medio</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525123000 -0500" channel="Canal2.ni">
-    <title lang="es">Agente KC</title>
-  </programme>
-  <programme start="20250525123000 -0500" stop="20250525125000 -0500" channel="Canal2.ni">
-    <title lang="es">Austin &amp; Ally</title>
-  </programme>
-  <programme start="20250525125000 -0500" stop="20250525130000 -0500" channel="Canal2.ni">
-    <title lang="es">Micro TV Noticias</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525133000 -0500" channel="Canal2.ni">
-    <title lang="es">Lab Rats</title>
-  </programme>
-  <programme start="20250525133000 -0500" stop="20250525140000 -0500" channel="Canal2.ni">
-    <title lang="es">Los guerreros Wasabi</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525150000 -0500" channel="Canal2.ni">
-    <title lang="es">Yo Soy Franky</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525170000 -0500" channel="Canal2.ni">
-    <title lang="es">Desafio super regiones</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal2.ni">
-    <title lang="es">A otro nivel</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525184500 -0500" channel="Canal2.ni">
-    <title lang="es">CSI: Miami</title>
-    <desc lang="es">Investigando el espectacular accidente aéreo del "Golden Parachute". Horatio Caine (David Caruso) y su equipo de hábiles investigadores salen a las calles, playas y pantanos de Miami con un dulce Humvee y la capacidad de arrestar a sus sospechosos (un poder que sus contrapartes de Las Vegas no poseen).(n)</desc>
-    <credits>
-      <actor>David Caruso</actor>
-      <actor>Emily Procter</actor>
-      <actor>Adam Rodriguez</actor>
-      <actor>Khandi Alexander</actor>
-      <actor>Rory Cochrane</actor>
-      <actor>Kim Delaney</actor>
-      <actor>Sofia Milos</actor>
-      <actor>Jonathan Togo</actor>
-      <writer>Anthony E. Zuiker</writer>
-      <writer>Ann Donahue</writer>
-      <producer>Marc Dube</producer>
-      <composer>Kevin Kiner</composer>
-      <composer>Jeff Cardoni</composer>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
-    <rating system="MX">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="MX">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525184500 -0500" stop="20250525190000 -0500" channel="Canal2.ni">
-    <title lang="es">Micro TV Noticias</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal2.ni">
-    <title lang="es">El Bronx</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal2.ni">
-    <title lang="es">El Barco</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal2.ni">
-    <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal2.ni">
-    <title lang="es">Los misterios de laura</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal2.ni">
-    <title lang="es">Criminal</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526060000 -0500" channel="Canal2.ni">
-    <title lang="es">Fin de transmisión</title>
-  </programme>
   <programme start="20250526060000 -0500" stop="20250526070000 -0500" channel="Canal2.ni">
     <title lang="es">TV Noticias Edición matutina</title>
   </programme>
@@ -4252,110 +3053,6 @@
   </programme>
   <programme start="20250526170000 -0500" stop="20250526180000 -0500" channel="Canal2.ni">
     <title lang="es">Primer Impacto</title>
-  </programme>
-  <programme start="20250525013000 -0500" stop="20250525023000 -0500" channel="Telemundo.pr">
-    <title lang="es">Decisiones extremas</title>
-  </programme>
-  <programme start="20250525023000 -0500" stop="20250525033000 -0500" channel="Telemundo.pr">
-    <title lang="es">Señora Acero 4: La Coyote</title>
-  </programme>
-  <programme start="20250525033000 -0500" stop="20250525040000 -0500" channel="Telemundo.pr">
-    <title lang="es">Decisiones</title>
-    <desc lang="es">Decisiones la miniserie de pequeños melodramas de telenovelas que en cada capítulo se trata sobre la pasión y el sexo en el mundo de hoy en día.Durante la hora de duración, se ven como pueden cambiar y que decisiones toman los hombres y mujeres en las aventuras amorosas puestas al límite.Cada episodio ha sido inspirado en casos de la vida real.(n)</desc>
-    <date>2005</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Programa</category>
-    <category lang="es">Novela</category>
-    <category lang="es">Telenovela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png" />
-    <country lang="es">Estados Unidos</country>
-  </programme>
-  <programme start="20250525040000 -0500" stop="20250525043000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525043000 -0500" stop="20250525050000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525050000 -0500" stop="20250525053000 -0500" channel="Telemundo.pr">
-    <title lang="es">Operación Chef</title>
-  </programme>
-  <programme start="20250525053000 -0500" stop="20250525060000 -0500" channel="Telemundo.pr">
-    <title lang="es">Operación Chef</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525063000 -0500" channel="Telemundo.pr">
-    <title lang="es">Shabum</title>
-  </programme>
-  <programme start="20250525063000 -0500" stop="20250525070000 -0500" channel="Telemundo.pr">
-    <title lang="es">Operación Chef</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525093000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525100000 -0500" channel="Telemundo.pr">
-    <title lang="es">La Liga Premier Extra</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525123000 -0500" channel="Telemundo.pr">
-    <title lang="es">Fútbol Premier League</title>
-  </programme>
-  <programme start="20250525123000 -0500" stop="20250525130000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525133000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525133000 -0500" stop="20250525140000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525143000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525143000 -0500" stop="20250525150000 -0500" channel="Telemundo.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525153000 -0500" channel="Telemundo.pr">
-    <title lang="es">Emociones con Sabor</title>
-  </programme>
-  <programme start="20250525153000 -0500" stop="20250525160000 -0500" channel="Telemundo.pr">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525163000 -0500" channel="Telemundo.pr">
-    <title lang="es">Tertuliando con Carlos Salgado</title>
-  </programme>
-  <programme start="20250525163000 -0500" stop="20250525170000 -0500" channel="Telemundo.pr">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Telemundo.pr">
-    <title lang="es">Pa'lante boricua</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525210000 -0500" channel="Telemundo.pr">
-    <title lang="es">La casa de los famosos: All-stars</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Telemundo.pr">
-    <title lang="es">Sueiro directo</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Telemundo.pr">
-    <title lang="es">Señora Acero 4: La Coyote</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250525233000 -0500" channel="Telemundo.pr">
-    <title lang="es">El pelotazo</title>
-  </programme>
-  <programme start="20250525233000 -0500" stop="20250526003000 -0500" channel="Telemundo.pr">
-    <title lang="es">Señora Acero 4: La Coyote</title>
-  </programme>
-  <programme start="20250526003000 -0500" stop="20250526013000 -0500" channel="Telemundo.pr">
-    <title lang="es">Decisiones: Unos ganan, otros pierden</title>
   </programme>
   <programme start="20250526013000 -0500" stop="20250526023000 -0500" channel="Telemundo.pr">
     <title lang="es">Decisiones extremas</title>
@@ -4499,136 +3196,171 @@
   <programme start="20250527003000 -0500" stop="20250527013000 -0500" channel="Telemundo.pr">
     <title lang="es">Al rojo vivo</title>
   </programme>
-  <programme start="20250525013000 -0500" stop="20250525020000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525020000 -0500" stop="20250525023000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525023000 -0500" stop="20250525030000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525030000 -0500" stop="20250525033000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525033000 -0500" stop="20250525035600 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525035600 -0500" stop="20250525042600 -0500" channel="Wapa.pr">
-    <title lang="es">Ideal Prostate+ proporciona alivio natural seguro</title>
-  </programme>
-  <programme start="20250525042600 -0500" stop="20250525043000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525043000 -0500" stop="20250525050000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525050000 -0500" stop="20250525060000 -0500" channel="Wapa.pr">
-    <title lang="es">Iglesia Bethel</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525063000 -0500" channel="Wapa.pr">
-    <title lang="es">Tickety Toc</title>
-  </programme>
-  <programme start="20250525063000 -0500" stop="20250525070000 -0500" channel="Wapa.pr">
-    <title lang="es">Tickety Toc</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525093000 -0500" channel="Wapa.pr">
-    <title lang="es">Mejore la salud del corazón y la función cerebral con Krill</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525100000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525103000 -0500" stop="20250525110000 -0500" channel="Wapa.pr">
-    <title lang="es">La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525113000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525120000 -0500" channel="Wapa.pr">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Wapa.pr">
-    <title lang="es">Super Estrellas de la Lucha Libre</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525143000 -0500" channel="Wapa.pr">
-    <title lang="es">Despicable Me</title>
-  </programme>
-  <programme start="20250525143000 -0500" stop="20250525160000 -0500" channel="Wapa.pr">
-    <title lang="es">Grown Ups 2</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="Wapa.pr">
-    <title lang="es">Noticentro</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525190000 -0500" channel="Wapa.pr">
-    <title lang="es">The Americas</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525210000 -0500" channel="Wapa.pr">
-    <title lang="es">Rampage</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525213000 -0500" channel="Wapa.pr">
-    <title lang="es">Noticentro</title>
-  </programme>
-  <programme start="20250525213000 -0500" stop="20250525223000 -0500" channel="Wapa.pr">
-    <title lang="es">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales, que opera fuera de la cadena de mando militar, debe investigar cualquier delito con pruebas relacionadas con el personal de la Armada y la Infantería de la Marina, independientemente de su rango o posición. Liderando el equipo de NCIS (Naval Criminal Investigative Service) está el agente especial Leroy Jethro Gibbs (Mark Harmon), un investigador experto que doblará las reglas para hacer el trabajo. Bajo su cargo está la agente especial Caitlin Todd (Sasha Alexander), ex agente del Servicio Secreto, y el agente Anthony Dinozzo (Michael Weatherly), un ex detective de homicidios de Baltimore con instintos excepcionales de trabajo en las calles. Junto a ellos se encuentra la forense Abby Sciuto (Pauley Perrette), una talentosa científica con un ingenio y estilos oscuros, y el Dr. Donald "Ducky" Mallard (David McCallum), un médico examinador. Ya sea investigando asesinatos o espionajes, el equipo de NCIS se globaliza en la búsqueda para resolver crímenes con lazos de la Armada o la Infantería Marina.(n)</desc>
+  <programme start="20250527013000 -0500" stop="20250527023000 -0500" channel="Telemundo.pr">
+    <title lang="es">El Señor de los Cielos</title>
+    <desc lang="es">Narra la historia de Aurelio Casillas (Rafael Amaya), un narcotraficante mexicano que desde pequeño pierde a su padre por lo que él y su hermano, Víctor Casillas (Raúl Méndez), se ven forzados a sobrevivir por si solos.(n)</desc>
     <credits>
-      <actor>Mark Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>David McCallum</actor>
-      <actor>Sean Murray</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Lauren Holly</actor>
-      <writer>Donald P. Bellisario</writer>
-      <writer>Don McGill</writer>
-      <producer>David Bellisario</producer>
-      <producer>Avery C. Drewe</producer>
-      <composer>Numeriklab</composer>
+      <actor>Rafael Amaya</actor>
+      <actor>Ximena Herrera</actor>
+      <actor>Carmen Villalobos</actor>
+      <actor>Mauricio Ochmann</actor>
+      <actor>Raúl Méndez</actor>
+      <actor>Fernanda Castillo</actor>
+      <actor>Marlene Favela</actor>
+      <actor>Robinson Díaz</actor>
+      <writer>Luis Zelkowicz</writer>
+      <writer>Mariano Calasso</writer>
     </credits>
-    <date>2003</date>
+    <date>2013</date>
     <category lang="es">Acción</category>
-    <category lang="es">Comedia</category>
     <category lang="es">Crimen</category>
-    <category lang="es">Misterio</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis.jpg" />
-    <rating system="MX">
-      <value>TV-14</value>
-    </rating>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg" />
+    <country lang="es">México</country>
     <star-rating system="MX">
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20250525223000 -0500" stop="20250525233000 -0500" channel="Wapa.pr">
-    <title lang="es">Fbi</title>
+  <programme start="20250527023000 -0500" stop="20250527033000 -0500" channel="Telemundo.pr">
+    <title lang="es">Tierra de Reyes</title>
   </programme>
-  <programme start="20250525233000 -0500" stop="20250526000000 -0500" channel="Wapa.pr">
+  <programme start="20250527033000 -0500" stop="20250527040000 -0500" channel="Telemundo.pr">
+    <title lang="es">Decisiones</title>
+    <desc lang="es">Decisiones la miniserie de pequeños melodramas de telenovelas que en cada capítulo se trata sobre la pasión y el sexo en el mundo de hoy en día.Durante la hora de duración, se ven como pueden cambiar y que decisiones toman los hombres y mujeres en las aventuras amorosas puestas al límite.Cada episodio ha sido inspirado en casos de la vida real.(n)</desc>
+    <date>2005</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png" />
+    <country lang="es">Estados Unidos</country>
+  </programme>
+  <programme start="20250527040000 -0500" stop="20250527050000 -0500" channel="Telemundo.pr">
+    <title lang="es">En casa con Telemundo</title>
+  </programme>
+  <programme start="20250527050000 -0500" stop="20250527060000 -0500" channel="Telemundo.pr">
+    <title lang="es">Comienza el Día con la Pastora Wanda Rolon</title>
+  </programme>
+  <programme start="20250527060000 -0500" stop="20250527063000 -0500" channel="Telemundo.pr">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20250527063000 -0500" stop="20250527070000 -0500" channel="Telemundo.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20250526000000 -0500" stop="20250526003000 -0500" channel="Wapa.pr">
+  <programme start="20250527070000 -0500" stop="20250527073000 -0500" channel="Telemundo.pr">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20250527073000 -0500" stop="20250527080000 -0500" channel="Telemundo.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20250526003000 -0500" stop="20250526010000 -0500" channel="Wapa.pr">
+  <programme start="20250527080000 -0500" stop="20250527083000 -0500" channel="Telemundo.pr">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20250527083000 -0500" stop="20250527090000 -0500" channel="Telemundo.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20250526010000 -0500" stop="20250526013000 -0500" channel="Wapa.pr">
+  <programme start="20250527090000 -0500" stop="20250527093000 -0500" channel="Telemundo.pr">
     <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20250527093000 -0500" stop="20250527100000 -0500" channel="Telemundo.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20250527100000 -0500" stop="20250527103000 -0500" channel="Telemundo.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20250527103000 -0500" stop="20250527110000 -0500" channel="Telemundo.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20250527110000 -0500" stop="20250527113000 -0500" channel="Telemundo.pr">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20250527113000 -0500" stop="20250527120000 -0500" channel="Telemundo.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20250527120000 -0500" stop="20250527123000 -0500" channel="Telemundo.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20250527123000 -0500" stop="20250527130000 -0500" channel="Telemundo.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20250527130000 -0500" stop="20250527133000 -0500" channel="Telemundo.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20250527133000 -0500" stop="20250527140000 -0500" channel="Telemundo.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20250527140000 -0500" stop="20250527150000 -0500" channel="Telemundo.pr">
+    <title lang="es">Los miserables</title>
+  </programme>
+  <programme start="20250527150000 -0500" stop="20250527160000 -0500" channel="Telemundo.pr">
+    <title lang="es">En casa con Telemundo</title>
+  </programme>
+  <programme start="20250527160000 -0500" stop="20250527170000 -0500" channel="Telemundo.pr">
+    <title lang="es">En casa con Telemundo</title>
+  </programme>
+  <programme start="20250527170000 -0500" stop="20250527180000 -0500" channel="Telemundo.pr">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20250527180000 -0500" stop="20250527190000 -0500" channel="Telemundo.pr">
+    <title lang="es">El Señor de los Cielos</title>
+    <desc lang="es">Narra la historia de Aurelio Casillas (Rafael Amaya), un narcotraficante mexicano que desde pequeño pierde a su padre por lo que él y su hermano, Víctor Casillas (Raúl Méndez), se ven forzados a sobrevivir por si solos.(n)</desc>
+    <credits>
+      <actor>Rafael Amaya</actor>
+      <actor>Ximena Herrera</actor>
+      <actor>Carmen Villalobos</actor>
+      <actor>Mauricio Ochmann</actor>
+      <actor>Raúl Méndez</actor>
+      <actor>Fernanda Castillo</actor>
+      <actor>Marlene Favela</actor>
+      <actor>Robinson Díaz</actor>
+      <writer>Luis Zelkowicz</writer>
+      <writer>Mariano Calasso</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg" />
+    <country lang="es">México</country>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20250527190000 -0500" stop="20250527200000 -0500" channel="Telemundo.pr">
+    <title lang="es">Tierra de Reyes</title>
+  </programme>
+  <programme start="20250527200000 -0500" stop="20250527210000 -0500" channel="Telemundo.pr">
+    <title lang="es">Al rojo vivo</title>
+  </programme>
+  <programme start="20250527210000 -0500" stop="20250527213000 -0500" channel="Telemundo.pr">
+    <title lang="es">Noticias Telemundo</title>
+  </programme>
+  <programme start="20250527213000 -0500" stop="20250527223000 -0500" channel="Telemundo.pr">
+    <title lang="es">Flor salvaje</title>
+  </programme>
+  <programme start="20250527223000 -0500" stop="20250527230000 -0500" channel="Telemundo.pr">
+    <title lang="es">Decisiones</title>
+    <desc lang="es">Decisiones la miniserie de pequeños melodramas de telenovelas que en cada capítulo se trata sobre la pasión y el sexo en el mundo de hoy en día.Durante la hora de duración, se ven como pueden cambiar y que decisiones toman los hombres y mujeres en las aventuras amorosas puestas al límite.Cada episodio ha sido inspirado en casos de la vida real.(n)</desc>
+    <date>2005</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png" />
+    <country lang="es">Estados Unidos</country>
+  </programme>
+  <programme start="20250527230000 -0500" stop="20250527233000 -0500" channel="Telemundo.pr">
+    <title lang="es">El pelotazo</title>
+  </programme>
+  <programme start="20250527233000 -0500" stop="20250528003000 -0500" channel="Telemundo.pr">
+    <title lang="es">Los miserables</title>
+  </programme>
+  <programme start="20250528003000 -0500" stop="20250528013000 -0500" channel="Telemundo.pr">
+    <title lang="es">Al rojo vivo</title>
   </programme>
   <programme start="20250526013000 -0500" stop="20250526030000 -0500" channel="Wapa.pr">
     <title lang="es">Pégate al Mediodía</title>
@@ -4710,71 +3442,62 @@
   <programme start="20250527003000 -0500" stop="20250527010000 -0500" channel="Wapa.pr">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20250525030000 -0500" stop="20250525040000 -0500" channel="WIPR.pr)">
-    <title lang="es">Noches de Ayer</title>
+  <programme start="20250527010000 -0500" stop="20250527023000 -0500" channel="Wapa.pr">
+    <title lang="es">Pégate al Mediodía</title>
   </programme>
-  <programme start="20250525040000 -0500" stop="20250525053000 -0500" channel="WIPR.pr)">
-    <title lang="es">Pequeños en Acción</title>
+  <programme start="20250527023000 -0500" stop="20250527030000 -0500" channel="Wapa.pr">
+    <title lang="es">Noticentro 11 p. m</title>
   </programme>
-  <programme start="20250525053000 -0500" stop="20250525060000 -0500" channel="WIPR.pr)">
-    <title lang="es">Te Cuento lo que Leí</title>
+  <programme start="20250527030000 -0500" stop="20250527035600 -0500" channel="Wapa.pr">
+    <title lang="es">Lo Se Todo</title>
   </programme>
-  <programme start="20250525060000 -0500" stop="20250525063000 -0500" channel="WIPR.pr)">
-    <title lang="es">La Nave de Remi</title>
+  <programme start="20250527035600 -0500" stop="20250527043000 -0500" channel="Wapa.pr">
+    <title lang="es">Noticentro al amanecer: Primera edición</title>
   </programme>
-  <programme start="20250525063000 -0500" stop="20250525070000 -0500" channel="WIPR.pr)">
-    <title lang="es">Animaleando</title>
+  <programme start="20250527043000 -0500" stop="20250527090000 -0500" channel="Wapa.pr">
+    <title lang="es">Noticentro al Amanecer</title>
   </programme>
-  <programme start="20250525070000 -0500" stop="20250525090000 -0500" channel="WIPR.pr)">
-    <title lang="es">Un buen día</title>
+  <programme start="20250527090000 -0500" stop="20250527100000 -0500" channel="Wapa.pr">
+    <title lang="es">Enfermeras</title>
   </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="WIPR.pr)">
-    <title lang="es">Cuando Despierta el Amor</title>
+  <programme start="20250527100000 -0500" stop="20250527103000 -0500" channel="Wapa.pr">
+    <title lang="es">Noticentro 11 a. m</title>
   </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="WIPR.pr)">
-    <title lang="es">Travesías con Sabor</title>
+  <programme start="20250527103000 -0500" stop="20250527133000 -0500" channel="Wapa.pr">
+    <title lang="es">Pégate todo a la tarde</title>
   </programme>
-  <programme start="20250525103000 -0500" stop="20250525110000 -0500" channel="WIPR.pr)">
-    <title lang="es">La Cocina de Giovanna</title>
+  <programme start="20250527133000 -0500" stop="20250527143000 -0500" channel="Wapa.pr">
+    <title lang="es">Lo Se Todo</title>
   </programme>
-  <programme start="20250525110000 -0500" stop="20250525113000 -0500" channel="WIPR.pr)">
-    <title lang="es">Relleno sanitario municipio de Carolina</title>
+  <programme start="20250527143000 -0500" stop="20250527150000 -0500" channel="Wapa.pr">
+    <title lang="es">Los datos son los datos</title>
   </programme>
-  <programme start="20250525113000 -0500" stop="20250525120000 -0500" channel="WIPR.pr)">
-    <title lang="es">NCC: Edición salud</title>
+  <programme start="20250527150000 -0500" stop="20250527163000 -0500" channel="Wapa.pr">
+    <title lang="es">Noticentro edición estelar</title>
   </programme>
-  <programme start="20250525120000 -0500" stop="20250525140000 -0500" channel="WIPR.pr)">
-    <title lang="es">Dias de cine</title>
+  <programme start="20250527163000 -0500" stop="20250527180000 -0500" channel="Wapa.pr">
+    <title lang="es">Melissa</title>
   </programme>
-  <programme start="20250525140000 -0500" stop="20250525150000 -0500" channel="WIPR.pr)">
-    <title lang="es">Noches de Ayer</title>
+  <programme start="20250527180000 -0500" stop="20250527200000 -0500" channel="Wapa.pr">
+    <title lang="es">Película</title>
   </programme>
-  <programme start="20250525150000 -0500" stop="20250525163000 -0500" channel="WIPR.pr)">
-    <title lang="es">Festival Casals 2016</title>
+  <programme start="20250527200000 -0500" stop="20250527210000 -0500" channel="Wapa.pr">
+    <title lang="es">Destan</title>
   </programme>
-  <programme start="20250525163000 -0500" stop="20250525170000 -0500" channel="WIPR.pr)">
-    <title lang="es">40 años de encuentro de Bellas Artes</title>
+  <programme start="20250527210000 -0500" stop="20250527220000 -0500" channel="Wapa.pr">
+    <title lang="es">Cuarto Poder</title>
   </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="WIPR.pr)">
-    <title lang="es">Los valores no pasan de moda</title>
+  <programme start="20250527220000 -0500" stop="20250527223000 -0500" channel="Wapa.pr">
+    <title lang="es">Noticentro 11 p. m</title>
   </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="WIPR.pr)">
-    <title lang="es">¿Y quién es?</title>
+  <programme start="20250527223000 -0500" stop="20250527233000 -0500" channel="Wapa.pr">
+    <title lang="es">Soñar Contigo</title>
   </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="WIPR.pr)">
-    <title lang="es">Estudio Actoral</title>
+  <programme start="20250527233000 -0500" stop="20250528003000 -0500" channel="Wapa.pr">
+    <title lang="es">Soñar Contigo</title>
   </programme>
-  <programme start="20250525200000 -0500" stop="20250525220000 -0500" channel="WIPR.pr)">
-    <title lang="es">Una Historia Común</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="WIPR.pr)">
-    <title lang="es">Noches de Café Teatro</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526010000 -0500" channel="WIPR.pr)">
-    <title lang="es">Un buen día</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526030000 -0500" channel="WIPR.pr)">
-    <title lang="es">Dias de cine</title>
+  <programme start="20250528003000 -0500" stop="20250528010000 -0500" channel="Wapa.pr">
+    <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20250526030000 -0500" stop="20250526040000 -0500" channel="WIPR.pr)">
     <title lang="es">Noches de Ayer</title>
@@ -4866,56 +3589,98 @@
   <programme start="20250526230000 -0500" stop="20250527010000 -0500" channel="WIPR.pr)">
     <title lang="es">Un buen día</title>
   </programme>
-  <programme start="20250525020000 -0500" stop="20250525030000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Triálogo</title>
+  <programme start="20250527010000 -0500" stop="20250527020000 -0500" channel="WIPR.pr)">
+    <title lang="es">Aquí estamos</title>
   </programme>
-  <programme start="20250525030000 -0500" stop="20250525040000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Esta misma semana</title>
+  <programme start="20250527020000 -0500" stop="20250527030000 -0500" channel="WIPR.pr)">
+    <title lang="es">Cuando Despierta el Amor</title>
   </programme>
-  <programme start="20250525040000 -0500" stop="20250525050000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Coloquio</title>
+  <programme start="20250527030000 -0500" stop="20250527040000 -0500" channel="WIPR.pr)">
+    <title lang="es">Noches de Ayer</title>
   </programme>
-  <programme start="20250525050000 -0500" stop="20250525070000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Revista 110</title>
+  <programme start="20250527040000 -0500" stop="20250527053000 -0500" channel="WIPR.pr)">
+    <title lang="es">Pequeños en Acción</title>
   </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Battlestar galactica</title>
+  <programme start="20250527053000 -0500" stop="20250527060000 -0500" channel="WIPR.pr)">
+    <title lang="es">Te Cuento lo que Leí</title>
   </programme>
-  <programme start="20250525080000 -0500" stop="20250525090000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Triálogo</title>
+  <programme start="20250527060000 -0500" stop="20250527063000 -0500" channel="WIPR.pr)">
+    <title lang="es">La Nave de Remi</title>
   </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Lo bueno</title>
+  <programme start="20250527063000 -0500" stop="20250527070000 -0500" channel="WIPR.pr)">
+    <title lang="es">Animaleando</title>
   </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Battlestar galactica</title>
+  <programme start="20250527070000 -0500" stop="20250527090000 -0500" channel="WIPR.pr)">
+    <title lang="es">Un buen día</title>
   </programme>
-  <programme start="20250525110000 -0500" stop="20250525130000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Cine familiar</title>
+  <programme start="20250527090000 -0500" stop="20250527093000 -0500" channel="WIPR.pr)">
+    <title lang="es">Con sabor y saber</title>
   </programme>
-  <programme start="20250525130000 -0500" stop="20250525160000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">MLB</title>
+  <programme start="20250527093000 -0500" stop="20250527100000 -0500" channel="WIPR.pr)">
+    <title lang="es">Noticias</title>
   </programme>
-  <programme start="20250525160000 -0500" stop="20250525163000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">El tizon deportivo</title>
+  <programme start="20250527100000 -0500" stop="20250527110000 -0500" channel="WIPR.pr)">
+    <title lang="es">Esto lo hago yo</title>
   </programme>
-  <programme start="20250525163000 -0500" stop="20250525190000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Sin corte como en cine</title>
+  <programme start="20250527110000 -0500" stop="20250527113000 -0500" channel="WIPR.pr)">
+    <title lang="es">Cultura.21</title>
   </programme>
-  <programme start="20250525190000 -0500" stop="20250525210000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Bien de Bien</title>
+  <programme start="20250527113000 -0500" stop="20250527120000 -0500" channel="WIPR.pr)">
+    <title lang="es">Eco Latinoamérica</title>
   </programme>
-  <programme start="20250525210000 -0500" stop="20250525230000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Película</title>
+  <programme start="20250527120000 -0500" stop="20250527130000 -0500" channel="WIPR.pr)">
+    <title lang="es">Cuando Despierta el Amor</title>
   </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Highlander</title>
+  <programme start="20250527130000 -0500" stop="20250527133000 -0500" channel="WIPR.pr)">
+    <title lang="es">¿Y Cómo Fue?</title>
   </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">De agenda</title>
+  <programme start="20250527133000 -0500" stop="20250527140000 -0500" channel="WIPR.pr)">
+    <title lang="es">Prohibido Olvidar</title>
   </programme>
-  <programme start="20250526010000 -0500" stop="20250526020000 -0500" channel="Canal2TeleAntillas.rd">
-    <title lang="es">Triálogo</title>
+  <programme start="20250527140000 -0500" stop="20250527143000 -0500" channel="WIPR.pr)">
+    <title lang="es">La Nave de Remi</title>
+  </programme>
+  <programme start="20250527143000 -0500" stop="20250527150000 -0500" channel="WIPR.pr)">
+    <title lang="es">Labsix: Nivel elemental e intermedia</title>
+  </programme>
+  <programme start="20250527150000 -0500" stop="20250527153000 -0500" channel="WIPR.pr)">
+    <title lang="es">Te Cuento lo que Leí</title>
+  </programme>
+  <programme start="20250527153000 -0500" stop="20250527160000 -0500" channel="WIPR.pr)">
+    <title lang="es">Animaleando</title>
+  </programme>
+  <programme start="20250527160000 -0500" stop="20250527163000 -0500" channel="WIPR.pr)">
+    <title lang="es">Eco Latinoamérica</title>
+  </programme>
+  <programme start="20250527163000 -0500" stop="20250527170000 -0500" channel="WIPR.pr)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20250527170000 -0500" stop="20250527180000 -0500" channel="WIPR.pr)">
+    <title lang="es">Notiseis</title>
+  </programme>
+  <programme start="20250527180000 -0500" stop="20250527190000 -0500" channel="WIPR.pr)">
+    <title lang="es">Aquí estamos</title>
+  </programme>
+  <programme start="20250527190000 -0500" stop="20250527193000 -0500" channel="WIPR.pr)">
+    <title lang="es">Chef Boricua</title>
+  </programme>
+  <programme start="20250527193000 -0500" stop="20250527200000 -0500" channel="WIPR.pr)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20250527200000 -0500" stop="20250527203000 -0500" channel="WIPR.pr)">
+    <title lang="es">Arte esquina</title>
+  </programme>
+  <programme start="20250527203000 -0500" stop="20250527210000 -0500" channel="WIPR.pr)">
+    <title lang="es">Prohibido Olvidar</title>
+  </programme>
+  <programme start="20250527210000 -0500" stop="20250527220000 -0500" channel="WIPR.pr)">
+    <title lang="es">Notiseis</title>
+  </programme>
+  <programme start="20250527220000 -0500" stop="20250527230000 -0500" channel="WIPR.pr)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20250527230000 -0500" stop="20250528010000 -0500" channel="WIPR.pr)">
+    <title lang="es">Un buen día</title>
   </programme>
   <programme start="20250526020000 -0500" stop="20250526030000 -0500" channel="Canal2TeleAntillas.rd">
     <title lang="es">Propuesta semanal</title>
@@ -4971,225 +3736,6 @@
   </programme>
   <programme start="20250526173000 -0500" stop="20250526203000 -0500" channel="Canal2TeleAntillas.rd">
     <title lang="es">MLB</title>
-  </programme>
-  <programme start="20250525050000 -0500" stop="20250525060000 -0500" channel="Canal5.rd">
-    <title lang="es">La casa de la risa</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525070000 -0500" channel="Canal5.rd">
-    <title lang="es">Misa Padre Alegría</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="Canal5.rd">
-    <title lang="es">Como dice el dicho</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525090000 -0500" channel="Canal5.rd">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal5.rd">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Canal5.rd">
-    <title lang="es">Versión original</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525130000 -0500" channel="Canal5.rd">
-    <title lang="es">Tripletazo de películas</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525150000 -0500" channel="Canal5.rd">
-    <title lang="es">Tripletazo de películas</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525170000 -0500" channel="Canal5.rd">
-    <title lang="es">Tripletazo de películas</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal5.rd">
-    <title lang="es">Lo último</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525200000 -0500" channel="Canal5.rd">
-    <title lang="es">Sala 5</title>
-  </programme>
-  <programme start="20250525020000 -0500" stop="20250525030000 -0500" channel="Canal7.rd">
-    <title lang="es">The company</title>
-  </programme>
-  <programme start="20250525030000 -0500" stop="20250525040000 -0500" channel="Canal7.rd">
-    <title lang="es">Revelation</title>
-  </programme>
-  <programme start="20250525040000 -0500" stop="20250525050000 -0500" channel="Canal7.rd">
-    <title lang="es">Coraje de mujer</title>
-  </programme>
-  <programme start="20250525050000 -0500" stop="20250525053000 -0500" channel="Canal7.rd">
-    <title lang="es">Dino Ranch</title>
-  </programme>
-  <programme start="20250525053000 -0500" stop="20250525060000 -0500" channel="Canal7.rd">
-    <title lang="es">Plaza Sésamo</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525063000 -0500" channel="Canal7.rd">
-    <title lang="es">Plaza Sésamo</title>
-  </programme>
-  <programme start="20250525063000 -0500" stop="20250525070000 -0500" channel="Canal7.rd">
-    <title lang="es">Plaza Sésamo</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Canal7.rd">
-    <title lang="es">Star vs. The Forces</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="Canal7.rd">
-    <title lang="es">Beyblade Burst</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Canal7.rd">
-    <title lang="es">Ruby Gloom</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Canal7.rd">
-    <title lang="es">Ruby Gloom</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal7.rd">
-    <title lang="es">Officially Amazing Guinness</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Canal7.rd">
-    <title lang="es">Desafío Extremo</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525120000 -0500" channel="Canal7.rd">
-    <title lang="es">Desafío Extremo</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Canal7.rd">
-    <title lang="es">CSI: Cyber</title>
-    <desc lang="es">La agente especial Avery Ryan (Patricia Arquette) encabeza la División de Delitos Cibernéticos del FBI, una unidad a la vanguardia de la resolución de actividades ilegales que comienza en la mente, viven en línea y juegan en el mundo real. Ella sabe de primera mano cómo la tecnología actualmente permite a las personas esconderse en las sombras del internet y cometer delitos graves de proporciones globales. Trabajando con Ryan es el nuevo director de la Nueva Generación Forense, D.B. Russell (Ted Danson), un especialista civil que se ha trasladado desde Las Vegas para combinar su vasto conocimiento de la ciencia forense tradicional con avances de vanguardia para ayudar a cazar a los delincuentes cibernéticos más peligrosos. También en el equipo están el agente del FBI Elijah Mundo (James Van Der Beek), un experto forense que es exmilitar, un adicto a las drogas en acción autoproclamando y confidente de Avery; Daniel Kumitz (Charley Koontz) un genio de la tecnología introvertido con un ingenio rápido; Brody Nelson (Shad Moss), un ex hacker de sombrero negro que eligió trabajar para el FBI durante una vida de delito cibernético; y Raven Ramírez (Hayley Kiyoko) un técnico que es un experto en las redes sociales, las tendencias cibernéticas y las relaciones internacionales. Mientras otros agentes buscan delincuentes en casa y callejones oscuros, Ryan y su equipo buscan en la "red oscura", un lugar en las entrañas de la web donde los delincuentes son anónimos, el dinero no se puede rastrear y todo está a la venta con solo presionar una tecla.(n)</desc>
-    <credits>
-      <actor>Patricia Arquette</actor>
-      <actor>James Van Der Beek</actor>
-      <actor>Peter MacNicol</actor>
-      <actor>Shad Moss</actor>
-      <actor>Charley Koontz</actor>
-      <actor>Hayley Kiyoko</actor>
-      <actor>Ted Danson</actor>
-      <writer>Anthony E. Zuiker</writer>
-      <writer>Carol Mendelsohn</writer>
-      <producer>Richard Catalani</producer>
-      <producer>Craig S. O'Neill</producer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Misterio</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_cyber.jpg" />
-    <rating system="MX">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="MX">
-      <value>5.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="Canal7.rd">
-    <title lang="es">Zoo</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525150000 -0500" channel="Canal7.rd">
-    <title lang="es">Marvel's Daredevil</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525160000 -0500" channel="Canal7.rd">
-    <title lang="es">American Ninja</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="Canal7.rd">
-    <title lang="es">American Ninja</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal7.rd">
-    <title lang="es">DC Leguend of Tomorrow</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal7.rd">
-    <title lang="es">NCIS: Los Ángeles</title>
-    <desc lang="es">La Oficina de Proyectos Especiales (OSP), una división de NCIS que se encarga de aprehender a delincuentes peligrosos y elusivos que representan una amenaza para la seguridad del país. Al asumir identidades falsas y utilizar la tecnología más avanzada, este equipo de agentes altamente entrenados se oculta profundamente, poniendo sus vidas en línea en el campo para derribar sus objetivos. El agente especial "G" Callen (Chris O'Donnell) es un camaleón que se transforma en quien necesita ser para infiltrarse en el inframundo criminal. Su compañero es el agente especial Sam Hanna (LL Cool J.), un ex SEAL de la Marina de los Estados Unidos que ha participado en actividades tanto en Afganistán como en Irak, y un experto en vigilancia que utiliza equipos de monitoreo de vanguardia para vigilar a aquellos en el campo y darles información crucial. Asistiendo al equipo está la agente especial Kensi Blye (Daniela Ruah), la hija excepcionalmente brillante de un Marine asesinado que vive por la adrenalina que viene con el trabajo encubierto; El psicólogo operativo Nate Getz (Peter Cambor), experto en meterse en la cabeza de cualquiera, perfilando el objetivo y supervisando los estados de ánimo de los agentes antes, durante y después de las misiones; Dominic Vail (Adam Jamal Craig), la incorporación más reciente al equipo, está altamente calificada pero carece de experiencia práctica; y Henrietta "Hetty" Lange (Linda Hunt), quién supervisa el personal de apoyo "de trastienda" encargado de proporcionar todo, desde cámaras de micro vigilancia hasta automóviles para el equipo. Armada con lo último en equipos de alta tecnología y enviada regularmente a situaciones de riesgo vital, esta unidad muy unida confía el uno al otro para hacer lo que sea necesario para proteger los intereses nacionales.(n)</desc>
-    <credits>
-      <actor>Chris O'Donnell</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>LL Cool J</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Barrett Foa</actor>
-      <actor>Eric Christian Olsen</actor>
-      <writer>Shane Brennan</writer>
-      <composer>James S. Levine</composer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Misterio</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal7.rd">
-    <title lang="es">Arrow</title>
-    <desc lang="es">Después de estar abandonado durante cinco años en una isla remota, el multimillonario Oliver Queen (Stephen Amell) regresa a casa con una agenda misteriosa y un conjunto letal de nuevas habilidades que utilizará en una guerra contra el crimen.(n)</desc>
-    <credits>
-      <actor>Stephen Amell</actor>
-      <actor>Katie Cassidy</actor>
-      <actor>Colin Donnell</actor>
-      <actor>David Ramsey</actor>
-      <actor>Willa Holland</actor>
-      <actor>Susanna Thompson</actor>
-      <actor>Paul Blackthorne</actor>
-      <actor>Emily Bett Rickards</actor>
-      <writer>Greg Berlanti</writer>
-      <writer>Marc Guggenheim</writer>
-      <producer>J. P. Finn</producer>
-      <producer>Wendy Mericle</producer>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/arrow.jpg" />
-    <rating system="MX">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal7.rd">
-    <title lang="es">NCIS: New Orleans</title>
-    <desc lang="es">NCIS: New Orleans es un drama sobre la oficina de campo local que investiga casos criminales relacionados con personal militar una ciudad conocida por su música, entretenimiento y decadencia. Encabezando el equipo está el agente especial Dwayne Pride (Scott Bakula), alias "King", un nativo de Nueva Orleans que es impulsado por su necesidad de hacer lo correcto. El agente especial Christopher Lasalle (Lucas Black), que juega duro pero trabaja más duro; el agente especial del FBI que fue enviado a Nueva Orleans para investigar y que al finalizar su tarea se une al equipo de Pride; la ex agente de ATF Sonja Percy (Shalita Grant), que aún se está ajustando después de años de tareas secretas en solitario; y el agente forense Sebastián Lund (Rob Kerkovich), un científico brillante que dejó el laboratorio y luego de mucho entrenamiento se convirtió en agente. La doctora Loretta Wade (CCH Pounder), que es tan excéntrica como inteligente y la investigativa especialista en computadoras, Patton Plame (Daryl "Chill" Mitchell), una hacker animada y talentosa. Esta colorida ciudad alberga un lado que alberga un lado oscuro es un imán para el personal de servicio, y cuando la indulgencia es seguida por problemas, el equipo de Pride está en su mejor momento.(n)</desc>
-    <credits>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-      <actor>Rob Kerkovich</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Daryl "Chill" Mitchell</actor>
-      <actor>Shalita Grant</actor>
-      <actor>Vanessa Ferlito</actor>
-      <writer>Gary Glasberg</writer>
-      <producer>David Appelbaum</producer>
-      <producer>Joshua Rexon</producer>
-      <composer>John Lee Hooker</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_new_orleans.jpg" />
-    <rating system="MX">
-      <value>TV-MA</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal7.rd">
-    <title lang="es">Noche de luz</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal7.rd">
-    <title lang="es">Toque Final</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal7.rd">
-    <title lang="es">Los Borgia</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="Canal7.rd">
-    <title lang="es">Crossing lines</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526020000 -0500" channel="Canal7.rd">
-    <title lang="es">Stephen King</title>
   </programme>
   <programme start="20250526020000 -0500" stop="20250526030000 -0500" channel="Canal7.rd">
     <title lang="es">Witness to the Mob</title>
@@ -5269,66 +3815,6 @@
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal7.rd">
     <title lang="es">La promesa</title>
   </programme>
-  <programme start="20250525020000 -0500" stop="20250525030000 -0500" channel="Canal9.rd">
-    <title lang="es">Enfasis</title>
-  </programme>
-  <programme start="20250525030000 -0500" stop="20250525040000 -0500" channel="Canal9.rd">
-    <title lang="es">¡Qué chevere es saber!</title>
-  </programme>
-  <programme start="20250525040000 -0500" stop="20250525050000 -0500" channel="Canal9.rd">
-    <title lang="es">Zona norte</title>
-  </programme>
-  <programme start="20250525050000 -0500" stop="20250525060000 -0500" channel="Canal9.rd">
-    <title lang="es">Buenas nuevas</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525070000 -0500" channel="Canal9.rd">
-    <title lang="es">Espejo 360</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="Canal9.rd">
-    <title lang="es">Puntos de vista</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525090000 -0500" channel="Canal9.rd">
-    <title lang="es">Lideres</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal9.rd">
-    <title lang="es">Aeromundo</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Canal9.rd">
-    <title lang="es">Panorama semanal</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525130000 -0500" channel="Canal9.rd">
-    <title lang="es">Chicago Med</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525150000 -0500" channel="Canal9.rd">
-    <title lang="es">Cine 9</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525170000 -0500" channel="Canal9.rd">
-    <title lang="es">Cine 9</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal9.rd">
-    <title lang="es">Series LMO</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal9.rd">
-    <title lang="es">Noticias SIN fin de semana</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal9.rd">
-    <title lang="es">El show de Raymond y Miguel</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal9.rd">
-    <title lang="es">Con Jatnna</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal9.rd">
-    <title lang="es">Pamela, todo un show</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal9.rd">
-    <title lang="es">Proceso</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal9.rd">
-    <title lang="es">Vamos</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526013000 -0500" channel="Canal9.rd">
-    <title lang="es">Cine 9</title>
-  </programme>
   <programme start="20250526013000 -0500" stop="20250526030000 -0500" channel="Canal9.rd">
     <title lang="es">Documental DW</title>
   </programme>
@@ -5403,84 +3889,6 @@
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal9.rd">
     <title lang="es">Noticias y mucho más</title>
   </programme>
-  <programme start="20250525020000 -0500" stop="20250525030000 -0500" channel="Canal11.rd">
-    <title lang="es">Esta misma semana</title>
-  </programme>
-  <programme start="20250525030000 -0500" stop="20250525040000 -0500" channel="Canal11.rd">
-    <title lang="es">Coloquio</title>
-  </programme>
-  <programme start="20250525040000 -0500" stop="20250525050000 -0500" channel="Canal11.rd">
-    <title lang="es">Café CNN</title>
-  </programme>
-  <programme start="20250525050000 -0500" stop="20250525053000 -0500" channel="Canal11.rd">
-    <title lang="es">MicKey Mouse Club House</title>
-  </programme>
-  <programme start="20250525053000 -0500" stop="20250525060000 -0500" channel="Canal11.rd">
-    <title lang="es">MicKey Mouse Club House</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525063000 -0500" channel="Canal11.rd">
-    <title lang="es">MicKey Mouse Club House</title>
-  </programme>
-  <programme start="20250525063000 -0500" stop="20250525070000 -0500" channel="Canal11.rd">
-    <title lang="es">Marvel Ultimate Spiderman</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="Canal11.rd">
-    <title lang="es">Propuesta semanal</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525090000 -0500" channel="Canal11.rd">
-    <title lang="es">D'agenda</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal11.rd">
-    <title lang="es">Con el consumidor</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525105500 -0500" channel="Canal11.rd">
-    <title lang="es">Entre periodistas</title>
-  </programme>
-  <programme start="20250525105500 -0500" stop="20250525110000 -0500" channel="Canal11.rd">
-    <title lang="es">Lotedom</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525140000 -0500" channel="Canal11.rd">
-    <title lang="es">Más Roberto</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525143000 -0500" channel="Canal11.rd">
-    <title lang="es">Aaron Stone</title>
-  </programme>
-  <programme start="20250525143000 -0500" stop="20250525150000 -0500" channel="Canal11.rd">
-    <title lang="es">KC Undercover</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525163000 -0500" channel="Canal11.rd">
-    <title lang="es">Tardes de cine</title>
-  </programme>
-  <programme start="20250525163000 -0500" stop="20250525180000 -0500" channel="Canal11.rd">
-    <title lang="es">Tardes de cine</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525185400 -0500" channel="Canal11.rd">
-    <title lang="es">Yayo Pinto Podcast</title>
-  </programme>
-  <programme start="20250525185400 -0500" stop="20250525190000 -0500" channel="Canal11.rd">
-    <title lang="es">Sorteo loteka</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525210000 -0500" channel="Canal11.rd">
-    <title lang="es">Cinema 11</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525213000 -0500" channel="Canal11.rd">
-    <title lang="es">Telenoticias - Fin de semana</title>
-  </programme>
-  <programme start="20250525213000 -0500" stop="20250525220000 -0500" channel="Canal11.rd">
-    <title lang="es">Miralba Multitasking</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal11.rd">
-    <title lang="es">Cine de medianoche</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal11.rd">
-    <title lang="es">Highlander</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="Canal11.rd">
-    <title lang="es">De agenda</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526020000 -0500" channel="Canal11.rd">
-    <title lang="es">Triálogo</title>
-  </programme>
   <programme start="20250526020000 -0500" stop="20250526030000 -0500" channel="Canal11.rd">
     <title lang="es">Propuesta semanal</title>
   </programme>
@@ -5547,57 +3955,6 @@
   <programme start="20250526185400 -0500" stop="20250526190000 -0500" channel="Canal11.rd">
     <title lang="es">Sorteo loteka</title>
   </programme>
-  <programme start="20250525050000 -0500" stop="20250525053000 -0500" channel="Canal13.rd">
-    <title lang="es">Sabrina</title>
-  </programme>
-  <programme start="20250525053000 -0500" stop="20250525063000 -0500" channel="Canal13.rd">
-    <title lang="es">Backyardigans</title>
-  </programme>
-  <programme start="20250525063000 -0500" stop="20250525070000 -0500" channel="Canal13.rd">
-    <title lang="es">El chavo animado</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Canal13.rd">
-    <title lang="es">El chavo animado</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="Canal13.rd">
-    <title lang="es">Lazytown</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525090000 -0500" channel="Canal13.rd">
-    <title lang="es">Mujer, casos de la vida real</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal13.rd">
-    <title lang="es">Mujer, casos de la vida real</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Canal13.rd">
-    <title lang="es">Al Punto</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525130000 -0500" channel="Canal13.rd">
-    <title lang="es">Toma 13 - 1era - Cine a la carta</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525150000 -0500" channel="Canal13.rd">
-    <title lang="es">Toma 13 - 2da Función</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525170000 -0500" channel="Canal13.rd">
-    <title lang="es">Toma 13 - 3ra Función</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal13.rd">
-    <title lang="es">Los incorregibles de Santa Martha</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal13.rd">
-    <title lang="es">En Contacto</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525210000 -0500" channel="Canal13.rd">
-    <title lang="es">Lo mejor del cine</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525230000 -0500" channel="Canal13.rd">
-    <title lang="es">Lo mejor del cine</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526010000 -0500" channel="Canal13.rd">
-    <title lang="es">Lo mejor del cine</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526013000 -0500" channel="Canal13.rd">
-    <title lang="es">Noticiero Univisión</title>
-  </programme>
   <programme start="20250526013000 -0500" stop="20250526040000 -0500" channel="Canal13.rd">
     <title lang="es">Bloque de repeticiones</title>
   </programme>
@@ -5637,60 +3994,6 @@
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal13.rd">
     <title lang="es">A Que No Me Dejas</title>
   </programme>
-  <programme start="20250525050000 -0500" stop="20250525060000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Musicales</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525070000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Yoga con Luz</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Como dice el dicho</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525090000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Principalmente</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">La Familia Peluche</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Mi pueblo por dentro</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525120000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Fuera de Liga con Verónica Batista</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">La parrilla del fuego</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Tras la verdad</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525160000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Cantando por un sueño</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Esta Libre</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Renta Congelada</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">40 y 20</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Faisy nights</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Game Time</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Miembros al aire</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Doble Sentido</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526040000 -0500" channel="Canal15DigitalQuince.rd">
-    <title lang="es">Bloque de repeticiones</title>
-  </programme>
   <programme start="20250526040000 -0500" stop="20250526070000 -0500" channel="Canal15DigitalQuince.rd">
     <title lang="es">La opción de la mañana</title>
   </programme>
@@ -5723,63 +4026,6 @@
   </programme>
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal15DigitalQuince.rd">
     <title lang="es">Echando el pulso</title>
-  </programme>
-  <programme start="20250525050000 -0500" stop="20250525053000 -0500" channel="Canal29.rd">
-    <title lang="es">La voz de los obispos</title>
-  </programme>
-  <programme start="20250525053000 -0500" stop="20250525060000 -0500" channel="Canal29.rd">
-    <title lang="es">Alandar</title>
-  </programme>
-  <programme start="20250525060000 -0500" stop="20250525080000 -0500" channel="Canal29.rd">
-    <title lang="es">Repasando</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525090000 -0500" channel="Canal29.rd">
-    <title lang="es">Punto de referencia</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal29.rd">
-    <title lang="es">Misa desde la catedral</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525110000 -0500" channel="Canal29.rd">
-    <title lang="es">El patio mágico de Payamin</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525120000 -0500" channel="Canal29.rd">
-    <title lang="es">Marco noticioso</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Canal29.rd">
-    <title lang="es">Ruta ganadera</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="Canal29.rd">
-    <title lang="es">Por aire, mar y tierra</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525150000 -0500" channel="Canal29.rd">
-    <title lang="es">SIN - Edición</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525160000 -0500" channel="Canal29.rd">
-    <title lang="es">Documentales</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="Canal29.rd">
-    <title lang="es">Naturaleza viva</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal29.rd">
-    <title lang="es">Añoranzas</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal29.rd">
-    <title lang="es">El demócrata</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal29.rd">
-    <title lang="es">Estaciones sociales</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal29.rd">
-    <title lang="es">Encuentro con Jordy</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal29.rd">
-    <title lang="es">ITrending</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal29.rd">
-    <title lang="es">Con Brenda</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526040000 -0500" channel="Canal29.rd">
-    <title lang="es">Retransmisión Programación regular</title>
   </programme>
   <programme start="20250526040000 -0500" stop="20250526050000 -0500" channel="Canal29.rd">
     <title lang="es">Mañana mañera</title>
@@ -5831,105 +4077,6 @@
   </programme>
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal29.rd">
     <title lang="es">Panorámica</title>
-  </programme>
-  <programme start="20250525013000 -0500" stop="20250525020000 -0500" channel="Canal37.rd">
-    <title lang="es">Agenda climática</title>
-  </programme>
-  <programme start="20250525020000 -0500" stop="20250525030000 -0500" channel="Canal37.rd">
-    <title lang="es">Noticiario CDN - Fin de semana</title>
-  </programme>
-  <programme start="20250525030000 -0500" stop="20250525040000 -0500" channel="Canal37.rd">
-    <title lang="es">Finjus</title>
-  </programme>
-  <programme start="20250525040000 -0500" stop="20250525050000 -0500" channel="Canal37.rd">
-    <title lang="es">Marcando el rumbo</title>
-  </programme>
-  <programme start="20250525050000 -0500" stop="20250525053000 -0500" channel="Canal37.rd">
-    <title lang="es">Noticiario CDN</title>
-  </programme>
-  <programme start="20250525053000 -0500" stop="20250525063000 -0500" channel="Canal37.rd">
-    <title lang="es">Conversando con mi arzobispo</title>
-  </programme>
-  <programme start="20250525063000 -0500" stop="20250525070000 -0500" channel="Canal37.rd">
-    <title lang="es">El informe Kliksberg</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Canal37.rd">
-    <title lang="es">Tiempo de cosecha</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="Canal37.rd">
-    <title lang="es">¡Escápate!</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Canal37.rd">
-    <title lang="es">Agenda climática</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Canal37.rd">
-    <title lang="es">Vivir en salud</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal37.rd">
-    <title lang="es">A Fondo</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="Canal37.rd">
-    <title lang="es">Finjus</title>
-  </programme>
-  <programme start="20250525103000 -0500" stop="20250525110000 -0500" channel="Canal37.rd">
-    <title lang="es">FB, Youtube y Twitter</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525120000 -0500" channel="Canal37.rd">
-    <title lang="es">Noticiario CDN</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Canal37.rd">
-    <title lang="es">A Fondo</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="Canal37.rd">
-    <title lang="es">Coloquios</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525145500 -0500" channel="Canal37.rd">
-    <title lang="es">Finjus</title>
-  </programme>
-  <programme start="20250525145500 -0500" stop="20250525150000 -0500" channel="Canal37.rd">
-    <title lang="es">Loto de Leidsa</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525153000 -0500" channel="Canal37.rd">
-    <title lang="es">¡Escápate!</title>
-  </programme>
-  <programme start="20250525153000 -0500" stop="20250525160000 -0500" channel="Canal37.rd">
-    <title lang="es">Eco Latinoamérica</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525163000 -0500" channel="Canal37.rd">
-    <title lang="es">Agenda climática</title>
-  </programme>
-  <programme start="20250525163000 -0500" stop="20250525170000 -0500" channel="Canal37.rd">
-    <title lang="es">Encuentros VIP</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal37.rd">
-    <title lang="es">Confabulaciones</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal37.rd">
-    <title lang="es">Noticiario CDN - Fin de semana</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal37.rd">
-    <title lang="es">Circulo de Grandes Ligas</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal37.rd">
-    <title lang="es">Reporte Especial</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal37.rd">
-    <title lang="es">Siendo honestos</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal37.rd">
-    <title lang="es">Iluminada la entrevista</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal37.rd">
-    <title lang="es">Noticiario CDN</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526003000 -0500" channel="Canal37.rd">
-    <title lang="es">Vivir en salud</title>
-  </programme>
-  <programme start="20250526003000 -0500" stop="20250526010000 -0500" channel="Canal37.rd">
-    <title lang="es">Global es</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526020000 -0500" channel="Canal37.rd">
-    <title lang="es">Noticiario CDN</title>
   </programme>
   <programme start="20250526020000 -0500" stop="20250526023000 -0500" channel="Canal37.rd">
     <title lang="es">Agenda climática</title>
@@ -5997,111 +4144,6 @@
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal37.rd">
     <title lang="es">Red de noticias</title>
   </programme>
-  <programme start="20250525020000 -0500" stop="20250525070000 -0500" channel="Canal2.sv">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525080000 -0500" channel="Canal2.sv">
-    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Canal2.sv">
-    <title lang="es">Las aventuras de Rocky y Bullwinkle</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Canal2.sv">
-    <title lang="es">La próxima gran aventura de Archibald</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525093000 -0500" channel="Canal2.sv">
-    <title lang="es">Dinotrux</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525100000 -0500" channel="Canal2.sv">
-    <title lang="es">Teen Titans Go</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="Canal2.sv">
-    <title lang="es">Océanos secretos</title>
-  </programme>
-  <programme start="20250525103000 -0500" stop="20250525110000 -0500" channel="Canal2.sv">
-    <title lang="es">Paso a Paso</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525113000 -0500" channel="Canal2.sv">
-    <title lang="es">The Nanny</title>
-  </programme>
-  <programme start="20250525113000 -0500" stop="20250525120000 -0500" channel="Canal2.sv">
-    <title lang="es">¿Quién Manda a Quién?</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Canal2.sv">
-    <title lang="es">La vuelta al mundo en 80 risas</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525150000 -0500" channel="Canal2.sv">
-    <title lang="es">Prendi2</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525170000 -0500" channel="Canal2.sv">
-    <title lang="es">Cuéntamelo ya, al fin</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal2.sv">
-    <title lang="es">Heroes</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal2.sv">
-    <title lang="es">The magicians</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal2.sv">
-    <title lang="es">9-1-1</title>
-    <desc lang="es">Una serie dramática que explora las experiencias de alta presión de policías, paramédicos y bomberos que son empujados a las más impactantes, aterradoras y cardiacas situaciones.(n)</desc>
-    <credits>
-      <actor>Angela Bassett</actor>
-      <actor>Peter Krause</actor>
-      <actor>Oliver Stark</actor>
-      <actor>Aisha Hinds</actor>
-      <actor>Kenneth Choi</actor>
-      <actor>Rockmond Dunbar</actor>
-      <actor>Connie Britton</actor>
-      <writer>Ryan Murphy</writer>
-      <writer>Brad Falchuk</writer>
-      <producer>Robert M. Williams Jr.</producer>
-      <producer>Matt Hodgson</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/9-1-1.jpg" />
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525220000 -0500" channel="Canal2.sv">
-    <title lang="es">Yo me llamo - Fin</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal2.sv">
-    <title lang="es">The Blacklist</title>
-    <desc lang="es">El criminal más buscado del mundo se entrega misteriosamente y ofrece renunciar a todas las personas con las que ha trabajado. Su única condición es que solo trabajará con el agente del FBI recién llegado con quien aparentemente no tiene conexión.(n)</desc>
-    <credits>
-      <actor>James Spader</actor>
-      <actor>Megan Boone</actor>
-      <actor>Diego Klattenhoff</actor>
-      <actor>Ryan Eggold</actor>
-      <actor>Parminder Nagra</actor>
-      <actor>Harry Lennix</actor>
-      <actor>Amir Arison</actor>
-      <actor>Mozhan Marnò</actor>
-      <writer>Jon Bokenkamp</writer>
-      <producer>Anthony Sparks</producer>
-      <composer>Dave Porter</composer>
-      <composer>James S. Levine</composer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Misterio</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_blacklist.jpg" />
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal2.sv">
-    <title lang="es">Blindspot</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526020000 -0500" channel="Canal2.sv">
-    <title lang="es">Encubrimiento</title>
-  </programme>
   <programme start="20250526020000 -0500" stop="20250526062500 -0500" channel="Canal2.sv">
     <title lang="es">Cierre de transmisión</title>
   </programme>
@@ -6167,63 +4209,6 @@
   <programme start="20250526183000 -0500" stop="20250526200000 -0500" channel="Canal2.sv">
     <title lang="es">Llevatelo</title>
   </programme>
-  <programme start="20250525020000 -0500" stop="20250525070000 -0500" channel="Canal4.sv">
-    <title lang="es">Fin de transmisión</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525090000 -0500" channel="Canal4.sv">
-    <title lang="es">Maratón La familia Peluche</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal4.sv">
-    <title lang="es">El chavo animado</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525104500 -0500" channel="Canal4.sv">
-    <title lang="es">El Chapulín animado</title>
-  </programme>
-  <programme start="20250525104500 -0500" stop="20250525115700 -0500" channel="Canal4.sv">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20250525115700 -0500" stop="20250525120000 -0500" channel="Canal4.sv">
-    <title lang="es">Sorteo de Loto</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525131500 -0500" channel="Canal4.sv">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20250525131500 -0500" stop="20250525134500 -0500" channel="Canal4.sv">
-    <title lang="es">Nosotros los guapos</title>
-  </programme>
-  <programme start="20250525134500 -0500" stop="20250525150000 -0500" channel="Canal4.sv">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525153000 -0500" channel="Canal4.sv">
-    <title lang="es">40 y 20</title>
-  </programme>
-  <programme start="20250525153000 -0500" stop="20250525181500 -0500" channel="Canal4.sv">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20250525181500 -0500" stop="20250525200000 -0500" channel="Canal4.sv">
-    <title lang="es">Tiempo Extra</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525210000 -0500" channel="Canal4.sv">
-    <title lang="es">Informe Leo</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525220000 -0500" channel="Canal4.sv">
-    <title lang="es">Shark Tank México</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525220300 -0500" channel="Canal4.sv">
-    <title lang="es">Sorteo de Loto</title>
-  </programme>
-  <programme start="20250525220300 -0500" stop="20250525230000 -0500" channel="Canal4.sv">
-    <title lang="es">De Noche pero sin Sueño</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal4.sv">
-    <title lang="es">Contacto deportivo</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="Canal4.sv">
-    <title lang="es">Tiempo Extra</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526062500 -0500" channel="Canal4.sv">
-    <title lang="es">Fin de transmisión</title>
-  </programme>
   <programme start="20250526062500 -0500" stop="20250526063000 -0500" channel="Canal4.sv">
     <title lang="es">El minuto de María</title>
   </programme>
@@ -6256,138 +4241,6 @@
   </programme>
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal4.sv">
     <title lang="es">El Gordo y la Flaca</title>
-  </programme>
-  <programme start="20250525030000 -0500" stop="20250525070000 -0500" channel="Canal6.sv">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Canal6.sv">
-    <title lang="es">Abominable y la Ciudad Invisible</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="Canal6.sv">
-    <title lang="es">Kung Fu Panda: El Guerrero Dragón</title>
-    <desc lang="es">Cuando un misterioso par de comadrejas ponen su mirada en una colección de cuatro poderosas armas, Po (Jack Black) debe abandonar su hogar para embarcarse en una búsqueda de redención y justicia por todo el mundo que lo terminará asociando con una inglesa sensata llamada Wandering Blade (Rita Ora). Juntos, estos dos guerreros dispares se embarcarán en una aventura épica para encontrar primero las armas mágicas y salvar al mundo de la destrucción.(n)</desc>
-    <credits>
-      <actor>Jack Black</actor>
-      <actor>James Hong</actor>
-      <actor>Della Saba</actor>
-      <actor>Rita Ora</actor>
-      <actor>Chris Geere</actor>
-      <actor>Amy Hill</actor>
-      <actor>Ed Weeks</actor>
-      <actor>Rahnuma Panthaky</actor>
-      <producer>Christopher Amick</producer>
-      <composer>Kevin Lax</composer>
-      <composer>Robert Lydecker</composer>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/kung_fu_panda_the_dragon_knight.jpg" />
-    <rating system="MX">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Canal6.sv">
-    <title lang="es">Tiempo del espíritu</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Canal6.sv">
-    <title lang="es">Lumen 2000</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525100000 -0500" channel="Canal6.sv">
-    <title lang="es">Santa misa dominical</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525120000 -0500" channel="Canal6.sv">
-    <title lang="es">El jardín secreto</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525140000 -0500" channel="Canal6.sv">
-    <title lang="es">Amigas inseparables</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525160000 -0500" channel="Canal6.sv">
-    <title lang="es">Rascacielos: Rescate en las Alturas</title>
-    <desc lang="es">El ex líder del equipo de rescate de rehenes del FBI y veterano de guerra de Estados Unidos, Will Sawyer (Dwayne Johnson), que ahora evalúa la seguridad de los rascacielos. En una misión en China, encuentra el edificio más alto y seguro del mundo que se incendia repentinamente, y ha sido acusado por ello. Un hombre buscado huye y debe buscar a los responsables para limpiar su nombre y de alguna manera rescatar a su familia que está atrapada dentro del edificio… por encima de la línea de fuego.(n)</desc>
-    <credits>
-      <director>Rawson M. Thurber</director>
-      <actor>Dwayne Johnson</actor>
-      <actor>Neve Campbell</actor>
-      <actor>Chin Han</actor>
-      <actor>Roland Møller</actor>
-      <actor>Pablo Schreiber</actor>
-      <actor>Byron Mann</actor>
-      <actor>Hannah Quinlivan</actor>
-      <actor>Noah Taylor</actor>
-      <producer>Beau Flynn</producer>
-      <producer>Dwayne Johnson</producer>
-      <composer>Steve Jablonsky</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Crimen</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/rascacielos_2018.jpg" />
-    <rating system="MX">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MX">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525180000 -0500" channel="Canal6.sv">
-    <title lang="es">Una pareja explosiva 2</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525200000 -0500" channel="Canal6.sv">
-    <title lang="es">El gendarme desconocido</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525203000 -0500" channel="Canal6.sv">
-    <title lang="es">El noticiero - Fin de semana</title>
-  </programme>
-  <programme start="20250525203000 -0500" stop="20250525210000 -0500" channel="Canal6.sv">
-    <title lang="es">Noticiero Univisión</title>
-  </programme>
-  <programme start="20250525210000 -0500" stop="20250525230000 -0500" channel="Canal6.sv">
-    <title lang="es">Tenet</title>
-    <desc lang="es">Armado con una sola palabra – Tenet – y luchando por la supervivencia del mundo entero, el protagonista viaja a través de un mundo crepuscular de espionaje internacional en una misión que se desarrollará en algo más allá del tiempo real. No es un viaje en el tiempo. Inversión.(n)</desc>
-    <credits>
-      <director>Christopher Nolan</director>
-      <actor>John David Washington</actor>
-      <actor>Robert Pattinson</actor>
-      <actor>Elizabeth Debicki</actor>
-      <actor>Dimple Kapadia</actor>
-      <actor>Michael Caine</actor>
-      <actor>Kenneth Branagh</actor>
-      <actor>Aaron Taylor-Johnson</actor>
-      <actor>Clémence Poésy</actor>
-      <producer>Emma Thomas</producer>
-      <producer>Christopher Nolan</producer>
-      <composer>Ludwig Göransson</composer>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/tenet.jpg" />
-    <country lang="es">Reino Unido</country>
-    <rating system="MX">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526010000 -0500" channel="Canal6.sv">
-    <title lang="es">El tirador</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526030000 -0500" channel="Canal6.sv">
-    <title lang="es">Una película épica</title>
   </programme>
   <programme start="20250526030000 -0500" stop="20250526062500 -0500" channel="Canal6.sv">
     <title lang="es">Cierre de transmisión</title>
@@ -6428,75 +4281,6 @@
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal6.sv">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Canal12.sv">
-    <title lang="es">3, 2, 1, ¡Vamos!</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525080000 -0500" channel="Canal12.sv">
-    <title lang="es">Beyblade</title>
-  </programme>
-  <programme start="20250525080000 -0500" stop="20250525083000 -0500" channel="Canal12.sv">
-    <title lang="es">Los defensores Di Gata</title>
-  </programme>
-  <programme start="20250525083000 -0500" stop="20250525090000 -0500" channel="Canal12.sv">
-    <title lang="es">Heidi 3D</title>
-  </programme>
-  <programme start="20250525090000 -0500" stop="20250525093000 -0500" channel="Canal12.sv">
-    <title lang="es">Bakugan</title>
-  </programme>
-  <programme start="20250525093000 -0500" stop="20250525100000 -0500" channel="Canal12.sv">
-    <title lang="es">Plaza Sésamo</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525103000 -0500" channel="Canal12.sv">
-    <title lang="es">Medabots</title>
-  </programme>
-  <programme start="20250525103000 -0500" stop="20250525110000 -0500" channel="Canal12.sv">
-    <title lang="es">Kamen Rider</title>
-  </programme>
-  <programme start="20250525110000 -0500" stop="20250525120000 -0500" channel="Canal12.sv">
-    <title lang="es">Saber y ganar</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Canal12.sv">
-    <title lang="es">El conciertazo</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525140000 -0500" channel="Canal12.sv">
-    <title lang="es">Factor miedo</title>
-  </programme>
-  <programme start="20250525140000 -0500" stop="20250525150000 -0500" channel="Canal12.sv">
-    <title lang="es">Toledo</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525151500 -0500" channel="Canal12.sv">
-    <title lang="es">Los cinco ángeles de Dios</title>
-  </programme>
-  <programme start="20250525151500 -0500" stop="20250525160000 -0500" channel="Canal12.sv">
-    <title lang="es">Guerrero Ninja Americano</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525170000 -0500" channel="Canal12.sv">
-    <title lang="es">Extreme reality clips</title>
-  </programme>
-  <programme start="20250525170000 -0500" stop="20250525180000 -0500" channel="Canal12.sv">
-    <title lang="es">Guerrero Ninja Americano</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal12.sv">
-    <title lang="es">Alerta Cobra</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525203000 -0500" channel="Canal12.sv">
-    <title lang="es">Pizarrón deportivo</title>
-  </programme>
-  <programme start="20250525203000 -0500" stop="20250525213000 -0500" channel="Canal12.sv">
-    <title lang="es">Noticiero hechos - Fin de semana</title>
-  </programme>
-  <programme start="20250525213000 -0500" stop="20250525223000 -0500" channel="Canal12.sv">
-    <title lang="es">Al sur de la frontera</title>
-  </programme>
-  <programme start="20250525223000 -0500" stop="20250526003000 -0500" channel="Canal12.sv">
-    <title lang="es">Cautiva</title>
-  </programme>
-  <programme start="20250526003000 -0500" stop="20250526010000 -0500" channel="Canal12.sv">
-    <title lang="es">Presunto Culpable</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526063000 -0500" channel="Canal12.sv">
-    <title lang="es">Fin de transmisión</title>
-  </programme>
   <programme start="20250526063000 -0500" stop="20250526093000 -0500" channel="Canal12.sv">
     <title lang="es">Hechos A.M</title>
   </programme>
@@ -6526,54 +4310,6 @@
   </programme>
   <programme start="20250526180000 -0500" stop="20250526190000 -0500" channel="Canal12.sv">
     <title lang="es">Pop 12, más música, más poder y farándula</title>
-  </programme>
-  <programme start="20250525070000 -0500" stop="20250525073000 -0500" channel="Canal21.sv">
-    <title lang="es">Telenoticias Megavisión</title>
-  </programme>
-  <programme start="20250525073000 -0500" stop="20250525100000 -0500" channel="Canal21.sv">
-    <title lang="es">Arriba mi gente</title>
-  </programme>
-  <programme start="20250525100000 -0500" stop="20250525120000 -0500" channel="Canal21.sv">
-    <title lang="es">El Reino Infantil</title>
-  </programme>
-  <programme start="20250525120000 -0500" stop="20250525130000 -0500" channel="Canal21.sv">
-    <title lang="es">Santa misa dominical</title>
-  </programme>
-  <programme start="20250525130000 -0500" stop="20250525150000 -0500" channel="Canal21.sv">
-    <title lang="es">Aroma y sazón</title>
-  </programme>
-  <programme start="20250525150000 -0500" stop="20250525160000 -0500" channel="Canal21.sv">
-    <title lang="es">Salud TV</title>
-  </programme>
-  <programme start="20250525160000 -0500" stop="20250525173000 -0500" channel="Canal21.sv">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20250525173000 -0500" stop="20250525180000 -0500" channel="Canal21.sv">
-    <title lang="es">Mi país TV</title>
-  </programme>
-  <programme start="20250525180000 -0500" stop="20250525190000 -0500" channel="Canal21.sv">
-    <title lang="es">Código 21 Extra</title>
-  </programme>
-  <programme start="20250525190000 -0500" stop="20250525200000 -0500" channel="Canal21.sv">
-    <title lang="es">7 días</title>
-  </programme>
-  <programme start="20250525200000 -0500" stop="20250525203000 -0500" channel="Canal21.sv">
-    <title lang="es">Telenoticias Megavisión - Fin de semana</title>
-  </programme>
-  <programme start="20250525203000 -0500" stop="20250525220000 -0500" channel="Canal21.sv">
-    <title lang="es">Esperanza mía</title>
-  </programme>
-  <programme start="20250525220000 -0500" stop="20250525230000 -0500" channel="Canal21.sv">
-    <title lang="es">Escándalos</title>
-  </programme>
-  <programme start="20250525230000 -0500" stop="20250526000000 -0500" channel="Canal21.sv">
-    <title lang="es">Fanáticos Plus</title>
-  </programme>
-  <programme start="20250526000000 -0500" stop="20250526010000 -0500" channel="Canal21.sv">
-    <title lang="es">Estudio 21</title>
-  </programme>
-  <programme start="20250526010000 -0500" stop="20250526063000 -0500" channel="Canal21.sv">
-    <title lang="es">Cierre</title>
   </programme>
   <programme start="20250526063000 -0500" stop="20250526080000 -0500" channel="Canal21.sv">
     <title lang="es">Telenoticias Megavisión - Edición AM</title>
