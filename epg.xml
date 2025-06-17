@@ -662,7 +662,7 @@
   </channel>
   <channel id="SONY MOVIES">
     <display-name lang="es">Sony Movies</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="beINSportsUSA.us">
     <display-name lang="en">Bein Sports USA</display-name>
@@ -866,31 +866,31 @@
   </channel>
   <channel id="ESPN.uy">
     <display-name lang="es">ESPN UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="ESPN2.uy">
     <display-name lang="es">ESPN 2 UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="ESPN3.uy">
     <display-name lang="es">ESPN 3 UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="ESPN4.uy">
     <display-name lang="es">ESPN 4 UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="ESPNExtra.uy">
     <display-name lang="es">ESPN Extra UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="FOXSports2.uy">
     <display-name lang="es">FOX Sports 2 UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="FOXSports3.uy">
     <display-name lang="es">FOX Sports 3 UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="ESPN3.co">
     <display-name lang="es">ESPN 3 CO</display-name>
@@ -2146,15 +2146,15 @@
   </channel>
   <channel id="CANAL 4">
     <display-name lang="es">Canal 4 UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="VTV">
     <display-name lang="es">VTV UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="VTV + HD">
     <display-name lang="es">VTV+ UY</display-name>
-    <url>http://www.montecable.com</url>
+    <url>http://www.montecable.com.EK</url>
   </channel>
   <channel id="CANAL I">
     <display-name lang="es">Canal I</display-name>
