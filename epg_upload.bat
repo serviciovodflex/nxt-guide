@@ -2,6 +2,7 @@
 git add epg.xml
 git add epg-generic.xml
 git add img
+git add video
 git add epg_upload.bat
 git add first-commit.bat
 git add git-pull.bat
