@@ -6997,12 +6997,38 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260119120000 -0400" stop="20260119130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai (?)</title>
+    <title lang="es">Hercai</title>
+    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
+    <credits>
+      <actor>Akin Akinözü</actor>
+      <actor>Ebru Sahin</actor>
+      <actor>Gülçin Santircioglu</actor>
+      <actor>Serhat Tutumluer</actor>
+      <actor>Macit Sonkan</actor>
+      <actor>Oya Unustasi</actor>
+    </credits>
+    <date>2019</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260119130000 -0400" stop="20260119140000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Melissa (?)</title>
+    <title lang="es">Melissa</title>
+    <desc lang="es">Alegre y verborrágica, Melissa es una niña que ha quedado huérfana de bebé. Tras ser echada de su hogar adoptivo, conoce a un hombre de mediana edad que la lleva a vivir con él y su hermana a su finca, donde se sentirá parte de la familia.(n)</desc>
+    <credits>
+      <actor>Beren Gokyildiz</actor>
+      <actor>Sezin Bozaci</actor>
+      <actor>Onur Dikmen</actor>
+      <actor>Hasan Balliktas</actor>
+      <actor>Ezgi Ulusoy</actor>
+      <actor>Masal Aksel</actor>
+    </credits>
+    <date>2021</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29321038.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260119140000 -0400" stop="20260119150000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Golden Boy</title>
@@ -7142,11 +7168,30 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260118050000 -0400" stop="20260118070000 -0400" channel="UNITEL">
-    <title lang="es">Looney Tunes (?)</title>
+    <title lang="es">Looney Tunes</title>
+    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
+    <credits>
+      <actor>Mel Blanc</actor>
+      <actor>Chuck Jones</actor>
+    </credits>
+    <date>1946</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260118070000 -0400" stop="20260118090000 -0400" channel="UNITEL">
-    <title lang="es">Tom y Jerry (?)</title>
+    <title lang="es">Tom y Jerry</title>
+    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
+    <credits>
+      <actor>Lillian Randolph</actor>
+      <actor>William Hanna</actor>
+      <actor>Joseph Barbera</actor>
+    </credits>
+    <date>1940</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260118090000 -0400" stop="20260118103000 -0400" channel="UNITEL">
     <title lang="es">Moana</title>
@@ -7265,35 +7310,12 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260119070000 -0400" stop="20260119083000 -0400" channel="UNITEL">
-    <title lang="es">La batidora</title>
-    <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
-    <credits>
-      <actor>Daniel Pesce</actor>
-      <actor>Grisel Quiroga</actor>
-      <actor>Ronald Arnez</actor>
-      <actor>Eloisa Gutierrez</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">La batidora (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20260119083000 -0400" stop="20260119103000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260119103000 -0400" stop="20260119120000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -7491,8 +7513,19 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
   <programme start="20260118040000 -0400" stop="20260118042500 -0400" channel="BOLIVISION">
-    <title lang="es">Master Raindrop (?)</title>
+    <title lang="es">Master Raindrop</title>
+    <desc lang="es">Maetro Raindrop sigue al novato en artes marciales Raindrop y su amiga Shao Yen en su viaje. Ellos buscan salvar a su Maestro Yun y eventualmente a su pacífica tierra del malvado General Bu y su ejército de Guerreros Terracota.(n)</desc>
+    <credits>
+      <actor>Jane O'Brien</actor>
+      <actor>Rachel King</actor>
+      <actor>Sarah Aubrey</actor>
+      <actor>Steve Cooper</actor>
+    </credits>
+    <date>2008</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/902586.jpg" />
+    <country lang="es">Australia</country>
   </programme>
   <programme start="20260118042500 -0400" stop="20260118045000 -0400" channel="BOLIVISION">
     <title lang="es">La abeja Maya</title>
@@ -8733,8 +8766,13 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260118082100 -0400" stop="20260118091600 -0400" channel="TVU">
-    <title lang="es">Planeta U (?)</title>
+    <title lang="es">Planeta U</title>
+    <desc lang="es">Una colección de dibujos animados, hechos divertidos y cortos programas para niños.(n)</desc>
+    <date>2008</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12531904.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260118091600 -0400" stop="20260118092100 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -19991,30 +20029,8 @@ Repetición</title>
   </programme>
   <programme start="20260119115000 -0600" stop="20260119124500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Ray Donovan</title>
-    <sub-title lang="es">Shelley Duvall</sub-title>
-    <desc lang="es">Ray Donovan tiene una extraña profesión: se encarga de solucionar cualquier clase de problema que se le presente a la gente más influyente de Los Ángeles. Pero a pesar de ser el mejor en su trabajo, su propia vida es un desastre.(n)</desc>
-    <credits>
-      <actor>Eddie Marsan</actor>
-      <actor>Steven Bauer</actor>
-      <actor>Katherine Moennig</actor>
-      <actor>Devon Bagby</actor>
-      <actor>Kerris Dorsey</actor>
-      <actor>Jon Voight</actor>
-      <actor>Dash Mihok</actor>
-      <actor>Liev Schreiber</actor>
-      <actor>Pooch Hall</actor>
-      <actor>Paula Malcomson</actor>
-      <actor>John Dahl</actor>
-      <actor>Tucker Gates</actor>
-      <actor>Michael Uppendahl</actor>
-      <actor>Ann Biderman</actor>
-      <actor>John H Radulovic</actor>
-      <actor>Jason Weinberg</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4666046.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260119124500 -0600" stop="20260119133000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
@@ -20723,30 +20739,8 @@ Repetición</title>
   </programme>
   <programme start="20260120105500 -0600" stop="20260120115000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Ray Donovan</title>
-    <sub-title lang="es">Shabat Goy</sub-title>
-    <desc lang="es">Ray Donovan tiene una extraña profesión: se encarga de solucionar cualquier clase de problema que se le presente a la gente más influyente de Los Ángeles. Pero a pesar de ser el mejor en su trabajo, su propia vida es un desastre.(n)</desc>
-    <credits>
-      <actor>Eddie Marsan</actor>
-      <actor>Steven Bauer</actor>
-      <actor>Katherine Moennig</actor>
-      <actor>Devon Bagby</actor>
-      <actor>Kerris Dorsey</actor>
-      <actor>Jon Voight</actor>
-      <actor>Dash Mihok</actor>
-      <actor>Liev Schreiber</actor>
-      <actor>Pooch Hall</actor>
-      <actor>Paula Malcomson</actor>
-      <actor>John Dahl</actor>
-      <actor>Tucker Gates</actor>
-      <actor>Michael Uppendahl</actor>
-      <actor>Ann Biderman</actor>
-      <actor>John H Radulovic</actor>
-      <actor>Jason Weinberg</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4666046.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260120115000 -0600" stop="20260120124500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Ray Donovan</title>
@@ -20777,96 +20771,18 @@ Repetición</title>
   </programme>
   <programme start="20260120124500 -0600" stop="20260120133000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
-    <sub-title lang="es">El contrato social</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.(n)</desc>
-    <credits>
-      <actor>Hugh Laurie</actor>
-      <actor>Omar Epps</actor>
-      <actor>Robert Sean Leonard</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>Bobbin Bergstrom</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Olivia Wilde</actor>
-      <actor>Kal Penn</actor>
-      <actor>Odette Annable</actor>
-      <actor>Charlyne Yi</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Liz Benoit</actor>
-      <actor>Anne Dudek</actor>
-      <actor>Jennifer Crystal Foley</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Greg Yaitanes</actor>
-      <actor>David Shore</actor>
-      <actor>Marcy G Kaplan</actor>
-      <actor>Thomas L Moran</actor>
-    </credits>
-    <date>2004</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26681465.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260120133000 -0600" stop="20260120141500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
-    <sub-title lang="es">Aquí gatito</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.(n)</desc>
-    <credits>
-      <actor>Hugh Laurie</actor>
-      <actor>Omar Epps</actor>
-      <actor>Robert Sean Leonard</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>Bobbin Bergstrom</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Olivia Wilde</actor>
-      <actor>Kal Penn</actor>
-      <actor>Odette Annable</actor>
-      <actor>Charlyne Yi</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Liz Benoit</actor>
-      <actor>Anne Dudek</actor>
-      <actor>Jennifer Crystal Foley</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Greg Yaitanes</actor>
-      <actor>David Shore</actor>
-      <actor>Marcy G Kaplan</actor>
-      <actor>Thomas L Moran</actor>
-    </credits>
-    <date>2004</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26681465.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260120141500 -0600" stop="20260120150000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
-    <sub-title lang="es">Enclaustrado</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.(n)</desc>
-    <credits>
-      <actor>Hugh Laurie</actor>
-      <actor>Omar Epps</actor>
-      <actor>Robert Sean Leonard</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>Bobbin Bergstrom</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Olivia Wilde</actor>
-      <actor>Kal Penn</actor>
-      <actor>Odette Annable</actor>
-      <actor>Charlyne Yi</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Liz Benoit</actor>
-      <actor>Anne Dudek</actor>
-      <actor>Jennifer Crystal Foley</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Greg Yaitanes</actor>
-      <actor>David Shore</actor>
-      <actor>Marcy G Kaplan</actor>
-      <actor>Thomas L Moran</actor>
-    </credits>
-    <date>2004</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26681465.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260120150000 -0600" stop="20260120154500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
@@ -25762,216 +25678,235 @@ Repetición</title>
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20260118164500 +0100" stop="20260118190000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Sénégal / Maroc</title>
-    <desc lang="fr">Sénégal / Maroc (Sénégal / Maroc - Football Coupe d'Afrique des nations 2026) en direct aujourd'hui à 19h45.(n)</desc>
-    <category lang="fr">Foot</category>
-  </programme>
-  <programme start="20260118190000 +0100" stop="20260118193000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Club CAN</title>
-    <desc lang="fr">Club CAN (Club CAN) en direct aujourd'hui à 22h00.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20260118193000 +0100" stop="20260118194500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h30.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260118194500 +0100" stop="20260118200000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h30.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260118200000 +0100" stop="20260118220000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Dallas Mavericks / Utah Jazz</title>
-    <desc lang="fr">Dallas Mavericks / Utah Jazz (Dallas Mavericks / Utah Jazz - Basket-ball NBA 2025-2026) en différé aujourd'hui à 23h00.(n)</desc>
-    <category lang="fr">Basket</category>
-    <previously-shown />
-  </programme>
-  <programme start="20260118220000 +0100" stop="20260119004500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Houston Rockets / New Orleans Pelicans</title>
-    <desc lang="fr">Houston Rockets / New Orleans Pelicans (Houston Rockets / New Orleans Pelicans - Basket-ball NBA 2025-2026) en direct lundi 19 janvier à 01h00.(n)</desc>
-    <category lang="fr">Basket</category>
-  </programme>
-  <programme start="20260119004500 +0100" stop="20260119010000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h30.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
   <programme start="20260119010000 +0100" stop="20260119030000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Troyes / Reims</title>
-    <desc lang="fr">Troyes / Reims (Troyes / Reims - Football Ligue 2 BKT 2025-2026) en différé lundi 19 janvier à 04h00.(n)</desc>
+    <desc lang="fr">Troyes / Reims (Troyes / Reims - Football Ligue 2 BKT 2025-2026) en différé aujourd'hui à 04h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260119030000 +0100" stop="20260119050000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Sénégal / Maroc</title>
-    <desc lang="fr">Sénégal / Maroc (Sénégal / Maroc - Football Coupe d'Afrique des nations 2026) en direct aujourd'hui à 19h45.(n)</desc>
+    <desc lang="fr">Sénégal / Maroc (Sénégal / Maroc - Football Coupe d'Afrique des nations 2026) en différé aujourd'hui à 06h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260119050000 +0100" stop="20260119053000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Terrains d'espoirs</title>
-    <desc lang="fr">Terrains d'espoirs (Terrains d'espoirs) en différé lundi 19 janvier à 08h00.(n)</desc>
+    <desc lang="fr">Terrains d'espoirs (Terrains d'espoirs) en différé aujourd'hui à 08h00.(n)</desc>
     <category lang="fr">Football</category>
     <previously-shown />
   </programme>
   <programme start="20260119053000 +0100" stop="20260119060000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 23h15.(n)</desc>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 08h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260119060000 +0100" stop="20260119074500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Kansas / Iowa State</title>
-    <desc lang="fr">Kansas / Iowa State (Kansas / Iowa State - Basket-ball NCAA 2025-2026) en différé lundi 19 janvier à 09h00.(n)</desc>
+    <desc lang="fr">Kansas / Iowa State (Kansas / Iowa State - Basket-ball NCAA 2025-2026) en différé aujourd'hui à 09h00.(n)</desc>
     <category lang="fr">Basket</category>
     <previously-shown />
   </programme>
   <programme start="20260119074500 +0100" stop="20260119094500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Houston Rockets / New Orleans Pelicans</title>
-    <desc lang="fr">Houston Rockets / New Orleans Pelicans (Houston Rockets / New Orleans Pelicans - Basket-ball NBA 2025-2026) en direct lundi 19 janvier à 01h00.(n)</desc>
+    <desc lang="fr">Houston Rockets / New Orleans Pelicans (Houston Rockets / New Orleans Pelicans - Basket-ball NBA 2025-2026) en différé aujourd'hui à 10h45.(n)</desc>
     <category lang="fr">Basket</category>
     <previously-shown />
   </programme>
   <programme start="20260119094500 +0100" stop="20260119103000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">NBA Extra</title>
-    <desc lang="fr">NBA Extra (NBA Extra) en direct lundi 19 janvier à 12h45.(n)</desc>
+    <desc lang="fr">NBA Extra (NBA Extra) en direct aujourd'hui à 12h45.(n)</desc>
     <category lang="fr">Basket-ball</category>
   </programme>
   <programme start="20260119103000 +0100" stop="20260119123000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Real Sociedad / FC Barcelone</title>
-    <desc lang="fr">Real Sociedad / FC Barcelone (Real Sociedad / FC Barcelone - Football Liga 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
+    <desc lang="fr">Real Sociedad / FC Barcelone (Real Sociedad / FC Barcelone - Football Liga 2025-2026) en différé aujourd'hui à 06h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260119123000 +0100" stop="20260119124500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 01h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260119124500 +0100" stop="20260119130000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 01h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260119130000 +0100" stop="20260119143000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ukraine / France</title>
-    <desc lang="fr">Ukraine / France (Ukraine / France - Handball Euro masculin 2026) en différé lundi 19 janvier à 16h00.(n)</desc>
+    <desc lang="fr">Ukraine / France (Ukraine / France - Handball Euro masculin 2026) en différé aujourd'hui à 16h00.(n)</desc>
     <category lang="fr">Handball</category>
     <previously-shown />
   </programme>
   <programme start="20260119143000 +0100" stop="20260119144500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 01h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260119144500 +0100" stop="20260119164500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Pays-Bas / Croatie</title>
-    <desc lang="fr">Pays-Bas / Croatie (Pays-Bas / Croatie - Handball Euro masculin 2026) en direct lundi 19 janvier à 17h45.(n)</desc>
+    <desc lang="fr">Pays-Bas / Croatie (Pays-Bas / Croatie - Handball Euro masculin 2026) en direct aujourd'hui à 17h45.(n)</desc>
     <category lang="fr">Handball</category>
   </programme>
   <programme start="20260119164500 +0100" stop="20260119173000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Handball : avant-match</title>
-    <desc lang="fr">Handball : avant-match (Handball : avant-match) en direct lundi 19 janvier à 19h45.(n)</desc>
+    <desc lang="fr">Handball : avant-match (Handball : avant-match) en direct aujourd'hui à 19h45.(n)</desc>
     <category lang="fr">Handball</category>
   </programme>
   <programme start="20260119173000 +0100" stop="20260119191500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">France / Norvège</title>
-    <desc lang="fr">France / Norvège (France / Norvège - Handball Euro masculin 2026) en direct lundi 19 janvier à 20h30.(n)</desc>
+    <desc lang="fr">France / Norvège (France / Norvège - Handball Euro masculin 2026) en direct aujourd'hui à 20h30.(n)</desc>
     <category lang="fr">Handball</category>
   </programme>
   <programme start="20260119191500 +0100" stop="20260119193000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Handball : après-match</title>
-    <desc lang="fr">Handball : après-match (Handball : après-match) en direct lundi 19 janvier à 22h15.(n)</desc>
+    <desc lang="fr">Handball : après-match (Handball : après-match) en direct aujourd'hui à 22h15.(n)</desc>
     <category lang="fr">Handball</category>
   </programme>
   <programme start="20260119193000 +0100" stop="20260119213000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Sénégal / Maroc</title>
-    <desc lang="fr">Sénégal / Maroc (Sénégal / Maroc - Football Coupe d'Afrique des nations 2026) en direct aujourd'hui à 19h45.(n)</desc>
+    <desc lang="fr">Sénégal / Maroc (Sénégal / Maroc - Football Coupe d'Afrique des nations 2026) en différé aujourd'hui à 06h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
-  <programme start="20260118153000 +0100" stop="20260118173000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Glasgow Warriors / Saracens</title>
-    <desc lang="fr">Glasgow Warriors / Saracens (Glasgow Warriors / Saracens - Rugby Champions Cup 2025-2026) en direct aujourd'hui à 18h30.(n)</desc>
-    <category lang="fr">Rugby</category>
-  </programme>
-  <programme start="20260118173000 +0100" stop="20260118180000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Liga Extra</title>
-    <desc lang="fr">Liga Extra (Liga Extra) en direct aujourd'hui à 20h30.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20260118180000 +0100" stop="20260118200000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Real Sociedad / FC Barcelone</title>
-    <desc lang="fr">Real Sociedad / FC Barcelone (Real Sociedad / FC Barcelone - Football Liga 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
+  <programme start="20260119213000 +0100" stop="20260119233000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Borussia Dortmund / FC Sankt Pauli</title>
+    <desc lang="fr">Borussia Dortmund / St. Pauli (Borussia Dortmund / St. Pauli - Football Bundesliga 2025-2026) en différé mardi 20 janvier à 00h30.(n)</desc>
     <category lang="fr">Foot</category>
+    <previously-shown />
   </programme>
-  <programme start="20260118200000 +0100" stop="20260118201500 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Liga Extra</title>
-    <desc lang="fr">Liga Extra (Liga Extra) en direct aujourd'hui à 20h30.(n)</desc>
+  <programme start="20260119233000 +0100" stop="20260120003000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Passion sous pression</title>
+    <desc lang="fr">Passion sous pression (Passion sous pression) en différé mardi 20 janvier à 02h30.(n)</desc>
     <category lang="fr">Football</category>
+    <previously-shown />
   </programme>
-  <programme start="20260118201500 +0100" stop="20260118204500 +0100" channel="beIN SPORTS 2">
+  <programme start="20260120003000 +0100" stop="20260120010000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 23h15.(n)</desc>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 08h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20260118204500 +0100" stop="20260118211500 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Salon VIP</title>
-    <desc lang="fr">Salon VIP (Salon VIP) en différé aujourd'hui à 23h45.(n)</desc>
-    <category lang="fr">Multisports</category>
+  <programme start="20260120010000 +0100" stop="20260120030000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Saint-Etienne / Clermont Foot</title>
+    <desc lang="fr">Saint-Etienne / Clermont Foot (Saint-Etienne / Clermont Foot - Football Ligue 2 BKT 2025-2026) en différé aujourd'hui à 08h00.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
   </programme>
-  <programme start="20260118211500 +0100" stop="20260118213000 +0100" channel="beIN SPORTS 2">
+  <programme start="20260120030000 +0100" stop="20260120033000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Mbappé, saison 2 au Real</title>
+    <desc lang="fr">Mbappé, saison 2 au Real (Mbappé, saison 2 au Real) en différé mardi 20 janvier à 00h45.(n)</desc>
+    <category lang="fr">Football</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120033000 +0100" stop="20260120040000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">This is Paris</title>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 08h30.(n)</desc>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20260120040000 +0100" stop="20260120060000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Real Madrid / Levante</title>
+    <desc lang="fr">Real Madrid / Levante (Real Madrid / Levante - Football Liga 2025-2026) en différé mardi 20 janvier à 07h00.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120060000 +0100" stop="20260120061500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 01h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
-  <programme start="20260118213000 +0100" stop="20260119003000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Chicago Bears / Los Angeles Rams</title>
-    <desc lang="fr">Chicago Bears / Los Angeles Rams (Chicago Bears / Los Angeles Rams - Football américain NFL 2025-2026) en direct lundi 19 janvier à 00h30.(n)</desc>
-    <category lang="fr">Football américain</category>
+  <programme start="20260120061500 +0100" stop="20260120080000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Cleveland Cavaliers / Oklahoma City Thunder</title>
+    <desc lang="fr">Cleveland Cavaliers / Oklahoma City Thunder (Cleveland Cavaliers / Oklahoma City Thunder - Basket-ball NBA 2025-2026) en direct aujourd'hui à 20h40.(n)</desc>
+    <category lang="fr">Basket</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120080000 +0100" stop="20260120094500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">New York Knicks / Dallas Mavericks</title>
+    <desc lang="fr">New York Knicks / Dallas Mavericks (New York Knicks / Dallas Mavericks - Basket-ball NBA 2025-2026) en direct aujourd'hui à 23h10.(n)</desc>
+    <category lang="fr">Basket</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120094500 +0100" stop="20260120123000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Detroit Pistons / Boston Celtics</title>
+    <desc lang="fr">Detroit Pistons / Boston Celtics (Detroit Pistons / Boston Celtics - Basket-ball NBA 2025-2026) en direct mardi 20 janvier à 02h10.(n)</desc>
+    <category lang="fr">Basket</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120123000 +0100" stop="20260120143000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Leipzig / Bayern Munich</title>
+    <desc lang="fr">Leipzig / Bayern Munich #RBLBAY (Leipzig / Bayern Munich - Football Bundesliga 2025-2026) en différé mardi 20 janvier à 06h00.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120143000 +0100" stop="20260120144500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 01h30.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260120144500 +0100" stop="20260120164500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Monténégro / Suisse</title>
+    <desc lang="fr">Monténégro / Suisse (Monténégro / Suisse - Handball Euro masculin 2026) en direct mardi 20 janvier à 17h45.(n)</desc>
+    <category lang="fr">Handball</category>
+  </programme>
+  <programme start="20260120164500 +0100" stop="20260120171500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Made in England</title>
+    <desc lang="fr">Made in England (Made in England) en différé aujourd'hui à 19h00.(n)</desc>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20260120171500 +0100" stop="20260120191500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Danemark / Portugal</title>
+    <desc lang="fr">Danemark / Portugal (Danemark / Portugal - Handball Euro masculin 2026) en direct mardi 20 janvier à 20h15.(n)</desc>
+    <category lang="fr">Handball</category>
+  </programme>
+  <programme start="20260120191500 +0100" stop="20260120193000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 01h30.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260120193000 +0100" stop="20260120213000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Real Sociedad / FC Barcelone</title>
+    <desc lang="fr">Real Sociedad / FC Barcelone (Real Sociedad / FC Barcelone - Football Liga 2025-2026) en différé aujourd'hui à 06h00.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
   </programme>
   <programme start="20260119003000 +0100" stop="20260119023000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Dallas Mavericks / Utah Jazz</title>
-    <desc lang="fr">Dallas Mavericks / Utah Jazz (Dallas Mavericks / Utah Jazz - Basket-ball NBA 2025-2026) en différé aujourd'hui à 23h00.(n)</desc>
+    <desc lang="fr">Dallas Mavericks / Utah Jazz (Dallas Mavericks / Utah Jazz - Basket-ball NBA 2025-2026) en différé aujourd'hui à 03h30.(n)</desc>
     <category lang="fr">Basket</category>
     <previously-shown />
   </programme>
   <programme start="20260119023000 +0100" stop="20260119024500 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 01h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260119024500 +0100" stop="20260119030000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 01h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260119030000 +0100" stop="20260119050000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Real Sociedad / FC Barcelone</title>
-    <desc lang="fr">Real Sociedad / FC Barcelone (Real Sociedad / FC Barcelone - Football Liga 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260119050000 +0100" stop="20260119070000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Saint-Etienne / Clermont Foot</title>
-    <desc lang="fr">Saint-Etienne / Clermont Foot (Saint-Etienne / Clermont Foot - Football Ligue 2 BKT 2025-2026) en différé lundi 19 janvier à 08h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260119070000 +0100" stop="20260119073000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 23h15.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260119073000 +0100" stop="20260119080000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Salon VIP</title>
-    <desc lang="fr">Salon VIP (Salon VIP) en différé aujourd'hui à 23h45.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260119080000 +0100" stop="20260119103000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">New England Patriots / Houston Texans</title>
-    <desc lang="fr">New England Patriots / Houston Texans (New England Patriots / Houston Texans - Football américain NFL 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
     <category lang="fr">Football américain</category>
     <previously-shown />
   </programme>
@@ -26020,6 +25955,85 @@ Repetición</title>
   </programme>
   <programme start="20260119194500 +0100" stop="20260119214500 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Saint-Etienne / Clermont Foot</title>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260119214500 +0100" stop="20260119221500 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Mbappé, saison 2 au Real</title>
+    <category lang="fr">Football</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260119221500 +0100" stop="20260119223000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260119223000 +0100" stop="20260120013000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Indianapolis Colts / Miami</title>
+    <category lang="fr">Football américain</category>
+  </programme>
+  <programme start="20260120013000 +0100" stop="20260120024500 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Best of Rugby</title>
+    <category lang="fr">Rugby</category>
+  </programme>
+  <programme start="20260120024500 +0100" stop="20260120030000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260120030000 +0100" stop="20260120050000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Leipzig / Bayern Munich</title>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120050000 +0100" stop="20260120051500 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260120051500 +0100" stop="20260120053000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260120053000 +0100" stop="20260120080000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Chicago Bears / Los Angeles Rams</title>
+    <category lang="fr">Football américain</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120080000 +0100" stop="20260120121500 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Indianapolis Colts / Miami</title>
+    <category lang="fr">Football américain</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120121500 +0100" stop="20260120124500 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Made in England</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20260120124500 +0100" stop="20260120130000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260120130000 +0100" stop="20260120150000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Real Madrid / Levante</title>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120150000 +0100" stop="20260120170000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Real Sociedad / FC Barcelone</title>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260120170000 +0100" stop="20260120193000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Montpellier / Louvain</title>
+    <category lang="fr">Volley-ball</category>
+  </programme>
+  <programme start="20260120193000 +0100" stop="20260120194500 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260120194500 +0100" stop="20260120200000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260120200000 +0100" stop="20260120220000 +0100" channel="beIN SPORTS 2">
+    <title lang="fr">Leipzig / Bayern Munich</title>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
