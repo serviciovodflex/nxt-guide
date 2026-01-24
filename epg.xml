@@ -7900,31 +7900,12 @@
     <country lang="es">México</country>
   </programme>
   <programme start="20260124073000 -0400" stop="20260124083000 -0400" channel="UNITEL">
-    <title lang="es">Looney Tunes</title>
-    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
-    <credits>
-      <actor>Mel Blanc</actor>
-      <actor>Chuck Jones</actor>
-    </credits>
-    <date>1946</date>
+    <title lang="es">Looney Tunes (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260124083000 -0400" stop="20260124103000 -0400" channel="UNITEL">
-    <title lang="es">Tom y Jerry</title>
-    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
-    <credits>
-      <actor>Lillian Randolph</actor>
-      <actor>William Hanna</actor>
-      <actor>Joseph Barbera</actor>
-    </credits>
-    <date>1940</date>
+    <title lang="es">Tom y Jerry (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260124103000 -0400" stop="20260124120000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -8198,20 +8179,7 @@
     <country lang="es">España</country>
   </programme>
   <programme start="20260124010000 -0400" stop="20260124020000 -0400" channel="BOLIVISION">
-    <title lang="es">The Walking Dead</title>
-    <desc lang="es">Cuenta la historia de las semanas y meses que sucedieron a un apocalipsis zombie pandémico. El oficial de policía Rick Grimes viaja constantemente con su familia y un pequeño grupo de sobrevivientes, en busca de un hogar seguro.(n)</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Danai Gurira</actor>
-      <actor>Lauren Cohan</actor>
-      <actor>Steven Yeun</actor>
-      <actor>Chandler Riggs</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975110.jpg" />
-    <country lang="es">EE. UU.</country>
+    <title lang="es">The Walking Dead (?)</title>
   </programme>
   <programme start="20260124020000 -0400" stop="20260124040000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
@@ -9155,21 +9123,8 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2403050.jpg" />
   </programme>
   <programme start="20260125060000 -0400" stop="20260125061500 -0400" channel="RED UNO">
-    <title lang="es">Pinkfong Wonderstar</title>
-    <desc lang="es">¡Conoce a Pinkfong y Hogi, el equipo Wonderstar! Son dos mejores amigos mágicos que ayudan a cualquiera en Wonderville que esté en problemas. Ningún problema es demasiado grande para Wonderstar... ¡o demasiado pequeño!(n)</desc>
-    <credits>
-      <actor>Lexi Fontaine</actor>
-      <actor>Kate Higgins</actor>
-      <actor>Colleen O'Shaughnessey</actor>
-      <actor>Tara Sands</actor>
-      <actor>Stephanie Sheh</actor>
-      <actor>Mick Wingert</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Pinkfong Wonderstar (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975808.jpg" />
-    <country lang="es">Corea del Sur</country>
   </programme>
   <programme start="20260125061500 -0400" stop="20260125063000 -0400" channel="RED UNO">
     <title lang="es">La brujita Dee Dee</title>
@@ -10283,13 +10238,67 @@
   </programme>
   <programme start="20260124034000 -0600" stop="20260124043000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Los fantasmas del pasado</sub-title>
+    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
+    <credits>
+      <actor>Nick Gehlfuss</actor>
+      <actor>Rachel DiPillo</actor>
+      <actor>Colin Donnell</actor>
+      <actor>Marlyne Barrett</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Lorena Diaz</actor>
+      <actor>César Jaime</actor>
+      <actor>Jeff Hephner</actor>
+      <actor>Courtney Rioux</actor>
+      <actor>Ato Essandoh</actor>
+      <actor>Jeremy Shouldis</actor>
+      <actor>Derek Haas</actor>
+      <actor>Torrey DeVitto</actor>
+      <actor>Brian Tee</actor>
+      <actor>Dick Wolf</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>Fred Berner</actor>
+      <actor>Michael Brandt</actor>
+      <actor>Daniel Sinclair</actor>
+      <actor>Niki Delone</actor>
+      <actor>Carla Corwin</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124043000 -0600" stop="20260124051500 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">En el nombre del amor</sub-title>
+    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
+    <credits>
+      <actor>Nick Gehlfuss</actor>
+      <actor>Rachel DiPillo</actor>
+      <actor>Colin Donnell</actor>
+      <actor>Marlyne Barrett</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Lorena Diaz</actor>
+      <actor>César Jaime</actor>
+      <actor>Jeff Hephner</actor>
+      <actor>Courtney Rioux</actor>
+      <actor>Ato Essandoh</actor>
+      <actor>Jeremy Shouldis</actor>
+      <actor>Derek Haas</actor>
+      <actor>Torrey DeVitto</actor>
+      <actor>Brian Tee</actor>
+      <actor>Dick Wolf</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>Fred Berner</actor>
+      <actor>Michael Brandt</actor>
+      <actor>Daniel Sinclair</actor>
+      <actor>Niki Delone</actor>
+      <actor>Carla Corwin</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124051500 -0600" stop="20260124060000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">La ley y el orden: UVE</title>
@@ -14437,37 +14446,8 @@
   </programme>
   <programme start="20260124014000 -0600" stop="20260124020500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
-    <sub-title lang="es">Parte 2</sub-title>
-    <desc lang="es">Una parodia de la vida moderna en las oficinas estadounidenses que profundiza en el quehacer y las relaciones de los trabajadores de Dunder Mifflin, una empresa de suministro de papel en Scranton, Pensilvania.(n)</desc>
-    <credits>
-      <actor>Steve Carell</actor>
-      <actor>Jenna Fischer</actor>
-      <actor>Angela Kinsey</actor>
-      <actor>Phyllis Smith</actor>
-      <actor>Mindy Kaling</actor>
-      <actor>BJ Novak</actor>
-      <actor>Creed Bratton</actor>
-      <actor>John Krasinski</actor>
-      <actor>Leslie David Baker</actor>
-      <actor>Brian Baumgartner</actor>
-      <actor>Kate Flannery</actor>
-      <actor>Rainn Wilson</actor>
-      <actor>Paul Feig</actor>
-      <actor>Randall Einhorn</actor>
-      <actor>Ken Kwapis</actor>
-      <actor>Greg Daniels</actor>
-      <actor>Jeffrey Blitz</actor>
-      <actor>Daniel Chun</actor>
-      <actor>Halsted Sullivan</actor>
-      <actor>Caroline Williams</actor>
-      <actor>Justin Spitzer</actor>
-      <actor>Lee Eisenberg</actor>
-      <actor>Gene Stupnitsky</actor>
-    </credits>
-    <date>2005</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11046850.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124020500 -0600" stop="20260124023500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
@@ -25779,26 +25759,6 @@
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5f/841823.png" />
   </programme>
-  <programme start="20260124130000 +0100" stop="20260124140000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Avant-Match Ligue 1</title>
-    <desc lang="fr">Avant-Match Ligue 1 (Avant-Match Ligue 1) en direct aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20260124140000 +0100" stop="20260124160000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Rennes / Lorient</title>
-    <desc lang="fr">Rennes / Lorient #SRFCFCL (Rennes / Lorient - Football Ligue 1 McDonald's 2025-2026) en direct aujourd'hui à 17h00.(n)</desc>
-    <category lang="fr">Foot</category>
-  </programme>
-  <programme start="20260124160000 +0100" stop="20260124163000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Après-match Ligue 1</title>
-    <desc lang="fr">Après-match Ligue 1 (Après-match Ligue 1) en direct aujourd'hui à 19h00.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20260124163000 +0100" stop="20260124170000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Avant-match Ligue 2</title>
-    <desc lang="fr">Avant-match Ligue 2 (Avant-match Ligue 2) en direct aujourd'hui à 19h30.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
   <programme start="20260124170000 +0100" stop="20260124190000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Reims / Saint-Etienne</title>
     <desc lang="fr">Reims / Saint-Etienne #SDRASSE (Reims / Saint-Etienne - Football Ligue 2 BKT 2025-2026) en direct aujourd'hui à 20h00.(n)</desc>
@@ -25811,7 +25771,7 @@
   </programme>
   <programme start="20260124193000 +0100" stop="20260124194500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260124194500 +0100" stop="20260124201500 +0100" channel="beIN SPORTS 1">
@@ -25842,12 +25802,12 @@
   </programme>
   <programme start="20260125023000 +0100" stop="20260125024500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125024500 +0100" stop="20260125030000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125030000 +0100" stop="20260125033000 +0100" channel="beIN SPORTS 1">
@@ -25869,7 +25829,7 @@
   </programme>
   <programme start="20260125060000 +0100" stop="20260125061500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125061500 +0100" stop="20260125080000 +0100" channel="beIN SPORTS 1">
@@ -25891,12 +25851,12 @@
   </programme>
   <programme start="20260125103000 +0100" stop="20260125104500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125104500 +0100" stop="20260125110000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125110000 +0100" stop="20260125130000 +0100" channel="beIN SPORTS 1">
@@ -25906,7 +25866,7 @@
   </programme>
   <programme start="20260125130000 +0100" stop="20260125131500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125131500 +0100" stop="20260125151500 +0100" channel="beIN SPORTS 1">
@@ -25916,7 +25876,7 @@
   </programme>
   <programme start="20260125151500 +0100" stop="20260125153000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125153000 +0100" stop="20260125173000 +0100" channel="beIN SPORTS 1">
@@ -25934,26 +25894,6 @@
     <desc lang="fr">Denver Broncos / New England Patriots (Denver Broncos / New England Patriots - Football américain NFL 2025-2026) en direct dimanche 25 janvier à 21h00.(n)</desc>
     <category lang="fr">Football américain</category>
   </programme>
-  <programme start="20260124123000 +0100" stop="20260124143000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Bayern Munich / Augsbourg</title>
-    <desc lang="fr">Bayern Munich / Augsbourg (Bayern Munich / Augsbourg - Football Bundesliga 2025-2026) en direct aujourd'hui à 15h30.(n)</desc>
-    <category lang="fr">Foot</category>
-  </programme>
-  <programme start="20260124143000 +0100" stop="20260124144500 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Europe Arena</title>
-    <desc lang="fr">Europe Arena (Europe Arena) en direct aujourd'hui à 17h30.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20260124144500 +0100" stop="20260124150000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260124150000 +0100" stop="20260124153000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Les matchs de ma vie</title>
-    <desc lang="fr">Les matchs de ma vie Raï (Les matchs de ma vie) en différé aujourd'hui à 18h00.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
   <programme start="20260124153000 +0100" stop="20260124173000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">FC Séville / Athletic Bilbao</title>
     <desc lang="fr">FC Séville / Athletic Bilbao (FC Séville / Athletic Bilbao - Football Liga 2026) en direct aujourd'hui à 18h30.(n)</desc>
@@ -25961,7 +25901,7 @@
   </programme>
   <programme start="20260124173000 +0100" stop="20260124180000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Europe Arena</title>
-    <desc lang="fr">Europe Arena (Europe Arena) en direct aujourd'hui à 17h30.(n)</desc>
+    <desc lang="fr">Europe Arena (Europe Arena) en direct aujourd'hui à 20h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260124180000 +0100" stop="20260124200000 +0100" channel="beIN SPORTS 2">
@@ -25971,7 +25911,7 @@
   </programme>
   <programme start="20260124200000 +0100" stop="20260124201500 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Europe Arena</title>
-    <desc lang="fr">Europe Arena (Europe Arena) en direct aujourd'hui à 17h30.(n)</desc>
+    <desc lang="fr">Europe Arena (Europe Arena) en direct aujourd'hui à 20h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260124201500 +0100" stop="20260124221500 +0100" channel="beIN SPORTS 2">
@@ -25987,50 +25927,59 @@
   </programme>
   <programme start="20260124224500 +0100" stop="20260124230000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 17h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260124230000 +0100" stop="20260125010000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Toulouse / Narbonne Volley</title>
+    <desc lang="fr">Toulouse / Narbonne (Toulouse / Narbonne - Volley-ball Marmara SpikeLigue 2025-2026) en différé dimanche 25 janvier à 02h00.(n)</desc>
     <category lang="fr">Volley-ball</category>
     <previously-shown />
   </programme>
   <programme start="20260125010000 +0100" stop="20260125030000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">FC Sankt Pauli / Hambourg SV</title>
+    <desc lang="fr">St. Pauli / Hambourg (St. Pauli / Hambourg - Football Bundesliga 2025-2026) en différé dimanche 25 janvier à 04h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260125030000 +0100" stop="20260125050000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">FC Séville / Athletic Bilbao</title>
+    <desc lang="fr">FC Séville / Athletic Bilbao (FC Séville / Athletic Bilbao - Football Liga 2026) en direct aujourd'hui à 18h30.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260125050000 +0100" stop="20260125070000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Reims / Saint-Etienne</title>
+    <desc lang="fr">Reims / Saint-Etienne #SDRASSE (Reims / Saint-Etienne - Football Ligue 2 BKT 2025-2026) en direct aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260125070000 +0100" stop="20260125090000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Rennes / Lorient</title>
+    <desc lang="fr">Rennes / Lorient #SRFCFCL (Rennes / Lorient - Football Ligue 1 McDonald's 2025-2026) en différé dimanche 25 janvier à 00h01.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260125090000 +0100" stop="20260125110000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Villarreal / Real Madrid</title>
+    <desc lang="fr">Villarreal / Real Madrid (Villarreal / Real Madrid - Football Liga 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260125110000 +0100" stop="20260125133000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Seattle Seahawks / San Francisco 49ers</title>
+    <desc lang="fr">Seattle Seahawks / San Francisco 49ers (Seattle Seahawks / San Francisco 49ers - Football américain NFL 2025-2026) en différé dimanche 25 janvier à 14h00.(n)</desc>
     <category lang="fr">Football américain</category>
     <previously-shown />
   </programme>
   <programme start="20260125133000 +0100" stop="20260125141500 +0100" channel="beIN SPORTS 2">
     <title lang="fr">NFL Extra</title>
+    <desc lang="fr">NFL Extra (NFL Extra) en différé dimanche 25 janvier à 04h45.(n)</desc>
     <category lang="fr">Football américain</category>
   </programme>
   <programme start="20260125141500 +0100" stop="20260125143000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125143000 +0100" stop="20260125150000 +0100" channel="beIN SPORTS 2">
