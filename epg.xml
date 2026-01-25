@@ -8180,21 +8180,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2403050.jpg" />
   </programme>
   <programme start="20260125060000 -0400" stop="20260125061500 -0400" channel="RED UNO">
-    <title lang="es">Pinkfong Wonderstar</title>
-    <desc lang="es">¡Conoce a Pinkfong y Hogi, el equipo Wonderstar! Son dos mejores amigos mágicos que ayudan a cualquiera en Wonderville que esté en problemas. Ningún problema es demasiado grande para Wonderstar... ¡o demasiado pequeño!(n)</desc>
-    <credits>
-      <actor>Lexi Fontaine</actor>
-      <actor>Kate Higgins</actor>
-      <actor>Colleen O'Shaughnessey</actor>
-      <actor>Tara Sands</actor>
-      <actor>Stephanie Sheh</actor>
-      <actor>Mick Wingert</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Pinkfong Wonderstar (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975808.jpg" />
-    <country lang="es">Corea del Sur</country>
   </programme>
   <programme start="20260125061500 -0400" stop="20260125063000 -0400" channel="RED UNO">
     <title lang="es">La brujita Dee Dee</title>
@@ -18931,30 +18918,8 @@ Repetición</title>
   </programme>
   <programme start="20260125072500 -0600" stop="20260125081500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: International</title>
-    <sub-title lang="es">Secretos como armas</sub-title>
-    <desc lang="es">Agentes de élite de la división internacional del FBI viajan por el mundo con la misión de proteger a los estadounidenses dondequiera que estén.(n)</desc>
-    <credits>
-      <actor>Samantha Blaire Cutler</actor>
-      <actor>Alana De La Garza</actor>
-      <actor>Kushtrim Hoxha</actor>
-      <actor>Luke Kleintank</actor>
-      <actor>Oleg Kricunova</actor>
-      <actor>Heida Reed</actor>
-      <actor>Carter Redwood</actor>
-      <actor>Vinessa Vidotto</actor>
-      <actor>Christiane Paul</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Derek Haas</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Michael Katleman</actor>
-      <actor>Ernesto Alcalde</actor>
-      <actor>Stuti Malhotra</actor>
-      <actor>Alec Chorches</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16547722.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260125081500 -0600" stop="20260125090000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: International</title>
@@ -25761,21 +25726,6 @@ Repetición</title>
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20260125130000 +0100" stop="20260125131500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260125131500 +0100" stop="20260125151500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">FC Barcelone / Oviedo</title>
-    <desc lang="fr">FC Barcelone / Real Oviedo (FC Barcelone / Real Oviedo - Football Liga 2025-2026) en direct aujourd'hui à 16h15.(n)</desc>
-    <category lang="fr">Foot</category>
-  </programme>
-  <programme start="20260125151500 +0100" stop="20260125153000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
   <programme start="20260125153000 +0100" stop="20260125173000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Real Sociedad / Celta Vigo</title>
     <desc lang="fr">Real Sociedad / Celta Vigo (Real Sociedad / Celta Vigo - Football Liga 2025-2026) en direct aujourd'hui à 18h30.(n)</desc>
@@ -25803,12 +25753,12 @@ Repetición</title>
   </programme>
   <programme start="20260126003000 +0100" stop="20260126004500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260126004500 +0100" stop="20260126010000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260126010000 +0100" stop="20260126030000 +0100" channel="beIN SPORTS 1">
@@ -25819,7 +25769,7 @@ Repetición</title>
   </programme>
   <programme start="20260126030000 +0100" stop="20260126050000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">FC Barcelone / Oviedo</title>
-    <desc lang="fr">FC Barcelone / Real Oviedo (FC Barcelone / Real Oviedo - Football Liga 2025-2026) en direct aujourd'hui à 16h15.(n)</desc>
+    <desc lang="fr">FC Barcelone / Real Oviedo (FC Barcelone / Real Oviedo - Football Liga 2025-2026) en différé lundi 26 janvier à 06h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
@@ -25831,12 +25781,12 @@ Repetición</title>
   </programme>
   <programme start="20260126070000 +0100" stop="20260126071500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260126071500 +0100" stop="20260126074500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 17h30.(n)</desc>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 19h45.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260126074500 +0100" stop="20260126094500 +0100" channel="beIN SPORTS 1">
@@ -25858,12 +25808,12 @@ Repetición</title>
   </programme>
   <programme start="20260126123000 +0100" stop="20260126124500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260126124500 +0100" stop="20260126130000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260126130000 +0100" stop="20260126140000 +0100" channel="beIN SPORTS 1">
@@ -25888,12 +25838,12 @@ Repetición</title>
   </programme>
   <programme start="20260126170000 +0100" stop="20260126171500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260126171500 +0100" stop="20260126173000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260126173000 +0100" stop="20260126193000 +0100" channel="beIN SPORTS 1">
@@ -25912,86 +25862,71 @@ Repetición</title>
     <category lang="fr">Football</category>
     <previously-shown />
   </programme>
-  <programme start="20260125110000 +0100" stop="20260125133000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Seattle Seahawks / San Francisco 49ers</title>
-    <desc lang="fr">Seattle Seahawks / San Francisco 49ers (Seattle Seahawks / San Francisco 49ers - Football américain NFL 2025-2026) en différé aujourd'hui à 14h00.(n)</desc>
-    <category lang="fr">Football américain</category>
-    <previously-shown />
-  </programme>
-  <programme start="20260125133000 +0100" stop="20260125141500 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">NFL Extra</title>
-    <desc lang="fr">NFL Extra (NFL Extra) en différé aujourd'hui à 16h30.(n)</desc>
-    <category lang="fr">Football américain</category>
-  </programme>
-  <programme start="20260125141500 +0100" stop="20260125143000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260125143000 +0100" stop="20260125150000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 17h30.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20260125150000 +0100" stop="20260125170000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Fenerbahçe / Göztepe</title>
-    <desc lang="fr">Fenerbahçe / Göztepe (Fenerbahçe / Göztepe - Football Süper Lig 2025-2026) en direct aujourd'hui à 18h00.(n)</desc>
-    <category lang="fr">Foot</category>
-  </programme>
   <programme start="20260125170000 +0100" stop="20260125171500 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125171500 +0100" stop="20260125173000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125173000 +0100" stop="20260125180000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Liga Extra</title>
+    <desc lang="fr">Liga Extra (Liga Extra) en direct aujourd'hui à 20h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260125180000 +0100" stop="20260125200000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Deportivo Alavès / Betis Séville</title>
+    <desc lang="fr">Deportivo Alavés / Betis Séville (Deportivo Alavés / Betis Séville - Football Liga 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
     <category lang="fr">Foot</category>
   </programme>
   <programme start="20260125200000 +0100" stop="20260125210000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">CAN Extra</title>
+    <desc lang="fr">CAN Extra (CAN Extra) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260125210000 +0100" stop="20260125213000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Les matchs de ma vie</title>
+    <desc lang="fr">Les matchs de ma vie Raï (Les matchs de ma vie) en différé lundi 26 janvier à 00h00.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260125213000 +0100" stop="20260125214500 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125214500 +0100" stop="20260125220000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125220000 +0100" stop="20260126004500 +0100" channel="beIN SPORTS 2">
     <title lang="fr">San Antonio Spurs / New Orleans Pelicans</title>
+    <desc lang="fr">San Antonio Spurs - New Orleans Pelicans (San Antonio Spurs - New Orleans Pelicans - Basket-ball NBA 2025-2026) en direct lundi 26 janvier à 01h00.(n)</desc>
     <category lang="fr">Basket</category>
   </programme>
   <programme start="20260126004500 +0100" stop="20260126010000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260126010000 +0100" stop="20260126030000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Guingamp / Troyes</title>
+    <desc lang="fr">Guingamp / Troyes (Guingamp / Troyes - Football Ligue 2 BKT 2025-2026) en différé lundi 26 janvier à 04h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260126030000 +0100" stop="20260126050000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Benfica Lisbonne / Estrela Amadora</title>
+    <desc lang="fr">Benfica Lisbonne / Estrela Amadora (Benfica Lisbonne / Estrela Amadora - Football Championnat du Portugal 2025-2026) en direct aujourd'hui à 18h55.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260126050000 +0100" stop="20260126070000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Bayern Munich / Augsbourg</title>
+    <desc lang="fr">Bayern Munich / Augsbourg (Bayern Munich / Augsbourg - Football Bundesliga 2025-2026) en différé lundi 26 janvier à 08h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
