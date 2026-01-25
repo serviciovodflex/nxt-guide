@@ -1376,6 +1376,7 @@
   </channel>
   <channel id="LaLigaSmartbankTV3.es">
     <display-name lang="es">LaLiga SmartbankTV 3</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGS3.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="SportTV1.pt">
@@ -7570,31 +7571,12 @@
     <country lang="es">México</country>
   </programme>
   <programme start="20260124073000 -0400" stop="20260124083000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Looney Tunes</title>
-    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
-    <credits>
-      <actor>Mel Blanc</actor>
-      <actor>Chuck Jones</actor>
-    </credits>
-    <date>1946</date>
+    <title lang="es">Looney Tunes (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260124083000 -0400" stop="20260124103000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Tom y Jerry</title>
-    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
-    <credits>
-      <actor>Lillian Randolph</actor>
-      <actor>William Hanna</actor>
-      <actor>Joseph Barbera</actor>
-    </credits>
-    <date>1940</date>
+    <title lang="es">Tom y Jerry (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260124103000 -0400" stop="20260124120000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -7605,38 +7587,12 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260124120000 -0400" stop="20260124140000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Lo mejor</title>
-    <desc lang="es">Revive lo mejor de la serie. Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Lo mejor - Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260124140000 -0400" stop="20260124160000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Lo mejor de La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Gonca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Hivda Zizan Alp</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Lo mejor de La hija del embajador (?)</title>
     <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1988876981.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260124160000 -0400" stop="20260124180000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Caso cerrado</title>
@@ -7692,31 +7648,12 @@
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125050000 -0400" stop="20260125070000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Looney Tunes</title>
-    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
-    <credits>
-      <actor>Mel Blanc</actor>
-      <actor>Chuck Jones</actor>
-    </credits>
-    <date>1946</date>
+    <title lang="es">Looney Tunes (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125070000 -0400" stop="20260125090000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Tom y Jerry</title>
-    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
-    <credits>
-      <actor>Lillian Randolph</actor>
-      <actor>William Hanna</actor>
-      <actor>Joseph Barbera</actor>
-    </credits>
-    <date>1940</date>
+    <title lang="es">Tom y Jerry (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125090000 -0400" stop="20260125103000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Mi villano favorito 2</title>
@@ -7744,46 +7681,16 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260125120000 -0400" stop="20260125133000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125133000 -0400" stop="20260125153000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Partido amistoso</title>
-    <desc lang="es">Disfruta de los mejores partidos amistosos internacionales.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Partido amistoso (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/37835217.jpg" />
   </programme>
   <programme start="20260125153000 -0400" stop="20260125160000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125160000 -0400" stop="20260125170000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">El regreso de la momia</title>
@@ -7803,21 +7710,8 @@
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125170000 -0400" stop="20260125180000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125180000 -0400" stop="20260125190000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -7916,38 +7810,12 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260124120000 -0400" stop="20260124140000 -0400" channel="UNITEL">
-    <title lang="es">Lo mejor</title>
-    <desc lang="es">Revive lo mejor de la serie. Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Lo mejor - Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260124140000 -0400" stop="20260124160000 -0400" channel="UNITEL">
-    <title lang="es">Lo mejor de La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Gonca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Hivda Zizan Alp</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Lo mejor de La hija del embajador (?)</title>
     <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1988876981.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260124160000 -0400" stop="20260124180000 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
@@ -8003,31 +7871,12 @@
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125050000 -0400" stop="20260125070000 -0400" channel="UNITEL">
-    <title lang="es">Looney Tunes</title>
-    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
-    <credits>
-      <actor>Mel Blanc</actor>
-      <actor>Chuck Jones</actor>
-    </credits>
-    <date>1946</date>
+    <title lang="es">Looney Tunes (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125070000 -0400" stop="20260125090000 -0400" channel="UNITEL">
-    <title lang="es">Tom y Jerry</title>
-    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
-    <credits>
-      <actor>Lillian Randolph</actor>
-      <actor>William Hanna</actor>
-      <actor>Joseph Barbera</actor>
-    </credits>
-    <date>1940</date>
+    <title lang="es">Tom y Jerry (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125090000 -0400" stop="20260125103000 -0400" channel="UNITEL">
     <title lang="es">Mi villano favorito 2</title>
@@ -8055,46 +7904,16 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260125120000 -0400" stop="20260125133000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125133000 -0400" stop="20260125153000 -0400" channel="UNITEL">
-    <title lang="es">Partido amistoso</title>
-    <desc lang="es">Disfruta de los mejores partidos amistosos internacionales.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Partido amistoso (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/37835217.jpg" />
   </programme>
   <programme start="20260125153000 -0400" stop="20260125160000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125160000 -0400" stop="20260125170000 -0400" channel="UNITEL">
     <title lang="es">El regreso de la momia</title>
@@ -8189,36 +8008,12 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
   <programme start="20260124040000 -0400" stop="20260124042500 -0400" channel="BOLIVISION">
-    <title lang="es">Master Raindrop</title>
-    <desc lang="es">Maetro Raindrop sigue al novato en artes marciales Raindrop y su amiga Shao Yen en su viaje. Ellos buscan salvar a su Maestro Yun y eventualmente a su pacífica tierra del malvado General Bu y su ejército de Guerreros Terracota.(n)</desc>
-    <credits>
-      <actor>Jane O'Brien</actor>
-      <actor>Rachel King</actor>
-      <actor>Sarah Aubrey</actor>
-      <actor>Steve Cooper</actor>
-    </credits>
-    <date>2008</date>
+    <title lang="es">Master Raindrop (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/902586.jpg" />
-    <country lang="es">Australia</country>
   </programme>
   <programme start="20260124042500 -0400" stop="20260124045000 -0400" channel="BOLIVISION">
-    <title lang="es">La abeja Maya</title>
-    <desc lang="es">Una abeja joven llamada Maya ha dejado su colmena para descubrir la belleza y los misterios de la naturaleza, encontrándose con otros insectos que están allí, a quienes contagia su enorme entusiasmo.(n)</desc>
-    <credits>
-      <actor>Kira Tozer</actor>
-      <actor>Andrea Libman</actor>
-      <actor>Paul Louis Muller</actor>
-      <actor>Gerd Meyer</actor>
-      <actor>Hali Beth Muller</actor>
-      <actor>Zalina Sanchez</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">La abeja Maya (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20824888.jpg" />
-    <country lang="es">Francia</country>
   </programme>
   <programme start="20260124045000 -0400" stop="20260124061500 -0400" channel="BOLIVISION">
     <title lang="es">Plaza Sésamo</title>
@@ -8238,21 +8033,8 @@
     <country lang="es">México</country>
   </programme>
   <programme start="20260124061500 -0400" stop="20260124065000 -0400" channel="BOLIVISION">
-    <title lang="es">Beyblade Burst</title>
-    <desc lang="es">Valt Aoi y sus compañeros de clases luchan, a su manera, en diferentes torneos con sus ojos puestos en el título de Blader número uno.(n)</desc>
-    <credits>
-      <actor>Matt Hill</actor>
-      <actor>Antony Kim</actor>
-      <actor>Adrian Petriw</actor>
-      <actor>Sabrina Pitre</actor>
-      <actor>Luis Leonardo Suarez</actor>
-      <actor>Laura Stahl</actor>
-    </credits>
-    <date>2016</date>
+    <title lang="es">Beyblade Burst (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975808.jpg" />
-    <country lang="es">Japón</country>
   </programme>
   <programme start="20260124065000 -0400" stop="20260124071500 -0400" channel="BOLIVISION">
     <title lang="es">Guinness World Records</title>
@@ -8495,21 +8277,8 @@
     <country lang="es">España</country>
   </programme>
   <programme start="20260125010000 -0400" stop="20260125020000 -0400" channel="BOLIVISION">
-    <title lang="es">The Walking Dead</title>
-    <desc lang="es">Cuenta la historia de las semanas y meses que sucedieron a un apocalipsis zombie pandémico. El oficial de policía Rick Grimes viaja constantemente con su familia y un pequeño grupo de sobrevivientes, en busca de un hogar seguro.(n)</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Danai Gurira</actor>
-      <actor>Lauren Cohan</actor>
-      <actor>Steven Yeun</actor>
-      <actor>Chandler Riggs</actor>
-    </credits>
-    <date>2010</date>
+    <title lang="es">The Walking Dead (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975110.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125020000 -0400" stop="20260125040000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
@@ -8520,36 +8289,12 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
   <programme start="20260125040000 -0400" stop="20260125042500 -0400" channel="BOLIVISION">
-    <title lang="es">Master Raindrop</title>
-    <desc lang="es">Maetro Raindrop sigue al novato en artes marciales Raindrop y su amiga Shao Yen en su viaje. Ellos buscan salvar a su Maestro Yun y eventualmente a su pacífica tierra del malvado General Bu y su ejército de Guerreros Terracota.(n)</desc>
-    <credits>
-      <actor>Jane O'Brien</actor>
-      <actor>Rachel King</actor>
-      <actor>Sarah Aubrey</actor>
-      <actor>Steve Cooper</actor>
-    </credits>
-    <date>2008</date>
+    <title lang="es">Master Raindrop (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/902586.jpg" />
-    <country lang="es">Australia</country>
   </programme>
   <programme start="20260125042500 -0400" stop="20260125045000 -0400" channel="BOLIVISION">
-    <title lang="es">La abeja Maya</title>
-    <desc lang="es">Una abeja joven llamada Maya ha dejado su colmena para descubrir la belleza y los misterios de la naturaleza, encontrándose con otros insectos que están allí, a quienes contagia su enorme entusiasmo.(n)</desc>
-    <credits>
-      <actor>Kira Tozer</actor>
-      <actor>Andrea Libman</actor>
-      <actor>Paul Louis Muller</actor>
-      <actor>Gerd Meyer</actor>
-      <actor>Hali Beth Muller</actor>
-      <actor>Zalina Sanchez</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">La abeja Maya (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20824888.jpg" />
-    <country lang="es">Francia</country>
   </programme>
   <programme start="20260125045000 -0400" stop="20260125061500 -0400" channel="BOLIVISION">
     <title lang="es">Plaza Sésamo</title>
@@ -9127,38 +8872,12 @@
     <category lang="es">Infantil</category>
   </programme>
   <programme start="20260125061500 -0400" stop="20260125063000 -0400" channel="RED UNO">
-    <title lang="es">La brujita Dee Dee</title>
-    <desc lang="es">Una joven alegre, que está aprendiendo a convertirse en hechicera, utiliza un libro mágico de conjuros para ayudar a sus amigos cuando se encuentran en problemas.(n)</desc>
-    <credits>
-      <actor>Niang McCann</actor>
-      <actor>Giles New</actor>
-      <actor>Jody O'Neill</actor>
-      <actor>Hollie Taylor</actor>
-      <actor>Paul Tylak</actor>
-      <actor>Morgan C Jones</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">La brujita Dee Dee (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Infantiles</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975808.jpg" />
-    <country lang="es">India</country>
   </programme>
   <programme start="20260125063000 -0400" stop="20260125070000 -0400" channel="RED UNO">
-    <title lang="es">Spyders</title>
-    <desc lang="es">Tres hermanos descubren que sus padres son espías encubiertos de una agencia de protección ambiental, y deciden unirse a ellos y ayudarlos en secreto.(n)</desc>
-    <credits>
-      <actor>Amit Hechter</actor>
-      <actor>Jonathan Gotlib</actor>
-      <actor>Kobi Maimon</actor>
-      <actor>Nati Kluger</actor>
-      <actor>Tal Mussari</actor>
-      <actor>Naya Federman</actor>
-    </credits>
-    <date>2020</date>
+    <title lang="es">Spyders (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975808.jpg" />
-    <country lang="es">Israel</country>
   </programme>
   <programme start="20260125070000 -0400" stop="20260125073000 -0400" channel="RED UNO">
     <title lang="es">Plim Plim, un héroe del corazón</title>
@@ -9178,55 +8897,16 @@
     <country lang="es">Argentina</country>
   </programme>
   <programme start="20260125073000 -0400" stop="20260125080000 -0400" channel="RED UNO">
-    <title lang="es">Baby Shark's Big Show</title>
-    <desc lang="es">Baby Shark y su mejor amigo, el pez William, emprenden varias aventuras en su comunidad de Carnivore Cove, donde siempre aprenden algo nuevo.(n)</desc>
-    <credits>
-      <actor>Kimiko Glenn</actor>
-      <actor>Luke Youngblood</actor>
-      <actor>Natasha Rothwell</actor>
-      <actor>Eric Edelstein</actor>
-      <actor>Debra Wilson</actor>
-      <actor>Patrick Warburton</actor>
-    </credits>
-    <date>2020</date>
+    <title lang="es">Baby Shark's Big Show (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975808.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125080000 -0400" stop="20260125083000 -0400" channel="RED UNO">
-    <title lang="es">Paw Patrol</title>
-    <desc lang="es">Conoce a un equipo de cachorros liderado por el energético Ryder, que está siempre listo cuando se trata de ayudar en la bulliciosa ciudad de Bahía Aventura.(n)</desc>
-    <credits>
-      <actor>Alex Thorne</actor>
-      <actor>Gabriela Milani</actor>
-      <actor>Valentina Letelier</actor>
-      <actor>Carolina Highet</actor>
-      <actor>Devan Cohen</actor>
-      <actor>Drew Davis</actor>
-    </credits>
-    <date>2013</date>
+    <title lang="es">Paw Patrol (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975808.jpg" />
-    <country lang="es">Canadá</country>
   </programme>
   <programme start="20260125083000 -0400" stop="20260125090000 -0400" channel="RED UNO">
-    <title lang="es">The Thundermans</title>
-    <desc lang="es">Phoebe y Max Thunderman son un par de hermanos gemelos, pero con diferentes personalidades. Ella se centra más en hacer el bien pero, al contrario, él intenta ser el villano más poderoso del mundo.(n)</desc>
-    <credits>
-      <actor>Rosa Blasi</actor>
-      <actor>Jack Griffo</actor>
-      <actor>Kira Kosarin</actor>
-      <actor>Chris Tallman</actor>
-      <actor>Diego Velazquez</actor>
-      <actor>Dana Snyder</actor>
-    </credits>
-    <date>2013</date>
+    <title lang="es">The Thundermans (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975808.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260125090000 -0400" stop="20260125093000 -0400" channel="RED UNO">
     <title lang="es">Bob Esponja</title>
@@ -10233,8 +9913,47 @@
   </programme>
   <programme start="20260124025000 -0600" stop="20260124034000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago P.D.</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Reforma</sub-title>
+    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
+    <credits>
+      <actor>Sophia Bush</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Patrick John Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Amy Morton</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Robert Wisdom</actor>
+      <actor>Josh Segarra</actor>
+      <actor>Robin Weigert</actor>
+      <actor>Sarah Timms Chittaro</actor>
+      <actor>Rick Cooke</actor>
+      <actor>Jodi-Kay Edwards</actor>
+      <actor>Quinn Grooms</actor>
+      <actor>Benjamin Hoffman</actor>
+      <actor>Brian Jones</actor>
+      <actor>Steve Kim</actor>
+      <actor>Mary Kocur</actor>
+      <actor>Caleb Martin</actor>
+      <actor>Derek Haas</actor>
+      <actor>Archie Kao</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Jon Seda</actor>
+      <actor>Dick Wolf</actor>
+      <actor>Sheri Beth Dusek</actor>
+      <actor>Fred Berner</actor>
+      <actor>Michael Slovis</actor>
+      <actor>Michael Brandt</actor>
+      <actor>Craig Cannold</actor>
+      <actor>Matt Olmstead</actor>
+      <actor>Jeanne Caliendo</actor>
+      <actor>Terry Blythe</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124034000 -0600" stop="20260124043000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
@@ -10434,35 +10153,8 @@
   </programme>
   <programme start="20260124083000 -0600" stop="20260124092000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Dejemos que decida Salomón</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124092000 -0600" stop="20260124101000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">La ley y el orden: UVE</title>
@@ -10538,35 +10230,8 @@
   </programme>
   <programme start="20260124110000 -0600" stop="20260124115000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Milimétrico</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124115000 -0600" stop="20260124124000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
@@ -11556,35 +11221,8 @@
   </programme>
   <programme start="20260125074000 -0600" stop="20260125083000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">No dañaré</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260125083000 -0600" stop="20260125092000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
@@ -12452,35 +12090,8 @@
   </programme>
   <programme start="20260126060000 -0600" stop="20260126065000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">El dolor es para los vivos</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260126065000 -0600" stop="20260126074000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
@@ -14446,8 +14057,37 @@
   </programme>
   <programme start="20260124014000 -0600" stop="20260124020500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Parte 2</sub-title>
+    <desc lang="es">Una parodia de la vida moderna en las oficinas estadounidenses que profundiza en el quehacer y las relaciones de los trabajadores de Dunder Mifflin, una empresa de suministro de papel en Scranton, Pensilvania.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Angela Kinsey</actor>
+      <actor>Phyllis Smith</actor>
+      <actor>Mindy Kaling</actor>
+      <actor>BJ Novak</actor>
+      <actor>Creed Bratton</actor>
+      <actor>John Krasinski</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Brian Baumgartner</actor>
+      <actor>Kate Flannery</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Paul Feig</actor>
+      <actor>Randall Einhorn</actor>
+      <actor>Ken Kwapis</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Jeffrey Blitz</actor>
+      <actor>Daniel Chun</actor>
+      <actor>Halsted Sullivan</actor>
+      <actor>Caroline Williams</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Lee Eisenberg</actor>
+      <actor>Gene Stupnitsky</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11046850.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124020500 -0600" stop="20260124023500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
@@ -15293,26 +14933,8 @@
   </programme>
   <programme start="20260124220000 -0600" stop="20260124222500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <sub-title lang="es">Servir y proteger</sub-title>
-    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
-    <credits>
-      <actor>Terry Crews</actor>
-      <actor>Melissa Fumero</actor>
-      <actor>Joe Lo Truglio</actor>
-      <actor>Dirk Blocker</actor>
-      <actor>Joel McKinnon Miller</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Andre Braugher</actor>
-      <actor>Chelsea Peretti</actor>
-      <actor>Stephanie Beatriz</actor>
-      <actor>Dan Goor</actor>
-      <actor>Michael Schur</actor>
-      <actor>Matt Nodella</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9297577.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124222500 -0600" stop="20260124225000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
@@ -16923,25 +16545,8 @@
   </programme>
   <programme start="20260126111500 -0600" stop="20260126114000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Good Place</title>
-    <sub-title lang="es">Volar</sub-title>
-    <desc lang="es">Cuando un conductor atropella y asesina a Eleanor Shellstrop, esta se sorprende al encontrarse a sí misma en la 'zona buena' del mas allá, donde rápidamente descubre que no merece estar.(n)</desc>
-    <credits>
-      <actor>Tiya Sircar</actor>
-      <actor>Ted Danson</actor>
-      <actor>William Jackson Harper</actor>
-      <actor>Jameela Jamil</actor>
-      <actor>Ruman Kazi</actor>
-      <actor>Manny Jacinto</actor>
-      <actor>Amy Okuda</actor>
-      <actor>Meryl Hathaway</actor>
-      <actor>D'Arcy Carden</actor>
-      <actor>Kristen Bell</actor>
-      <actor>Drew Goddard</actor>
-    </credits>
-    <date>2016</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2971982.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260126114000 -0600" stop="20260126120500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Good Place</title>
@@ -17013,55 +16618,13 @@
   </programme>
   <programme start="20260126125500 -0600" stop="20260126132000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Upright</title>
-    <sub-title lang="es">Tomates</sub-title>
-    <desc lang="es">Dos inadaptados, reunidos por casualidad en medio del desierto australiano, forjan lazos en una búsqueda para transportar un precioso piano de un lado del país al otro.(n)</desc>
-    <credits>
-      <actor>Milly Alcock</actor>
-      <actor>Heather Mitchell</actor>
-      <actor>Ella Scott</actor>
-      <actor>Daniel Lapaine</actor>
-      <actor>Daniel Frederiksen</actor>
-      <actor>Kate Box</actor>
-      <actor>Syd Brisbane</actor>
-      <actor>Sachin Joab</actor>
-      <actor>Sue Jones</actor>
-      <actor>Jai Koutrae</actor>
-      <actor>Steve Rodgers</actor>
-      <actor>Fiona Press</actor>
-      <actor>Tim Minchin</actor>
-      <actor>Chris Taylor</actor>
-      <actor>Matthew Saville</actor>
-      <actor>Melissa Kelly</actor>
-      <actor>Leon Ford</actor>
-      <actor>Jason Stephens</actor>
-      <actor>Kate Mulvany</actor>
-    </credits>
-    <date>2019</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18117665.jpg" />
-    <country lang="es">Australia</country>
   </programme>
   <programme start="20260126132000 -0600" stop="20260126135000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Colin from Accounts</title>
-    <sub-title lang="es">Sophie burbujas</sub-title>
-    <desc lang="es">Ashley y Gordon son dos solteros complejos que se unen por un accidente automovilístico y un perro herido. Personas defectuosas y divertidas que se eligen entre sí y son lo suficientemente valientes como para mostrar su verdadero yo.(n)</desc>
-    <credits>
-      <actor>Harriet Dyer</actor>
-      <actor>Zak</actor>
-      <actor>Emma Harvie</actor>
-      <actor>Genevieve Hegney</actor>
-      <actor>Michael Logo</actor>
-      <actor>Helen Thomson</actor>
-      <actor>Tai Hara</actor>
-      <actor>Annie Maynard</actor>
-      <actor>Mitchell Roach</actor>
-      <actor>Patrick Brammall</actor>
-      <actor>Matthew Moore</actor>
-    </credits>
-    <date>2022</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/28600175.jpg" />
-    <country lang="es">Australia</country>
   </programme>
   <programme start="20260126135000 -0600" stop="20260126143500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">MacGruber</title>
@@ -17088,24 +16651,8 @@
   </programme>
   <programme start="20260126143500 -0600" stop="20260126154500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Saturday Night Live</title>
-    <sub-title lang="es">Finn Wolfhard/A$AP Rocky</sub-title>
-    <desc lang="es">Durante más de 30 años, este show ha creado los personajes más locos, las mejores parodias de presidentes y políticos, las más sarcásticas burlas a las celebridades de la música y el cine, y los mejores musicales en vivo.(n)</desc>
-    <credits>
-      <actor>Fred Armisen</actor>
-      <actor>Maya Rudolph</actor>
-      <actor>Don Pardo</actor>
-      <actor>Lenny Pickett</actor>
-      <actor>Darrell Hammond</actor>
-      <actor>Kristen Wiig</actor>
-      <actor>Don Roy King</actor>
-      <actor>Akiva Schaffer</actor>
-      <actor>Bill Hader</actor>
-      <actor>Will Forte</actor>
-    </credits>
-    <date>1975</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4706243.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260126154500 -0600" stop="20260126161000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
@@ -19294,133 +18841,23 @@
   </programme>
   <programme start="20260124064000 -0600" stop="20260124072500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">The Ex Wife</title>
-    <sub-title lang="es">Episodio 2</sub-title>
-    <desc lang="es">Tasha goza de la familia que siempre soñó, un marido cariñoso y una hija fantástica. Su vida parecer ser perfecta, sin embargo, también está Jen, la ex esposa de su pareja que tiene planeado no dejarlos en paz y hacer sus días imposibles.(n)</desc>
-    <credits>
-      <actor>Celine Buckens</actor>
-      <actor>Tom Mison</actor>
-      <actor>Jordan Stephens</actor>
-      <actor>Janet Montgomery</actor>
-      <actor>Clare Foster</actor>
-      <actor>Adam Drew</actor>
-      <actor>Katie McGrath</actor>
-      <actor>Sam Bell</actor>
-      <actor>Amro Mahmoud</actor>
-      <actor>Sam Hoare</actor>
-      <actor>Rebecka Johnston</actor>
-      <actor>Abe Jarman</actor>
-      <actor>Roderick Hill</actor>
-      <actor>Nina Singh</actor>
-      <actor>Dylan Baldwin</actor>
-      <actor>Daniel Bellus</actor>
-      <actor>James Lailey</actor>
-      <actor>Csaba Keczán</actor>
-      <actor>Paul Walker</actor>
-      <actor>Brian O'Malley</actor>
-      <actor>Kim Crowther</actor>
-      <actor>Nessah Muthy</actor>
-      <actor>Polly Buckle</actor>
-      <actor>David Turpin</actor>
-    </credits>
-    <date>2022</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/40190279.jpg" />
-    <country lang="es">Reino Unido</country>
   </programme>
   <programme start="20260124072500 -0600" stop="20260124081000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">The Hunting Party</title>
-    <sub-title lang="es">Denise Glenn</sub-title>
-    <desc lang="es">Un pequeño equipo de investigadores que se reúnen para localizar y capturar a los asesinos más peligrosos jamás vistos. Estos se acaban de escapar de una prisión secreta a la que la rodean muchos rumores, y todos ellos parecen ser ciertos.(n)</desc>
-    <credits>
-      <actor>Melissa Roxburgh</actor>
-      <actor>Nick Wechsler</actor>
-      <actor>Patrick Sabongui</actor>
-      <actor>Sara Garcia</actor>
-      <actor>Josh McKenzie</actor>
-      <actor>Matt Frewer</actor>
-      <actor>Arvin Shah</actor>
-      <actor>Colleen Foy</actor>
-      <actor>Al McFoster</actor>
-      <actor>Siobhan Williams</actor>
-      <actor>Thor Freudenthal</actor>
-      <actor>Jake Coburn</actor>
-      <actor>Jj Bailey</actor>
-      <actor>Vinny Ferris</actor>
-      <actor>Keto Shimizu</actor>
-    </credits>
-    <date>2025</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/47971689.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124081000 -0600" stop="20260124085500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Boy Scout</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124085500 -0600" stop="20260124094500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">La pareja de al lado: Atracción mortal</title>
-    <sub-title lang="es">Episodio 5</sub-title>
-    <desc lang="es">Evie y Pete son una joven pareja que se muda a un barrio exclusivo para formar una familia. Allí se hacen amigos de la pareja de al lado, Danny y Becka. Sin embargo, pronto entran en una compleja red de enredos que incluye traiciones.(n)</desc>
-    <credits>
-      <actor>Eleanor Tomlinson</actor>
-      <actor>Alfred Enoch</actor>
-      <actor>Hugh Dennis</actor>
-      <actor>Joel Morris</actor>
-      <actor>Janine Duvitski</actor>
-      <actor>Kate Robbins</actor>
-      <actor>Ioanna Kimbook</actor>
-      <actor>Daniel Bell</actor>
-      <actor>Deirdre Mullins</actor>
-      <actor>Ellie Lucia Mcardle</actor>
-      <actor>Clara Burt</actor>
-      <actor>Anastasia Hille</actor>
-      <actor>Andrew Woodall</actor>
-      <actor>Geoffrey Breton</actor>
-      <actor>James Doherty</actor>
-      <actor>Jessica de Gouw</actor>
-      <actor>Mark Frost</actor>
-      <actor>Sam Heughan</actor>
-      <actor>Dries Vos</actor>
-      <actor>David Mallinson</actor>
-      <actor>Bert Hamelinck</actor>
-      <actor>Jennifer Burnet</actor>
-      <actor>Ilse Joye</actor>
-      <actor>Robin Kerremans</actor>
-      <actor>Dimitri Verbeeck</actor>
-    </credits>
-    <date>2023</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/40104013.jpg" />
-    <country lang="es">Reino Unido</country>
   </programme>
   <programme start="20260124094500 -0600" stop="20260124105000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">A Very Royal Scandal</title>
@@ -19448,30 +18885,8 @@
   </programme>
   <programme start="20260124105000 -0600" stop="20260124114500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Ray Donovan</title>
-    <sub-title lang="es">Si perdiera la gracia de Dios</sub-title>
-    <desc lang="es">Ray Donovan tiene una extraña profesión: se encarga de solucionar cualquier clase de problema que se le presente a la gente más influyente de Los Ángeles. Pero a pesar de ser el mejor en su trabajo, su propia vida es un desastre.(n)</desc>
-    <credits>
-      <actor>Eddie Marsan</actor>
-      <actor>Steven Bauer</actor>
-      <actor>Katherine Moennig</actor>
-      <actor>Devon Bagby</actor>
-      <actor>Kerris Dorsey</actor>
-      <actor>Jon Voight</actor>
-      <actor>Dash Mihok</actor>
-      <actor>Liev Schreiber</actor>
-      <actor>Pooch Hall</actor>
-      <actor>Paula Malcomson</actor>
-      <actor>John Dahl</actor>
-      <actor>Tucker Gates</actor>
-      <actor>Michael Uppendahl</actor>
-      <actor>Ann Biderman</actor>
-      <actor>John H Radulovic</actor>
-      <actor>Jason Weinberg</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4666046.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260124114500 -0600" stop="20260124124500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Ray Donovan</title>
@@ -19813,24 +19228,8 @@
   </programme>
   <programme start="20260124223000 -0600" stop="20260125000000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Saturday Night Live</title>
-    <sub-title lang="es">Teyana Taylor / Geese</sub-title>
-    <desc lang="es">Durante más de 30 años, este show ha creado los personajes más locos, las mejores parodias de presidentes y políticos, las más sarcásticas burlas a las celebridades de la música y el cine, y los mejores musicales en vivo.(n)</desc>
-    <credits>
-      <actor>Fred Armisen</actor>
-      <actor>Maya Rudolph</actor>
-      <actor>Don Pardo</actor>
-      <actor>Lenny Pickett</actor>
-      <actor>Darrell Hammond</actor>
-      <actor>Kristen Wiig</actor>
-      <actor>Don Roy King</actor>
-      <actor>Akiva Schaffer</actor>
-      <actor>Bill Hader</actor>
-      <actor>Will Forte</actor>
-    </credits>
-    <date>1975</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4706243.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260125000000 -0600" stop="20260125005000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: Most Wanted</title>
@@ -20085,30 +19484,8 @@
   </programme>
   <programme start="20260125072500 -0600" stop="20260125081500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: International</title>
-    <sub-title lang="es">Secretos como armas</sub-title>
-    <desc lang="es">Agentes de élite de la división internacional del FBI viajan por el mundo con la misión de proteger a los estadounidenses dondequiera que estén.(n)</desc>
-    <credits>
-      <actor>Samantha Blaire Cutler</actor>
-      <actor>Alana De La Garza</actor>
-      <actor>Kushtrim Hoxha</actor>
-      <actor>Luke Kleintank</actor>
-      <actor>Oleg Kricunova</actor>
-      <actor>Heida Reed</actor>
-      <actor>Carter Redwood</actor>
-      <actor>Vinessa Vidotto</actor>
-      <actor>Christiane Paul</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Derek Haas</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Michael Katleman</actor>
-      <actor>Ernesto Alcalde</actor>
-      <actor>Stuti Malhotra</actor>
-      <actor>Alec Chorches</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16547722.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260125081500 -0600" stop="20260125090000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: International</title>
@@ -20139,57 +19516,13 @@
   </programme>
   <programme start="20260125090000 -0600" stop="20260125094500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: International</title>
-    <sub-title lang="es">El alma del ajedrez</sub-title>
-    <desc lang="es">Agentes de élite de la división internacional del FBI viajan por el mundo con la misión de proteger a los estadounidenses dondequiera que estén.(n)</desc>
-    <credits>
-      <actor>Samantha Blaire Cutler</actor>
-      <actor>Alana De La Garza</actor>
-      <actor>Kushtrim Hoxha</actor>
-      <actor>Luke Kleintank</actor>
-      <actor>Oleg Kricunova</actor>
-      <actor>Heida Reed</actor>
-      <actor>Carter Redwood</actor>
-      <actor>Vinessa Vidotto</actor>
-      <actor>Christiane Paul</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Derek Haas</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Michael Katleman</actor>
-      <actor>Ernesto Alcalde</actor>
-      <actor>Stuti Malhotra</actor>
-      <actor>Alec Chorches</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16547722.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260125094500 -0600" stop="20260125103000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: International</title>
-    <sub-title lang="es">Los secretos que ella guarda</sub-title>
-    <desc lang="es">Agentes de élite de la división internacional del FBI viajan por el mundo con la misión de proteger a los estadounidenses dondequiera que estén.(n)</desc>
-    <credits>
-      <actor>Samantha Blaire Cutler</actor>
-      <actor>Alana De La Garza</actor>
-      <actor>Kushtrim Hoxha</actor>
-      <actor>Luke Kleintank</actor>
-      <actor>Oleg Kricunova</actor>
-      <actor>Heida Reed</actor>
-      <actor>Carter Redwood</actor>
-      <actor>Vinessa Vidotto</actor>
-      <actor>Christiane Paul</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Derek Haas</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Michael Katleman</actor>
-      <actor>Ernesto Alcalde</actor>
-      <actor>Stuti Malhotra</actor>
-      <actor>Alec Chorches</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16547722.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260125103000 -0600" stop="20260125111500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: International</title>
@@ -20220,30 +19553,8 @@
   </programme>
   <programme start="20260125111500 -0600" stop="20260125121500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Ray Donovan</title>
-    <sub-title lang="es">Isla Ellis</sub-title>
-    <desc lang="es">Ray Donovan tiene una extraña profesión: se encarga de solucionar cualquier clase de problema que se le presente a la gente más influyente de Los Ángeles. Pero a pesar de ser el mejor en su trabajo, su propia vida es un desastre.(n)</desc>
-    <credits>
-      <actor>Eddie Marsan</actor>
-      <actor>Steven Bauer</actor>
-      <actor>Katherine Moennig</actor>
-      <actor>Devon Bagby</actor>
-      <actor>Kerris Dorsey</actor>
-      <actor>Jon Voight</actor>
-      <actor>Dash Mihok</actor>
-      <actor>Liev Schreiber</actor>
-      <actor>Pooch Hall</actor>
-      <actor>Paula Malcomson</actor>
-      <actor>John Dahl</actor>
-      <actor>Tucker Gates</actor>
-      <actor>Michael Uppendahl</actor>
-      <actor>Ann Biderman</actor>
-      <actor>John H Radulovic</actor>
-      <actor>Jason Weinberg</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4666046.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260125121500 -0600" stop="20260125131000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Ray Donovan</title>
@@ -21260,65 +20571,13 @@
   </programme>
   <programme start="20260126214500 -0600" stop="20260126223500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">La pareja de al lado: Atracción mortal</title>
-    <sub-title lang="es">Episodio 5</sub-title>
-    <desc lang="es">Evie y Pete son una joven pareja que se muda a un barrio exclusivo para formar una familia. Allí se hacen amigos de la pareja de al lado, Danny y Becka. Sin embargo, pronto entran en una compleja red de enredos que incluye traiciones.(n)</desc>
-    <credits>
-      <actor>Eleanor Tomlinson</actor>
-      <actor>Alfred Enoch</actor>
-      <actor>Hugh Dennis</actor>
-      <actor>Joel Morris</actor>
-      <actor>Janine Duvitski</actor>
-      <actor>Kate Robbins</actor>
-      <actor>Ioanna Kimbook</actor>
-      <actor>Daniel Bell</actor>
-      <actor>Deirdre Mullins</actor>
-      <actor>Ellie Lucia Mcardle</actor>
-      <actor>Clara Burt</actor>
-      <actor>Anastasia Hille</actor>
-      <actor>Andrew Woodall</actor>
-      <actor>Geoffrey Breton</actor>
-      <actor>James Doherty</actor>
-      <actor>Jessica de Gouw</actor>
-      <actor>Mark Frost</actor>
-      <actor>Sam Heughan</actor>
-      <actor>Dries Vos</actor>
-      <actor>David Mallinson</actor>
-      <actor>Bert Hamelinck</actor>
-      <actor>Jennifer Burnet</actor>
-      <actor>Ilse Joye</actor>
-      <actor>Robin Kerremans</actor>
-      <actor>Dimitri Verbeeck</actor>
-    </credits>
-    <date>2023</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/40104013.jpg" />
-    <country lang="es">Reino Unido</country>
   </programme>
   <programme start="20260126223500 -0600" stop="20260126232000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">The Hunting Party</title>
-    <sub-title lang="es">Denise Glenn</sub-title>
-    <desc lang="es">Un pequeño equipo de investigadores que se reúnen para localizar y capturar a los asesinos más peligrosos jamás vistos. Estos se acaban de escapar de una prisión secreta a la que la rodean muchos rumores, y todos ellos parecen ser ciertos.(n)</desc>
-    <credits>
-      <actor>Melissa Roxburgh</actor>
-      <actor>Nick Wechsler</actor>
-      <actor>Patrick Sabongui</actor>
-      <actor>Sara Garcia</actor>
-      <actor>Josh McKenzie</actor>
-      <actor>Matt Frewer</actor>
-      <actor>Arvin Shah</actor>
-      <actor>Colleen Foy</actor>
-      <actor>Al McFoster</actor>
-      <actor>Siobhan Williams</actor>
-      <actor>Thor Freudenthal</actor>
-      <actor>Jake Coburn</actor>
-      <actor>Jj Bailey</actor>
-      <actor>Vinny Ferris</actor>
-      <actor>Keto Shimizu</actor>
-    </credits>
-    <date>2025</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/47971689.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260126232000 -0600" stop="20260127002500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">A Very Royal Scandal</title>
@@ -23300,7 +22559,7 @@
       <writer>Timberman-Beverly Productions</writer>
       <writer>CBS Television Studios</writer>
     </credits>
-    <date>2016</date>
+    <date>2015</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/0b/271371.png" />
     <rating>
@@ -23326,7 +22585,7 @@
       <writer>Timberman-Beverly Productions</writer>
       <writer>CBS Television Studios</writer>
     </credits>
-    <date>2016</date>
+    <date>2015</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/0b/271371.png" />
     <rating>
@@ -23352,7 +22611,7 @@
       <writer>Timberman-Beverly Productions</writer>
       <writer>CBS Television Studios</writer>
     </credits>
-    <date>2016</date>
+    <date>2015</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/0b/271371.png" />
     <rating>
@@ -23378,7 +22637,7 @@
       <writer>Timberman-Beverly Productions</writer>
       <writer>CBS Television Studios</writer>
     </credits>
-    <date>2016</date>
+    <date>2015</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/0b/271371.png" />
     <rating>
@@ -23404,7 +22663,7 @@
       <writer>Timberman-Beverly Productions</writer>
       <writer>CBS Television Studios</writer>
     </credits>
-    <date>2016</date>
+    <date>2015</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/0b/271371.png" />
     <rating>
@@ -23430,7 +22689,7 @@
       <writer>Timberman-Beverly Productions</writer>
       <writer>CBS Television Studios</writer>
     </credits>
-    <date>2016</date>
+    <date>2015</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/0b/271371.png" />
     <rating>
@@ -24182,21 +23441,49 @@
     <sub-title lang="es">Si la apariencia matase</sub-title>
     <desc lang="es">El equipo del C.S.I. investiga el asesinato de un modelo. Para descubrir la identidad del asesino, los forenses deben introducirse en el mundo de la pasarela y entender las rencillas que rigen las relaciones entre los modelos.(n)</desc>
     <credits>
+      <actor>Rory Cochrane</actor>
       <actor>Khandi Alexander</actor>
       <actor>David Caruso</actor>
-      <actor>Sofia Milos</actor>
       <actor>Adam Rodriguez</actor>
+      <actor>Kim Delaney</actor>
       <actor>Emily Procter</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
       <actor>Jerry Bruckheimer</actor>
+      <actor>Walt Lloyd</actor>
+      <actor>Frank Ballou</actor>
+      <actor>Steven Maeda</actor>
+      <actor>Alliance Atlantis Communications</actor>
+      <actor>Touchstone Television</actor>
       <actor>CBS Productions</actor>
       <actor>Jerry Bruckheimer Films</actor>
+      <actor>Graeme Revell</actor>
+      <actor>Pete Townshend</actor>
+      <actor>David E. Russo</actor>
       <writer>Jerry Bruckheimer</writer>
+      <writer>Walt Lloyd</writer>
+      <writer>Frank Ballou</writer>
+      <writer>Steven Maeda</writer>
+      <writer>Alliance Atlantis Communications</writer>
+      <writer>Touchstone Television</writer>
       <writer>CBS Productions</writer>
       <writer>Jerry Bruckheimer Films</writer>
+      <writer>Graeme Revell</writer>
+      <writer>Pete Townshend</writer>
+      <writer>David E. Russo</writer>
+      <writer>Eddie Guerra</writer>
+      <writer>Laurie McCarthy</writer>
+      <writer>Gwendolyn M. Parker</writer>
+      <writer>Matt Witten</writer>
+      <writer>Rory Cochrane</writer>
+      <writer>Khandi Alexander</writer>
+      <writer>David Caruso</writer>
+      <writer>Adam Rodriguez</writer>
+      <writer>Kim Delaney</writer>
+      <writer>Emily Procter</writer>
+      <producer>Frank Ballou</producer>
+      <producer>Steven Maeda</producer>
+      <composer>Graeme Revell</composer>
     </credits>
-    <date>2006</date>
+    <date>2002</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/2a/130602.png" />
     <rating>
@@ -24208,21 +23495,49 @@
     <sub-title lang="es">Muerte eminente</sub-title>
     <desc lang="es">El cadáver de un político local aparece en una casa vacía. El equipo de C.S.I. se encuentra con un buen número de sospechosos cuando descubre que casi todo el vecindario estaba en desacuerdo con las decisiones políticas que el hombre había tomado antes de ser asesinado.(n)</desc>
     <credits>
+      <actor>Rory Cochrane</actor>
       <actor>Khandi Alexander</actor>
       <actor>David Caruso</actor>
-      <actor>Sofia Milos</actor>
       <actor>Adam Rodriguez</actor>
+      <actor>Kim Delaney</actor>
       <actor>Emily Procter</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
       <actor>Jerry Bruckheimer</actor>
+      <actor>Walt Lloyd</actor>
+      <actor>Frank Ballou</actor>
+      <actor>Steven Maeda</actor>
+      <actor>Alliance Atlantis Communications</actor>
+      <actor>Touchstone Television</actor>
       <actor>CBS Productions</actor>
       <actor>Jerry Bruckheimer Films</actor>
+      <actor>Graeme Revell</actor>
+      <actor>Pete Townshend</actor>
+      <actor>David E. Russo</actor>
       <writer>Jerry Bruckheimer</writer>
+      <writer>Walt Lloyd</writer>
+      <writer>Frank Ballou</writer>
+      <writer>Steven Maeda</writer>
+      <writer>Alliance Atlantis Communications</writer>
+      <writer>Touchstone Television</writer>
       <writer>CBS Productions</writer>
       <writer>Jerry Bruckheimer Films</writer>
+      <writer>Graeme Revell</writer>
+      <writer>Pete Townshend</writer>
+      <writer>David E. Russo</writer>
+      <writer>Eddie Guerra</writer>
+      <writer>Laurie McCarthy</writer>
+      <writer>Gwendolyn M. Parker</writer>
+      <writer>Matt Witten</writer>
+      <writer>Rory Cochrane</writer>
+      <writer>Khandi Alexander</writer>
+      <writer>David Caruso</writer>
+      <writer>Adam Rodriguez</writer>
+      <writer>Kim Delaney</writer>
+      <writer>Emily Procter</writer>
+      <producer>Frank Ballou</producer>
+      <producer>Steven Maeda</producer>
+      <composer>Graeme Revell</composer>
     </credits>
-    <date>2006</date>
+    <date>2002</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/2a/130602.png" />
     <rating>
@@ -24234,21 +23549,49 @@
     <sub-title lang="es">Paracaídas de oro</sub-title>
     <desc lang="es">En este capítulo el equipo trabaja en un accidente aéreo: una avión se ha estrellado en la ciudad de Evergaldes. Así, mientras buscan supervivientes, descubren a una víctima a cinco millas del lugar del siniestro.(n)</desc>
     <credits>
+      <actor>Rory Cochrane</actor>
       <actor>Khandi Alexander</actor>
       <actor>David Caruso</actor>
-      <actor>Sofia Milos</actor>
       <actor>Adam Rodriguez</actor>
+      <actor>Kim Delaney</actor>
       <actor>Emily Procter</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
       <actor>Jerry Bruckheimer</actor>
+      <actor>Walt Lloyd</actor>
+      <actor>Frank Ballou</actor>
+      <actor>Steven Maeda</actor>
+      <actor>Alliance Atlantis Communications</actor>
+      <actor>Touchstone Television</actor>
       <actor>CBS Productions</actor>
       <actor>Jerry Bruckheimer Films</actor>
+      <actor>Graeme Revell</actor>
+      <actor>Pete Townshend</actor>
+      <actor>David E. Russo</actor>
       <writer>Jerry Bruckheimer</writer>
+      <writer>Walt Lloyd</writer>
+      <writer>Frank Ballou</writer>
+      <writer>Steven Maeda</writer>
+      <writer>Alliance Atlantis Communications</writer>
+      <writer>Touchstone Television</writer>
       <writer>CBS Productions</writer>
       <writer>Jerry Bruckheimer Films</writer>
+      <writer>Graeme Revell</writer>
+      <writer>Pete Townshend</writer>
+      <writer>David E. Russo</writer>
+      <writer>Eddie Guerra</writer>
+      <writer>Laurie McCarthy</writer>
+      <writer>Gwendolyn M. Parker</writer>
+      <writer>Matt Witten</writer>
+      <writer>Rory Cochrane</writer>
+      <writer>Khandi Alexander</writer>
+      <writer>David Caruso</writer>
+      <writer>Adam Rodriguez</writer>
+      <writer>Kim Delaney</writer>
+      <writer>Emily Procter</writer>
+      <producer>Frank Ballou</producer>
+      <producer>Steven Maeda</producer>
+      <composer>Graeme Revell</composer>
     </credits>
-    <date>2006</date>
+    <date>2002</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/148212.png" />
     <rating>
@@ -24260,21 +23603,49 @@
     <sub-title lang="es">Dar la cara</sub-title>
     <desc lang="es">Tras perder a su mentor mientras desactivaba una bomba, Horatio se toma como algo personal el encontrar al culpable. Por su parte, Megan empieza a plantearse si su compañero es el más indicado para hacerse cargo del caso.(n)</desc>
     <credits>
+      <actor>Rory Cochrane</actor>
       <actor>Khandi Alexander</actor>
       <actor>David Caruso</actor>
-      <actor>Sofia Milos</actor>
       <actor>Adam Rodriguez</actor>
+      <actor>Kim Delaney</actor>
       <actor>Emily Procter</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
       <actor>Jerry Bruckheimer</actor>
+      <actor>Walt Lloyd</actor>
+      <actor>Frank Ballou</actor>
+      <actor>Steven Maeda</actor>
+      <actor>Alliance Atlantis Communications</actor>
+      <actor>Touchstone Television</actor>
       <actor>CBS Productions</actor>
       <actor>Jerry Bruckheimer Films</actor>
+      <actor>Graeme Revell</actor>
+      <actor>Pete Townshend</actor>
+      <actor>David E. Russo</actor>
       <writer>Jerry Bruckheimer</writer>
+      <writer>Walt Lloyd</writer>
+      <writer>Frank Ballou</writer>
+      <writer>Steven Maeda</writer>
+      <writer>Alliance Atlantis Communications</writer>
+      <writer>Touchstone Television</writer>
       <writer>CBS Productions</writer>
       <writer>Jerry Bruckheimer Films</writer>
+      <writer>Graeme Revell</writer>
+      <writer>Pete Townshend</writer>
+      <writer>David E. Russo</writer>
+      <writer>Eddie Guerra</writer>
+      <writer>Laurie McCarthy</writer>
+      <writer>Gwendolyn M. Parker</writer>
+      <writer>Matt Witten</writer>
+      <writer>Rory Cochrane</writer>
+      <writer>Khandi Alexander</writer>
+      <writer>David Caruso</writer>
+      <writer>Adam Rodriguez</writer>
+      <writer>Kim Delaney</writer>
+      <writer>Emily Procter</writer>
+      <producer>Frank Ballou</producer>
+      <producer>Steven Maeda</producer>
+      <composer>Graeme Revell</composer>
     </credits>
-    <date>2006</date>
+    <date>2002</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/148212.png" />
     <rating>
@@ -24286,21 +23657,49 @@
     <sub-title lang="es">Pies mojados, pies secos</sub-title>
     <desc lang="es">El ataque de un tiburón se transforma en un misterioso caso para el equipo de forenses de C.S.I Miami, puesto que al analizar el cuerpo del animal encuentran en su interior el torso de un ser humano con una bala incrustada.(n)</desc>
     <credits>
+      <actor>Rory Cochrane</actor>
       <actor>Khandi Alexander</actor>
       <actor>David Caruso</actor>
-      <actor>Sofia Milos</actor>
       <actor>Adam Rodriguez</actor>
+      <actor>Kim Delaney</actor>
       <actor>Emily Procter</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
       <actor>Jerry Bruckheimer</actor>
+      <actor>Walt Lloyd</actor>
+      <actor>Frank Ballou</actor>
+      <actor>Steven Maeda</actor>
+      <actor>Alliance Atlantis Communications</actor>
+      <actor>Touchstone Television</actor>
       <actor>CBS Productions</actor>
       <actor>Jerry Bruckheimer Films</actor>
+      <actor>Graeme Revell</actor>
+      <actor>Pete Townshend</actor>
+      <actor>David E. Russo</actor>
       <writer>Jerry Bruckheimer</writer>
+      <writer>Walt Lloyd</writer>
+      <writer>Frank Ballou</writer>
+      <writer>Steven Maeda</writer>
+      <writer>Alliance Atlantis Communications</writer>
+      <writer>Touchstone Television</writer>
       <writer>CBS Productions</writer>
       <writer>Jerry Bruckheimer Films</writer>
+      <writer>Graeme Revell</writer>
+      <writer>Pete Townshend</writer>
+      <writer>David E. Russo</writer>
+      <writer>Eddie Guerra</writer>
+      <writer>Laurie McCarthy</writer>
+      <writer>Gwendolyn M. Parker</writer>
+      <writer>Matt Witten</writer>
+      <writer>Rory Cochrane</writer>
+      <writer>Khandi Alexander</writer>
+      <writer>David Caruso</writer>
+      <writer>Adam Rodriguez</writer>
+      <writer>Kim Delaney</writer>
+      <writer>Emily Procter</writer>
+      <producer>Frank Ballou</producer>
+      <producer>Steven Maeda</producer>
+      <composer>Graeme Revell</composer>
     </credits>
-    <date>2006</date>
+    <date>2002</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/148212.png" />
     <rating>
@@ -24312,21 +23711,49 @@
     <sub-title lang="es">Sólo un beso</sub-title>
     <desc lang="es">En la playa de Miami Beach aparece el cadáver de una mujer violada y el equipo de C.S.I. debe hacerse cargo de la investigación del caso. Megan y Horatio descubren que la noche en que se produjo el asesinato asistió a una fiesta en la mansión de una rica familia.(n)</desc>
     <credits>
+      <actor>Rory Cochrane</actor>
       <actor>Khandi Alexander</actor>
       <actor>David Caruso</actor>
-      <actor>Sofia Milos</actor>
       <actor>Adam Rodriguez</actor>
+      <actor>Kim Delaney</actor>
       <actor>Emily Procter</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
       <actor>Jerry Bruckheimer</actor>
+      <actor>Walt Lloyd</actor>
+      <actor>Frank Ballou</actor>
+      <actor>Steven Maeda</actor>
+      <actor>Alliance Atlantis Communications</actor>
+      <actor>Touchstone Television</actor>
       <actor>CBS Productions</actor>
       <actor>Jerry Bruckheimer Films</actor>
+      <actor>Graeme Revell</actor>
+      <actor>Pete Townshend</actor>
+      <actor>David E. Russo</actor>
       <writer>Jerry Bruckheimer</writer>
+      <writer>Walt Lloyd</writer>
+      <writer>Frank Ballou</writer>
+      <writer>Steven Maeda</writer>
+      <writer>Alliance Atlantis Communications</writer>
+      <writer>Touchstone Television</writer>
       <writer>CBS Productions</writer>
       <writer>Jerry Bruckheimer Films</writer>
+      <writer>Graeme Revell</writer>
+      <writer>Pete Townshend</writer>
+      <writer>David E. Russo</writer>
+      <writer>Eddie Guerra</writer>
+      <writer>Laurie McCarthy</writer>
+      <writer>Gwendolyn M. Parker</writer>
+      <writer>Matt Witten</writer>
+      <writer>Rory Cochrane</writer>
+      <writer>Khandi Alexander</writer>
+      <writer>David Caruso</writer>
+      <writer>Adam Rodriguez</writer>
+      <writer>Kim Delaney</writer>
+      <writer>Emily Procter</writer>
+      <producer>Frank Ballou</producer>
+      <producer>Steven Maeda</producer>
+      <composer>Graeme Revell</composer>
     </credits>
-    <date>2006</date>
+    <date>2002</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/148212.png" />
     <rating>
@@ -24338,21 +23765,49 @@
     <sub-title lang="es">Cenizas a las cenizas</sub-title>
     <desc lang="es">El equipo de C.S.I. encuentra el cadáver de un sacerdote. En la escena del crimen analizan un vaso que posee la huella de un labio y deducen que pertenece a Cameron Medina, un monaguillo de doce años, que a partir de ese momento se convierte en sospechoso de asesinato.(n)</desc>
     <credits>
+      <actor>Rory Cochrane</actor>
       <actor>Khandi Alexander</actor>
       <actor>David Caruso</actor>
-      <actor>Sofia Milos</actor>
       <actor>Adam Rodriguez</actor>
+      <actor>Kim Delaney</actor>
       <actor>Emily Procter</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
       <actor>Jerry Bruckheimer</actor>
+      <actor>Walt Lloyd</actor>
+      <actor>Frank Ballou</actor>
+      <actor>Steven Maeda</actor>
+      <actor>Alliance Atlantis Communications</actor>
+      <actor>Touchstone Television</actor>
       <actor>CBS Productions</actor>
       <actor>Jerry Bruckheimer Films</actor>
+      <actor>Graeme Revell</actor>
+      <actor>Pete Townshend</actor>
+      <actor>David E. Russo</actor>
       <writer>Jerry Bruckheimer</writer>
+      <writer>Walt Lloyd</writer>
+      <writer>Frank Ballou</writer>
+      <writer>Steven Maeda</writer>
+      <writer>Alliance Atlantis Communications</writer>
+      <writer>Touchstone Television</writer>
       <writer>CBS Productions</writer>
       <writer>Jerry Bruckheimer Films</writer>
+      <writer>Graeme Revell</writer>
+      <writer>Pete Townshend</writer>
+      <writer>David E. Russo</writer>
+      <writer>Eddie Guerra</writer>
+      <writer>Laurie McCarthy</writer>
+      <writer>Gwendolyn M. Parker</writer>
+      <writer>Matt Witten</writer>
+      <writer>Rory Cochrane</writer>
+      <writer>Khandi Alexander</writer>
+      <writer>David Caruso</writer>
+      <writer>Adam Rodriguez</writer>
+      <writer>Kim Delaney</writer>
+      <writer>Emily Procter</writer>
+      <producer>Frank Ballou</producer>
+      <producer>Steven Maeda</producer>
+      <composer>Graeme Revell</composer>
     </credits>
-    <date>2006</date>
+    <date>2002</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/148212.png" />
     <rating>
@@ -24364,21 +23819,49 @@
     <sub-title lang="es">Rotas</sub-title>
     <desc lang="es">Una niña de cinco años es encontrada muerta en los lavabos de un centro de ocio. El equipo abre una investigación para interrogar a los empleados del centro y descubrir si tienen antecedentes de algún tipo.(n)</desc>
     <credits>
+      <actor>Rory Cochrane</actor>
       <actor>Khandi Alexander</actor>
       <actor>David Caruso</actor>
-      <actor>Sofia Milos</actor>
       <actor>Adam Rodriguez</actor>
+      <actor>Kim Delaney</actor>
       <actor>Emily Procter</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Rex Linn</actor>
       <actor>Jerry Bruckheimer</actor>
+      <actor>Walt Lloyd</actor>
+      <actor>Frank Ballou</actor>
+      <actor>Steven Maeda</actor>
+      <actor>Alliance Atlantis Communications</actor>
+      <actor>Touchstone Television</actor>
       <actor>CBS Productions</actor>
       <actor>Jerry Bruckheimer Films</actor>
+      <actor>Graeme Revell</actor>
+      <actor>Pete Townshend</actor>
+      <actor>David E. Russo</actor>
       <writer>Jerry Bruckheimer</writer>
+      <writer>Walt Lloyd</writer>
+      <writer>Frank Ballou</writer>
+      <writer>Steven Maeda</writer>
+      <writer>Alliance Atlantis Communications</writer>
+      <writer>Touchstone Television</writer>
       <writer>CBS Productions</writer>
       <writer>Jerry Bruckheimer Films</writer>
+      <writer>Graeme Revell</writer>
+      <writer>Pete Townshend</writer>
+      <writer>David E. Russo</writer>
+      <writer>Eddie Guerra</writer>
+      <writer>Laurie McCarthy</writer>
+      <writer>Gwendolyn M. Parker</writer>
+      <writer>Matt Witten</writer>
+      <writer>Rory Cochrane</writer>
+      <writer>Khandi Alexander</writer>
+      <writer>David Caruso</writer>
+      <writer>Adam Rodriguez</writer>
+      <writer>Kim Delaney</writer>
+      <writer>Emily Procter</writer>
+      <producer>Frank Ballou</producer>
+      <producer>Steven Maeda</producer>
+      <composer>Graeme Revell</composer>
     </credits>
-    <date>2006</date>
+    <date>2002</date>
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f4/148212.png" />
     <rating>
@@ -25759,165 +25242,226 @@
     <category lang="es">Policiacas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5f/841823.png" />
   </programme>
-  <programme start="20260124170000 +0100" stop="20260124190000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Reims / Saint-Etienne</title>
-    <desc lang="fr">Reims / Saint-Etienne #SDRASSE (Reims / Saint-Etienne - Football Ligue 2 BKT 2025-2026) en direct aujourd'hui à 20h00.(n)</desc>
-    <category lang="fr">Foot</category>
-  </programme>
-  <programme start="20260124190000 +0100" stop="20260124193000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Football : après-match Ligue 2</title>
-    <desc lang="fr">Football : après-match Ligue 2 (Football : après-match Ligue 2) en direct aujourd'hui à 22h00.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20260124193000 +0100" stop="20260124194500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260124194500 +0100" stop="20260124201500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 22h45.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20260124201500 +0100" stop="20260124203000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">NBA Extra</title>
-    <desc lang="fr">NBA Extra (NBA Extra) en direct dimanche 25 janvier à 12h45.(n)</desc>
-    <category lang="fr">Basket-ball</category>
-  </programme>
-  <programme start="20260124203000 +0100" stop="20260124231500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Minnesota Timberwolves / Golden State Warriors</title>
-    <desc lang="fr">Minnesota Timberwolves / Golden State Warriors (Minnesota Timberwolves / Golden State Warriors - Basket-ball NBA 2025-2026) en direct aujourd'hui à 23h30.(n)</desc>
-    <category lang="fr">Basket</category>
-  </programme>
   <programme start="20260124231500 +0100" stop="20260125014500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Indianapolis Colts / Miami</title>
-    <desc lang="fr">Indiana / Miami Hurricanes (Indiana / Miami Hurricanes - Football américain Championnat NCAA 2025-2026) en différé aujourd'hui à 19h45.(n)</desc>
+    <desc lang="fr">Indiana / Miami Hurricanes (Indiana / Miami Hurricanes - Football américain Championnat NCAA 2025-2026) en différé aujourd'hui à 02h15.(n)</desc>
     <category lang="fr">Football américain</category>
     <previously-shown />
   </programme>
   <programme start="20260125014500 +0100" stop="20260125023000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">NFL Extra</title>
-    <desc lang="fr">NFL Extra (NFL Extra) en différé dimanche 25 janvier à 04h45.(n)</desc>
+    <desc lang="fr">NFL Extra (NFL Extra) en différé aujourd'hui à 04h45.(n)</desc>
     <category lang="fr">Football américain</category>
   </programme>
   <programme start="20260125023000 +0100" stop="20260125024500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125024500 +0100" stop="20260125030000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125030000 +0100" stop="20260125033000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Terrains d'espoirs</title>
-    <desc lang="fr">Terrains d'espoirs (Terrains d'espoirs) en différé aujourd'hui à 23h45.(n)</desc>
+    <desc lang="fr">Terrains d'espoirs (Terrains d'espoirs) en différé aujourd'hui à 06h00.(n)</desc>
     <category lang="fr">Football</category>
     <previously-shown />
   </programme>
   <programme start="20260125033000 +0100" stop="20260125040000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 22h45.(n)</desc>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 06h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260125040000 +0100" stop="20260125060000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Villarreal / Real Madrid</title>
-    <desc lang="fr">Villarreal / Real Madrid (Villarreal / Real Madrid - Football Liga 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
+    <desc lang="fr">Villarreal / Real Madrid (Villarreal / Real Madrid - Football Liga 2025-2026) en différé aujourd'hui à 07h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260125060000 +0100" stop="20260125061500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125061500 +0100" stop="20260125080000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Philadelphia 76ers / New York Knicks</title>
-    <desc lang="fr">Philadelphia 76ers / New York Knicks (Philadelphia 76ers / New York Knicks - Basket-ball NBA 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
+    <desc lang="fr">Philadelphia 76ers / New York Knicks (Philadelphia 76ers / New York Knicks - Basket-ball NBA 2025-2026) en différé aujourd'hui à 09h15.(n)</desc>
     <category lang="fr">Basket</category>
     <previously-shown />
   </programme>
   <programme start="20260125080000 +0100" stop="20260125094500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Minnesota Timberwolves / Golden State Warriors</title>
-    <desc lang="fr">Minnesota Timberwolves / Golden State Warriors (Minnesota Timberwolves / Golden State Warriors - Basket-ball NBA 2025-2026) en direct aujourd'hui à 23h30.(n)</desc>
+    <desc lang="fr">Minnesota Timberwolves / Golden State Warriors (Minnesota Timberwolves / Golden State Warriors - Basket-ball NBA 2025-2026) en direct mardi 27 janvier à 03h30.(n)</desc>
     <category lang="fr">Basket</category>
     <previously-shown />
   </programme>
   <programme start="20260125094500 +0100" stop="20260125103000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">NBA Extra</title>
-    <desc lang="fr">NBA Extra (NBA Extra) en direct dimanche 25 janvier à 12h45.(n)</desc>
+    <desc lang="fr">NBA Extra (NBA Extra) en direct aujourd'hui à 12h45.(n)</desc>
     <category lang="fr">Basket-ball</category>
   </programme>
   <programme start="20260125103000 +0100" stop="20260125104500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125104500 +0100" stop="20260125110000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125110000 +0100" stop="20260125130000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Atlético Madrid / Majorque</title>
-    <desc lang="fr">Atlético Madrid / Real Majorque (Atlético Madrid / Real Majorque - Football Liga 2025-2026) en direct dimanche 25 janvier à 14h00.(n)</desc>
+    <desc lang="fr">Atlético Madrid / Real Majorque (Atlético Madrid / Real Majorque - Football Liga 2025-2026) en direct aujourd'hui à 14h00.(n)</desc>
     <category lang="fr">Foot</category>
   </programme>
   <programme start="20260125130000 +0100" stop="20260125131500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125131500 +0100" stop="20260125151500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">FC Barcelone / Oviedo</title>
-    <desc lang="fr">FC Barcelone / Real Oviedo (FC Barcelone / Real Oviedo - Football Liga 2025-2026) en direct dimanche 25 janvier à 16h15.(n)</desc>
+    <desc lang="fr">FC Barcelone / Real Oviedo (FC Barcelone / Real Oviedo - Football Liga 2025-2026) en direct aujourd'hui à 16h15.(n)</desc>
     <category lang="fr">Foot</category>
   </programme>
   <programme start="20260125151500 +0100" stop="20260125153000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 22h30.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260125153000 +0100" stop="20260125173000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Real Sociedad / Celta Vigo</title>
-    <desc lang="fr">Real Sociedad / Celta Vigo (Real Sociedad / Celta Vigo - Football Liga 2025-2026) en direct dimanche 25 janvier à 18h30.(n)</desc>
+    <desc lang="fr">Real Sociedad / Celta Vigo (Real Sociedad / Celta Vigo - Football Liga 2025-2026) en direct aujourd'hui à 18h30.(n)</desc>
     <category lang="fr">Foot</category>
   </programme>
   <programme start="20260125173000 +0100" stop="20260125180000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Avant-match NFL</title>
-    <desc lang="fr">Avant-match NFL Finale de conférence AFC (Avant-match NFL) en direct dimanche 25 janvier à 20h30.(n)</desc>
+    <desc lang="fr">Avant-match NFL Finale de conférence AFC (Avant-match NFL) en direct aujourd'hui à 20h30.(n)</desc>
     <category lang="fr">Football américain</category>
   </programme>
   <programme start="20260125180000 +0100" stop="20260125210000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Denver Broncos / New England Patriots</title>
-    <desc lang="fr">Denver Broncos / New England Patriots (Denver Broncos / New England Patriots - Football américain NFL 2025-2026) en direct dimanche 25 janvier à 21h00.(n)</desc>
+    <desc lang="fr">Denver Broncos / New England Patriots (Denver Broncos / New England Patriots - Football américain NFL 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
     <category lang="fr">Football américain</category>
   </programme>
-  <programme start="20260124153000 +0100" stop="20260124173000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">FC Séville / Athletic Bilbao</title>
-    <desc lang="fr">FC Séville / Athletic Bilbao (FC Séville / Athletic Bilbao - Football Liga 2026) en direct aujourd'hui à 18h30.(n)</desc>
-    <category lang="fr">Foot</category>
+  <programme start="20260125210000 +0100" stop="20260125213000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Avant-match NFL</title>
+    <desc lang="fr">Avant-match NFL Finale de conférence NFC (Avant-match NFL) en direct lundi 26 janvier à 00h00.(n)</desc>
+    <category lang="fr">Football américain</category>
   </programme>
-  <programme start="20260124173000 +0100" stop="20260124180000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Europe Arena</title>
-    <desc lang="fr">Europe Arena (Europe Arena) en direct aujourd'hui à 20h30.(n)</desc>
+  <programme start="20260125213000 +0100" stop="20260126003000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Seattle Seahawks / Los Angeles Rams</title>
+    <desc lang="fr">Seattle Seahawks / Los Angeles Rams (Seattle Seahawks / Los Angeles Rams - Football américain NFL 2025-2026) en direct lundi 26 janvier à 00h20.(n)</desc>
+    <category lang="fr">Football américain</category>
+  </programme>
+  <programme start="20260126003000 +0100" stop="20260126004500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260126004500 +0100" stop="20260126010000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260126010000 +0100" stop="20260126030000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Reims / Saint-Etienne</title>
+    <desc lang="fr">Reims / Saint-Etienne #SDRASSE (Reims / Saint-Etienne - Football Ligue 2 BKT 2025-2026) en différé aujourd'hui à 08h00.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260126030000 +0100" stop="20260126050000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">FC Barcelone / Oviedo</title>
+    <desc lang="fr">FC Barcelone / Real Oviedo (FC Barcelone / Real Oviedo - Football Liga 2025-2026) en direct aujourd'hui à 16h15.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260126050000 +0100" stop="20260126070000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Reims / Saint-Etienne</title>
+    <desc lang="fr">Reims / Saint-Etienne #SDRASSE (Reims / Saint-Etienne - Football Ligue 2 BKT 2025-2026) en différé aujourd'hui à 08h00.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260126070000 +0100" stop="20260126071500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260126071500 +0100" stop="20260126074500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">This is Paris</title>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 06h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20260124180000 +0100" stop="20260124200000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Villarreal / Real Madrid</title>
-    <desc lang="fr">Villarreal / Real Madrid (Villarreal / Real Madrid - Football Liga 2025-2026) en direct aujourd'hui à 21h00.(n)</desc>
-    <category lang="fr">Foot</category>
+  <programme start="20260126074500 +0100" stop="20260126094500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">San Antonio Spurs / New Orleans Pelicans</title>
+    <desc lang="fr">San Antonio Spurs - New Orleans Pelicans (San Antonio Spurs - New Orleans Pelicans - Basket-ball NBA 2025-2026) en direct lundi 26 janvier à 01h00.(n)</desc>
+    <category lang="fr">Basket</category>
+    <previously-shown />
   </programme>
-  <programme start="20260124200000 +0100" stop="20260124201500 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Europe Arena</title>
-    <desc lang="fr">Europe Arena (Europe Arena) en direct aujourd'hui à 20h30.(n)</desc>
+  <programme start="20260126094500 +0100" stop="20260126103000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">NBA Extra</title>
+    <desc lang="fr">NBA Extra (NBA Extra) en direct aujourd'hui à 12h45.(n)</desc>
+    <category lang="fr">Basket-ball</category>
+  </programme>
+  <programme start="20260126103000 +0100" stop="20260126123000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Bayern Munich / Augsbourg</title>
+    <desc lang="fr">Bayern Munich / Augsbourg (Bayern Munich / Augsbourg - Football Bundesliga 2025-2026) en différé lundi 26 janvier à 08h00.(n)</desc>
+    <category lang="fr">Foot</category>
+    <previously-shown />
+  </programme>
+  <programme start="20260126123000 +0100" stop="20260126124500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260126124500 +0100" stop="20260126130000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260126130000 +0100" stop="20260126140000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">CAN Extra</title>
+    <desc lang="fr">CAN Extra (CAN Extra) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20260124201500 +0100" stop="20260124221500 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Guingamp / Troyes</title>
-    <desc lang="fr">Guingamp / Troyes (Guingamp / Troyes - Football Ligue 2 BKT 2025-2026) en différé aujourd'hui à 23h15.(n)</desc>
-    <category lang="fr">Foot</category>
+  <programme start="20260126140000 +0100" stop="20260126144500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Handball : avant-match</title>
+    <desc lang="fr">Handball : avant-match (Handball : avant-match) en direct lundi 26 janvier à 17h00.(n)</desc>
+    <category lang="fr">Handball</category>
+  </programme>
+  <programme start="20260126144500 +0100" stop="20260126164500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Espagne / France</title>
+    <desc lang="fr">Espagne / France (Espagne / France - Handball Euro masculin 2026) en direct lundi 26 janvier à 17h45.(n)</desc>
+    <category lang="fr">Handball</category>
+  </programme>
+  <programme start="20260126164500 +0100" stop="20260126170000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Handball : après-match</title>
+    <desc lang="fr">Handball : après-match (Handball : après-match) en direct lundi 26 janvier à 19h45.(n)</desc>
+    <category lang="fr">Handball</category>
+  </programme>
+  <programme start="20260126170000 +0100" stop="20260126171500 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 02h15.(n)</desc>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260126171500 +0100" stop="20260126173000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Multisports</category>
+  </programme>
+  <programme start="20260126173000 +0100" stop="20260126193000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Allemagne / Danemark</title>
+    <category lang="fr">Handball</category>
+  </programme>
+  <programme start="20260126193000 +0100" stop="20260126200000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Made in England</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20260126200000 +0100" stop="20260126210000 +0100" channel="beIN SPORTS 1">
+    <title lang="fr">Passion sous pression</title>
+    <category lang="fr">Football</category>
     <previously-shown />
   </programme>
   <programme start="20260124221500 +0100" stop="20260124224500 +0100" channel="beIN SPORTS 2">
@@ -26290,12 +25834,14 @@ Repetición</title>
   <programme start="20260124144500 -0600" stop="20260124165500 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">Fútbol argentino Primera División</title>
   </programme>
-  <programme start="20260124165500 -0600" stop="20260124190000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">Tit. Original Fútbol Premier League. Soccer Jornada 23 de la temporada 2025-2026 de la Premier League</title>
-    <sub-title lang="es">Fútbol: Premier League</sub-title>
+  <programme start="20260124165500 -0600" stop="20260124180000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">UEFA Europa League Highlights</title>
   </programme>
-  <programme start="20260124190000 -0600" stop="20260124193000 -0600" channel="Canal ESPN 2 (Colombia)">
+  <programme start="20260124180000 -0600" stop="20260124183000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20260124183000 -0600" stop="20260124193000 -0600" channel="Canal ESPN 2 (Colombia)">
+    <title lang="es">Tenis Australian Open 2026</title>
   </programme>
   <programme start="20260124193000 -0600" stop="20260125030000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">Tenis Australian Open 2026</title>
@@ -26347,7 +25893,7 @@ Repetición</title>
     <title lang="es">ESPN Compact</title>
   </programme>
   <programme start="20260125183000 -0600" stop="20260125193000 -0600" channel="Canal ESPN 2 (Colombia)">
-    <title lang="es">ESPN Compact</title>
+    <title lang="es">Tenis Australian Open 2026</title>
   </programme>
   <programme start="20260125193000 -0600" stop="20260126030000 -0600" channel="Canal ESPN 2 (Colombia)">
     <title lang="es">Tenis Australian Open 2026</title>
@@ -26711,6 +26257,32 @@ Repetición</title>
   <programme start="20260125183000 -0600" stop="20260125220000 -0600" channel="ESPN1-Norte">
     <title lang="es">NFL NFC Championship</title>
   </programme>
+  <programme start="20260125220000 -0600" stop="20260125230000 -0600" channel="ESPN1-Norte">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20260125230000 -0600" stop="20260126000000 -0600" channel="ESPN1-Norte">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.(n)</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20260126000000 -0600" stop="20260126010000 -0600" channel="ESPN1-Norte">
+    <title lang="es">Futbol Picante</title>
+  </programme>
   <programme start="20260124030000 -0600" stop="20260124080000 -0600" channel="ESPN2">
     <title lang="es">Tenis Australian Open 2026</title>
   </programme>
@@ -26736,12 +26308,14 @@ Repetición</title>
   <programme start="20260124144500 -0600" stop="20260124165500 -0600" channel="ESPN2">
     <title lang="es">Fútbol argentino Primera División</title>
   </programme>
-  <programme start="20260124165500 -0600" stop="20260124190000 -0600" channel="ESPN2">
-    <title lang="es">Tit. Original Fútbol Premier League. Soccer Jornada 23 de la temporada 2025-2026 de la Premier League</title>
-    <sub-title lang="es">Fútbol: Premier League</sub-title>
+  <programme start="20260124165500 -0600" stop="20260124180000 -0600" channel="ESPN2">
+    <title lang="es">UEFA Europa League Highlights</title>
   </programme>
-  <programme start="20260124190000 -0600" stop="20260124193000 -0600" channel="ESPN2">
+  <programme start="20260124180000 -0600" stop="20260124183000 -0600" channel="ESPN2">
     <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20260124183000 -0600" stop="20260124193000 -0600" channel="ESPN2">
+    <title lang="es">Tenis Australian Open 2026</title>
   </programme>
   <programme start="20260124193000 -0600" stop="20260125030000 -0600" channel="ESPN2">
     <title lang="es">Tenis Australian Open 2026</title>
@@ -26793,7 +26367,7 @@ Repetición</title>
     <title lang="es">ESPN Compact</title>
   </programme>
   <programme start="20260125183000 -0600" stop="20260125193000 -0600" channel="ESPN2">
-    <title lang="es">ESPN Compact</title>
+    <title lang="es">Tenis Australian Open 2026</title>
   </programme>
   <programme start="20260125193000 -0600" stop="20260126030000 -0600" channel="ESPN2">
     <title lang="es">Tenis Australian Open 2026</title>
@@ -26847,24 +26421,8 @@ Repetición</title>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
   <programme start="20260124100000 -0600" stop="20260124105000 -0600" channel="ESPN3-Norte">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.(n)</desc>
-    <category lang="es">Deporte</category>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+    <title lang="es">College GameDay</title>
+    <episode-num system="onscreen">S2026 E7</episode-num>
   </programme>
   <programme start="20260124105000 -0600" stop="20260124130000 -0600" channel="ESPN3-Norte">
     <title lang="es">Qatar-UAE Super Cup</title>
@@ -26964,9 +26522,13 @@ Repetición</title>
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20260125103000 -0600" stop="20260125143000 -0600" channel="ESPN3-Norte">
+  <programme start="20260125103000 -0600" stop="20260125124500 -0600" channel="ESPN3-Norte">
     <title lang="es">Fútbol Eredivisie</title>
     <sub-title lang="es">Feyenoord vs. Heracles Almelo</sub-title>
+  </programme>
+  <programme start="20260125124500 -0600" stop="20260125143000 -0600" channel="ESPN3-Norte">
+    <title lang="es">Baloncesto NBA</title>
+    <sub-title lang="es">Los Angeles Lakers vs. Dallas Mavericks</sub-title>
   </programme>
   <programme start="20260125143000 -0600" stop="20260125150000 -0600" channel="ESPN3-Norte">
     <title lang="es">Super Bowl Highlights</title>
@@ -27475,6 +27037,32 @@ Repetición</title>
   <programme start="20260125183000 -0600" stop="20260125220000 -0600" channel="ESPNInternacional.us">
     <title lang="es">NFL NFC Championship</title>
   </programme>
+  <programme start="20260125220000 -0600" stop="20260125230000 -0600" channel="ESPNInternacional.us">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20260125230000 -0600" stop="20260126000000 -0600" channel="ESPNInternacional.us">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.(n)</desc>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20260126000000 -0600" stop="20260126010000 -0600" channel="ESPNInternacional.us">
+    <title lang="es">Futbol Picante</title>
+  </programme>
   <programme start="20260124020000 -0600" stop="20260124030000 -0600" channel="FoxDeportes.us">
     <title lang="es">Punto final</title>
   </programme>
@@ -27782,15 +27370,23 @@ Repetición</title>
     <title lang="es">Tennis: Australian Open 2026</title>
     <sub-title lang="es">Linear Match 1</sub-title>
   </programme>
-  <programme start="20260124030000 -0600" stop="20260124080000 -0600" channel="Eurosport2.es">
+  <programme start="20260124015000 -0600" stop="20260124022000 -0600" channel="Eurosport2.es">
     <title lang="es">Tennis: Australian Open 2026</title>
     <sub-title lang="es">Linear Match 4</sub-title>
   </programme>
-  <programme start="20260124080000 -0600" stop="20260124083000 -0600" channel="Eurosport2.es">
+  <programme start="20260124022000 -0600" stop="20260124042000 -0600" channel="Eurosport2.es">
+    <title lang="es">Tennis: Australian Open 2026</title>
+    <sub-title lang="es">Linear Match 5</sub-title>
+  </programme>
+  <programme start="20260124042000 -0600" stop="20260124065000 -0600" channel="Eurosport2.es">
+    <title lang="es">FIS esquí alpino</title>
+    <sub-title lang="es">Downhill</sub-title>
+  </programme>
+  <programme start="20260124065000 -0600" stop="20260124075000 -0600" channel="Eurosport2.es">
     <title lang="es">FIS Copa del Mundo de Esquí Alpino</title>
     <sub-title lang="es">Spindleruv Mlyn - Femenino Eslalon, Run 02</sub-title>
   </programme>
-  <programme start="20260124083000 -0600" stop="20260124091500 -0600" channel="Eurosport2.es">
+  <programme start="20260124075000 -0600" stop="20260124091500 -0600" channel="Eurosport2.es">
     <title lang="es">FIS Copa del Mundo de esquí estilo libre</title>
     <sub-title lang="es">Veysonnaz - Esquícross</sub-title>
   </programme>
@@ -28506,7 +28102,8 @@ En Vivo</title>
     <title lang="es">Sky Sports 24</title>
   </programme>
   <programme start="20260124033000 -0600" stop="20260124053000 -0600" channel="SkySports24.mx">
-    <title lang="es">VfB Stuttgart vs. Union Berlin</title>
+    <title lang="es">Werder Bremen vs. Frankfurt
+Repetición</title>
   </programme>
   <programme start="20260124053000 -0600" stop="20260124073000 -0600" channel="SkySports24.mx">
     <title lang="es">FC Augsburg vs. Freiburg</title>
@@ -28551,10 +28148,11 @@ En Vivo</title>
     <title lang="es">Sky Sports 24</title>
   </programme>
   <programme start="20260125033000 -0600" stop="20260125053000 -0600" channel="SkySports24.mx">
-    <title lang="es">Holstein Kiel vs. SC Paderborn</title>
+    <title lang="es">Werder Bremen vs. Frankfurt
+Repetición</title>
   </programme>
   <programme start="20260125053000 -0600" stop="20260125073000 -0600" channel="SkySports24.mx">
-    <title lang="es">Hertha Berlin vs. Schalke 04</title>
+    <title lang="es">Borussia Dortmund vs. St. Pauli</title>
   </programme>
   <programme start="20260125073000 -0600" stop="20260125093000 -0600" channel="SkySports24.mx">
     <title lang="es">FSV Mainz vs. Wolfsburg
@@ -28568,7 +28166,7 @@ Repetición</title>
 En Vivo</title>
   </programme>
   <programme start="20260125133000 -0600" stop="20260125153000 -0600" channel="SkySports24.mx">
-    <title lang="es">Borussia M'gladbach vs. VfB Stu</title>
+    <title lang="es">Schalke 04 vs. 1. FC Kaisers</title>
   </programme>
   <programme start="20260125153000 -0600" stop="20260125173000 -0600" channel="SkySports24.mx">
     <title lang="es">SC Freiburg vs. 1. FC Köln</title>
