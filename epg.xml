@@ -6923,7 +6923,16 @@ Repetición</title>
     <title lang="es">Codigo 21 - Extra</title>
   </programme>
   <programme start="20260131210000 -0400" stop="20260131224500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado (?)</title>
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
+    <credits>
+      <actor>Ana María Polo</actor>
+      <actor>Steven Feldman</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260131224500 -0400" stop="20260201040000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Pare de sufrir (?)</title>
@@ -6939,12 +6948,29 @@ Repetición</title>
     <category lang="es">Infantil</category>
   </programme>
   <programme start="20260201090000 -0400" stop="20260201103000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Lluvia de hamburguesas 2 (?)</title>
+    <title lang="es">Lluvia de hamburguesas 2</title>
+    <desc lang="es">Flint ahora trabaja para su ídolo Chester V en 'The Live Corp Company'. Pero cuando descubre que su famosa máquina aún funciona y, además crea bestias mutantes de alimentos, él y sus amigos tendrán que regresar para salvar el mundo.(n)</desc>
+    <credits>
+      <actor>Benjamin Bratt</actor>
+      <actor>Terry Crews</actor>
+      <actor>Shane Sweet</actor>
+      <actor>Maddie Taylor</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Peter Siragusa</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Familiar</category>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4834577.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260201103000 -0400" stop="20260201120000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís - Edición meridiana (?)</title>
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
+    <date>2000</date>
     <category lang="es">Noticiero</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260201120000 -0400" stop="20260201160000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Los Simpson (?)</title>
@@ -6967,20 +6993,44 @@ Repetición</title>
     <category lang="es">Acción</category>
   </programme>
   <programme start="20260201213000 -0400" stop="20260201231500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado (?)</title>
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
+    <credits>
+      <actor>Ana María Polo</actor>
+      <actor>Steven Feldman</actor>
+    </credits>
+    <date>2002</date>
     <category lang="es">Talk Show</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260201231500 -0400" stop="20260202040000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Pare de sufrir (?)</title>
     <category lang="es">Religioso</category>
   </programme>
   <programme start="20260202040000 -0400" stop="20260202070000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La revista (?)</title>
+    <title lang="es">La revista</title>
+    <desc lang="es">Infórmese con nuestro resumen de noticias.(n)</desc>
+    <date>2000</date>
     <category lang="es">Magazine</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8846658.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202070000 -0400" stop="20260202083000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La batidora (?)</title>
+    <title lang="es">La batidora</title>
+    <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
+    <credits>
+      <actor>Daniel Pesce</actor>
+      <actor>Grisel Quiroga</actor>
+      <actor>Ronald Arnez</actor>
+      <actor>Eloisa Gutierrez</actor>
+    </credits>
+    <date>2000</date>
     <category lang="es">Entretenimientos</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20260202083000 -0400" stop="20260202103000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Los Simpson (?)</title>
@@ -7020,8 +7070,21 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260202150000 -0400" stop="20260202160000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La hija del embajador (?)</title>
+    <title lang="es">La hija del embajador</title>
+    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
+    <credits>
+      <actor>Engin Akyürek</actor>
+      <actor>Erdal Küçükkömürcü</actor>
+      <actor>Konca Cilasun</actor>
+      <actor>Dogukan Polat</actor>
+      <actor>Edip Tepeli</actor>
+      <actor>Cemre Öktem</actor>
+    </credits>
+    <date>2019</date>
     <category lang="es">Telenovela</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13518081.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260202160000 -0400" stop="20260202170000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -7038,8 +7101,12 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202170000 -0400" stop="20260202190000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís - Edición central (?)</title>
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Telepais, el centro informativo mas completo del país, trae a tu alcance noticias nacionales e internacionales, deportivas y de farándula. Telepais te ofrece información veraz e inmediata. Telepais, donde esta la noticia.(n)</desc>
+    <date>2000</date>
     <category lang="es">Noticiero</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260202190000 -0400" stop="20260202194500 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Golden Boy</title>
@@ -7063,21 +7130,8 @@ Repetición</title>
     <category lang="es">Drama</category>
   </programme>
   <programme start="20260202204500 -0400" stop="20260202220000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">El señor de los cielos</title>
-    <desc lang="es">Conoce los pasos de Aurelio Casillas en su odisea por convertirse en el narcotraficante más grande en México. Para lograrlo, deberá sortear toda suerte de obstáculos, en un torbellino de emociones, acciones, pasiones desenfrenadas.(n)</desc>
-    <credits>
-      <actor>Rafael Amaya</actor>
-      <actor>Ximena Herrera</actor>
-      <actor>Robinson Díaz</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Carmen Villalobos</actor>
-      <actor>Gabriel Porras</actor>
-    </credits>
-    <date>2013</date>
+    <title lang="es">El señor de los cielos (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11598679.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260131210000 -0400" stop="20260131224500 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
@@ -7110,12 +7164,29 @@ Repetición</title>
     <category lang="es">Infantil</category>
   </programme>
   <programme start="20260201090000 -0400" stop="20260201103000 -0400" channel="UNITEL">
-    <title lang="es">Lluvia de hamburguesas 2 (?)</title>
+    <title lang="es">Lluvia de hamburguesas 2</title>
+    <desc lang="es">Flint ahora trabaja para su ídolo Chester V en 'The Live Corp Company'. Pero cuando descubre que su famosa máquina aún funciona y, además crea bestias mutantes de alimentos, él y sus amigos tendrán que regresar para salvar el mundo.(n)</desc>
+    <credits>
+      <actor>Benjamin Bratt</actor>
+      <actor>Terry Crews</actor>
+      <actor>Shane Sweet</actor>
+      <actor>Maddie Taylor</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Peter Siragusa</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Familiar</category>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4834577.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260201103000 -0400" stop="20260201120000 -0400" channel="UNITEL">
-    <title lang="es">Telepaís - Edición meridiana (?)</title>
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
+    <date>2000</date>
     <category lang="es">Noticiero</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260201120000 -0400" stop="20260201160000 -0400" channel="UNITEL">
     <title lang="es">Los Simpson (?)</title>
@@ -7187,18 +7258,8 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202070000 -0400" stop="20260202083000 -0400" channel="UNITEL">
-    <title lang="es">La batidora</title>
-    <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
-    <credits>
-      <actor>Daniel Pesce</actor>
-      <actor>Grisel Quiroga</actor>
-      <actor>Ronald Arnez</actor>
-      <actor>Eloisa Gutierrez</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">La batidora (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20260202083000 -0400" stop="20260202103000 -0400" channel="UNITEL">
     <title lang="es">Los Simpson</title>
@@ -7338,20 +7399,7 @@ Repetición</title>
     <country lang="es">España</country>
   </programme>
   <programme start="20260201010000 -0400" stop="20260201020000 -0400" channel="BOLIVISION">
-    <title lang="es">The Walking Dead</title>
-    <desc lang="es">Cuenta la historia de las semanas y meses que sucedieron a un apocalipsis zombie pandémico. El oficial de policía Rick Grimes viaja constantemente con su familia y un pequeño grupo de sobrevivientes, en busca de un hogar seguro.(n)</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Danai Gurira</actor>
-      <actor>Lauren Cohan</actor>
-      <actor>Steven Yeun</actor>
-      <actor>Chandler Riggs</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975110.jpg" />
-    <country lang="es">EE. UU.</country>
+    <title lang="es">The Walking Dead (?)</title>
   </programme>
   <programme start="20260201020000 -0400" stop="20260201040000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
@@ -7397,12 +7445,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975418.jpg" />
   </programme>
   <programme start="20260201090000 -0400" stop="20260201094500 -0400" channel="BOLIVISION">
-    <title lang="es">Escape perfecto</title>
-    <desc lang="es">El programa inicia con una pareja, el participante trivia que debe responder las pregunta, y si contesta bien, el participante escapatorio entra a la jaula y tiene 10 segundos para agarrar cosas y salir con vida de la jaula.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Escape perfecto (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10092289.jpg" />
   </programme>
   <programme start="20260201094500 -0400" stop="20260201103000 -0400" channel="BOLIVISION">
     <title lang="es">La taxista</title>
@@ -7582,21 +7626,8 @@ Repetición</title>
     <country lang="es">España</country>
   </programme>
   <programme start="20260202010000 -0400" stop="20260202020000 -0400" channel="BOLIVISION">
-    <title lang="es">The Walking Dead</title>
-    <desc lang="es">Cuenta la historia de las semanas y meses que sucedieron a un apocalipsis zombie pandémico. El oficial de policía Rick Grimes viaja constantemente con su familia y un pequeño grupo de sobrevivientes, en busca de un hogar seguro.(n)</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Norman Reedus</actor>
-      <actor>Danai Gurira</actor>
-      <actor>Lauren Cohan</actor>
-      <actor>Steven Yeun</actor>
-      <actor>Chandler Riggs</actor>
-    </credits>
-    <date>2010</date>
+    <title lang="es">The Walking Dead (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975110.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260202020000 -0400" stop="20260202040000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
@@ -7628,21 +7659,8 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202084500 -0400" stop="20260202094000 -0400" channel="BOLIVISION">
-    <title lang="es">Estrella de amor</title>
-    <desc lang="es">Yildiz y Kuzey deciden casarse con el consentimiento de sus familias. Pero antes Kuzey viaja a Estambul, donde se olvida de su compromiso y comienza una nueva vida. 20 años después se reencuentran.(n)</desc>
-    <credits>
-      <actor>Ismail Demirci</actor>
-      <actor>Aslihan Guner</actor>
-      <actor>Toygan Avanoglu</actor>
-      <actor>Berfin Nilsu</actor>
-      <actor>Merve Sen</actor>
-      <actor>Ersoy Güler</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Estrella de amor (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44557479.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260202094000 -0400" stop="20260202102000 -0400" channel="BOLIVISION">
     <title lang="es">Vida y pasión (?)</title>
@@ -7653,20 +7671,66 @@ Repetición</title>
     <category lang="es">Noticiero</category>
   </programme>
   <programme start="20260202120000 -0400" stop="20260202124500 -0400" channel="BOLIVISION">
-    <title lang="es">El legado (?)</title>
+    <title lang="es">El legado</title>
+    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
+    <credits>
+      <actor>Halil Ibrahim Ceyhan</actor>
+      <actor>Sila Turkoglu</actor>
+      <actor>Berat Rüzgar Özkan</actor>
+      <actor>Melih Ozkaya</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+    </credits>
+    <date>2020</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975110.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260202124500 -0400" stop="20260202133000 -0400" channel="BOLIVISION">
-    <title lang="es">Nazaré (?)</title>
+    <title lang="es">Nazaré</title>
+    <desc lang="es">Una historia de lucha y supervivencia. Nazaré es una mujer joven que tiene un objetivo: salvar a su madre que tiene un tumor cerebral, aunque para hacerlo debe traicionar al amor de su vida, Duarte.(n)</desc>
+    <credits>
+      <actor>Carolina Loureiro</actor>
+      <actor>José Mata</actor>
+      <actor>José Afonso Pimentel</actor>
+      <actor>Albano Jerónimo</actor>
+      <actor>Rogério Samora</actor>
+      <actor>Custódia Gallego</actor>
+    </credits>
+    <date>2019</date>
     <category lang="es">Telenovela</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975123.jpg" />
+    <country lang="es">Portugal</country>
   </programme>
   <programme start="20260202133000 -0400" stop="20260202151500 -0400" channel="BOLIVISION">
-    <title lang="es">Elif (?)</title>
+    <title lang="es">Elif</title>
+    <desc lang="es">Cuenta la historia de Elif, una mujer necesitada de dinero que aceptará ser el vientre de alquiler de Kahraman y Defne una pareja de la alta alcurnia.(n)</desc>
+    <credits>
+      <actor>Selin Sezgin</actor>
+      <actor>Isabella Damla Güvenilir</actor>
+      <actor>Altug Seçkiner</actor>
+      <actor>Hasan Balliktas</actor>
+      <actor>Zeynep Ögren</actor>
+      <actor>Emre Kivilcim</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12146753.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260202151500 -0400" stop="20260202164500 -0400" channel="BOLIVISION">
-    <title lang="es">Mi gran sueño (?)</title>
+    <title lang="es">Mi gran sueño</title>
+    <desc lang="es">Una competencia que reunirá a participantes de diferentes ciudades, quienes deberán estar dispuestos a demostrar todas sus habilidades en la cocina. Los participantes deberán sobrellevar distintos retos que pondrán a prueba su capacidad.(n)</desc>
+    <credits>
+      <actor>Sandra Alcázar</actor>
+    </credits>
+    <date>2025</date>
     <category lang="es">Reality Show</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49729357.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202164500 -0400" stop="20260202174500 -0400" channel="BOLIVISION">
     <title lang="es">Perdóname (?)</title>
@@ -7681,8 +7745,15 @@ Repetición</title>
     <category lang="es">Noticiero</category>
   </programme>
   <programme start="20260202200000 -0400" stop="20260202220000 -0400" channel="BOLIVISION">
-    <title lang="es">Aquí en vivo (?)</title>
+    <title lang="es">Aquí en vivo</title>
+    <desc lang="es">Pone a prueba a la nueva justicia, se sumerge en el mundo de los grandes flagelos sociales y en la más descarnada estrategia de los tímadores y estafadores.(n)</desc>
+    <credits>
+      <actor>Rafael Cavada</actor>
+    </credits>
+    <date>2000</date>
     <category lang="es">Periodístico</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14133177.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260131213000 -0400" stop="20260131220000 -0400" channel="RED UNO">
     <title lang="es">Tierra nuestra</title>
@@ -7696,31 +7767,14 @@ Repetición</title>
     <title lang="es">Problemas y soluciones (?)</title>
   </programme>
   <programme start="20260131230000 -0400" stop="20260201001000 -0400" channel="RED UNO">
-    <title lang="es">Gintama 2: Rompiendo las reglas</title>
-    <desc lang="es">La pandilla Yorozuya regresa para proteger al shogun local cuando la fuerza policial Shinsengumi se encuentra en medio de una crisis.(n)</desc>
-    <credits>
-      <actor>Shun Oguri</actor>
-      <actor>Kanna Hashimoto</actor>
-      <actor>Yûya Yagira</actor>
-      <actor>Haruma Miura</actor>
-      <actor>Masataka Kubota</actor>
-      <actor>Ryo Yoshizawa</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Cine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20151446.jpg" />
-    <country lang="es">Japón</country>
+    <title lang="es">Gintama 2: Rompiendo las reglas (?)</title>
   </programme>
   <programme start="20260201001000 -0400" stop="20260201025700 -0400" channel="RED UNO">
     <title lang="es">Amor de mi vida - Lo mejor (?)</title>
   </programme>
   <programme start="20260201025700 -0400" stop="20260201035700 -0400" channel="RED UNO">
-    <title lang="es">Problemas y soluciones</title>
-    <desc lang="es">Es un programa religioso donde pastores del exterior predican la palabra de Dios a todos los creyentes.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Problemas y soluciones (?)</title>
     <category lang="es">Religioso</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7939507.jpg" />
   </programme>
   <programme start="20260201035700 -0400" stop="20260201040000 -0400" channel="RED UNO">
     <title lang="es">Identificación red / Himno nacional / Marcha naval</title>
@@ -7729,21 +7783,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/15715131.jpg" />
   </programme>
   <programme start="20260201040000 -0400" stop="20260201050000 -0400" channel="RED UNO">
-    <title lang="es">El Chapulín Colorado</title>
-    <desc lang="es">Sigue las aventuras de este héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón.(n)</desc>
-    <credits>
-      <actor>Roberto Gómez Bolaños</actor>
-      <actor>Florinda Meza</actor>
-      <actor>María Antonieta de las Nieves</actor>
-      <actor>Ramón Valdés</actor>
-      <actor>Carlos Villagrán</actor>
-      <actor>Rubén Aguirre</actor>
-    </credits>
-    <date>1973</date>
+    <title lang="es">El Chapulín Colorado (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822850.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260201050000 -0400" stop="20260201060000 -0400" channel="RED UNO">
     <title lang="es">Santa Misa</title>
@@ -7762,21 +7803,8 @@ Repetición</title>
     <category lang="es">Infantil</category>
   </programme>
   <programme start="20260201061500 -0400" stop="20260201063000 -0400" channel="RED UNO">
-    <title lang="es">La brujita Dee Dee</title>
-    <desc lang="es">Una joven alegre, que está aprendiendo a convertirse en hechicera, utiliza un libro mágico de conjuros para ayudar a sus amigos cuando se encuentran en problemas.(n)</desc>
-    <credits>
-      <actor>Niang McCann</actor>
-      <actor>Giles New</actor>
-      <actor>Jody O'Neill</actor>
-      <actor>Hollie Taylor</actor>
-      <actor>Paul Tylak</actor>
-      <actor>Morgan C Jones</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">La brujita Dee Dee (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Infantiles</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975808.jpg" />
-    <country lang="es">India</country>
   </programme>
   <programme start="20260201063000 -0400" stop="20260201070000 -0400" channel="RED UNO">
     <title lang="es">Spyders (?)</title>
@@ -7837,8 +7865,13 @@ Repetición</title>
     <category lang="es">Comedia</category>
   </programme>
   <programme start="20260201102500 -0400" stop="20260201120000 -0400" channel="RED UNO">
-    <title lang="es">Notivisión (?)</title>
+    <title lang="es">Notivisión</title>
+    <desc lang="es">Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.(n)</desc>
+    <date>2000</date>
     <category lang="es">Noticiero</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22787315.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260201120000 -0400" stop="20260201140500 -0400" channel="RED UNO">
     <title lang="es">El niño y la bestia</title>
@@ -7896,8 +7929,13 @@ Repetición</title>
     <category lang="es">Comedia</category>
   </programme>
   <programme start="20260201175500 -0400" stop="20260201190000 -0400" channel="RED UNO">
-    <title lang="es">Notivisión (?)</title>
+    <title lang="es">Notivisión</title>
+    <desc lang="es">Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.(n)</desc>
+    <date>2000</date>
     <category lang="es">Noticiero</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22787315.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260201190000 -0400" stop="20260201203000 -0400" channel="RED UNO">
     <title lang="es">Los Leones</title>
@@ -7991,28 +8029,27 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/54378603.jpg" />
   </programme>
   <programme start="20260202040000 -0400" stop="20260202072500 -0400" channel="RED UNO">
-    <title lang="es">El mañanero</title>
-    <desc lang="es">Revista informativa matinal que brinda información y entretenimiento, dando también cobertura a los artistas nacionales e internacionales, con espacios para la salud y educación con las visitas de profesionales en el área.(n)</desc>
-    <credits>
-      <actor>Dayana Molina</actor>
-      <actor>Ian Vega</actor>
-      <actor>Carlos Santander</actor>
-      <actor>Mauricio Panozo</actor>
-      <actor>Stephanie Sánchez</actor>
-    </credits>
-    <date>2024</date>
+    <title lang="es">El mañanero (?)</title>
     <category lang="es">Magazine</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/35647055.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202072500 -0400" stop="20260202073000 -0400" channel="RED UNO">
     <title lang="es">Plim Plim, un héroe del corazón (?)</title>
     <category lang="es">Infantil</category>
   </programme>
   <programme start="20260202073000 -0400" stop="20260202100000 -0400" channel="RED UNO">
-    <title lang="es">Sabores bolivianos (?)</title>
+    <title lang="es">Sabores bolivianos</title>
+    <desc lang="es">Preparados para llevarte entretenimiento, recetas fáciles y útiles para que prepares en cualquier momento, descubramos juntos los sabores bolivianos.(n)</desc>
+    <credits>
+      <actor>Grisel Quiroga</actor>
+      <actor>Alan Vera</actor>
+      <actor>Roberto Chichi Kim</actor>
+      <actor>Alejandro Serrate</actor>
+    </credits>
+    <date>2018</date>
     <category lang="es">Cocina</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/24437084.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202100000 -0400" stop="20260202102500 -0400" channel="RED UNO">
     <title lang="es">Súper deportivo</title>
@@ -8045,16 +8082,37 @@ Repetición</title>
     <category lang="es">Comedia</category>
   </programme>
   <programme start="20260202150000 -0400" stop="20260202165500 -0400" channel="RED UNO">
-    <title lang="es">Dueños de la tarde (?)</title>
+    <title lang="es">Dueños de la tarde</title>
+    <desc lang="es">Un espacio donde la información, el debate y el entretenimiento se fusionan. Daniel Dueñas y Ximena Zalzer abordan temas de salud, bienestar, tecnología y espiritualidad, con la participación de un panel de especialistas.(n)</desc>
+    <credits>
+      <actor>Daniel Dueñas</actor>
+      <actor>Ximena Zalzer</actor>
+      <actor>Vitorio Lema</actor>
+      <actor>Nicole Gutiérrez</actor>
+      <actor>José Daniel Núñez</actor>
+      <actor>Claudia Miranda</actor>
+    </credits>
+    <date>2025</date>
     <category lang="es">Magazine</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49135876.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202165500 -0400" stop="20260202190000 -0400" channel="RED UNO">
-    <title lang="es">Notivisión (?)</title>
+    <title lang="es">Notivisión</title>
+    <desc lang="es">Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.(n)</desc>
+    <date>2000</date>
     <category lang="es">Noticiero</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22787315.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202190000 -0400" stop="20260202200000 -0400" channel="RED UNO">
-    <title lang="es">El rey (?)</title>
+    <title lang="es">El rey</title>
+    <date>2000</date>
     <category lang="es">Serie</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/23087013.jpg" />
   </programme>
   <programme start="20260202200000 -0400" stop="20260202220000 -0400" channel="RED UNO">
     <title lang="es">Que no me pierda</title>
@@ -8087,22 +8145,46 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260131220000 -0400" stop="20260131220500 -0400" channel="TVU">
-    <title lang="es">Himno Nacional</title>
-    <date>2000</date>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3615415.jpg" />
+    <title lang="es">Himno Nacional (?)</title>
   </programme>
   <programme start="20260131220500 -0400" stop="20260131223400 -0400" channel="TVU">
-    <title lang="es">Caminando con cavernícolas (?)</title>
+    <title lang="es">Caminando con cavernícolas</title>
+    <desc lang="es">Un prestigioso equipo científico formado por climatólogos, geólogos, antropólogos y genetistas y el uso de las más modernas técnicas digitales y de maquillaje, han hecho posible la dramatización de la evolución humana.(n)</desc>
+    <credits>
+      <actor>Robert Winston</actor>
+      <actor>Alex Palmer</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>David Rubin</actor>
+      <actor>Richard Dale</actor>
+      <actor>Pierre De Lespinois</actor>
+    </credits>
+    <date>2003</date>
     <category lang="es">Documental</category>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21588692.jpg" />
+    <country lang="es">Reino Unido</country>
   </programme>
   <programme start="20260131223400 -0400" stop="20260131223800 -0400" channel="TVU">
-    <title lang="es">Características y/o avances (?)</title>
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
     <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260131223800 -0400" stop="20260131232700 -0400" channel="TVU">
-    <title lang="es">La vida privada de las plantas (?)</title>
+    <title lang="es">La vida privada de las plantas</title>
+    <desc lang="es">Describe vívidamente los más intrigantes aspectos del comportamiento de las plantas, desde el abrasador desierto del Sáhara hasta la congelada superficie de la Antártida.(n)</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <actor>Neil Lucas</actor>
+      <actor>Neil Nightingale</actor>
+      <actor>Keith Scholey</actor>
+    </credits>
+    <date>1995</date>
     <category lang="es">Documental</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/48816345.jpg" />
+    <country lang="es">Reino Unido</country>
   </programme>
   <programme start="20260131232700 -0400" stop="20260131233100 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -8112,12 +8194,20 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260131233100 -0400" stop="20260201011300 -0400" channel="TVU">
-    <title lang="es">Cine TVU (?)</title>
+    <title lang="es">Cine TVU</title>
+    <desc lang="es">Rememora las grandes producciones latinoamericanas y del mundo en este espacio que te pasea por varios géneros cinematográficos.(n)</desc>
+    <date>2000</date>
     <category lang="es">Película</category>
+    <category lang="es">Ciclo</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12410806.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260201011300 -0400" stop="20260201011600 -0400" channel="TVU">
-    <title lang="es">Características y/o avances (?)</title>
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
     <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201011600 -0400" stop="20260201020700 -0400" channel="TVU">
     <title lang="es">Planeta Tierra</title>
@@ -8128,8 +8218,11 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13477601.jpg" />
   </programme>
   <programme start="20260201020700 -0400" stop="20260201021000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances (?)</title>
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
     <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201021000 -0400" stop="20260201032700 -0400" channel="TVU">
     <title lang="es">Naturaleza</title>
@@ -8145,13 +8238,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201033000 -0400" stop="20260201045500 -0400" channel="TVU">
-    <title lang="es">Cuidando tu sonrisa</title>
-    <desc lang="es">Segmento especial dedicado a todos los temas de interés para la población en general, donde podrás encontrar espacios de consulta al odontólogo, además de invitados especiales, sondeo en las calles y mucho más.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Cuidando tu sonrisa (?)</title>
     <category lang="es">Magazine</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10144131.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260201045500 -0400" stop="20260201050000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -8161,21 +8249,21 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201050000 -0400" stop="20260201055500 -0400" channel="TVU">
-    <title lang="es">Prisma agropecuario</title>
-    <desc lang="es">Espacio que Informa sobre las temáticas concernientes al rubro agropecuario e institucional de la facultad de agronomía.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Prisma agropecuario (?)</title>
     <category lang="es">Agro</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21536440.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260201055500 -0400" stop="20260201060000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances (?)</title>
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
     <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201060000 -0400" stop="20260201065500 -0400" channel="TVU">
-    <title lang="es">Naturaleza (?)</title>
+    <title lang="es">Naturaleza</title>
+    <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
   </programme>
   <programme start="20260201065500 -0400" stop="20260201070000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -8208,6 +8296,7 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201092100 -0400" stop="20260201093600 -0400" channel="TVU">
     <title lang="es">Japan Video Topics</title>
@@ -8215,6 +8304,7 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975258.jpg" />
     <country lang="es">Japón</country>
   </programme>
   <programme start="20260201093600 -0400" stop="20260201094000 -0400" channel="TVU">
@@ -8222,17 +8312,20 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201094000 -0400" stop="20260201094500 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
   <programme start="20260201094500 -0400" stop="20260201095000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201095000 -0400" stop="20260201101600 -0400" channel="TVU">
     <title lang="es">Alterados por Pi</title>
@@ -8243,6 +8336,7 @@ Repetición</title>
     <date>2008</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2407162.jpg" />
     <country lang="es">Argentina</country>
   </programme>
   <programme start="20260201101600 -0400" stop="20260201102100 -0400" channel="TVU">
@@ -8250,73 +8344,88 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201102100 -0400" stop="20260201122700 -0400" channel="TVU">
     <title lang="es">Cine TVU familiar</title>
     <date>2000</date>
     <category lang="es">Película</category>
     <category lang="es">Ciclo</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21462062.jpg" />
   </programme>
   <programme start="20260201122700 -0400" stop="20260201123200 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201123200 -0400" stop="20260201134900 -0400" channel="TVU">
     <title lang="es">Naturaleza</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
   </programme>
   <programme start="20260201134900 -0400" stop="20260201135400 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201135400 -0400" stop="20260201155100 -0400" channel="TVU">
     <title lang="es">Cine TVU familiar</title>
     <date>2000</date>
     <category lang="es">Película</category>
     <category lang="es">Ciclo</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21462062.jpg" />
   </programme>
   <programme start="20260201155100 -0400" stop="20260201155400 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201155400 -0400" stop="20260201163900 -0400" channel="TVU">
-    <title lang="es">Historia (?)</title>
+    <title lang="es">Historia</title>
+    <date>2000</date>
     <category lang="es">Documental</category>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21464743.jpg" />
   </programme>
   <programme start="20260201163900 -0400" stop="20260201164000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201164000 -0400" stop="20260201165000 -0400" channel="TVU">
     <title lang="es">Cinefilando 4</title>
     <date>2000</date>
     <category lang="es">Cine</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21600980.jpg" />
   </programme>
   <programme start="20260201165000 -0400" stop="20260201165500 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201165500 -0400" stop="20260201170000 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
   <programme start="20260201170000 -0400" stop="20260201175500 -0400" channel="TVU">
     <title lang="es">Desarrollo humano</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21439194.jpg" />
     <country lang="es">México</country>
   </programme>
   <programme start="20260201175500 -0400" stop="20260201180000 -0400" channel="TVU">
@@ -8324,27 +8433,40 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201180000 -0400" stop="20260201185500 -0400" channel="TVU">
     <title lang="es">Naturaleza</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
   </programme>
   <programme start="20260201185500 -0400" stop="20260201190000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201190000 -0400" stop="20260201202500 -0400" channel="TVU">
-    <title lang="es">Código deportivo (?)</title>
+    <title lang="es">Código deportivo</title>
+    <desc lang="es">Las principales noticias deportivas generadas tanto de los deportes locales como internacionales.(n)</desc>
+    <credits>
+      <actor>Francisco Molestina</actor>
+      <actor>Ufredo Borbor</actor>
+    </credits>
+    <date>2012</date>
     <category lang="es">Deportivo</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26549791.jpg" />
+    <country lang="es">Ecuador</country>
   </programme>
   <programme start="20260201202500 -0400" stop="20260201203000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201203000 -0400" stop="20260201212500 -0400" channel="TVU">
     <title lang="es">Fin de la historia</title>
@@ -8355,6 +8477,7 @@ Repetición</title>
     <date>2022</date>
     <category lang="es">Político</category>
     <category lang="es">Periodístico</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21512659.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260201212500 -0400" stop="20260201213000 -0400" channel="TVU">
@@ -8362,24 +8485,28 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201213000 -0400" stop="20260201215500 -0400" channel="TVU">
     <title lang="es">Crónicas universitarias</title>
     <date>2000</date>
     <category lang="es">Educativo</category>
     <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21555082.jpg" />
   </programme>
   <programme start="20260201215500 -0400" stop="20260201220000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201220000 -0400" stop="20260201220500 -0400" channel="TVU">
     <title lang="es">Himno Nacional</title>
     <date>2000</date>
     <category lang="es">Cultural</category>
     <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3615415.jpg" />
   </programme>
   <programme start="20260201220500 -0400" stop="20260201230000 -0400" channel="TVU">
     <title lang="es">Guia médica</title>
@@ -8387,6 +8514,7 @@ Repetición</title>
     <date>2014</date>
     <category lang="es">Salud</category>
     <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436932.jpg" />
     <country lang="es">Ecuador</country>
   </programme>
   <programme start="20260201230000 -0400" stop="20260201230500 -0400" channel="TVU">
@@ -8394,18 +8522,21 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260201230500 -0400" stop="20260202005400 -0400" channel="TVU">
     <title lang="es">Cine TVU trasnoche</title>
     <date>2000</date>
     <category lang="es">Película</category>
     <category lang="es">Ciclo</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21481260.jpg" />
   </programme>
   <programme start="20260202005400 -0400" stop="20260202005900 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202005900 -0400" stop="20260202012500 -0400" channel="TVU">
     <title lang="es">Érase una vez... el hombre</title>
@@ -8420,6 +8551,7 @@ Repetición</title>
     <date>1978</date>
     <category lang="es">Animación</category>
     <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3247356.jpg" />
     <country lang="es">Francia</country>
   </programme>
   <programme start="20260202012500 -0400" stop="20260202013000 -0400" channel="TVU">
@@ -8427,29 +8559,34 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202013000 -0400" stop="20260202023200 -0400" channel="TVU">
     <title lang="es">Naturaleza</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
   </programme>
   <programme start="20260202023200 -0400" stop="20260202023700 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202023700 -0400" stop="20260202033200 -0400" channel="TVU">
     <title lang="es">Historia</title>
     <date>2000</date>
     <category lang="es">Documental</category>
     <category lang="es">Documentales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21464743.jpg" />
   </programme>
   <programme start="20260202033200 -0400" stop="20260202033700 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202033700 -0400" stop="20260202035500 -0400" channel="TVU">
     <title lang="es">Japan Video Topics</title>
@@ -8457,6 +8594,7 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7975258.jpg" />
     <country lang="es">Japón</country>
   </programme>
   <programme start="20260202035500 -0400" stop="20260202040000 -0400" channel="TVU">
@@ -8464,10 +8602,10 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202040000 -0400" stop="20260202045500 -0400" channel="TVU">
-    <title lang="es">Hechos matinal</title>
-    <date>2000</date>
+    <title lang="es">Hechos matinal (?)</title>
     <category lang="es">Periodístico</category>
   </programme>
   <programme start="20260202045500 -0400" stop="20260202050000 -0400" channel="TVU">
@@ -8475,59 +8613,44 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202050000 -0400" stop="20260202062500 -0400" channel="TVU">
-    <title lang="es">Primera impresión</title>
-    <date>2000</date>
+    <title lang="es">Primera impresión (?)</title>
     <category lang="es">Magazine</category>
-    <category lang="es">Variedades</category>
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202062500 -0400" stop="20260202063000 -0400" channel="TVU">
-    <title lang="es">Tv empresas</title>
-    <date>2000</date>
+    <title lang="es">Tv empresas (?)</title>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20260202063000 -0400" stop="20260202072500 -0400" channel="TVU">
-    <title lang="es">TV express</title>
-    <date>2000</date>
+    <title lang="es">TV express (?)</title>
     <category lang="es">Periodístico</category>
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202072500 -0400" stop="20260202073000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202073000 -0400" stop="20260202085500 -0400" channel="TVU">
-    <title lang="es">A pedir de boca</title>
-    <desc lang="es">Recorrido por la historia, el hábitat y los procesos de elaboración de alimentos de calidad producidos en España. Un viaje a sus comarcas de origen, analizando los vínculos con su procedencia y preparaciones culinarias tradicionales.(n)</desc>
-    <credits>
-      <actor>Rafael Taibo</actor>
-      <actor>Rafael Romero Sanjose</actor>
-      <actor>Rafael Romero</actor>
-    </credits>
-    <date>1996</date>
+    <title lang="es">A pedir de boca (?)</title>
     <category lang="es">Documental</category>
-    <category lang="es">Documentales</category>
-    <country lang="es">España</country>
   </programme>
   <programme start="20260202085500 -0400" stop="20260202090000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202090000 -0400" stop="20260202095500 -0400" channel="TVU">
-    <title lang="es">Historia</title>
-    <date>2000</date>
+    <title lang="es">Historia (?)</title>
     <category lang="es">Documental</category>
-    <category lang="es">Documentales</category>
   </programme>
   <programme start="20260202095500 -0400" stop="20260202100000 -0400" channel="TVU">
-    <title lang="es">Tv empresas</title>
-    <date>2000</date>
+    <title lang="es">Tv empresas (?)</title>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20260202100000 -0400" stop="20260202100500 -0400" channel="TVU">
@@ -8535,31 +8658,26 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202100500 -0400" stop="20260202105400 -0400" channel="TVU">
-    <title lang="es">Naturaleza</title>
-    <date>2000</date>
+    <title lang="es">Naturaleza (?)</title>
     <category lang="es">Variedades</category>
   </programme>
   <programme start="20260202105400 -0400" stop="20260202110000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
   </programme>
   <programme start="20260202110000 -0400" stop="20260202115500 -0400" channel="TVU">
-    <title lang="es">Hechos meridiano</title>
-    <desc lang="es">Traemos la información en donde podrás seguir en vivo el noticiero Hechos Meridiano.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Hechos meridiano (?)</title>
     <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <country lang="es">México</country>
   </programme>
   <programme start="20260202115500 -0400" stop="20260202120000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202120000 -0400" stop="20260202125500 -0400" channel="TVU">
     <title lang="es">Regeneración</title>
@@ -8567,6 +8685,7 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21465381.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202125500 -0400" stop="20260202130000 -0400" channel="TVU">
@@ -8574,12 +8693,14 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202130000 -0400" stop="20260202135500 -0400" channel="TVU">
     <title lang="es">Tropicalísimo cultura viva</title>
     <date>2000</date>
     <category lang="es">Musical</category>
     <category lang="es">Musicales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21466511.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202135500 -0400" stop="20260202140000 -0400" channel="TVU">
@@ -8587,16 +8708,15 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202140000 -0400" stop="20260202145500 -0400" channel="TVU">
     <title lang="es">Marca registrada</title>
     <desc lang="es">En formato podcast y junto a Cinthia Cuesta y su equipo, el público podrá disfrutar de un espacio con risas, datos interesantes y la mejor compañía.(n)</desc>
-    <credits>
-      <actor>Cinthia Cuesta</actor>
-    </credits>
     <date>2000</date>
     <category lang="es">Noticiero</category>
     <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11365141.jpg" />
     <country lang="es">Chile</country>
   </programme>
   <programme start="20260202145500 -0400" stop="20260202150000 -0400" channel="TVU">
@@ -8604,23 +8724,15 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202150000 -0400" stop="20260202155500 -0400" channel="TVU">
-    <title lang="es">Hoy contigo</title>
-    <desc lang="es">Magazine de entretenimiento familiar, con segmentos dedicados a la familia, con una nueva visión y manejo en la forma de llegar al público. Además, sorpresas e información.(n)</desc>
-    <credits>
-      <actor>Sandra Aguirre</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">Hoy contigo (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202155500 -0400" stop="20260202160000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
   </programme>
   <programme start="20260202160000 -0400" stop="20260202165500 -0400" channel="TVU">
     <title lang="es">Doctor TV</title>
@@ -8628,23 +8740,27 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Salud</category>
     <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10450532.jpg" />
   </programme>
   <programme start="20260202165500 -0400" stop="20260202170000 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
   <programme start="20260202170000 -0400" stop="20260202172500 -0400" channel="TVU">
     <title lang="es">Características y/o avances / Economía para todos</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21466398.jpg" />
   </programme>
   <programme start="20260202172500 -0400" stop="20260202173000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260202173000 -0400" stop="20260202192500 -0400" channel="TVU">
     <title lang="es">Cartas sobre la mesa</title>
@@ -8657,12 +8773,14 @@ Repetición</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Periodístico</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21466960.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260202192500 -0400" stop="20260202193000 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
   <programme start="20260202193000 -0400" stop="20260202202500 -0400" channel="TVU">
     <title lang="es">Prisma agropecuario</title>
@@ -8809,73 +8927,13 @@ Repetición</title>
   </programme>
   <programme start="20260201025000 -0600" stop="20260201034000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">La ley y el orden: UVE</title>
-    <sub-title lang="es">Video mata a personalidad radial</sub-title>
-    <desc lang="es">Los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, mientras intentan balancear los efectos de la investigación en sus propias vidas.(n)</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>BD Wong</actor>
-      <actor>Tamara Tunie</actor>
-      <actor>Diane Neal</actor>
-      <actor>Stephanie March</actor>
-      <actor>Mike Doyle</actor>
-      <actor>Joel de la Fuente</actor>
-      <actor>Kelli Giddish</actor>
-      <actor>Danny Pino</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Caren Browning</actor>
-      <actor>Isabel Gillies</actor>
-      <actor>Peter Hermann</actor>
-      <actor>Michelle Hurd</actor>
-      <actor>Andrew Polk</actor>
-      <actor>Rafael Feldman</actor>
-      <actor>Sarita Choudhury</actor>
-      <actor>Dann Florek</actor>
-      <actor>David Platt</actor>
-      <actor>Jean de Segonzac</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Ice-T</actor>
-      <actor>Batan Silva</actor>
-    </credits>
-    <date>1999</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Policial</category>
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201034000 -0600" stop="20260201043000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">La ley y el orden: UVE</title>
-    <sub-title lang="es">Jóvenes caballeros prometedores</sub-title>
-    <desc lang="es">Los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, mientras intentan balancear los efectos de la investigación en sus propias vidas.(n)</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>BD Wong</actor>
-      <actor>Tamara Tunie</actor>
-      <actor>Diane Neal</actor>
-      <actor>Stephanie March</actor>
-      <actor>Mike Doyle</actor>
-      <actor>Joel de la Fuente</actor>
-      <actor>Kelli Giddish</actor>
-      <actor>Danny Pino</actor>
-      <actor>Joanna Merlin</actor>
-      <actor>Caren Browning</actor>
-      <actor>Isabel Gillies</actor>
-      <actor>Peter Hermann</actor>
-      <actor>Michelle Hurd</actor>
-      <actor>Andrew Polk</actor>
-      <actor>Rafael Feldman</actor>
-      <actor>Sarita Choudhury</actor>
-      <actor>Dann Florek</actor>
-      <actor>David Platt</actor>
-      <actor>Jean de Segonzac</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Ice-T</actor>
-      <actor>Batan Silva</actor>
-    </credits>
-    <date>1999</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Policial</category>
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201043000 -0600" stop="20260201051500 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">La ley y el orden: UVE</title>
@@ -9590,7 +9648,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201215000 -0600" stop="20260201224000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9626,7 +9683,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201224000 -0600" stop="20260201233000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9662,7 +9718,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201233000 -0600" stop="20260202002000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9698,7 +9753,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202002000 -0600" stop="20260202011000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9748,7 +9802,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202011000 -0600" stop="20260202020000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9784,15 +9837,14 @@ Repetición</title>
       <actor>Sheri Beth Dusek</actor>
       <actor>Fred Berner</actor>
       <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
       <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
+      <actor>Michael Brandt</actor>
       <actor>Jeanne Caliendo</actor>
+      <actor>Matt Olmstead</actor>
       <actor>Terry Blythe</actor>
     </credits>
     <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202020000 -0600" stop="20260202025000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9824,7 +9876,6 @@ Repetición</title>
     </credits>
     <date>2015</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202025000 -0600" stop="20260202034000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9860,7 +9911,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202034000 -0600" stop="20260202043000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9896,7 +9946,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202043000 -0600" stop="20260202051500 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9932,7 +9981,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202051500 -0600" stop="20260202060000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -9968,7 +10016,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202060000 -0600" stop="20260202065000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10004,7 +10051,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202065000 -0600" stop="20260202074000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10036,7 +10082,6 @@ Repetición</title>
     </credits>
     <date>2015</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202074000 -0600" stop="20260202083000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10068,7 +10113,6 @@ Repetición</title>
     </credits>
     <date>2015</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202083000 -0600" stop="20260202092000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10118,7 +10162,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202092000 -0600" stop="20260202101000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10168,7 +10211,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202101000 -0600" stop="20260202110000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10218,7 +10260,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202110000 -0600" stop="20260202115000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10254,7 +10295,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202115000 -0600" stop="20260202124000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10290,7 +10330,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202124000 -0600" stop="20260202133000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10326,7 +10365,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202133000 -0600" stop="20260202142000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10362,15 +10400,14 @@ Repetición</title>
       <actor>Sheri Beth Dusek</actor>
       <actor>Fred Berner</actor>
       <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
       <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
+      <actor>Michael Brandt</actor>
       <actor>Jeanne Caliendo</actor>
+      <actor>Matt Olmstead</actor>
       <actor>Terry Blythe</actor>
     </credits>
     <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202142000 -0600" stop="20260202151000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10406,15 +10443,14 @@ Repetición</title>
       <actor>Sheri Beth Dusek</actor>
       <actor>Fred Berner</actor>
       <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
       <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
+      <actor>Michael Brandt</actor>
       <actor>Jeanne Caliendo</actor>
+      <actor>Matt Olmstead</actor>
       <actor>Terry Blythe</actor>
     </credits>
     <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202151000 -0600" stop="20260202160000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10450,15 +10486,14 @@ Repetición</title>
       <actor>Sheri Beth Dusek</actor>
       <actor>Fred Berner</actor>
       <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
       <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
+      <actor>Michael Brandt</actor>
       <actor>Jeanne Caliendo</actor>
+      <actor>Matt Olmstead</actor>
       <actor>Terry Blythe</actor>
     </credits>
     <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202160000 -0600" stop="20260202165000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10508,7 +10543,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202165000 -0600" stop="20260202174000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10558,7 +10592,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202174000 -0600" stop="20260202183000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10608,7 +10641,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202183000 -0600" stop="20260202192000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10644,7 +10676,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202192000 -0600" stop="20260202201000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10680,7 +10711,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202201000 -0600" stop="20260202210000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10716,7 +10746,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202210000 -0600" stop="20260202215000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10748,7 +10777,6 @@ Repetición</title>
     </credits>
     <date>2015</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202215000 -0600" stop="20260202224000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10798,7 +10826,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202224000 -0600" stop="20260202233000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10834,15 +10861,14 @@ Repetición</title>
       <actor>Sheri Beth Dusek</actor>
       <actor>Fred Berner</actor>
       <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
       <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
+      <actor>Michael Brandt</actor>
       <actor>Jeanne Caliendo</actor>
+      <actor>Matt Olmstead</actor>
       <actor>Terry Blythe</actor>
     </credits>
     <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202233000 -0600" stop="20260203020000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10878,15 +10904,14 @@ Repetición</title>
       <actor>Sheri Beth Dusek</actor>
       <actor>Fred Berner</actor>
       <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
       <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
+      <actor>Michael Brandt</actor>
       <actor>Jeanne Caliendo</actor>
+      <actor>Matt Olmstead</actor>
       <actor>Terry Blythe</actor>
     </credits>
     <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203020000 -0600" stop="20260203025000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10918,7 +10943,6 @@ Repetición</title>
     </credits>
     <date>2015</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203025000 -0600" stop="20260203034000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10954,7 +10978,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203034000 -0600" stop="20260203043000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -10990,7 +11013,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203043000 -0600" stop="20260203051500 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11026,7 +11048,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203051500 -0600" stop="20260203060000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11062,7 +11083,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203060000 -0600" stop="20260203065000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11098,7 +11118,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203065000 -0600" stop="20260203074000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11130,7 +11149,6 @@ Repetición</title>
     </credits>
     <date>2015</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203074000 -0600" stop="20260203083000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11162,7 +11180,6 @@ Repetición</title>
     </credits>
     <date>2015</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203083000 -0600" stop="20260203092000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11212,7 +11229,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203092000 -0600" stop="20260203101000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11262,7 +11278,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203101000 -0600" stop="20260203110000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11312,7 +11327,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203110000 -0600" stop="20260203115000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11348,7 +11362,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203115000 -0600" stop="20260203124000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11384,7 +11397,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203124000 -0600" stop="20260203133000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11420,7 +11432,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203133000 -0600" stop="20260203142000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11456,15 +11467,14 @@ Repetición</title>
       <actor>Sheri Beth Dusek</actor>
       <actor>Fred Berner</actor>
       <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
       <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
+      <actor>Michael Brandt</actor>
       <actor>Jeanne Caliendo</actor>
+      <actor>Matt Olmstead</actor>
       <actor>Terry Blythe</actor>
     </credits>
     <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203142000 -0600" stop="20260203151000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11500,15 +11510,14 @@ Repetición</title>
       <actor>Sheri Beth Dusek</actor>
       <actor>Fred Berner</actor>
       <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
       <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
+      <actor>Michael Brandt</actor>
       <actor>Jeanne Caliendo</actor>
+      <actor>Matt Olmstead</actor>
       <actor>Terry Blythe</actor>
     </credits>
     <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203151000 -0600" stop="20260203160000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11544,15 +11553,14 @@ Repetición</title>
       <actor>Sheri Beth Dusek</actor>
       <actor>Fred Berner</actor>
       <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
       <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
+      <actor>Michael Brandt</actor>
       <actor>Jeanne Caliendo</actor>
+      <actor>Matt Olmstead</actor>
       <actor>Terry Blythe</actor>
     </credits>
     <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203160000 -0600" stop="20260203165000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11602,7 +11610,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203165000 -0600" stop="20260203174000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11652,7 +11659,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203174000 -0600" stop="20260203183000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11702,7 +11708,6 @@ Repetición</title>
     </credits>
     <date>2012</date>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203183000 -0600" stop="20260203192000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11738,7 +11743,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203192000 -0600" stop="20260203201000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11774,7 +11778,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203201000 -0600" stop="20260203210000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -11810,7 +11813,6 @@ Repetición</title>
     </credits>
     <date>1999</date>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203210000 -0600" stop="20260203215000 -0600" channel="UNIVERSAL CHANNEL MX">
@@ -12030,8 +12032,28 @@ Repetición</title>
   </programme>
   <programme start="20260201082000 -0600" stop="20260201100500 -0600" channel="UNIVERSAL CINEMA MX">
     <title lang="es">La purga por siempre</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <desc lang="es">Para los miembros de un movimiento clandestino, ya no es suficiente una noche anual de anarquía y asesinatos, así que deciden devolver a Estados Unidos el caos y las masacres sin fin, donde nadie volverá a estar a salvo... jamás.(n)</desc>
+    <credits>
+      <actor>Josh Lucas</actor>
+      <actor>Cassidy Freeman</actor>
+      <actor>Will Patton</actor>
+      <actor>Leven Rambin</actor>
+      <actor>Veronica Falcón</actor>
+      <actor>Susie Abromeit</actor>
+      <actor>Tenoch Huerta</actor>
+      <actor>Alejandro Edda</actor>
+      <actor>Anthony Molinari</actor>
+      <actor>Everardo Gout</actor>
+      <actor>Michael Bay</actor>
+      <actor>James DeMonaco</actor>
+      <actor>Jason Blum</actor>
+      <actor>Andrew Form</actor>
+      <actor>Brad Fuller</actor>
+    </credits>
+    <date>2021</date>
     <category lang="es">Acción</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14824390.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201100500 -0600" stop="20260201115000 -0600" channel="UNIVERSAL CINEMA MX">
     <title lang="es">Halloween Kills - La noche aún no termina</title>
@@ -12493,8 +12515,46 @@ Repetición</title>
   </programme>
   <programme start="20260202123500 -0600" stop="20260202141000 -0600" channel="UNIVERSAL CINEMA MX">
     <title lang="es">Hotel Transylvania</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <desc lang="es">Drácula es el anfitrión del Hotel Transylvania, un complejo de alta calidad donde los monstruos pueden vivir tranquilamente, sin molestar a los seres humanos. Pero su universo corre peligro cuando un chico ordinario tropieza con el lugar.(n)</desc>
+    <credits>
+      <actor>Steve Buscemi</actor>
+      <actor>Molly Shannon</actor>
+      <actor>David Spade</actor>
+      <actor>CeeLo Green</actor>
+      <actor>Jon Lovitz</actor>
+      <actor>Brian Stack</actor>
+      <actor>Luenell</actor>
+      <actor>Chris Parnell</actor>
+      <actor>Jackie Sandler</actor>
+      <actor>David Zyler</actor>
+      <actor>Chris Titone</actor>
+      <actor>Sarah Thyre</actor>
+      <actor>John Hans Tester</actor>
+      <actor>Melissa Sturm</actor>
+      <actor>Warren Sroka</actor>
+      <actor>Katie Silverman</actor>
+      <actor>Sunny Sandler</actor>
+      <actor>Judith Sandler</actor>
+      <actor>Alec Rosenthal</actor>
+      <actor>Jessica Pennington</actor>
+      <actor>Jon Olson</actor>
+      <actor>Edie Mirman</actor>
+      <actor>Scott Menville</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+      <actor>Genndy Tartakovsky</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Fran Drescher</actor>
+      <actor>Adam Sandler</actor>
+      <actor>Brian George</actor>
+      <actor>Michelle Murdocca</actor>
+      <actor>Robert Smigel</actor>
+      <actor>Peter Baynham</actor>
+    </credits>
+    <date>2012</date>
     <category lang="es">Animación</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10800300.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202141000 -0600" stop="20260202163000 -0600" channel="UNIVERSAL CINEMA MX">
     <title lang="es">Transformers</title>
@@ -12677,8 +12737,32 @@ Repetición</title>
   </programme>
   <programme start="20260203023000 -0600" stop="20260203030000 -0600" channel="UNIVERSAL CINEMA MX">
     <title lang="es">Hollywood on Set</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Capitana Marvel / Un loco funeral / A dos metros de ti</sub-title>
+    <desc lang="es">Esta producción va detrás de cámara de tres importantes películas en producción, presentando imágenes de acción y diversas entrevistas con actores y cineastas visionarios que comparten detalles y aspectos memorables en la filmación.(n)</desc>
+    <credits>
+      <actor>Michelle Blenker</actor>
+      <actor>Janett Hermosillo</actor>
+      <actor>Angela Valley</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Ann Marie Lariccia</actor>
+      <actor>Oscar Isaac</actor>
+      <actor>Isabela Merced</actor>
+      <actor>Jodie Comer</actor>
+      <actor>Anya Taylor-Joy</actor>
+      <actor>Martin Saint Charles</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Paul Wynne</actor>
+      <actor>David Freydt</actor>
+      <actor>Lisa Evans</actor>
+      <actor>Guy Handelman</actor>
+      <actor>Faith McQuinn</actor>
+      <actor>Merle Goldberg</actor>
+      <actor>Michael Conte</actor>
+    </credits>
+    <date>2023</date>
     <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/42868315.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203030000 -0600" stop="20260203033000 -0600" channel="UNIVERSAL CINEMA MX">
     <title lang="es">Hollywood on Set</title>
@@ -12740,8 +12824,32 @@ Repetición</title>
   </programme>
   <programme start="20260203040000 -0600" stop="20260203063000 -0600" channel="UNIVERSAL CINEMA MX">
     <title lang="es">Bad Boys 2: Vuelven más rebeldes</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <desc lang="es">Los oficiales Mike y Marcus planean capturar a un capo de la droga que quiere controlar el tráfico de narcóticos. Todo se complica cuando Mike se enamora de la hermana de Marcus, quien trabaja como agente encubierta para la DEA.(n)</desc>
+    <credits>
+      <actor>Jordi Mollà</actor>
+      <actor>Gabrielle Union</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Theresa Randle</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Yul Vazquez</actor>
+      <actor>Otto Sanchez</actor>
+      <actor>Henry Rollins</actor>
+      <actor>Antoni Corone</actor>
+      <actor>Gary Nickens</actor>
+      <actor>Martin Lawrence</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Will Smith</actor>
+      <actor>Jason Manuel Olazabal</actor>
+      <actor>Jon Seda</actor>
+      <actor>Michael Bay</actor>
+      <actor>Jerry Bruckheimer</actor>
+      <actor>Ron Shelton</actor>
+      <actor>Jerry Stahl</actor>
+    </credits>
+    <date>2003</date>
     <category lang="es">Acción</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10676273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260203063000 -0600" stop="20260203083500 -0600" channel="UNIVERSAL CINEMA MX">
     <title lang="es">El contador</title>
@@ -13044,13 +13152,71 @@ Repetición</title>
   </programme>
   <programme start="20260201011500 -0600" stop="20260201014500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El seguro médico</sub-title>
+    <desc lang="es">Una parodia de la vida moderna en las oficinas estadounidenses que profundiza en el quehacer y las relaciones de los trabajadores de Dunder Mifflin, una empresa de suministro de papel en Scranton, Pensilvania.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Angela Kinsey</actor>
+      <actor>Phyllis Smith</actor>
+      <actor>Mindy Kaling</actor>
+      <actor>BJ Novak</actor>
+      <actor>Creed Bratton</actor>
+      <actor>John Krasinski</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Brian Baumgartner</actor>
+      <actor>Kate Flannery</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Paul Feig</actor>
+      <actor>Randall Einhorn</actor>
+      <actor>Ken Kwapis</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Jeffrey Blitz</actor>
+      <actor>Daniel Chun</actor>
+      <actor>Halsted Sullivan</actor>
+      <actor>Caroline Williams</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Lee Eisenberg</actor>
+      <actor>Gene Stupnitsky</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11046850.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201014500 -0600" stop="20260201021000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El pacto</sub-title>
+    <desc lang="es">Una parodia de la vida moderna en las oficinas estadounidenses que profundiza en el quehacer y las relaciones de los trabajadores de Dunder Mifflin, una empresa de suministro de papel en Scranton, Pensilvania.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Angela Kinsey</actor>
+      <actor>Phyllis Smith</actor>
+      <actor>Mindy Kaling</actor>
+      <actor>BJ Novak</actor>
+      <actor>Creed Bratton</actor>
+      <actor>John Krasinski</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Brian Baumgartner</actor>
+      <actor>Kate Flannery</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Paul Feig</actor>
+      <actor>Randall Einhorn</actor>
+      <actor>Ken Kwapis</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Jeffrey Blitz</actor>
+      <actor>Daniel Chun</actor>
+      <actor>Halsted Sullivan</actor>
+      <actor>Caroline Williams</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Lee Eisenberg</actor>
+      <actor>Gene Stupnitsky</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11046850.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201021000 -0600" stop="20260201023500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
@@ -13299,25 +13465,8 @@ Repetición</title>
   </programme>
   <programme start="20260201090500 -0600" stop="20260201093000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Good Place</title>
-    <sub-title lang="es">El alarido eterno</sub-title>
-    <desc lang="es">Cuando un conductor atropella y asesina a Eleanor Shellstrop, esta se sorprende al encontrarse a sí misma en la 'zona buena' del mas allá, donde rápidamente descubre que no merece estar.(n)</desc>
-    <credits>
-      <actor>Tiya Sircar</actor>
-      <actor>Ted Danson</actor>
-      <actor>William Jackson Harper</actor>
-      <actor>Jameela Jamil</actor>
-      <actor>Ruman Kazi</actor>
-      <actor>Manny Jacinto</actor>
-      <actor>Amy Okuda</actor>
-      <actor>Meryl Hathaway</actor>
-      <actor>D'Arcy Carden</actor>
-      <actor>Kristen Bell</actor>
-      <actor>Drew Goddard</actor>
-    </credits>
-    <date>2016</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2971982.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201093000 -0600" stop="20260201095500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Good Place</title>
@@ -13574,8 +13723,24 @@ Repetición</title>
   </programme>
   <programme start="20260201150000 -0600" stop="20260201161000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Saturday Night Live</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Teyana Taylor / Geese</sub-title>
+    <desc lang="es">Durante más de 30 años, este show ha creado los personajes más locos, las mejores parodias de presidentes y políticos, las más sarcásticas burlas a las celebridades de la música y el cine, y los mejores musicales en vivo.(n)</desc>
+    <credits>
+      <actor>Fred Armisen</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Don Pardo</actor>
+      <actor>Lenny Pickett</actor>
+      <actor>Darrell Hammond</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Don Roy King</actor>
+      <actor>Akiva Schaffer</actor>
+      <actor>Bill Hader</actor>
+      <actor>Will Forte</actor>
+    </credits>
+    <date>1975</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4706243.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201161000 -0600" stop="20260201163500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
@@ -13671,33 +13836,141 @@ Repetición</title>
   </programme>
   <programme start="20260201175000 -0600" stop="20260201181500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Contrataciones de medio tiempo</sub-title>
+    <desc lang="es">Una mirada a la vida de un grupo de empleados del supermercado Cloud 9 en St. Louis, Missouri, quienes deben enfrentar día a día a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento.(n)</desc>
+    <credits>
+      <actor>Ben Feldman</actor>
+      <actor>Nico Santos</actor>
+      <actor>Nichole Bloom</actor>
+      <actor>Christopher Riordan</actor>
+      <actor>Kaliko Kauahi</actor>
+      <actor>Colton Dunn</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Tristram Shapeero</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Josh Greene</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5869239.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201181500 -0600" stop="20260201184000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Intimidación en el trabajo</sub-title>
+    <desc lang="es">Una mirada a la vida de un grupo de empleados del supermercado Cloud 9 en St. Louis, Missouri, quienes deben enfrentar día a día a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento.(n)</desc>
+    <credits>
+      <actor>Ben Feldman</actor>
+      <actor>Nico Santos</actor>
+      <actor>Nichole Bloom</actor>
+      <actor>Christopher Riordan</actor>
+      <actor>Kaliko Kauahi</actor>
+      <actor>Colton Dunn</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Tristram Shapeero</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Josh Greene</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5869239.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201184000 -0600" stop="20260201190500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Sal está muerto</sub-title>
+    <desc lang="es">Una mirada a la vida de un grupo de empleados del supermercado Cloud 9 en St. Louis, Missouri, quienes deben enfrentar día a día a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento.(n)</desc>
+    <credits>
+      <actor>Ben Feldman</actor>
+      <actor>Nico Santos</actor>
+      <actor>Nichole Bloom</actor>
+      <actor>Christopher Riordan</actor>
+      <actor>Kaliko Kauahi</actor>
+      <actor>Colton Dunn</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Tristram Shapeero</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Josh Greene</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5869239.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201190500 -0600" stop="20260201193000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Fondo de salud</sub-title>
+    <desc lang="es">Una mirada a la vida de un grupo de empleados del supermercado Cloud 9 en St. Louis, Missouri, quienes deben enfrentar día a día a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento.(n)</desc>
+    <credits>
+      <actor>Ben Feldman</actor>
+      <actor>Nico Santos</actor>
+      <actor>Nichole Bloom</actor>
+      <actor>Christopher Riordan</actor>
+      <actor>Kaliko Kauahi</actor>
+      <actor>Colton Dunn</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Tristram Shapeero</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Josh Greene</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5869239.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201193000 -0600" stop="20260201195500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Víspera de Navidad</sub-title>
+    <desc lang="es">Una mirada a la vida de un grupo de empleados del supermercado Cloud 9 en St. Louis, Missouri, quienes deben enfrentar día a día a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento.(n)</desc>
+    <credits>
+      <actor>Ben Feldman</actor>
+      <actor>Nico Santos</actor>
+      <actor>Nichole Bloom</actor>
+      <actor>Christopher Riordan</actor>
+      <actor>Kaliko Kauahi</actor>
+      <actor>Colton Dunn</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Tristram Shapeero</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Josh Greene</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5869239.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201195500 -0600" stop="20260201202000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Video viral</sub-title>
+    <desc lang="es">Una mirada a la vida de un grupo de empleados del supermercado Cloud 9 en St. Louis, Missouri, quienes deben enfrentar día a día a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento.(n)</desc>
+    <credits>
+      <actor>Ben Feldman</actor>
+      <actor>Nico Santos</actor>
+      <actor>Nichole Bloom</actor>
+      <actor>Christopher Riordan</actor>
+      <actor>Kaliko Kauahi</actor>
+      <actor>Colton Dunn</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Tristram Shapeero</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Josh Greene</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5869239.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201202000 -0600" stop="20260201222000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Los cazanovias</title>
@@ -13706,153 +13979,696 @@ Repetición</title>
   </programme>
   <programme start="20260201222000 -0600" stop="20260201224500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Reunión y bienvenida</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201224500 -0600" stop="20260201231000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El fin del mundo</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201231000 -0600" stop="20260201233500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El tratado</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260201233500 -0600" stop="20260202000500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El parque más pequeño</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202000500 -0600" stop="20260202003000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El juicio de Leslie Knope</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202003000 -0600" stop="20260202005500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">La ciudadana Knope</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202005500 -0600" stop="20260202012000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El regreso del niño prodigio</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202012000 -0600" stop="20260202014500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Anuncio de campaña</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202014500 -0600" stop="20260202021000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Bolos por votos</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202021000 -0600" stop="20260202023500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Operación Ann</sub-title>
+    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aubrey Plaza</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Adam Scott</actor>
+      <actor>Retta</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Michael Schur</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1333273.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202023500 -0600" stop="20260202030000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Kevin puede esperar</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El anillo</sub-title>
+    <desc lang="es">Kevin es un policía retirado que anhela disfrutar de su tiempo libre viviendo de forma tranquila en su hogar, junto a su familia. Pronto descubrirá que en su casa los problemas son más complicados que los que enfrentaba cuando patrullaba.(n)</desc>
+    <credits>
+      <actor>Mary-Charles Jones</actor>
+      <actor>Leonard Earl Howze</actor>
+      <actor>Erinn Hayes</actor>
+      <actor>Lenny Venito</actor>
+      <actor>Gary Valentine</actor>
+      <actor>Justin McGriff</actor>
+      <actor>Taylor Spreitler</actor>
+      <actor>Gina Brillon</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Kevin James</actor>
+      <actor>Andy Fickman</actor>
+    </credits>
+    <date>2016</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5863607.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202030000 -0600" stop="20260202032500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Dr. Ken</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El maestro de los horarios</sub-title>
+    <desc lang="es">Kendrick Park es un médico brillante que trata de equilibrar su carrera con su vida familiar, que puede ser difícil en ambos frentes. Pero las cosas se mantienen en calma, especialmente cuando tienes una terapeuta como esposa.(n)</desc>
+    <credits>
+      <actor>Ken Jeong</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>Suzy Nakamura</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2343496.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202032500 -0600" stop="20260202035000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Dr. Ken</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Retrasados en Honolulu</sub-title>
+    <desc lang="es">Kendrick Park es un médico brillante que trata de equilibrar su carrera con su vida familiar, que puede ser difícil en ambos frentes. Pero las cosas se mantienen en calma, especialmente cuando tienes una terapeuta como esposa.(n)</desc>
+    <credits>
+      <actor>Ken Jeong</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>Suzy Nakamura</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2343496.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202035000 -0600" stop="20260202041500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Kevin puede esperar</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Duda asfixiante</sub-title>
+    <desc lang="es">Kevin es un policía retirado que anhela disfrutar de su tiempo libre viviendo de forma tranquila en su hogar, junto a su familia. Pronto descubrirá que en su casa los problemas son más complicados que los que enfrentaba cuando patrullaba.(n)</desc>
+    <credits>
+      <actor>Mary-Charles Jones</actor>
+      <actor>Leonard Earl Howze</actor>
+      <actor>Erinn Hayes</actor>
+      <actor>Lenny Venito</actor>
+      <actor>Gary Valentine</actor>
+      <actor>Justin McGriff</actor>
+      <actor>Taylor Spreitler</actor>
+      <actor>Gina Brillon</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Kevin James</actor>
+      <actor>Andy Fickman</actor>
+    </credits>
+    <date>2016</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5863607.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202041500 -0600" stop="20260202044500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Kevin puede esperar</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">La reculada</sub-title>
+    <desc lang="es">Kevin es un policía retirado que anhela disfrutar de su tiempo libre viviendo de forma tranquila en su hogar, junto a su familia. Pronto descubrirá que en su casa los problemas son más complicados que los que enfrentaba cuando patrullaba.(n)</desc>
+    <credits>
+      <actor>Mary-Charles Jones</actor>
+      <actor>Leonard Earl Howze</actor>
+      <actor>Erinn Hayes</actor>
+      <actor>Lenny Venito</actor>
+      <actor>Gary Valentine</actor>
+      <actor>Justin McGriff</actor>
+      <actor>Taylor Spreitler</actor>
+      <actor>Gina Brillon</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Kevin James</actor>
+      <actor>Andy Fickman</actor>
+    </credits>
+    <date>2016</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5863607.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202044500 -0600" stop="20260202051000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Chicos y chicas</sub-title>
+    <desc lang="es">Una parodia de la vida moderna en las oficinas estadounidenses que profundiza en el quehacer y las relaciones de los trabajadores de Dunder Mifflin, una empresa de suministro de papel en Scranton, Pensilvania.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Angela Kinsey</actor>
+      <actor>Phyllis Smith</actor>
+      <actor>Mindy Kaling</actor>
+      <actor>BJ Novak</actor>
+      <actor>Creed Bratton</actor>
+      <actor>John Krasinski</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Brian Baumgartner</actor>
+      <actor>Kate Flannery</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Paul Feig</actor>
+      <actor>Randall Einhorn</actor>
+      <actor>Ken Kwapis</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Jeffrey Blitz</actor>
+      <actor>Daniel Chun</actor>
+      <actor>Halsted Sullivan</actor>
+      <actor>Caroline Williams</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Lee Eisenberg</actor>
+      <actor>Gene Stupnitsky</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11046850.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202051000 -0600" stop="20260202053500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El día de San Valentín</sub-title>
+    <desc lang="es">Una parodia de la vida moderna en las oficinas estadounidenses que profundiza en el quehacer y las relaciones de los trabajadores de Dunder Mifflin, una empresa de suministro de papel en Scranton, Pensilvania.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Angela Kinsey</actor>
+      <actor>Phyllis Smith</actor>
+      <actor>Mindy Kaling</actor>
+      <actor>BJ Novak</actor>
+      <actor>Creed Bratton</actor>
+      <actor>John Krasinski</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Brian Baumgartner</actor>
+      <actor>Kate Flannery</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Paul Feig</actor>
+      <actor>Randall Einhorn</actor>
+      <actor>Ken Kwapis</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Jeffrey Blitz</actor>
+      <actor>Daniel Chun</actor>
+      <actor>Halsted Sullivan</actor>
+      <actor>Caroline Williams</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Lee Eisenberg</actor>
+      <actor>Gene Stupnitsky</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11046850.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202053500 -0600" stop="20260202060000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El discurso de Dwight</sub-title>
+    <desc lang="es">Una parodia de la vida moderna en las oficinas estadounidenses que profundiza en el quehacer y las relaciones de los trabajadores de Dunder Mifflin, una empresa de suministro de papel en Scranton, Pensilvania.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Angela Kinsey</actor>
+      <actor>Phyllis Smith</actor>
+      <actor>Mindy Kaling</actor>
+      <actor>BJ Novak</actor>
+      <actor>Creed Bratton</actor>
+      <actor>John Krasinski</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Brian Baumgartner</actor>
+      <actor>Kate Flannery</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Paul Feig</actor>
+      <actor>Randall Einhorn</actor>
+      <actor>Ken Kwapis</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Jeffrey Blitz</actor>
+      <actor>Daniel Chun</actor>
+      <actor>Halsted Sullivan</actor>
+      <actor>Caroline Williams</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Lee Eisenberg</actor>
+      <actor>Gene Stupnitsky</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11046850.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202060000 -0600" stop="20260202062500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El día de las hijas en la oficina</sub-title>
+    <desc lang="es">Una parodia de la vida moderna en las oficinas estadounidenses que profundiza en el quehacer y las relaciones de los trabajadores de Dunder Mifflin, una empresa de suministro de papel en Scranton, Pensilvania.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Angela Kinsey</actor>
+      <actor>Phyllis Smith</actor>
+      <actor>Mindy Kaling</actor>
+      <actor>BJ Novak</actor>
+      <actor>Creed Bratton</actor>
+      <actor>John Krasinski</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Brian Baumgartner</actor>
+      <actor>Kate Flannery</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Paul Feig</actor>
+      <actor>Randall Einhorn</actor>
+      <actor>Ken Kwapis</actor>
+      <actor>Greg Daniels</actor>
+      <actor>Jeffrey Blitz</actor>
+      <actor>Daniel Chun</actor>
+      <actor>Halsted Sullivan</actor>
+      <actor>Caroline Williams</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Lee Eisenberg</actor>
+      <actor>Gene Stupnitsky</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11046850.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202062500 -0600" stop="20260202065000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Víspera de Navidad</sub-title>
+    <desc lang="es">Una mirada a la vida de un grupo de empleados del supermercado Cloud 9 en St. Louis, Missouri, quienes deben enfrentar día a día a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento.(n)</desc>
+    <credits>
+      <actor>Ben Feldman</actor>
+      <actor>Nico Santos</actor>
+      <actor>Nichole Bloom</actor>
+      <actor>Christopher Riordan</actor>
+      <actor>Kaliko Kauahi</actor>
+      <actor>Colton Dunn</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Tristram Shapeero</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Josh Greene</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5869239.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202065000 -0600" stop="20260202071500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Video viral</sub-title>
+    <desc lang="es">Una mirada a la vida de un grupo de empleados del supermercado Cloud 9 en St. Louis, Missouri, quienes deben enfrentar día a día a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento.(n)</desc>
+    <credits>
+      <actor>Ben Feldman</actor>
+      <actor>Nico Santos</actor>
+      <actor>Nichole Bloom</actor>
+      <actor>Christopher Riordan</actor>
+      <actor>Kaliko Kauahi</actor>
+      <actor>Colton Dunn</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Tristram Shapeero</actor>
+      <actor>Justin Spitzer</actor>
+      <actor>Josh Greene</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5869239.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202071500 -0600" stop="20260202074000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Dr. Ken</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">El maestro de los horarios</sub-title>
+    <desc lang="es">Kendrick Park es un médico brillante que trata de equilibrar su carrera con su vida familiar, que puede ser difícil en ambos frentes. Pero las cosas se mantienen en calma, especialmente cuando tienes una terapeuta como esposa.(n)</desc>
+    <credits>
+      <actor>Ken Jeong</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>Suzy Nakamura</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2343496.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202074000 -0600" stop="20260202081000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Dr. Ken</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Retrasados en Honolulu</sub-title>
+    <desc lang="es">Kendrick Park es un médico brillante que trata de equilibrar su carrera con su vida familiar, que puede ser difícil en ambos frentes. Pero las cosas se mantienen en calma, especialmente cuando tienes una terapeuta como esposa.(n)</desc>
+    <credits>
+      <actor>Ken Jeong</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>Suzy Nakamura</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2343496.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202081000 -0600" stop="20260202083500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Aeropuerto Intrnacional de Dallas</sub-title>
+    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
+    <credits>
+      <actor>Terry Crews</actor>
+      <actor>Melissa Fumero</actor>
+      <actor>Joe Lo Truglio</actor>
+      <actor>Dirk Blocker</actor>
+      <actor>Joel McKinnon Miller</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Chelsea Peretti</actor>
+      <actor>Stephanie Beatriz</actor>
+      <actor>Dan Goor</actor>
+      <actor>Michael Schur</actor>
+      <actor>Matt Nodella</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9297577.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202083500 -0600" stop="20260202090000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Gray Star Mutual</sub-title>
+    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
+    <credits>
+      <actor>Terry Crews</actor>
+      <actor>Melissa Fumero</actor>
+      <actor>Joe Lo Truglio</actor>
+      <actor>Dirk Blocker</actor>
+      <actor>Joel McKinnon Miller</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Chelsea Peretti</actor>
+      <actor>Stephanie Beatriz</actor>
+      <actor>Dan Goor</actor>
+      <actor>Michael Schur</actor>
+      <actor>Matt Nodella</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9297577.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202090000 -0600" stop="20260202092500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Despedida de soltero/a</sub-title>
+    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
+    <credits>
+      <actor>Terry Crews</actor>
+      <actor>Melissa Fumero</actor>
+      <actor>Joe Lo Truglio</actor>
+      <actor>Dirk Blocker</actor>
+      <actor>Joel McKinnon Miller</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Chelsea Peretti</actor>
+      <actor>Stephanie Beatriz</actor>
+      <actor>Dan Goor</actor>
+      <actor>Michael Schur</actor>
+      <actor>Matt Nodella</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9297577.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202092500 -0600" stop="20260202095000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Me movilizo sola</sub-title>
+    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
+    <credits>
+      <actor>Terry Crews</actor>
+      <actor>Melissa Fumero</actor>
+      <actor>Joe Lo Truglio</actor>
+      <actor>Dirk Blocker</actor>
+      <actor>Joel McKinnon Miller</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Chelsea Peretti</actor>
+      <actor>Stephanie Beatriz</actor>
+      <actor>Dan Goor</actor>
+      <actor>Michael Schur</actor>
+      <actor>Matt Nodella</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9297577.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202095000 -0600" stop="20260202101500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">La ballena blanca</sub-title>
+    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
+    <credits>
+      <actor>Terry Crews</actor>
+      <actor>Melissa Fumero</actor>
+      <actor>Joe Lo Truglio</actor>
+      <actor>Dirk Blocker</actor>
+      <actor>Joel McKinnon Miller</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Chelsea Peretti</actor>
+      <actor>Stephanie Beatriz</actor>
+      <actor>Dan Goor</actor>
+      <actor>Michael Schur</actor>
+      <actor>Matt Nodella</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9297577.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202101500 -0600" stop="20260202104000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Kevin puede esperar</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Duda asfixiante</sub-title>
+    <desc lang="es">Kevin es un policía retirado que anhela disfrutar de su tiempo libre viviendo de forma tranquila en su hogar, junto a su familia. Pronto descubrirá que en su casa los problemas son más complicados que los que enfrentaba cuando patrullaba.(n)</desc>
+    <credits>
+      <actor>Mary-Charles Jones</actor>
+      <actor>Leonard Earl Howze</actor>
+      <actor>Erinn Hayes</actor>
+      <actor>Lenny Venito</actor>
+      <actor>Gary Valentine</actor>
+      <actor>Justin McGriff</actor>
+      <actor>Taylor Spreitler</actor>
+      <actor>Gina Brillon</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Kevin James</actor>
+      <actor>Andy Fickman</actor>
+    </credits>
+    <date>2016</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5863607.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202104000 -0600" stop="20260202111000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Kevin puede esperar</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">La reculada</sub-title>
+    <desc lang="es">Kevin es un policía retirado que anhela disfrutar de su tiempo libre viviendo de forma tranquila en su hogar, junto a su familia. Pronto descubrirá que en su casa los problemas son más complicados que los que enfrentaba cuando patrullaba.(n)</desc>
+    <credits>
+      <actor>Mary-Charles Jones</actor>
+      <actor>Leonard Earl Howze</actor>
+      <actor>Erinn Hayes</actor>
+      <actor>Lenny Venito</actor>
+      <actor>Gary Valentine</actor>
+      <actor>Justin McGriff</actor>
+      <actor>Taylor Spreitler</actor>
+      <actor>Gina Brillon</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Kevin James</actor>
+      <actor>Andy Fickman</actor>
+    </credits>
+    <date>2016</date>
     <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5863607.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260202111000 -0600" stop="20260202115500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Monk</title>
@@ -18729,31 +19545,6 @@ Repetición</title>
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20260201130000 +0100" stop="20260201133000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20260201133000 +0100" stop="20260201134500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260201134500 +0100" stop="20260201140000 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260201140000 +0100" stop="20260201144500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">NFL Extra</title>
-    <desc lang="fr">NFL Extra (NFL Extra) en différé aujourd'hui à 17h00.(n)</desc>
-    <category lang="fr">Football américain</category>
-  </programme>
-  <programme start="20260201144500 +0100" stop="20260201164500 +0100" channel="beIN SPORTS 1">
-    <title lang="fr">Handball Euro masculin 2026</title>
-    <desc lang="fr">Handball Euro masculin 2026 (Handball Euro masculin 2026) en direct aujourd'hui à 15h15.(n)</desc>
-    <category lang="fr">Handball</category>
-  </programme>
   <programme start="20260201164500 +0100" stop="20260201171500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Salon VIP</title>
     <desc lang="fr">Salon VIP (Salon VIP) en différé aujourd'hui à 19h45.(n)</desc>
@@ -18761,7 +19552,7 @@ Repetición</title>
   </programme>
   <programme start="20260201171500 +0100" stop="20260201173000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260201173000 +0100" stop="20260201180000 +0100" channel="beIN SPORTS 1">
@@ -18781,7 +19572,7 @@ Repetición</title>
   </programme>
   <programme start="20260201201500 +0100" stop="20260201204500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 20h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260201204500 +0100" stop="20260201210000 +0100" channel="beIN SPORTS 1">
@@ -18806,7 +19597,7 @@ Repetición</title>
   </programme>
   <programme start="20260202004500 +0100" stop="20260202010000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260202010000 +0100" stop="20260202030000 +0100" channel="beIN SPORTS 1">
@@ -18823,12 +19614,12 @@ Repetición</title>
   </programme>
   <programme start="20260202050000 +0100" stop="20260202053000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 20h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260202053000 +0100" stop="20260202054500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260202054500 +0100" stop="20260202074500 +0100" channel="beIN SPORTS 1">
@@ -18872,7 +19663,7 @@ Repetición</title>
   </programme>
   <programme start="20260202153000 +0100" stop="20260202154500 +0100" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260202154500 +0100" stop="20260202163000 +0100" channel="beIN SPORTS 1">
@@ -18892,7 +19683,7 @@ Repetición</title>
   </programme>
   <programme start="20260202173000 +0100" stop="20260202180000 +0100" channel="beIN SPORTS 1">
     <title lang="fr">This is Paris</title>
-    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 16h00.(n)</desc>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 20h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260202180000 +0100" stop="20260202200000 +0100" channel="beIN SPORTS 1">
@@ -18906,66 +19697,62 @@ Repetición</title>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
-  <programme start="20260201130000 +0100" stop="20260201131500 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260201131500 +0100" stop="20260201151500 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Betis Séville / Valence</title>
-    <desc lang="fr">Betis Séville / Valence (Betis Séville / Valence - Football Liga 2025-2026) en direct aujourd'hui à 16h15.(n)</desc>
-    <category lang="fr">Foot</category>
-  </programme>
-  <programme start="20260201151500 +0100" stop="20260201153000 +0100" channel="beIN SPORTS 2">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
   <programme start="20260201153000 +0100" stop="20260201173000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Getafe / Celta Vigo</title>
+    <desc lang="fr">Getafe / Celta Vigo (Getafe / Celta Vigo - Football Liga 2025-2026) en direct aujourd'hui à 18h30.(n)</desc>
     <category lang="fr">Foot</category>
   </programme>
   <programme start="20260201173000 +0100" stop="20260201180000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">This is Paris</title>
+    <desc lang="fr">This is Paris (This is Paris) en différé aujourd'hui à 20h30.(n)</desc>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20260201180000 +0100" stop="20260201181500 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260201181500 +0100" stop="20260201183000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260201183000 +0100" stop="20260201203000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Tondela / Benfica Lisbonne</title>
+    <desc lang="fr">Tondela / Benfica Lisbonne (Tondela / Benfica Lisbonne - Football Championnat du Portugal 2025-2026) en direct aujourd'hui à 21h30.(n)</desc>
     <category lang="fr">Foot</category>
   </programme>
   <programme start="20260201203000 +0100" stop="20260201223000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Saint-Etienne / Boulogne-sur-Mer</title>
+    <desc lang="fr">Saint-Etienne / Boulogne-sur-Mer (Saint-Etienne / Boulogne-sur-Mer - Football Ligue 2 BKT 2025-2026) en différé aujourd'hui à 23h30.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260201223000 +0100" stop="20260202003000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Elche / FC Barcelone</title>
+    <desc lang="fr">Elche / FC Barcelone (Elche / FC Barcelone - Football Liga 2025-2026) en différé lundi 2 février à 01h30.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260202003000 +0100" stop="20260202004500 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260202004500 +0100" stop="20260202010000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 20h15.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260202010000 +0100" stop="20260202030000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Levante / Atlético Madrid</title>
+    <desc lang="fr">Levante / Atlético Madrid (Levante / Atlético Madrid - Football Liga 2025-2026) en différé lundi 2 février à 04h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260202030000 +0100" stop="20260202050000 +0100" channel="beIN SPORTS 2">
     <title lang="fr">Tondela / Benfica Lisbonne</title>
+    <desc lang="fr">Tondela / Benfica Lisbonne (Tondela / Benfica Lisbonne - Football Championnat du Portugal 2025-2026) en direct aujourd'hui à 21h30.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
