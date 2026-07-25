@@ -897,12 +897,12 @@
   </channel>
   <channel id="RMC Sport 3">
     <display-name lang="fr">RMC Sport 3</display-name>
-    <icon src="https://cdn.tv-sports.fr/photos/chaines/svg/210.svg" />
+    <icon src="https://cdn.tv-sports.fr/photos/chaines/svg/209.svg" />
     <url>http://www.tv-sports.fr</url>
   </channel>
   <channel id="RMC Sport 4">
     <display-name lang="fr">RMC Sport 4</display-name>
-    <icon src="https://cdn.tv-sports.fr/photos/chaines/svg/210.svg" />
+    <icon src="https://cdn.tv-sports.fr/photos/chaines/svg/209.svg" />
     <url>http://www.tv-sports.fr</url>
   </channel>
   <channel id="BoxNation.uk">
@@ -13454,21 +13454,8 @@
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260725200000 -0400" stop="20260725210000 -0400" channel="BOLIVISION">
-    <title lang="es">Hombres de Paco</title>
-    <desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.(n)</desc>
-    <credits>
-      <actor>Hugo Silva</actor>
-      <actor>Paco Tous</actor>
-      <actor>Pepón Nieto</actor>
-      <actor>Federico Celada</actor>
-      <actor>Neus Sanz</actor>
-      <actor>Marián Aguilera</actor>
-    </credits>
-    <date>2005</date>
+    <title lang="es">Hombres de Paco (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16277624.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260725210000 -0400" stop="20260725223000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
@@ -13872,21 +13859,8 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/15715131.jpg" />
   </programme>
   <programme start="20260725030000 -0400" stop="20260725035500 -0400" channel="RED UNO">
-    <title lang="es">El Chapulín Colorado</title>
-    <desc lang="es">Sigue las aventuras de este héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón.(n)</desc>
-    <credits>
-      <actor>Roberto Gómez Bolaños</actor>
-      <actor>Florinda Meza</actor>
-      <actor>María Antonieta de las Nieves</actor>
-      <actor>Ramón Valdés</actor>
-      <actor>Carlos Villagrán</actor>
-      <actor>Rubén Aguirre</actor>
-    </credits>
-    <date>1973</date>
+    <title lang="es">El Chapulín Colorado (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822850.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260725035500 -0400" stop="20260725045000 -0400" channel="RED UNO">
     <title lang="es">El Chavo del 8</title>
@@ -56578,26 +56552,8 @@
   </programme>
   <programme start="20260725023500 -0500" stop="20260725030000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <sub-title lang="es">La auditoría</sub-title>
-    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
-    <credits>
-      <actor>Terry Crews</actor>
-      <actor>Melissa Fumero</actor>
-      <actor>Joe Lo Truglio</actor>
-      <actor>Dirk Blocker</actor>
-      <actor>Joel McKinnon Miller</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Andre Braugher</actor>
-      <actor>Chelsea Peretti</actor>
-      <actor>Stephanie Beatriz</actor>
-      <actor>Dan Goor</actor>
-      <actor>Michael Schur</actor>
-      <actor>Matt Nodella</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4125186.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260725030000 -0500" stop="20260725035000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Monk</title>
@@ -56677,26 +56633,8 @@
   </programme>
   <programme start="20260725062000 -0500" stop="20260725064500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <sub-title lang="es">Ava</sub-title>
-    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
-    <credits>
-      <actor>Terry Crews</actor>
-      <actor>Melissa Fumero</actor>
-      <actor>Joe Lo Truglio</actor>
-      <actor>Dirk Blocker</actor>
-      <actor>Joel McKinnon Miller</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Andre Braugher</actor>
-      <actor>Chelsea Peretti</actor>
-      <actor>Stephanie Beatriz</actor>
-      <actor>Dan Goor</actor>
-      <actor>Michael Schur</actor>
-      <actor>Matt Nodella</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4125186.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260725064500 -0500" stop="20260725071000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
@@ -57524,26 +57462,8 @@
   </programme>
   <programme start="20260726065000 -0500" stop="20260726071500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <sub-title lang="es">Segundo Chunce</sub-title>
-    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
-    <credits>
-      <actor>Amy Poehler</actor>
-      <actor>Nick Offerman</actor>
-      <actor>Aubrey Plaza</actor>
-      <actor>Chris Pratt</actor>
-      <actor>Aziz Ansari</actor>
-      <actor>Jim O'Heir</actor>
-      <actor>Rashida Jones</actor>
-      <actor>Adam Scott</actor>
-      <actor>Retta</actor>
-      <actor>Rob Lowe</actor>
-      <actor>Greg Daniels</actor>
-      <actor>Michael Schur</actor>
-    </credits>
-    <date>2009</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992187323.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260726071500 -0500" stop="20260726074000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
@@ -63451,30 +63371,8 @@
   </programme>
   <programme start="20260727234000 -0500" stop="20260728003000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Boston Blue</title>
-    <sub-title lang="es">Cosas hermosas y rotas</sub-title>
-    <desc lang="es">Danny Reagan se une a la policía de Boston procedente de la policía de Nueva York. Allí, se asocia con la detective Lena Peters, la hija mayor de una notable familia policial de Boston.(n)</desc>
-    <credits>
-      <actor>Donnie Wahlberg</actor>
-      <actor>Maggie Lawson</actor>
-      <actor>Ernie Hudson</actor>
-      <actor>Gloria Reuben</actor>
-      <actor>Mika Amonsen</actor>
-      <actor>Marcus Scribner</actor>
-      <actor>Bridget Moynahan</actor>
-      <actor>Sonequa Martin-Green</actor>
-      <actor>Lizzy Kircher</actor>
-      <actor>Matia Jackett</actor>
-      <actor>Anthony Hemingway</actor>
-      <actor>Randy Zisk</actor>
-      <actor>Dantonio Alvarez</actor>
-      <actor>Brandon Margolis</actor>
-      <actor>Brandon Sonnier</actor>
-      <actor>Dave Metzger</actor>
-    </credits>
-    <date>2025</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1948992555.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260725012300 -0500" stop="20260725022500 -0500" channel="Canal HBO Latino Este">
     <title lang="es">Euphoria: A Look Back</title>
@@ -68100,11 +67998,6 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20260725110000 +0200" stop="20260725170000 +0200" channel="beIN SPORTS 1">
-    <title lang="fr">Tennis Tournoi WTA de Hambourg 2026</title>
-    <desc lang="fr">Tennis Tournoi WTA de Hambourg 2026 (Tennis Tournoi WTA de Hambourg 2026) en direct aujourd'hui à 14h00.(n)</desc>
-    <category lang="fr">Tennis</category>
-  </programme>
   <programme start="20260725170000 +0200" stop="20260725190000 +0200" channel="beIN SPORTS 1">
     <title lang="fr">Lens / Nice</title>
     <desc lang="fr">Lens / Nice #RCLOGCN (Lens / Nice - Football Coupe de France 2025-2026) en différé aujourd'hui à 20h00.(n)</desc>
@@ -68170,7 +68063,7 @@
   </programme>
   <programme start="20260726110000 +0200" stop="20260726140000 +0200" channel="beIN SPORTS 1">
     <title lang="fr">Tennis Tournoi WTA de Hambourg 2026</title>
-    <desc lang="fr">Tennis Tournoi WTA de Hambourg 2026 (Tennis Tournoi WTA de Hambourg 2026) en direct aujourd'hui à 14h00.(n)</desc>
+    <desc lang="fr">Tennis Tournoi WTA de Hambourg 2026 (Tennis Tournoi WTA de Hambourg 2026) en direct dimanche 26 juillet à 14h00.(n)</desc>
     <category lang="fr">Tennis</category>
   </programme>
   <programme start="20260726140000 +0200" stop="20260726163000 +0200" channel="beIN SPORTS 1">
@@ -68189,12 +68082,6 @@
     <title lang="fr">Wimbledon</title>
     <desc lang="fr">Wimbledon Finale dames . Karolina Muchova / Linda Noskova (Wimbledon - Tennis WTA Tour 2026) en différé dimanche 26 juillet à 08h30.(n)</desc>
     <category lang="fr">Tennis</category>
-    <previously-shown />
-  </programme>
-  <programme start="20260725130000 +0200" stop="20260725150000 +0200" channel="beIN SPORTS 2">
-    <title lang="fr">Espagne / Belgique</title>
-    <desc lang="fr">Espagne / Belgique (Espagne / Belgique - Football Coupe du monde 2026) en différé aujourd'hui à 16h00.(n)</desc>
-    <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260725150000 +0200" stop="20260725173000 +0200" channel="beIN SPORTS 2">
@@ -68293,11 +68180,6 @@
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
-  <programme start="20260725103000 +0200" stop="20260725163000 +0200" channel="beIN SPORTS 3">
-    <title lang="fr">Tennis Tournoi WTA de Prague 2026</title>
-    <desc lang="fr">Tennis Tournoi WTA de Prague 2026 (Tennis Tournoi WTA de Prague 2026) en direct aujourd'hui à 13h30.(n)</desc>
-    <category lang="fr">Tennis</category>
-  </programme>
   <programme start="20260725163000 +0200" stop="20260725171500 +0200" channel="beIN SPORTS 3">
     <title lang="fr">Handball Tournoi de Lacanau 2026</title>
     <desc lang="fr">Handball Tournoi de Lacanau 2026 (Handball Tournoi de Lacanau 2026) en différé aujourd'hui à 19h30.(n)</desc>
@@ -68367,7 +68249,7 @@
   </programme>
   <programme start="20260726110000 +0200" stop="20260726140000 +0200" channel="beIN SPORTS 3">
     <title lang="fr">Tennis Tournoi WTA de Prague 2026</title>
-    <desc lang="fr">Tennis Tournoi WTA de Prague 2026 (Tennis Tournoi WTA de Prague 2026) en direct aujourd'hui à 13h30.(n)</desc>
+    <desc lang="fr">Tennis Tournoi WTA de Prague 2026 (Tennis Tournoi WTA de Prague 2026) en direct dimanche 26 juillet à 14h00.(n)</desc>
     <category lang="fr">Tennis</category>
   </programme>
   <programme start="20260726140000 +0200" stop="20260726160000 +0200" channel="beIN SPORTS 3">
@@ -68388,11 +68270,6 @@
     <category lang="fr">Base-ball</category>
     <previously-shown />
   </programme>
-  <programme start="20260725130000 +0200" stop="20260725160000 +0200" channel="beIN SPORTS MAX 4">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
   <programme start="20260725160000 +0200" stop="20260725190000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">Detroit Tigers / Kansas City Royals</title>
     <desc lang="fr">Detroit Tigers / Kansas City Royals (Detroit Tigers / Kansas City Royals - Baseball MLB 2026) en direct aujourd'hui à 19h00.(n)</desc>
@@ -68400,12 +68277,12 @@
   </programme>
   <programme start="20260725190000 +0200" stop="20260725220000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725220000 +0200" stop="20260725233000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725233000 +0200" stop="20260726013000 +0200" channel="beIN SPORTS MAX 4">
@@ -68415,7 +68292,7 @@
   </programme>
   <programme start="20260726013000 +0200" stop="20260726050200 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726050200 +0200" stop="20260726070500 +0200" channel="beIN SPORTS MAX 4">
@@ -68425,292 +68302,257 @@
   </programme>
   <programme start="20260726070500 +0200" stop="20260726100000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726100000 +0200" stop="20260726140000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726140000 +0200" stop="20260726180000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726180000 +0200" stop="20260726220000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260725100000 +0200" stop="20260725150000 +0200" channel="beIN SPORTS MAX 5">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725150000 +0200" stop="20260725190000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725190000 +0200" stop="20260725220000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725220000 +0200" stop="20260726020000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726020000 +0200" stop="20260726060000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726060000 +0200" stop="20260726100000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726100000 +0200" stop="20260726143000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726143000 +0200" stop="20260726173000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726173000 +0200" stop="20260726222500 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260725100000 +0200" stop="20260725150000 +0200" channel="beIN SPORTS MAX 6">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725150000 +0200" stop="20260725190000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725190000 +0200" stop="20260725220000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725220000 +0200" stop="20260726020000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726020000 +0200" stop="20260726060000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726060000 +0200" stop="20260726100000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726100000 +0200" stop="20260726143000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726143000 +0200" stop="20260726173000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726173000 +0200" stop="20260726222500 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260725100000 +0200" stop="20260725140000 +0200" channel="beIN SPORTS MAX 7">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725140000 +0200" stop="20260725180000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725180000 +0200" stop="20260725220000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725220000 +0200" stop="20260726020000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726020000 +0200" stop="20260726060000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726060000 +0200" stop="20260726100000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726100000 +0200" stop="20260726140000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726140000 +0200" stop="20260726180000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726180000 +0200" stop="20260726220000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260725100000 +0200" stop="20260725140000 +0200" channel="beIN SPORTS MAX 8">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725140000 +0200" stop="20260725180000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725180000 +0200" stop="20260725220000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725220000 +0200" stop="20260726020000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726020000 +0200" stop="20260726060000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726060000 +0200" stop="20260726100000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726100000 +0200" stop="20260726140000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726140000 +0200" stop="20260726180000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726180000 +0200" stop="20260726220000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260725100000 +0200" stop="20260725140000 +0200" channel="beIN SPORTS MAX 9">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260725140000 +0200" stop="20260725163000 +0200" channel="beIN SPORTS MAX 9">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725163000 +0200" stop="20260725220000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725220000 +0200" stop="20260726020000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726020000 +0200" stop="20260726060000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726060000 +0200" stop="20260726100000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726100000 +0200" stop="20260726140000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726140000 +0200" stop="20260726163000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726163000 +0200" stop="20260726220000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260725123000 +0200" stop="20260725150000 +0200" channel="beIN SPORTS MAX 10">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725150000 +0200" stop="20260725190000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725190000 +0200" stop="20260725220000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725220000 +0200" stop="20260726020000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726020000 +0200" stop="20260726060000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726060000 +0200" stop="20260726100000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726100000 +0200" stop="20260726140000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726140000 +0200" stop="20260726173000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260726173000 +0200" stop="20260726220000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260725020500 -0500" stop="20260725053500 -0500" channel="AdrenalinaSportsNetwork.us">
@@ -68773,12 +68615,6 @@ Repetición</title>
   </programme>
   <programme start="20260726230000 -0500" stop="20260727010000 -0500" channel="AdrenalinaSportsNetwork.us">
     <title lang="es">Corrida de Toros</title>
-  </programme>
-  <programme start="20260725131500 +0200" stop="20260725161500 +0200" channel="RMC Sport 1">
-    <title lang="fr">Kick-boxing ONE Friday Fights 2026</title>
-    <desc lang="fr">Kick-boxing ONE Friday Fights 2026 (Kick-boxing ONE Friday Fights 2026) en direct vendredi 31 juillet à 15h30.(n)</desc>
-    <category lang="fr">Kick-boxing</category>
-    <previously-shown />
   </programme>
   <programme start="20260725161500 +0200" stop="20260725173000 +0200" channel="RMC Sport 1">
     <title lang="fr">Baba Versus</title>
@@ -76240,11 +76076,6 @@ Repetición</title>
     <rating>
       <value>Todas las edades</value>
     </rating>
-  </programme>
-  <programme start="20260725092000 -0300" stop="20260725115000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
   </programme>
   <programme start="20260725115000 -0300" stop="20260725155000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
@@ -84602,14 +84433,6 @@ Repetición</title>
   <programme start="20260726213000 -0400" stop="20260726230000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">SailGP: Portsmouth Day 2</title>
     <desc lang="en">Top-performing athletes from all over the globe showcase their skills as they compete in the SailGP to win the coveted title.(n)</desc>
-  </programme>
-  <programme start="20260725040000 -0400" stop="20260725060000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Hardwood Classics: 1990: Milwaukee Bucks at Utah Jazz</title>
-    <desc lang="en">Karl Malone scores 61. From Jan. 27, 1990.(n)</desc>
-  </programme>
-  <programme start="20260725060000 -0400" stop="20260725080000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">NBA Playback: 2026: Charlotte Hornets at Dallas Mavericks</title>
-    <desc lang="en">Kon vs. Cooper battle. From Jan. 29, 2026.(n)</desc>
   </programme>
   <programme start="20260725080000 -0400" stop="20260725100000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">NBA Playback: 2025: Philadelphia 76ers at Boston Celtics</title>
@@ -133155,30 +132978,6 @@ Repetición</title>
     <category lang="es">Talk Show</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/21000043.png" />
   </programme>
-  <programme start="20260725050000 -0400" stop="20260725053000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260725053000 -0400" stop="20260725060000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Focus on Africa: The Conversation</title>
-    <desc lang="en">This week, Focus on Africa: The Conversation explores a shift in Africa's migration story, as diaspora Africans raised in the West return home, sharing personal experiences and perspectives.(n)</desc>
-  </programme>
-  <programme start="20260725060000 -0400" stop="20260725063000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260725063000 -0400" stop="20260725070000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">China's Greatest Treasures: The Yellow River</title>
-    <desc lang="en">Alastair explores the Yellow River, to understand how this unique natural phenomenon is deeply connected with the identity of the Chinese and the roots of their culture.(n)</desc>
-  </programme>
-  <programme start="20260725070000 -0400" stop="20260725073000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260725073000 -0400" stop="20260725080000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Global Eye</title>
-    <desc lang="en">In the aftermath of a political earthquake in Hungary, Stephanie Hegarty explores whether the downfall of Viktor Orbán could be a warning sign for populist leaders everywhere.(n)</desc>
-  </programme>
   <programme start="20260725080000 -0400" stop="20260725083000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -133438,10 +133237,6 @@ Repetición</title>
   <programme start="20260726214500 -0400" stop="20260726220000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC Sport</title>
     <desc lang="en">Coverage, commentary highlights and more from the world's biggest sporting events.(n)</desc>
-  </programme>
-  <programme start="20260725040000 -0400" stop="20260725080000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Fox &amp; Friends Weekend</title>
-    <desc lang="en">FOX &amp; Friends Weekend, hosted by Rachel Campos-Duffy and Charlie Hurt, highlights the latest in news, entertainment, politics, and sports.(n)</desc>
   </programme>
   <programme start="20260725080000 -0400" stop="20260725100000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">Saturday in America</title>
@@ -159972,37 +159767,25 @@ En Vivo</title>
     </rating>
   </programme>
   <programme start="20260725210000 -0400" stop="20260725212500 -0400" channel="DKiss.es">
-    <title lang="es">¿Solo en casa?</title>
+    <title lang="es">¿Solo en casa? (?)</title>
     <sub-title lang="es">El hombre que robó las Navidades</sub-title>
     <desc lang="es">Los Daniel vuelven a casa y la encuentran patas arriba. Una vez que se han recuperado del susto, un golpe en la puerta unos días después de Navidad cambiará sus vidas para siempre.(n)</desc>
-    <date>2018</date>
     <category lang="es">Sucesos</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e0/564192.png" />
-    <rating>
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20260725212500 -0400" stop="20260725223000 -0400" channel="DKiss.es">
-    <title lang="es">¿Solo en casa?</title>
+    <title lang="es">¿Solo en casa? (?)</title>
     <sub-title lang="es">Una madre y un loco</sub-title>
     <desc lang="es">Cuando Haley McHam decide dejar a su abusiva pareja y se dirige a la casa de su madre, nadie podría haber previsto los trágicos hechos que se produjeron a continuación.(n)</desc>
-    <date>2018</date>
     <category lang="es">Sucesos</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e0/564192.png" />
-    <rating>
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20260725223000 -0400" stop="20260725230000 -0400" channel="DKiss.es">
-    <title lang="es">¿Solo en casa?</title>
+    <title lang="es">¿Solo en casa? (?)</title>
     <sub-title lang="es">Primer amor</sub-title>
     <desc lang="es">Sophia está ilusionada por comenzar su último año de escuela secundaria tras haber cortado con su novio abusivo. Incapaz de aceptar el rechazo, él entra por la fuerza en su casa.(n)</desc>
-    <date>2018</date>
     <category lang="es">Sucesos</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e0/564192.png" />
-    <rating>
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20260725230000 -0400" stop="20260725234500 -0400" channel="DKiss.es">
     <title lang="es">Maestros de la restauración</title>
@@ -160612,32 +160395,11 @@ En Vivo</title>
     </rating>
   </programme>
   <programme start="20260725094900 -0400" stop="20260725113300 -0400" channel="FactoriadeFiccion.es">
-    <title lang="es">El pueblo</title>
+    <title lang="es">El pueblo (?)</title>
     <desc lang="es">Salvador intenta sobornar a Cándido para que acepte la anexión de Peñafría. Juanjo planea destruir el amor entre Ovejas y Habiba para que Mariajo tenga vía libre. Nacho, acojonado por la reacción de los porronchos, inventa una historia truculenta.(n)</desc>
-    <credits>
-      <actor>Carlos Areces</actor>
-      <actor>Santi Millán</actor>
-      <actor>Ingrid Rubio</actor>
-      <actor>Norma Ruiz</actor>
-      <actor>María Hervás</actor>
-      <actor>Elisa Drabben</actor>
-      <actor>Empar Ferrer</actor>
-      <actor>Alberto Caballero</actor>
-      <actor>Julián Sastre</actor>
-      <actor>Laura Caballero</actor>
-      <actor>Nando Abad</actor>
-      <writer>Alberto Caballero</writer>
-      <writer>Julián Sastre</writer>
-      <writer>Laura Caballero</writer>
-      <writer>Nando Abad</writer>
-    </credits>
-    <date>2021</date>
     <category lang="es">Comedias</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/25/885285.png" />
     <episode-num system="onscreen">E7</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20260725113300 -0400" stop="20260725130900 -0400" channel="FactoriadeFiccion.es">
     <title lang="es">La que se avecina</title>
@@ -161184,32 +160946,11 @@ En Vivo</title>
     </rating>
   </programme>
   <programme start="20260726095400 -0400" stop="20260726113100 -0400" channel="FactoriadeFiccion.es">
-    <title lang="es">El pueblo</title>
+    <title lang="es">El pueblo (?)</title>
     <desc lang="es">La próxima paternidad de Ovejas le obliga a aceptar el casamiento con Mariajo a pesar de su amor por Habiba. María, harta de los hombres de su vida, decide mandarlos a todos a hacer puñetas.(n)</desc>
-    <credits>
-      <actor>Carlos Areces</actor>
-      <actor>Santi Millán</actor>
-      <actor>Ingrid Rubio</actor>
-      <actor>Norma Ruiz</actor>
-      <actor>María Hervás</actor>
-      <actor>Elisa Drabben</actor>
-      <actor>Empar Ferrer</actor>
-      <actor>Alberto Caballero</actor>
-      <actor>Julián Sastre</actor>
-      <actor>Laura Caballero</actor>
-      <actor>Nando Abad</actor>
-      <writer>Alberto Caballero</writer>
-      <writer>Julián Sastre</writer>
-      <writer>Laura Caballero</writer>
-      <writer>Nando Abad</writer>
-    </credits>
-    <date>2021</date>
     <category lang="es">Comedias</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/25/885285.png" />
     <episode-num system="onscreen">E8</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20260726113100 -0400" stop="20260726131800 -0400" channel="FactoriadeFiccion.es">
     <title lang="es">La que se avecina</title>
@@ -161585,32 +161326,11 @@ En Vivo</title>
     </rating>
   </programme>
   <programme start="20260725094900 -0400" stop="20260725113300 -0400" channel="FDF Telecinco">
-    <title lang="es">El pueblo</title>
+    <title lang="es">El pueblo (?)</title>
     <desc lang="es">Salvador intenta sobornar a Cándido para que acepte la anexión de Peñafría. Juanjo planea destruir el amor entre Ovejas y Habiba para que Mariajo tenga vía libre. Nacho, acojonado por la reacción de los porronchos, inventa una historia truculenta.(n)</desc>
-    <credits>
-      <actor>Carlos Areces</actor>
-      <actor>Santi Millán</actor>
-      <actor>Ingrid Rubio</actor>
-      <actor>Norma Ruiz</actor>
-      <actor>María Hervás</actor>
-      <actor>Elisa Drabben</actor>
-      <actor>Empar Ferrer</actor>
-      <actor>Alberto Caballero</actor>
-      <actor>Julián Sastre</actor>
-      <actor>Laura Caballero</actor>
-      <actor>Nando Abad</actor>
-      <writer>Alberto Caballero</writer>
-      <writer>Julián Sastre</writer>
-      <writer>Laura Caballero</writer>
-      <writer>Nando Abad</writer>
-    </credits>
-    <date>2021</date>
     <category lang="es">Comedias</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/25/885285.png" />
     <episode-num system="onscreen">E7</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20260725113300 -0400" stop="20260725130900 -0400" channel="FDF Telecinco">
     <title lang="es">La que se avecina</title>
@@ -162157,32 +161877,11 @@ En Vivo</title>
     </rating>
   </programme>
   <programme start="20260726095400 -0400" stop="20260726113100 -0400" channel="FDF Telecinco">
-    <title lang="es">El pueblo</title>
+    <title lang="es">El pueblo (?)</title>
     <desc lang="es">La próxima paternidad de Ovejas le obliga a aceptar el casamiento con Mariajo a pesar de su amor por Habiba. María, harta de los hombres de su vida, decide mandarlos a todos a hacer puñetas.(n)</desc>
-    <credits>
-      <actor>Carlos Areces</actor>
-      <actor>Santi Millán</actor>
-      <actor>Ingrid Rubio</actor>
-      <actor>Norma Ruiz</actor>
-      <actor>María Hervás</actor>
-      <actor>Elisa Drabben</actor>
-      <actor>Empar Ferrer</actor>
-      <actor>Alberto Caballero</actor>
-      <actor>Julián Sastre</actor>
-      <actor>Laura Caballero</actor>
-      <actor>Nando Abad</actor>
-      <writer>Alberto Caballero</writer>
-      <writer>Julián Sastre</writer>
-      <writer>Laura Caballero</writer>
-      <writer>Nando Abad</writer>
-    </credits>
-    <date>2021</date>
     <category lang="es">Comedias</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/25/885285.png" />
     <episode-num system="onscreen">E8</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20260726113100 -0400" stop="20260726131800 -0400" channel="FDF Telecinco">
     <title lang="es">La que se avecina</title>
