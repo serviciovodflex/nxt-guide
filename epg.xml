@@ -250,7 +250,6 @@
   </channel>
   <channel id="UNITEL SANTA CRUZ">
     <display-name lang="es">Unitel Santa Cruz</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/13041556.jpg" />
     <url>http://www.intersatelital.com.bo</url>
   </channel>
   <channel id="UNITEL">
@@ -12560,413 +12559,6 @@ Repetición</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260809214500 -0400" stop="20260810030000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Pare de sufrir</title>
-    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2416632.jpg" />
-    <country lang="es">Brasil</country>
-  </programme>
-  <programme start="20260810030000 -0400" stop="20260810060000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La revista</title>
-    <desc lang="es">Infórmese con nuestro resumen de noticias.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8846658.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260810060000 -0400" stop="20260810073000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La batidora</title>
-    <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
-    <credits>
-      <actor>Daniel Pesce</actor>
-      <actor>Grisel Quiroga</actor>
-      <actor>Ronald Arnez</actor>
-      <actor>Eloisa Gutierrez</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
-  </programme>
-  <programme start="20260810073000 -0400" stop="20260810090000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260810090000 -0400" stop="20260810110000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260810110000 -0400" stop="20260810120000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260810120000 -0400" stop="20260810130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260810130000 -0400" stop="20260810140000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Corazón Negro</title>
-    <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
-    <credits>
-      <actor>Ece Uslu</actor>
-      <actor>Hafsanur Sancaktutan</actor>
-      <actor>Aras Aydin</actor>
-      <actor>Leyla Tanlar</actor>
-      <actor>Burak Tozkoparan</actor>
-      <actor>Esra Dermancioglu</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260810140000 -0400" stop="20260810150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Cemre Öktem</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13518081.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260810150000 -0400" stop="20260810160000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Un programa que repasa lo más destacado de la agenda de noticias nacional e internacional. Junto a un equipo de periodistas, expertos y reporteros, el público podrá informarse al completo sobre la realidad en Bolivia.(n)</desc>
-    <credits>
-      <actor>Paola Araúz</actor>
-      <actor>Agustín Belforte</actor>
-      <actor>Alejandra Fernández</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49943572.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260810160000 -0400" stop="20260810180000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Telepais, el centro informativo mas completo del país, trae a tu alcance noticias nacionales e internacionales, deportivas y de farándula. Telepais te ofrece información veraz e inmediata. Telepais, donde esta la noticia.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260810180000 -0400" stop="20260810184500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Corazón Negro</title>
-    <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
-    <credits>
-      <actor>Ece Uslu</actor>
-      <actor>Hafsanur Sancaktutan</actor>
-      <actor>Aras Aydin</actor>
-      <actor>Leyla Tanlar</actor>
-      <actor>Burak Tozkoparan</actor>
-      <actor>Esra Dermancioglu</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260810184500 -0400" stop="20260810201500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260810201500 -0400" stop="20260810204500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260810204500 -0400" stop="20260810210000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís media noche</title>
-    <desc lang="es">El servicio informativo de Unitel.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15160250.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260810210000 -0400" stop="20260810214500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260810214500 -0400" stop="20260811030000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Pare de sufrir</title>
-    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Religioso</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2416632.jpg" />
-    <country lang="es">Brasil</country>
-  </programme>
-  <programme start="20260811030000 -0400" stop="20260811060000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La revista</title>
-    <desc lang="es">Infórmese con nuestro resumen de noticias.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Magazine</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8846658.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260811060000 -0400" stop="20260811073000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La batidora</title>
-    <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
-    <credits>
-      <actor>Daniel Pesce</actor>
-      <actor>Grisel Quiroga</actor>
-      <actor>Ronald Arnez</actor>
-      <actor>Eloisa Gutierrez</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
-  </programme>
-  <programme start="20260811073000 -0400" stop="20260811090000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260811090000 -0400" stop="20260811110000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260811110000 -0400" stop="20260811120000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260811120000 -0400" stop="20260811130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260811130000 -0400" stop="20260811140000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Corazón Negro</title>
-    <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
-    <credits>
-      <actor>Ece Uslu</actor>
-      <actor>Hafsanur Sancaktutan</actor>
-      <actor>Aras Aydin</actor>
-      <actor>Leyla Tanlar</actor>
-      <actor>Burak Tozkoparan</actor>
-      <actor>Esra Dermancioglu</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260811140000 -0400" stop="20260811150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Cemre Öktem</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13518081.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260811150000 -0400" stop="20260811160000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Un programa que repasa lo más destacado de la agenda de noticias nacional e internacional. Junto a un equipo de periodistas, expertos y reporteros, el público podrá informarse al completo sobre la realidad en Bolivia.(n)</desc>
-    <credits>
-      <actor>Paola Araúz</actor>
-      <actor>Agustín Belforte</actor>
-      <actor>Alejandra Fernández</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49943572.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260811160000 -0400" stop="20260811180000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Telepais, el centro informativo mas completo del país, trae a tu alcance noticias nacionales e internacionales, deportivas y de farándula. Telepais te ofrece información veraz e inmediata. Telepais, donde esta la noticia.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260811180000 -0400" stop="20260811184500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Corazón Negro</title>
-    <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
-    <credits>
-      <actor>Ece Uslu</actor>
-      <actor>Hafsanur Sancaktutan</actor>
-      <actor>Aras Aydin</actor>
-      <actor>Leyla Tanlar</actor>
-      <actor>Burak Tozkoparan</actor>
-      <actor>Esra Dermancioglu</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260811184500 -0400" stop="20260811201500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260811201500 -0400" stop="20260811204500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260811204500 -0400" stop="20260811210000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís media noche</title>
-    <desc lang="es">El servicio informativo de Unitel.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15160250.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
   <programme start="20260809214500 -0400" stop="20260810030000 -0400" channel="UNITEL">
     <title lang="es">Pare de sufrir</title>
     <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.(n)</desc>
@@ -13582,21 +13174,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260810153000 -0400" stop="20260810163000 -0400" channel="BOLIVISION">
-    <title lang="es">Rosa de Guadalupe</title>
-    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.(n)</desc>
-    <credits>
-      <actor>Milia Nader</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Maru Dueñas</actor>
-      <actor>Aleyda Gallardo</actor>
-      <actor>Miriam Calderón</actor>
-      <actor>Sandra Itzel</actor>
-    </credits>
-    <date>2008</date>
+    <title lang="es">Rosa de Guadalupe (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/54682488.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260810163000 -0400" stop="20260810172500 -0400" channel="BOLIVISION">
     <title lang="es">Rosa de Guadalupe</title>
@@ -54008,53 +53587,8 @@ Repetición</title>
   </programme>
   <programme start="20260811011000 -0500" stop="20260811020000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Cómo termina</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260811020000 -0500" stop="20260811025000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
@@ -54288,35 +53822,8 @@ Repetición</title>
   </programme>
   <programme start="20260811065000 -0500" stop="20260811074000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Corazones destrozados</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260811074000 -0500" stop="20260811083000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
@@ -54352,153 +53859,18 @@ Repetición</title>
   </programme>
   <programme start="20260811083000 -0500" stop="20260811092000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Corre como loco</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260811092000 -0500" stop="20260811101000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Control de daños</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260811101000 -0500" stop="20260811110000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Mal comportamiento</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260811110000 -0500" stop="20260811115000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón La ley y el orden: UVE</title>
@@ -54610,91 +53982,13 @@ Repetición</title>
   </programme>
   <programme start="20260811133000 -0500" stop="20260811142000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago PD</title>
-    <sub-title lang="es">Ya no trabajamos juntos</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260811142000 -0500" stop="20260811151000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago PD</title>
-    <sub-title lang="es">Disco Bob</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260811151000 -0500" stop="20260811160000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago PD</title>
@@ -55094,47 +54388,8 @@ Repetición</title>
   </programme>
   <programme start="20260811233000 -0500" stop="20260812020000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago PD</title>
-    <sub-title lang="es">No debería haber estado sola</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260812020000 -0500" stop="20260812025000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
@@ -56148,73 +55403,13 @@ Repetición</title>
   </programme>
   <programme start="20260812224000 -0500" stop="20260812233000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">La ley y el orden: crimen organizado</title>
-    <sub-title lang="es">El principio de Pareto</sub-title>
-    <desc lang="es">Elliot Stabler regresa a la policía de Nueva York para luchar contra el crimen organizado después de una devastadora pérdida personal. Su objetivo es encontrar la absolución y reconstruir su vida mientras lidera un nuevo grupo de élite.(n)</desc>
-    <credits>
-      <actor>Christopher Meloni</actor>
-      <actor>Dylan McDermott</actor>
-      <actor>Tamara Taylor</actor>
-      <actor>Danielle Moné Truitt</actor>
-      <actor>Ainsley Seiger</actor>
-      <actor>Ibrahim Renno</actor>
-      <actor>Michael Rivera</actor>
-      <actor>Fred Berner</actor>
-      <actor>John David Coles</actor>
-      <actor>Ken Girotti</actor>
-      <actor>Amy Durning</actor>
-      <actor>Ilene Chaiken</actor>
-      <actor>Warren Leight</actor>
-      <actor>Julie Martin</actor>
-      <actor>Matt Olmstead</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14221305.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260812233000 -0500" stop="20260813002000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago PD</title>
-    <sub-title lang="es">No debería haber estado sola</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260810030000 -0500" stop="20260810034500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Monk</title>
@@ -57127,37 +56322,8 @@ Repetición</title>
   </programme>
   <programme start="20260810210000 -0500" stop="20260810212500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Office</title>
-    <sub-title lang="es">La vuelta de las vacaciones</sub-title>
-    <desc lang="es">Una parodia de la vida moderna en las oficinas estadounidenses que profundiza en el quehacer y las relaciones de los trabajadores de Dunder Mifflin, una empresa de suministro de papel en Scranton, Pensilvania.(n)</desc>
-    <credits>
-      <actor>Steve Carell</actor>
-      <actor>Jenna Fischer</actor>
-      <actor>Angela Kinsey</actor>
-      <actor>Phyllis Smith</actor>
-      <actor>Mindy Kaling</actor>
-      <actor>BJ Novak</actor>
-      <actor>Creed Bratton</actor>
-      <actor>John Krasinski</actor>
-      <actor>Leslie David Baker</actor>
-      <actor>Brian Baumgartner</actor>
-      <actor>Kate Flannery</actor>
-      <actor>Rainn Wilson</actor>
-      <actor>Paul Feig</actor>
-      <actor>Randall Einhorn</actor>
-      <actor>Ken Kwapis</actor>
-      <actor>Greg Daniels</actor>
-      <actor>Jeffrey Blitz</actor>
-      <actor>Daniel Chun</actor>
-      <actor>Halsted Sullivan</actor>
-      <actor>Caroline Williams</actor>
-      <actor>Justin Spitzer</actor>
-      <actor>Lee Eisenberg</actor>
-      <actor>Gene Stupnitsky</actor>
-    </credits>
-    <date>2005</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11046850.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260810212500 -0500" stop="20260810215000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">The Good Place</title>
@@ -59885,19 +59051,8 @@ Repetición</title>
   </programme>
   <programme start="20260810094500 -0500" stop="20260810103000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Congelación profunda</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260810103000 -0500" stop="20260810111500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
@@ -60075,19 +59230,8 @@ Repetición</title>
   </programme>
   <programme start="20260810180000 -0500" stop="20260810184500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Congelación profunda</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260810184500 -0500" stop="20260810193000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
@@ -60459,35 +59603,8 @@ Repetición</title>
   </programme>
   <programme start="20260811034500 -0500" stop="20260811041000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">El asesino del rostro sonriente</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260811041000 -0500" stop="20260811043000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
@@ -60861,19 +59978,8 @@ Repetición</title>
   </programme>
   <programme start="20260811180000 -0500" stop="20260811184500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Secretos al costado del camino</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260811184500 -0500" stop="20260811193000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
@@ -62027,36 +61133,8 @@ Repetición</title>
   </programme>
   <programme start="20260810055000 -0500" stop="20260810063500 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Nadie queda olvidado</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260810063500 -0500" stop="20260810072000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
@@ -63721,69 +62799,13 @@ Repetición</title>
   </programme>
   <programme start="20260812051000 -0500" stop="20260812055500 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Anillo de fuego</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260812055500 -0500" stop="20260812063500 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Abandonado</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260812063500 -0500" stop="20260812072000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
@@ -69782,18 +68804,6 @@ Repetición</title>
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260810113000 +0200" stop="20260810133000 +0200" channel="beIN SPORTS 1">
-    <title lang="fr">Angleterre / Croatie</title>
-    <desc lang="fr">Angleterre / Croatie (Angleterre / Croatie - Football Coupe du monde 2026) en différé aujourd'hui à 14h30.(n)</desc>
-    <category lang="fr">Foot</category>
-    <previously-shown />
-  </programme>
-  <programme start="20260810133000 +0200" stop="20260810153000 +0200" channel="beIN SPORTS 1">
-    <title lang="fr">France / Suède</title>
-    <desc lang="fr">France / Suède (France / Suède - Football Coupe du monde 2026) en différé aujourd'hui à 16h30.(n)</desc>
-    <category lang="fr">Foot</category>
-    <previously-shown />
-  </programme>
   <programme start="20260810153000 +0200" stop="20260810190000 +0200" channel="beIN SPORTS 1">
     <title lang="fr">Belgique / Sénégal</title>
     <desc lang="fr">Belgique / Sénégal (Belgique / Sénégal - Football Coupe du monde 2026) en différé aujourd'hui à 18h30.(n)</desc>
@@ -69802,13 +68812,13 @@ Repetición</title>
   </programme>
   <programme start="20260810190000 +0200" stop="20260810214500 +0200" channel="beIN SPORTS 1">
     <title lang="fr">Manchester United / PSG</title>
-    <desc lang="fr">Manchester United / Paris-SG #MUFCPSG (Manchester United / Paris-SG - Football Match amical 2026) en différé aujourd'hui à 14h30.(n)</desc>
+    <desc lang="fr">Manchester United / Paris-SG #MUFCPSG (Manchester United / Paris-SG - Football Match amical 2026) en différé aujourd'hui à 22h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
   <programme start="20260810214500 +0200" stop="20260810220000 +0200" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 19h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé mardi 11 août à 00h45.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810220000 +0200" stop="20260811040000 +0200" channel="beIN SPORTS 1">
@@ -69818,12 +68828,12 @@ Repetición</title>
   </programme>
   <programme start="20260811040000 +0200" stop="20260811041500 +0200" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 19h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé mardi 11 août à 00h45.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811041500 +0200" stop="20260811050000 +0200" channel="beIN SPORTS 1">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 19h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé mardi 11 août à 00h45.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811050000 +0200" stop="20260811070000 +0200" channel="beIN SPORTS 1">
@@ -69874,18 +68884,6 @@ Repetición</title>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
-  <programme start="20260810113000 +0200" stop="20260810133000 +0200" channel="beIN SPORTS 2">
-    <title lang="fr">Manchester United / PSG</title>
-    <desc lang="fr">Manchester United / Paris-SG #MUFCPSG (Manchester United / Paris-SG - Football Match amical 2026) en différé aujourd'hui à 14h30.(n)</desc>
-    <category lang="fr">Foot</category>
-    <previously-shown />
-  </programme>
-  <programme start="20260810133000 +0200" stop="20260810153000 +0200" channel="beIN SPORTS 2">
-    <title lang="fr">Sochaux / Saint-Etienne</title>
-    <desc lang="fr">Sochaux / Saint-Etienne #FCSMASSE (Sochaux / Saint-Etienne - Football Ligue 2 BKT 2026-2027) en différé aujourd'hui à 16h30.(n)</desc>
-    <category lang="fr">Foot</category>
-    <previously-shown />
-  </programme>
   <programme start="20260810153000 +0200" stop="20260810173000 +0200" channel="beIN SPORTS 2">
     <title lang="fr">Nantes / Red Star</title>
     <desc lang="fr">Nantes / Red Star (Nantes / Red Star - Football Ligue 2 BKT 2026-2027) en différé aujourd'hui à 18h30.(n)</desc>
@@ -69899,7 +68897,7 @@ Repetición</title>
   </programme>
   <programme start="20260810180000 +0200" stop="20260810200000 +0200" channel="beIN SPORTS 2">
     <title lang="fr">Angleterre / Croatie</title>
-    <desc lang="fr">Angleterre / Croatie (Angleterre / Croatie - Football Coupe du monde 2026) en différé aujourd'hui à 14h30.(n)</desc>
+    <desc lang="fr">Angleterre / Croatie (Angleterre / Croatie - Football Coupe du monde 2026) en différé aujourd'hui à 21h00.(n)</desc>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
@@ -69975,23 +68973,6 @@ Repetición</title>
     <category lang="fr">Foot</category>
     <previously-shown />
   </programme>
-  <programme start="20260810123000 +0200" stop="20260810150000 +0200" channel="beIN SPORTS 3">
-    <title lang="fr">Wimbledon</title>
-    <desc lang="fr">Wimbledon Finale messieurs. Jannik Sinner / Alexander Zverev (Wimbledon - Tennis ATP Tour 2026) en différé aujourd'hui à 15h30.(n)</desc>
-    <category lang="fr">Tennis</category>
-    <previously-shown />
-  </programme>
-  <programme start="20260810150000 +0200" stop="20260810164500 +0200" channel="beIN SPORTS 3">
-    <title lang="fr">All Star Game</title>
-    <desc lang="fr">All Star Game (All Star Game - Basket-ball NBA All-Star Weekend 2025-2026) en différé aujourd'hui à 18h00.(n)</desc>
-    <category lang="fr">Basket</category>
-    <previously-shown />
-  </programme>
-  <programme start="20260810164500 +0200" stop="20260810170000 +0200" channel="beIN SPORTS 3">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 19h45.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
   <programme start="20260810170000 +0200" stop="20260810200000 +0200" channel="beIN SPORTS 3">
     <title lang="fr">San Diego Padres / Houston Astros</title>
     <desc lang="fr">San Diego Padres / Houston Astros (San Diego Padres / Houston Astros - Baseball MLB 2026) en différé aujourd'hui à 20h00.(n)</desc>
@@ -70006,12 +68987,12 @@ Repetición</title>
   </programme>
   <programme start="20260810223000 +0200" stop="20260811030000 +0200" channel="beIN SPORTS 3">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 19h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé mardi 11 août à 00h45.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811030000 +0200" stop="20260811050000 +0200" channel="beIN SPORTS 3">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé aujourd'hui à 19h45.(n)</desc>
+    <desc lang="fr">Ça se passe sur beIN SPORTS (Ça se passe sur beIN SPORTS) en différé mardi 11 août à 00h45.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811050000 +0200" stop="20260811070000 +0200" channel="beIN SPORTS 3">
@@ -70022,7 +69003,7 @@ Repetición</title>
   </programme>
   <programme start="20260811070000 +0200" stop="20260811093000 +0200" channel="beIN SPORTS 3">
     <title lang="fr">Wimbledon</title>
-    <desc lang="fr">Wimbledon Finale messieurs. Jannik Sinner / Alexander Zverev (Wimbledon - Tennis ATP Tour 2026) en différé aujourd'hui à 15h30.(n)</desc>
+    <desc lang="fr">Wimbledon Finale messieurs. Jannik Sinner / Alexander Zverev (Wimbledon - Tennis ATP Tour 2026) en différé mardi 11 août à 10h00.(n)</desc>
     <category lang="fr">Tennis</category>
     <previously-shown />
   </programme>
@@ -70062,24 +69043,19 @@ Repetición</title>
     <category lang="fr">Base-ball</category>
     <previously-shown />
   </programme>
-  <programme start="20260810100000 +0200" stop="20260810140000 +0200" channel="beIN SPORTS MAX 4">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
   <programme start="20260810140000 +0200" stop="20260810180000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810180000 +0200" stop="20260810200000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810200000 +0200" stop="20260810220000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810220000 +0200" stop="20260811010000 +0200" channel="beIN SPORTS MAX 4">
@@ -70089,297 +69065,267 @@ Repetición</title>
   </programme>
   <programme start="20260811010000 +0200" stop="20260811060000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811060000 +0200" stop="20260811100000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811100000 +0200" stop="20260811140000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811140000 +0200" stop="20260811180000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811180000 +0200" stop="20260811220000 +0200" channel="beIN SPORTS MAX 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260810100000 +0200" stop="20260810140000 +0200" channel="beIN SPORTS MAX 5">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810140000 +0200" stop="20260810180000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810180000 +0200" stop="20260810220000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810220000 +0200" stop="20260811020000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811020000 +0200" stop="20260811060000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811060000 +0200" stop="20260811100000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811100000 +0200" stop="20260811140000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811140000 +0200" stop="20260811180000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811180000 +0200" stop="20260811220000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260810100000 +0200" stop="20260810140000 +0200" channel="beIN SPORTS MAX 6">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810140000 +0200" stop="20260810180000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810180000 +0200" stop="20260810220000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810220000 +0200" stop="20260811020000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811020000 +0200" stop="20260811060000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811060000 +0200" stop="20260811100000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811100000 +0200" stop="20260811140000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811140000 +0200" stop="20260811180000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811180000 +0200" stop="20260811220000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260810100000 +0200" stop="20260810140000 +0200" channel="beIN SPORTS MAX 7">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810140000 +0200" stop="20260810180000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810180000 +0200" stop="20260810220000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810220000 +0200" stop="20260811020000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811020000 +0200" stop="20260811060000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811060000 +0200" stop="20260811100000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811100000 +0200" stop="20260811140000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811140000 +0200" stop="20260811180000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811180000 +0200" stop="20260811220000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260810100000 +0200" stop="20260810140000 +0200" channel="beIN SPORTS MAX 8">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810140000 +0200" stop="20260810180000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810180000 +0200" stop="20260810220000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810220000 +0200" stop="20260811020000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811020000 +0200" stop="20260811060000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811060000 +0200" stop="20260811100000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811100000 +0200" stop="20260811140000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811140000 +0200" stop="20260811180000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811180000 +0200" stop="20260811220000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260810100000 +0200" stop="20260810140000 +0200" channel="beIN SPORTS MAX 9">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810140000 +0200" stop="20260810180000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810180000 +0200" stop="20260810220000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810220000 +0200" stop="20260811020000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811020000 +0200" stop="20260811060000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811060000 +0200" stop="20260811100000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811100000 +0200" stop="20260811140000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811140000 +0200" stop="20260811180000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811180000 +0200" stop="20260811220000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
-    <category lang="fr">Multisports</category>
-  </programme>
-  <programme start="20260810100000 +0200" stop="20260810140000 +0200" channel="beIN SPORTS MAX 10">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810140000 +0200" stop="20260810180000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810180000 +0200" stop="20260810220000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810220000 +0200" stop="20260811020000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811020000 +0200" stop="20260811060000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811060000 +0200" stop="20260811100000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811100000 +0200" stop="20260811140000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811140000 +0200" stop="20260811180000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260811180000 +0200" stop="20260811220000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 13h00.(n)</desc>
+    <desc lang="fr">beIN SPORTS, le plus grand des spectacles (beIN SPORTS, le plus grand des spectacles) en différé aujourd'hui à 17h00.(n)</desc>
     <category lang="fr">Multisports</category>
   </programme>
   <programme start="20260810030000 -0500" stop="20260810050500 -0500" channel="AdrenalinaSportsNetwork.us">
@@ -70450,12 +69396,6 @@ Repetición</title>
   </programme>
   <programme start="20260811224000 -0500" stop="20260812010000 -0500" channel="AdrenalinaSportsNetwork.us">
     <title lang="es">Corrida de Toros</title>
-  </programme>
-  <programme start="20260810103000 +0200" stop="20260810143000 +0200" channel="RMC Sport 1">
-    <title lang="fr">Aaron McKenna / Etinosa Oliha</title>
-    <desc lang="fr">Aaron McKenna / Etinosa Oliha (Aaron McKenna / Etinosa Oliha - Boxe Zuffa Boxing 2026) en différé aujourd'hui à 13h30.(n)</desc>
-    <category lang="fr">Boxe</category>
-    <previously-shown />
   </programme>
   <programme start="20260810143000 +0200" stop="20260810173000 +0200" channel="RMC Sport 1">
     <title lang="fr">Kick-boxing ONE Friday Fights 2026</title>
@@ -78690,21 +77630,6 @@ Repetición</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260810093000 -0300" stop="20260810123000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260810123000 -0300" stop="20260810125500 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260810125500 -0300" stop="20260810132000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20260810132000 -0300" stop="20260810170000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -86877,10 +85802,6 @@ Repetición</title>
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20260810010000 -0400" stop="20260810040000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Reloaded: UFC 302: Makhachev vs. Poirier</title>
-    <desc lang="en">Islam Makhachev puts his 13-fight winning streak on the line against Dustin Poirier in the main event.(n)</desc>
-  </programme>
   <programme start="20260810040000 -0400" stop="20260810080000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Boomer and Gio</title>
     <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.(n)</desc>
@@ -86992,14 +85913,6 @@ Repetición</title>
   <programme start="20260811190000 -0400" stop="20260812000000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Inside College Football</title>
     <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.(n)</desc>
-  </programme>
-  <programme start="20260810003000 -0400" stop="20260810020000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">NBA TV's the Announcement</title>
-    <desc lang="en">No details are there for this program.(n)</desc>
-  </programme>
-  <programme start="20260810020000 -0400" stop="20260810040000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">NBA Playback: 2026: Oklahoma City vs. Milwaukee</title>
-    <desc lang="en">From Jan. 21, 2026. SGA 40 points lead Thunder.(n)</desc>
   </programme>
   <programme start="20260810040000 -0400" stop="20260810053000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">WNBA Playback</title>
@@ -137523,14 +136436,6 @@ Repetición</title>
     <category lang="es">Antropológicos</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5e/20020062.png" />
   </programme>
-  <programme start="20260810010000 -0400" stop="20260810025500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260810025500 -0400" stop="20260810030000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled; Nick Kwek is at the Imperial War Museum in London to hear how survivor stories are brought to life.(n)</desc>
-  </programme>
   <programme start="20260810030000 -0400" stop="20260810043000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -137858,18 +136763,6 @@ Repetición</title>
   <programme start="20260811214500 -0400" stop="20260811220000 -0400" channel="BBCWorldNews.us">
     <title lang="en">Asia Specific</title>
     <desc lang="en">Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.(n)</desc>
-  </programme>
-  <programme start="20260810010000 -0400" stop="20260810020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Life, Liberty &amp; Levin</title>
-    <desc lang="en">Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.(n)</desc>
-  </programme>
-  <programme start="20260810020000 -0400" stop="20260810030000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Sunday Night in America With Trey Gowdy</title>
-    <desc lang="en">Insightful analysis and a new outlook on the issues facing the country; Trey Gowdy, the former South Carolina Congressman, breaks down the legal and political news.(n)</desc>
-  </programme>
-  <programme start="20260810030000 -0400" stop="20260810040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX &amp; Friends First</title>
-    <desc lang="en">Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.(n)</desc>
   </programme>
   <programme start="20260810040000 -0400" stop="20260810070000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">FOX and Friends</title>
@@ -168260,13 +167153,64 @@ En Vivo</title>
   </programme>
   <programme start="20260810173000 -0500" stop="20260810190000 -0500" channel="ImagenTv.mx">
     <title lang="es">Legado de amor</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
+    <credits>
+      <actor>Halil Ibrahim Ceyhan</actor>
+      <actor>Sila Turkoglu</actor>
+      <actor>Berat Rüzgar Özkan</actor>
+      <actor>Melih Ozkaya</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Derya Oguz Ertün</actor>
+      <actor>Oguz Yagci</actor>
+      <actor>Binnaz Ekren</actor>
+      <actor>Özge Agyar</actor>
+      <actor>Ayhan Özen</actor>
+      <actor>Basak Yazi Odasi</actor>
+      <actor>Nazmiye Yilmaz</actor>
+    </credits>
+    <date>2020</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22885993.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260810190000 -0500" stop="20260810203000 -0500" channel="ImagenTv.mx">
     <title lang="es">El rico y Lázaro</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <desc lang="es">Después de la muerte de Josué, el pueblo hebreo le dio la espalda a Dios y adoró dioses paganos. El profeta Jeremías intentó advertirles pero lo llamaron falso profeta, sin embargo su profecía se cumplió con la llegada de Nabucodonosor II.(n)</desc>
+    <credits>
+      <actor>Dudu Azevedo</actor>
+      <actor>Christine Fernandes</actor>
+      <actor>Igor Rickli</actor>
+      <actor>Milena Toscano</actor>
+      <actor>Lucinha Lins</actor>
+      <actor>Samia Abreu</actor>
+      <actor>Michelle Batista</actor>
+      <actor>Kayky Brito</actor>
+      <actor>Osmar Silveira</actor>
+      <actor>Rafael Almeida</actor>
+      <actor>Pablo Uranga</actor>
+      <actor>Leonardo Medeiros</actor>
+      <actor>Sthefany Brito</actor>
+      <actor>Cláudia Mauro</actor>
+      <actor>Paulo Gorgulho</actor>
+      <actor>Paulo Figueiredo</actor>
+      <actor>Ajax Camacho</actor>
+      <actor>Regis Faria</actor>
+      <actor>Edgard Miranda</actor>
+      <actor>Rogério Passos</actor>
+      <actor>Hansa Wood</actor>
+      <actor>Monique Ferreira</actor>
+      <actor>Joaquim Assis</actor>
+      <actor>Cristianne Fridman</actor>
+      <actor>Vania Matos</actor>
+      <actor>Camilo Pellegrini</actor>
+      <actor>Rodrigo Ribeiro</actor>
+      <actor>Paula Richard</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Telenovela</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10620409.jpg" />
+    <country lang="es">Brasil</country>
   </programme>
   <programme start="20260810203000 -0500" stop="20260810213000 -0500" channel="ImagenTv.mx">
     <title lang="es">Escóndeme</title>
@@ -185033,22 +183977,8 @@ En Vivo</title>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
   <programme start="20260810110000 -0400" stop="20260810120000 -0400" channel="IVC">
-    <title lang="es">Sunshine Girls</title>
-    <desc lang="es">Günes es una mujer que, junto a sus tres hijas, decide rehacer su vida casándose con Haluk, un millonario empresario hotelero. Lo que ella ignora es el oscuro pasado de su flamante esposo.(n)</desc>
-    <credits>
-      <actor>Emre Kinay</actor>
-      <actor>Evrim Alasya</actor>
-      <actor>Tolga Saritas</actor>
-      <actor>Burcu Özberk</actor>
-      <actor>Hande Erçel</actor>
-      <actor>Berk Atan</actor>
-    </credits>
-    <date>2015</date>
+    <title lang="es">Sunshine Girls (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/38429915.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E71</episode-num>
   </programme>
   <programme start="20260810120000 -0400" stop="20260810123000 -0400" channel="IVC">
     <title lang="es">Ana Avellana</title>
@@ -186659,10 +185589,11 @@ En Vivo</title>
   </programme>
   <programme start="20260810230000 -0400" stop="20260811000000 -0400" channel="TELEVEN">
     <title lang="es">La entrevista</title>
+    <desc lang="es">Un programa de entrevistas a diversas personalidades para discutir la coyuntura. A través del espacio, el público podrá informarse al completo sobre los hechos más destacados a nivel nacional e internacional.(n)</desc>
     <date>2000</date>
     <category lang="es">Entrevista</category>
     <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27181343.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994664923.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260811000000 -0400" stop="20260811004500 -0400" channel="TELEVEN">
@@ -186917,10 +185848,11 @@ En Vivo</title>
   </programme>
   <programme start="20260811230000 -0400" stop="20260812000000 -0400" channel="TELEVEN">
     <title lang="es">La entrevista</title>
+    <desc lang="es">Un programa de entrevistas a diversas personalidades para discutir la coyuntura. A través del espacio, el público podrá informarse al completo sobre los hechos más destacados a nivel nacional e internacional.(n)</desc>
     <date>2000</date>
     <category lang="es">Entrevista</category>
     <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27181343.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994664923.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260810000000 -0400" stop="20260810000400 -0400" channel="TLT">
@@ -188039,21 +186971,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2426307.jpg" />
   </programme>
   <programme start="20260810190000 -0400" stop="20260810200000 -0400" channel="TV FAMILIA">
-    <title lang="es">La pequena casa de la pradera</title>
-    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.(n)</desc>
-    <credits>
-      <actor>Michael Landon</actor>
-      <actor>Melissa Gilbert</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-    </credits>
-    <date>1974</date>
+    <title lang="es">La pequena casa de la pradera (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55024418.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260810200000 -0400" stop="20260810210000 -0400" channel="TV FAMILIA">
     <title lang="es">Atrápame si puedes</title>
@@ -188668,22 +187587,12 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/6299223.jpg" />
   </programme>
   <programme start="20260810150000 -0400" stop="20260810153000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260810153000 -0400" stop="20260810160000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260810160000 -0400" stop="20260810163000 -0400" channel="TVES">
     <title lang="es">Bloque infantil</title>
@@ -188834,20 +187743,8 @@ En Vivo</title>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260811070000 -0400" stop="20260811080000 -0400" channel="TVES">
-    <title lang="es">Pocoyó</title>
-    <desc lang="es">La historia de un niño en edad preescolar y sus descubrimientos acerca del mundo que lo rodea. Todo para él es nuevo y lleno de oportunidades para jugar y aprender.(n)</desc>
-    <credits>
-      <actor>Stephen Fry</actor>
-      <actor>Alex Marty</actor>
-      <actor>David Cantolla</actor>
-      <actor>Luis Gallego</actor>
-      <actor>Guillermo García Carsi</actor>
-    </credits>
-    <date>2006</date>
+    <title lang="es">Pocoyó (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4549942.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260811080000 -0400" stop="20260811083000 -0400" channel="TVES">
     <title lang="es">Dibujos animados</title>
@@ -188936,22 +187833,12 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/6299223.jpg" />
   </programme>
   <programme start="20260811150000 -0400" stop="20260811153000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260811153000 -0400" stop="20260811160000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260811160000 -0400" stop="20260811163000 -0400" channel="TVES">
     <title lang="es">Bloque infantil</title>
@@ -190114,21 +189001,8 @@ En Vivo</title>
     <country lang="es">Chile</country>
   </programme>
   <programme start="20260811160000 -0400" stop="20260811170000 -0400" channel="VENEVISION">
-    <title lang="es">La rosa de Guadalupe</title>
-    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.(n)</desc>
-    <credits>
-      <actor>Milia Nader</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Maru Dueñas</actor>
-      <actor>Aleyda Gallardo</actor>
-      <actor>Miriam Calderón</actor>
-      <actor>Sandra Itzel</actor>
-    </credits>
-    <date>2008</date>
+    <title lang="es">La rosa de Guadalupe (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/54682488.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260811170000 -0400" stop="20260811180000 -0400" channel="VENEVISION">
     <title lang="es">Desiguales</title>
