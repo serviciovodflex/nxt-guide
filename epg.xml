@@ -250,7 +250,6 @@
   </channel>
   <channel id="UNITEL SANTA CRUZ">
     <display-name lang="es">Unitel Santa Cruz</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/13041556.jpg" />
     <url>http://www.intersatelital.com.bo</url>
   </channel>
   <channel id="UNITEL">
@@ -12593,323 +12592,6 @@ Repetición</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260813210000 -0400" stop="20260813214500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260813214500 -0400" stop="20260814030000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Pare de sufrir</title>
-    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2416632.jpg" />
-    <country lang="es">Brasil</country>
-  </programme>
-  <programme start="20260814030000 -0400" stop="20260814060000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La revista</title>
-    <desc lang="es">Infórmese con nuestro resumen de noticias.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8846658.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260814060000 -0400" stop="20260814073000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La batidora</title>
-    <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
-    <credits>
-      <actor>Daniel Pesce</actor>
-      <actor>Grisel Quiroga</actor>
-      <actor>Ronald Arnez</actor>
-      <actor>Eloisa Gutierrez</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
-  </programme>
-  <programme start="20260814073000 -0400" stop="20260814090000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson (?)</title>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20260814090000 -0400" stop="20260814110000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260814110000 -0400" stop="20260814120000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260814120000 -0400" stop="20260814130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260814130000 -0400" stop="20260814140000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Corazón Negro</title>
-    <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
-    <credits>
-      <actor>Ece Uslu</actor>
-      <actor>Hafsanur Sancaktutan</actor>
-      <actor>Aras Aydin</actor>
-      <actor>Leyla Tanlar</actor>
-      <actor>Burak Tozkoparan</actor>
-      <actor>Esra Dermancioglu</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260814140000 -0400" stop="20260814150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Cemre Öktem</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13518081.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260814150000 -0400" stop="20260814160000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Un programa que repasa lo más destacado de la agenda de noticias nacional e internacional. Junto a un equipo de periodistas, expertos y reporteros, el público podrá informarse al completo sobre la realidad en Bolivia.(n)</desc>
-    <credits>
-      <actor>Paola Araúz</actor>
-      <actor>Agustín Belforte</actor>
-      <actor>Alejandra Fernández</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49943572.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260814160000 -0400" stop="20260814180000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Telepais, el centro informativo mas completo del país, trae a tu alcance noticias nacionales e internacionales, deportivas y de farándula. Telepais te ofrece información veraz e inmediata. Telepais, donde esta la noticia.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260814180000 -0400" stop="20260814184500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Corazón Negro</title>
-    <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
-    <credits>
-      <actor>Ece Uslu</actor>
-      <actor>Hafsanur Sancaktutan</actor>
-      <actor>Aras Aydin</actor>
-      <actor>Leyla Tanlar</actor>
-      <actor>Burak Tozkoparan</actor>
-      <actor>Esra Dermancioglu</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260814184500 -0400" stop="20260814201500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Yo me llamo (?)</title>
-    <category lang="es">Reality Show</category>
-  </programme>
-  <programme start="20260814201500 -0400" stop="20260814204500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo (?)</title>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20260814204500 -0400" stop="20260814210000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís media noche</title>
-    <desc lang="es">El servicio informativo de Unitel.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15160250.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260814210000 -0400" stop="20260814214500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260814214500 -0400" stop="20260815030000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Pare de sufrir</title>
-    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Religioso</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2416632.jpg" />
-    <country lang="es">Brasil</country>
-  </programme>
-  <programme start="20260815030000 -0400" stop="20260815043000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Súper libro</title>
-    <desc lang="es">Un espacio que presenta las aventuras de dos niños que se sumergen en las páginas de un libro que los llevará por diferentes historias que conectan al hombre con el amor supremo de Dios.(n)</desc>
-    <credits>
-      <actor>Billie Lou Watt</actor>
-      <actor>Ray Owens</actor>
-      <actor>Sonia Owens</actor>
-      <actor>Helena Van Koert</actor>
-      <actor>Katsue Miwa</actor>
-      <actor>Hal Studer</actor>
-    </credits>
-    <date>1981</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Infantiles</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26261902.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260815043000 -0400" stop="20260815063000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Por mis pistolas</title>
-    <desc lang="es">Fidencio Barrenillo parte hacia Arizona en busca de una vieja mina de plata que perteneció a su bisabuelo. Sin embargo, antes de cumplir su meta, deberá enfrentarse a unos indios que quieren sacrificarlo y a una banda de pistoleros.(n)</desc>
-    <credits>
-      <actor>Mario 'Cantinflas' Moreno</actor>
-      <actor>Gloria Coral</actor>
-      <actor>Quintín Bulnes</actor>
-      <actor>Carlos Cardán</actor>
-      <actor>Alfonso Mejía</actor>
-      <actor>Manuel Alvarado</actor>
-    </credits>
-    <date>1968</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Cine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/33884543.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20260815063000 -0400" stop="20260815080000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Looney Tunes (?)</title>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20260815080000 -0400" stop="20260815093000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Tom y Jerry (?)</title>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20260815093000 -0400" stop="20260815110000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260815110000 -0400" stop="20260815130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Lo mejor - Hercai (?)</title>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20260815130000 -0400" stop="20260815150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Lo mejor de La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Gonca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Hivda Zizan Alp</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1988876981.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260815150000 -0400" stop="20260815170000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260815170000 -0400" stop="20260815180000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Telepais, el centro informativo mas completo del país, trae a tu alcance noticias nacionales e internacionales, deportivas y de farándula. Telepais te ofrece información veraz e inmediata. Telepais, donde esta la noticia.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260815180000 -0400" stop="20260815200000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Alien: Covenant</title>
-    <desc lang="es">La nave Covenant emprende un viaje espacial rumbo a un remoto planeta para colonizarlo. Cuando detecta una señal proveniente de un paraíso inexplorado, decide cambiar su rumbo. Sin embargo, lo que encontrarán será un mundo oscuro y hostil.(n)</desc>
-    <credits>
-      <actor>Michael Fassbender</actor>
-      <actor>Demián Bichir</actor>
-      <actor>Billy Crudup</actor>
-      <actor>Carmen Ejogo</actor>
-      <actor>Amy Seimetz</actor>
-      <actor>Callie Hernández</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">C.Ficción</category>
-    <category lang="es">Cine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16052532.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260815200000 -0400" stop="20260815214500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
   <programme start="20260813210000 -0400" stop="20260813214500 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
     <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
@@ -12977,8 +12659,21 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260814110000 -0400" stop="20260814120000 -0400" channel="UNITEL">
-    <title lang="es">Hercai (?)</title>
+    <title lang="es">Hercai</title>
+    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
+    <credits>
+      <actor>Akin Akinözü</actor>
+      <actor>Ebru Sahin</actor>
+      <actor>Gülçin Santircioglu</actor>
+      <actor>Serhat Tutumluer</actor>
+      <actor>Macit Sonkan</actor>
+      <actor>Oya Unustasi</actor>
+    </credits>
+    <date>2019</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260814120000 -0400" stop="20260814130000 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
@@ -13067,8 +12762,17 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260814184500 -0400" stop="20260814201500 -0400" channel="UNITEL">
-    <title lang="es">Yo me llamo (?)</title>
+    <title lang="es">Yo me llamo</title>
+    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
+    <credits>
+      <actor>Luis Vega</actor>
+      <actor>Vero Pérez</actor>
+      <actor>Vladimir Bravo</actor>
+    </credits>
+    <date>2025</date>
     <category lang="es">Reality Show</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260814201500 -0400" stop="20260814204500 -0400" channel="UNITEL">
     <title lang="es">Enemigo íntimo</title>
@@ -13153,12 +12857,31 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260815063000 -0400" stop="20260815080000 -0400" channel="UNITEL">
-    <title lang="es">Looney Tunes (?)</title>
+    <title lang="es">Looney Tunes</title>
+    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
+    <credits>
+      <actor>Mel Blanc</actor>
+      <actor>Chuck Jones</actor>
+    </credits>
+    <date>1946</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260815080000 -0400" stop="20260815093000 -0400" channel="UNITEL">
-    <title lang="es">Tom y Jerry (?)</title>
+    <title lang="es">Tom y Jerry</title>
+    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
+    <credits>
+      <actor>Lillian Randolph</actor>
+      <actor>William Hanna</actor>
+      <actor>Joseph Barbera</actor>
+    </credits>
+    <date>1940</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260815093000 -0400" stop="20260815110000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -13169,8 +12892,21 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260815110000 -0400" stop="20260815130000 -0400" channel="UNITEL">
-    <title lang="es">Lo mejor - Hercai (?)</title>
+    <title lang="es">Lo mejor</title>
+    <desc lang="es">Revive lo mejor de la serie. Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
+    <credits>
+      <actor>Akin Akinözü</actor>
+      <actor>Ebru Sahin</actor>
+      <actor>Gülçin Santircioglu</actor>
+      <actor>Serhat Tutumluer</actor>
+      <actor>Macit Sonkan</actor>
+      <actor>Oya Unustasi</actor>
+    </credits>
+    <date>2019</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260815130000 -0400" stop="20260815150000 -0400" channel="UNITEL">
     <title lang="es">Lo mejor de La hija del embajador</title>
@@ -13569,12 +13305,36 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
   <programme start="20260815030000 -0400" stop="20260815033000 -0400" channel="BOLIVISION">
-    <title lang="es">Master Raindrop (?)</title>
+    <title lang="es">Master Raindrop</title>
+    <desc lang="es">Maetro Raindrop sigue al novato en artes marciales Raindrop y su amiga Shao Yen en su viaje. Ellos buscan salvar a su Maestro Yun y eventualmente a su pacífica tierra del malvado General Bu y su ejército de Guerreros Terracota.(n)</desc>
+    <credits>
+      <actor>Jane O'Brien</actor>
+      <actor>Rachel King</actor>
+      <actor>Sarah Aubrey</actor>
+      <actor>Steve Cooper</actor>
+    </credits>
+    <date>2008</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/902586.jpg" />
+    <country lang="es">Australia</country>
   </programme>
   <programme start="20260815033000 -0400" stop="20260815035000 -0400" channel="BOLIVISION">
-    <title lang="es">La abeja Maya (?)</title>
+    <title lang="es">La abeja Maya</title>
+    <desc lang="es">Una abeja joven llamada Maya ha dejado su colmena para descubrir la belleza y los misterios de la naturaleza, encontrándose con otros insectos que están allí, a quienes contagia su enorme entusiasmo.(n)</desc>
+    <credits>
+      <actor>Kira Tozer</actor>
+      <actor>Andrea Libman</actor>
+      <actor>Paul Louis Muller</actor>
+      <actor>Gerd Meyer</actor>
+      <actor>Hali Beth Muller</actor>
+      <actor>Zalina Sanchez</actor>
+    </credits>
+    <date>2012</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/35013092.jpg" />
+    <country lang="es">Francia</country>
   </programme>
   <programme start="20260815035000 -0400" stop="20260815045000 -0400" channel="BOLIVISION">
     <title lang="es">Plaza Sésamo</title>
@@ -51655,111 +51415,18 @@ Repetición</title>
   </programme>
   <programme start="20260814030000 -0500" stop="20260814034500 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago PD</title>
-    <sub-title lang="es">Esa es mi chica</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260814034500 -0500" stop="20260814043000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Test acido</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260814043000 -0500" stop="20260814051500 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">En un agujero</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260814051500 -0500" stop="20260814060000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">La ley y el orden: UVE</title>
@@ -51899,153 +51566,18 @@ Repetición</title>
   </programme>
   <programme start="20260814084000 -0500" stop="20260814093000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Cuando apenas se fue</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260814093000 -0500" stop="20260814102000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Llámenme McHolland</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260814102000 -0500" stop="20260814111000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Atrapados</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260814111000 -0500" stop="20260814120000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón La ley y el orden: UVE</title>
@@ -54348,35 +53880,8 @@ Repetición</title>
   </programme>
   <programme start="20260816133000 -0500" stop="20260816142000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Herraduras y granadas de mano</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260816142000 -0500" stop="20260816151000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
@@ -57005,26 +56510,8 @@ Repetición</title>
   </programme>
   <programme start="20260816062000 -0500" stop="20260816064500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <sub-title lang="es">El apagón</sub-title>
-    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
-    <credits>
-      <actor>Terry Crews</actor>
-      <actor>Melissa Fumero</actor>
-      <actor>Joe Lo Truglio</actor>
-      <actor>Dirk Blocker</actor>
-      <actor>Joel McKinnon Miller</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Andre Braugher</actor>
-      <actor>Chelsea Peretti</actor>
-      <actor>Stephanie Beatriz</actor>
-      <actor>Dan Goor</actor>
-      <actor>Michael Schur</actor>
-      <actor>Matt Nodella</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4125186.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260816064500 -0500" stop="20260816071500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
@@ -57281,26 +56768,8 @@ Repetición</title>
   </programme>
   <programme start="20260816113000 -0500" stop="20260816115500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <sub-title lang="es">El grafitero</sub-title>
-    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
-    <credits>
-      <actor>Terry Crews</actor>
-      <actor>Melissa Fumero</actor>
-      <actor>Joe Lo Truglio</actor>
-      <actor>Dirk Blocker</actor>
-      <actor>Joel McKinnon Miller</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Andre Braugher</actor>
-      <actor>Chelsea Peretti</actor>
-      <actor>Stephanie Beatriz</actor>
-      <actor>Dan Goor</actor>
-      <actor>Michael Schur</actor>
-      <actor>Matt Nodella</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4125186.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260816115500 -0500" stop="20260816122000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
@@ -57693,53 +57162,6 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/19735903.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
-  <programme start="20260814000000 -0500" stop="20260814004500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Parejas asesinas</title>
-    <sub-title lang="es">Sherry Engel y Timmy Rogers</sub-title>
-    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
-    <credits>
-      <actor>Anna Vocino</actor>
-      <actor>Stephen Land</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260814004500 -0500" stop="20260814011000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">Viernes 13 edición 911</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260814011000 -0500" stop="20260814013000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">Madre del día</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
   <programme start="20260814013000 -0500" stop="20260814021500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">La marca de un asesino</title>
     <sub-title lang="es">El lúgubre durmiente</sub-title>
@@ -58020,35 +57442,13 @@ Repetición</title>
   </programme>
   <programme start="20260814094500 -0500" stop="20260814103000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Campo de golf de espanto</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260814103000 -0500" stop="20260814111500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">El profesor desaparecido</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260814111500 -0500" stop="20260814120000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">La marca de un asesino</title>
@@ -58462,7 +57862,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
-  <programme start="20260815000000 -0500" stop="20260815011000 -0500" channel="UNIVERSAL CRIME MX">
+  <programme start="20260815000000 -0500" stop="20260815004500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Parejas asesinas</title>
     <sub-title lang="es">Melissa Bredow y Jason Belanger</sub-title>
     <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
@@ -58475,56 +57875,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
-  <programme start="20260815011000 -0500" stop="20260815013000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">Madre del día</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815013000 -0500" stop="20260815021500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">La marca de un asesino</title>
-    <sub-title lang="es">El lúgubre durmiente</sub-title>
-    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
-    <credits>
-      <actor>Sarah Fawaz</actor>
-      <actor>Erica Mary Gillheeney</actor>
-      <actor>Chester Goad</actor>
-      <actor>Irina Vanwells</actor>
-      <actor>Kara Kurcz</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Suspenso</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815021500 -0500" stop="20260815030000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">La marca de un asesino</title>
-    <sub-title lang="es">El asesino del torniquete</sub-title>
-    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
-    <credits>
-      <actor>Sarah Fawaz</actor>
-      <actor>Erica Mary Gillheeney</actor>
-      <actor>Chester Goad</actor>
-      <actor>Irina Vanwells</actor>
-      <actor>Kara Kurcz</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Suspenso</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815030000 -0500" stop="20260815032500 -0500" channel="UNIVERSAL CRIME MX">
+  <programme start="20260815004500 -0500" stop="20260815011000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
     <sub-title lang="es">La esposa del oficial</sub-title>
     <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
@@ -58541,7 +57892,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
-  <programme start="20260815032500 -0500" stop="20260815034500 -0500" channel="UNIVERSAL CRIME MX">
+  <programme start="20260815011000 -0500" stop="20260815013500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
     <sub-title lang="es">Día de los caídos</sub-title>
     <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
@@ -58558,267 +57909,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
-  <programme start="20260815034500 -0500" stop="20260815041000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">El asesino de las comidas rápidas</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815041000 -0500" stop="20260815043000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">Una mujer despechada</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815043000 -0500" stop="20260815051500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">The Real Murders of Atlanta</title>
-    <sub-title lang="es">Homicidio en zonas rurales</sub-title>
-    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
-    <credits>
-      <actor>Aaron Goodson</actor>
-      <actor>Dan Messina</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815051500 -0500" stop="20260815060000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">The Real Murders of Atlanta</title>
-    <sub-title lang="es">Un trato mortal</sub-title>
-    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
-    <credits>
-      <actor>Aaron Goodson</actor>
-      <actor>Dan Messina</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815060000 -0500" stop="20260815062500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">Los socios del mal</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815062500 -0500" stop="20260815064500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">La veterinaria venenosa</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815064500 -0500" stop="20260815073000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-    <sub-title lang="es">Muerte en aguas poco profundas</sub-title>
-    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
-    <credits>
-      <actor>Amanda Duarte</actor>
-      <actor>Mark Chinnery</actor>
-      <actor>Robert Artz</actor>
-      <actor>Hugo Mejia</actor>
-      <actor>Dominik Rausch</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815073000 -0500" stop="20260815081500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-    <sub-title lang="es">La atención de un médico</sub-title>
-    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
-    <credits>
-      <actor>Amanda Duarte</actor>
-      <actor>Mark Chinnery</actor>
-      <actor>Robert Artz</actor>
-      <actor>Hugo Mejia</actor>
-      <actor>Dominik Rausch</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815081500 -0500" stop="20260815090000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Parejas asesinas</title>
-    <sub-title lang="es">Tia Skinner y Jonathan Kurtz</sub-title>
-    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
-    <credits>
-      <actor>Anna Vocino</actor>
-      <actor>Stephen Land</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815090000 -0500" stop="20260815094500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Parejas asesinas</title>
-    <sub-title lang="es">Melissa Bredow y Jason Belanger</sub-title>
-    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
-    <credits>
-      <actor>Anna Vocino</actor>
-      <actor>Stephen Land</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815094500 -0500" stop="20260815103000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Campo de golf de espanto</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815103000 -0500" stop="20260815111500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">El profesor desaparecido</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815111500 -0500" stop="20260815120000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">La marca de un asesino</title>
-    <sub-title lang="es">Muertes en el desierto</sub-title>
-    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
-    <credits>
-      <actor>Sarah Fawaz</actor>
-      <actor>Erica Mary Gillheeney</actor>
-      <actor>Chester Goad</actor>
-      <actor>Irina Vanwells</actor>
-      <actor>Kara Kurcz</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Suspenso</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815120000 -0500" stop="20260815133000 -0500" channel="UNIVERSAL CRIME MX">
+  <programme start="20260815013500 -0500" stop="20260815030000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">La marca de un asesino</title>
     <sub-title lang="es">Verano de miedo</sub-title>
     <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
@@ -58834,180 +57925,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
-  <programme start="20260815133000 -0500" stop="20260815141500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">A sangre fría</title>
-    <sub-title lang="es">Viudo testigo</sub-title>
-    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
-    <credits>
-      <actor>Mark Krenik</actor>
-      <actor>Gregory Schwabe</actor>
-      <actor>Karen Mitchell</actor>
-      <actor>Tracy (Ice-T) Marrow</actor>
-      <actor>Amanda Mitchell</actor>
-      <actor>Brian Knappmiller</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815141500 -0500" stop="20260815150000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">The Real Murders of Atlanta</title>
-    <sub-title lang="es">Homicidio en zonas rurales</sub-title>
-    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
-    <credits>
-      <actor>Aaron Goodson</actor>
-      <actor>Dan Messina</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815150000 -0500" stop="20260815154500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">The Real Murders of Atlanta</title>
-    <sub-title lang="es">Un trato mortal</sub-title>
-    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
-    <credits>
-      <actor>Aaron Goodson</actor>
-      <actor>Dan Messina</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815154500 -0500" stop="20260815161000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">La esposa del oficial</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815161000 -0500" stop="20260815163000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">Día de los caídos</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815163000 -0500" stop="20260815171500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-    <sub-title lang="es">Muerte en aguas poco profundas</sub-title>
-    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
-    <credits>
-      <actor>Amanda Duarte</actor>
-      <actor>Mark Chinnery</actor>
-      <actor>Robert Artz</actor>
-      <actor>Hugo Mejia</actor>
-      <actor>Dominik Rausch</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815171500 -0500" stop="20260815180000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Accidente, suicidio, o asesinato</title>
-    <sub-title lang="es">La atención de un médico</sub-title>
-    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
-    <credits>
-      <actor>Amanda Duarte</actor>
-      <actor>Mark Chinnery</actor>
-      <actor>Robert Artz</actor>
-      <actor>Hugo Mejia</actor>
-      <actor>Dominik Rausch</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815180000 -0500" stop="20260815184500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Campo de golf de espanto</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815184500 -0500" stop="20260815193000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">El profesor desaparecido</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815193000 -0500" stop="20260815195500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">El asesino de las comidas rápidas</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815195500 -0500" stop="20260815201500 -0500" channel="UNIVERSAL CRIME MX">
+  <programme start="20260815030000 -0500" stop="20260815032500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
     <sub-title lang="es">Una mujer despechada</sub-title>
     <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
@@ -59039,41 +57957,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
-  <programme start="20260815201500 -0500" stop="20260815210000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">A sangre fría</title>
-    <sub-title lang="es">Nadando con tiburones</sub-title>
-    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
-    <credits>
-      <actor>Mark Krenik</actor>
-      <actor>Gregory Schwabe</actor>
-      <actor>Karen Mitchell</actor>
-      <actor>Tracy (Ice-T) Marrow</actor>
-      <actor>Amanda Mitchell</actor>
-      <actor>Brian Knappmiller</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815210000 -0500" stop="20260815214500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">A sangre fría</title>
-    <sub-title lang="es">Viudo testigo</sub-title>
-    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
-    <credits>
-      <actor>Mark Krenik</actor>
-      <actor>Gregory Schwabe</actor>
-      <actor>Karen Mitchell</actor>
-      <actor>Tracy (Ice-T) Marrow</actor>
-      <actor>Amanda Mitchell</actor>
-      <actor>Brian Knappmiller</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815214500 -0500" stop="20260815221000 -0500" channel="UNIVERSAL CRIME MX">
+  <programme start="20260815032500 -0500" stop="20260815034500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
     <sub-title lang="es">El asesino de las comidas rápidas</sub-title>
     <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
@@ -59105,105 +57989,9 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
-  <programme start="20260815221000 -0500" stop="20260815223000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">Una mujer despechada</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815223000 -0500" stop="20260815225000 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">Los socios del mal</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815225000 -0500" stop="20260815231500 -0500" channel="UNIVERSAL CRIME MX">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">La veterinaria venenosa</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20260815231500 -0500" stop="20260816000000 -0500" channel="UNIVERSAL CRIME MX">
+  <programme start="20260815034500 -0500" stop="20260815043000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Parejas asesinas</title>
-    <sub-title lang="es">Tia Skinner y Jonathan Kurtz</sub-title>
+    <sub-title lang="es">David Paulson y Meaghan Rice</sub-title>
     <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
     <credits>
       <actor>Anna Vocino</actor>
@@ -59212,6 +58000,862 @@ Repetición</title>
     <date>2013</date>
     <category lang="es">Documental</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815043000 -0500" stop="20260815051500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Erika y BJ Sifrit</sub-title>
+    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
+    <credits>
+      <actor>Anna Vocino</actor>
+      <actor>Stephen Land</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815051500 -0500" stop="20260815060000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Toni Fratto y Kody Patten</sub-title>
+    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
+    <credits>
+      <actor>Anna Vocino</actor>
+      <actor>Stephen Land</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815060000 -0500" stop="20260815064500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Steven y Sylvia Beersdorf</sub-title>
+    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
+    <credits>
+      <actor>Anna Vocino</actor>
+      <actor>Stephen Land</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815064500 -0500" stop="20260815073000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Pamela Lawson y Lekev Spivey</sub-title>
+    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
+    <credits>
+      <actor>Anna Vocino</actor>
+      <actor>Stephen Land</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815073000 -0500" stop="20260815081500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">40</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815081500 -0500" stop="20260815090000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">95</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815090000 -0500" stop="20260815094500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">El encantador</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815094500 -0500" stop="20260815103000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Misterio en Montebello</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815103000 -0500" stop="20260815111500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Ahogándose en mentiras</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815111500 -0500" stop="20260815120000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">¿Amigo o enemigo?</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815120000 -0500" stop="20260815124500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Enterrado en el Jardín</title>
+    <sub-title lang="es">Congelación profunda</sub-title>
+    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
+    <credits>
+      <actor>Sadie Medley</actor>
+      <actor>Kelly Ann Barrett</actor>
+      <actor>Mignon Farmani</actor>
+      <actor>Dana Devlin</actor>
+      <actor>David Garfinkle</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815124500 -0500" stop="20260815133000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Enterrado en el Jardín</title>
+    <sub-title lang="es">Enterrado en la arena: el viaje final de un vaquero</sub-title>
+    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
+    <credits>
+      <actor>Sadie Medley</actor>
+      <actor>Kelly Ann Barrett</actor>
+      <actor>Mignon Farmani</actor>
+      <actor>Dana Devlin</actor>
+      <actor>David Garfinkle</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815133000 -0500" stop="20260815141500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Enterrado en el Jardín</title>
+    <desc lang="es">No hay información disponible.(n)</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260815141500 -0500" stop="20260815150000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">A sangre fría</title>
+    <sub-title lang="es">Calabozos, dragones y muerte</sub-title>
+    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
+    <credits>
+      <actor>Mark Krenik</actor>
+      <actor>Gregory Schwabe</actor>
+      <actor>Karen Mitchell</actor>
+      <actor>Tracy (Ice-T) Marrow</actor>
+      <actor>Amanda Mitchell</actor>
+      <actor>Brian Knappmiller</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815150000 -0500" stop="20260815154500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">A sangre fría</title>
+    <sub-title lang="es">Asesinato de la reina de belleza</sub-title>
+    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
+    <credits>
+      <actor>Mark Krenik</actor>
+      <actor>Gregory Schwabe</actor>
+      <actor>Karen Mitchell</actor>
+      <actor>Tracy (Ice-T) Marrow</actor>
+      <actor>Amanda Mitchell</actor>
+      <actor>Brian Knappmiller</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815154500 -0500" stop="20260815163000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">A sangre fría</title>
+    <sub-title lang="es">Dos preservativos, un asesino</sub-title>
+    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
+    <credits>
+      <actor>Mark Krenik</actor>
+      <actor>Gregory Schwabe</actor>
+      <actor>Karen Mitchell</actor>
+      <actor>Tracy (Ice-T) Marrow</actor>
+      <actor>Amanda Mitchell</actor>
+      <actor>Brian Knappmiller</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815163000 -0500" stop="20260815171500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">A sangre fría</title>
+    <sub-title lang="es">La esteticista y la bestia</sub-title>
+    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
+    <credits>
+      <actor>Mark Krenik</actor>
+      <actor>Gregory Schwabe</actor>
+      <actor>Karen Mitchell</actor>
+      <actor>Tracy (Ice-T) Marrow</actor>
+      <actor>Amanda Mitchell</actor>
+      <actor>Brian Knappmiller</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815171500 -0500" stop="20260815180000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">Asesinato en College Town</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815180000 -0500" stop="20260815184500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">Giro mortal</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815184500 -0500" stop="20260815193000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">El escuadrón de la muerte</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815193000 -0500" stop="20260815201500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">Cuerpo en un lago</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815201500 -0500" stop="20260815210000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">Matanza en el campo</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815210000 -0500" stop="20260815214500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Escena del crimen cargada</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815214500 -0500" stop="20260815223000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Secretos en el depósito de chatarra</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815223000 -0500" stop="20260815231500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">El lúgubre durmiente</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260815231500 -0500" stop="20260816000000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">El asesino del torniquete</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816000000 -0500" stop="20260816011000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">Muertes en el desierto</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816011000 -0500" stop="20260816013500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Centro de crisis 911</title>
+    <desc lang="es">No hay información disponible.(n)</desc>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20260816013500 -0500" stop="20260816030000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">Verano de miedo</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816030000 -0500" stop="20260816032500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">It Takes a Killer</title>
+    <sub-title lang="es">Una mujer despechada</sub-title>
+    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
+    <credits>
+      <actor>Judy Ho</actor>
+      <actor>Donald M Krause</actor>
+      <actor>Jillian Nolde</actor>
+      <actor>Gus Rhodes</actor>
+      <actor>Rebecca Landry</actor>
+      <actor>Elton LeBlanc</actor>
+      <actor>Gary Wayne Loper</actor>
+      <actor>Aaron Mitchell</actor>
+      <actor>Lisa Mackel Smith</actor>
+      <actor>Charles Adams</actor>
+      <actor>Eileen Daley</actor>
+      <actor>Victoria Hardway</actor>
+      <actor>Caitlyn Driscoll</actor>
+      <actor>Catherine Pelonero</actor>
+      <actor>Russell Giacontiere</actor>
+      <actor>Hunter McGregor</actor>
+      <actor>Kerry Kelly Gridley</actor>
+      <actor>Michael Hill</actor>
+      <actor>Stacy Brewer</actor>
+      <actor>Owen Thomas</actor>
+      <actor>Mary McDonnell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Policial</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816032500 -0500" stop="20260816034500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">It Takes a Killer</title>
+    <sub-title lang="es">El asesino de las comidas rápidas</sub-title>
+    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
+    <credits>
+      <actor>Judy Ho</actor>
+      <actor>Donald M Krause</actor>
+      <actor>Jillian Nolde</actor>
+      <actor>Gus Rhodes</actor>
+      <actor>Rebecca Landry</actor>
+      <actor>Elton LeBlanc</actor>
+      <actor>Gary Wayne Loper</actor>
+      <actor>Aaron Mitchell</actor>
+      <actor>Lisa Mackel Smith</actor>
+      <actor>Charles Adams</actor>
+      <actor>Eileen Daley</actor>
+      <actor>Victoria Hardway</actor>
+      <actor>Caitlyn Driscoll</actor>
+      <actor>Catherine Pelonero</actor>
+      <actor>Russell Giacontiere</actor>
+      <actor>Hunter McGregor</actor>
+      <actor>Kerry Kelly Gridley</actor>
+      <actor>Michael Hill</actor>
+      <actor>Stacy Brewer</actor>
+      <actor>Owen Thomas</actor>
+      <actor>Mary McDonnell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Policial</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816034500 -0500" stop="20260816043000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">David Paulson y Meaghan Rice</sub-title>
+    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
+    <credits>
+      <actor>Anna Vocino</actor>
+      <actor>Stephen Land</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816043000 -0500" stop="20260816051500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Erika y BJ Sifrit</sub-title>
+    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
+    <credits>
+      <actor>Anna Vocino</actor>
+      <actor>Stephen Land</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816051500 -0500" stop="20260816060000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Toni Fratto y Kody Patten</sub-title>
+    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
+    <credits>
+      <actor>Anna Vocino</actor>
+      <actor>Stephen Land</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816060000 -0500" stop="20260816064500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Steven y Sylvia Beersdorf</sub-title>
+    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
+    <credits>
+      <actor>Anna Vocino</actor>
+      <actor>Stephen Land</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816064500 -0500" stop="20260816073000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Parejas asesinas</title>
+    <sub-title lang="es">Pamela Lawson y Lekev Spivey</sub-title>
+    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
+    <credits>
+      <actor>Anna Vocino</actor>
+      <actor>Stephen Land</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816073000 -0500" stop="20260816081500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">40</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816081500 -0500" stop="20260816090000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">95</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816090000 -0500" stop="20260816094500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">El encantador</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816094500 -0500" stop="20260816103000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Misterio en Montebello</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816103000 -0500" stop="20260816111500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Ahogándose en mentiras</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816111500 -0500" stop="20260816120000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">¿Amigo o enemigo?</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816120000 -0500" stop="20260816124500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Enterrado en el Jardín</title>
+    <desc lang="es">No hay información disponible.(n)</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260816124500 -0500" stop="20260816133000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Enterrado en el Jardín</title>
+    <desc lang="es">No hay información disponible.(n)</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260816133000 -0500" stop="20260816141500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Enterrado en el Jardín</title>
+    <desc lang="es">No hay información disponible.(n)</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260816141500 -0500" stop="20260816150000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">A sangre fría</title>
+    <sub-title lang="es">Calabozos, dragones y muerte</sub-title>
+    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
+    <credits>
+      <actor>Mark Krenik</actor>
+      <actor>Gregory Schwabe</actor>
+      <actor>Karen Mitchell</actor>
+      <actor>Tracy (Ice-T) Marrow</actor>
+      <actor>Amanda Mitchell</actor>
+      <actor>Brian Knappmiller</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816150000 -0500" stop="20260816154500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">A sangre fría</title>
+    <sub-title lang="es">Asesinato de la reina de belleza</sub-title>
+    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
+    <credits>
+      <actor>Mark Krenik</actor>
+      <actor>Gregory Schwabe</actor>
+      <actor>Karen Mitchell</actor>
+      <actor>Tracy (Ice-T) Marrow</actor>
+      <actor>Amanda Mitchell</actor>
+      <actor>Brian Knappmiller</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816154500 -0500" stop="20260816163000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">A sangre fría</title>
+    <sub-title lang="es">Dos preservativos, un asesino</sub-title>
+    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
+    <credits>
+      <actor>Mark Krenik</actor>
+      <actor>Gregory Schwabe</actor>
+      <actor>Karen Mitchell</actor>
+      <actor>Tracy (Ice-T) Marrow</actor>
+      <actor>Amanda Mitchell</actor>
+      <actor>Brian Knappmiller</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816163000 -0500" stop="20260816171500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">A sangre fría</title>
+    <sub-title lang="es">La esteticista y la bestia</sub-title>
+    <desc lang="es">Presentada por Ice-T, esta serie expone historias escandalosas, verdaderas e impactantes sobre sexo, dinero, asesinatos y, a veces, un cóctel fatal de los tres.(n)</desc>
+    <credits>
+      <actor>Mark Krenik</actor>
+      <actor>Gregory Schwabe</actor>
+      <actor>Karen Mitchell</actor>
+      <actor>Tracy (Ice-T) Marrow</actor>
+      <actor>Amanda Mitchell</actor>
+      <actor>Brian Knappmiller</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9388280.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816171500 -0500" stop="20260816180000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">Asesinato en College Town</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816180000 -0500" stop="20260816184500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">Giro mortal</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816184500 -0500" stop="20260816193000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">El escuadrón de la muerte</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816193000 -0500" stop="20260816201500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">Cuerpo en un lago</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816201500 -0500" stop="20260816210000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">The Real Murders of Atlanta</title>
+    <sub-title lang="es">Matanza en el campo</sub-title>
+    <desc lang="es">Se muestra un lado diferente del Nuevo Sur, donde surgen batallas mortales por el estatus y la riqueza entre aquellos que están dispuestos a matar por una buena vida y aquellos dispuestos a matar para mantenerla.(n)</desc>
+    <credits>
+      <actor>Aaron Goodson</actor>
+      <actor>Dan Messina</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29127614.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816210000 -0500" stop="20260816214500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Escena del crimen cargada</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816214500 -0500" stop="20260816223000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">Accidente, suicidio, o asesinato</title>
+    <sub-title lang="es">Secretos en el depósito de chatarra</sub-title>
+    <desc lang="es">Verdaderos casos de muerte, desde las banderas rojas hasta la evidencia innegable. Cada episodio retraza la investigación de principio a fin, llevando a los espectadores a través de los giros y vueltas de estos casos impactantes.(n)</desc>
+    <credits>
+      <actor>Amanda Duarte</actor>
+      <actor>Mark Chinnery</actor>
+      <actor>Robert Artz</actor>
+      <actor>Hugo Mejia</actor>
+      <actor>Dominik Rausch</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11351206.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816223000 -0500" stop="20260816231500 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">El lúgubre durmiente</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
+    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260816231500 -0500" stop="20260817000000 -0500" channel="UNIVERSAL CRIME MX">
+    <title lang="es">La marca de un asesino</title>
+    <sub-title lang="es">El asesino del torniquete</sub-title>
+    <desc lang="es">Se examinan los macabros rituales de los asesinos en serie.(n)</desc>
+    <credits>
+      <actor>Sarah Fawaz</actor>
+      <actor>Erica Mary Gillheeney</actor>
+      <actor>Chester Goad</actor>
+      <actor>Irina Vanwells</actor>
+      <actor>Kara Kurcz</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Suspenso</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9417875.jpg" />
     <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260814021500 -0500" stop="20260814030000 -0500" channel="UNIVERSAL PREMIERE MX">
@@ -73957,16 +73601,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260814102500 -0300" stop="20260814125000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260814125000 -0300" stop="20260814135000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20260814135000 -0300" stop="20260814160000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -82307,10 +81941,6 @@ En Vivo</title>
     <rating>
       <value>Todas las edades</value>
     </rating>
-  </programme>
-  <programme start="20260814010000 -0400" stop="20260814040000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Reloaded: UFC 302: Makhachev vs. Poirier</title>
-    <desc lang="en">Islam Makhachev puts his 13-fight winning streak on the line against Dustin Poirier in the main event.(n)</desc>
   </programme>
   <programme start="20260814040000 -0400" stop="20260814080000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Boomer and Gio</title>
@@ -123067,29 +122697,7 @@ En Vivo</title>
   </programme>
   <programme start="20260815054500 +0000" stop="20260815061000 +0000" channel="Nickelodeon.ar">
     <title lang="es">Bob Esponja</title>
-    <title lang="en">SpongeBob SquarePants</title>
     <sub-title lang="es">Cuidado con la brecha / La Burbuja Sucia regresa</sub-title>
-    <desc lang="es">Calamardo cierra la brecha entre los dientes de Bob Esponja, y causa un cambio inesperado en su conducta. / El regenerado "Burbuja Limpia" toma un trabajo como lavaplatos en el Crustáceo Cascarudo, donde la mugre lo tienta.(n)</desc>
-    <credits>
-      <director>Vincent Waller</director>
-      <director>Dave Cunningham</director>
-      <director>Zeus Cervas</director>
-      <actor>Rodger Bumpass</actor>
-      <actor>Bill Fagerbakke</actor>
-      <actor>Clancy Brown</actor>
-      <actor>Mr. Lawrence</actor>
-      <actor>Carolyn Lawrence</actor>
-      <actor>Sirena Irwin</actor>
-      <actor>Jill Talley</actor>
-      <actor>Casey Alexander</actor>
-      <actor>Derek Drymon</actor>
-      <actor>Dee Bradley Baker</actor>
-    </credits>
-    <icon src="https://cdn.mitvstatic.com/programs/ar_bob-esponja-s12e11-cuidado-con-la-brecha-la-burbuja-sucia-regresa_l_l.jpg" />
-    <episode-num system="onscreen">S12 E11</episode-num>
-    <rating>
-      <value>Todas las edades</value>
-    </rating>
   </programme>
   <programme start="20260815061000 +0000" stop="20260815063500 +0000" channel="Nickelodeon.ar">
     <title lang="es">Los Marsupilamis</title>
@@ -133966,14 +133574,6 @@ Repetición</title>
     <category lang="es">Sociológicos</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
-  <programme start="20260814010000 -0400" stop="20260814025500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260814025500 -0400" stop="20260814030000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">The Travel Show</title>
-    <desc lang="en">Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.(n)</desc>
-  </programme>
   <programme start="20260814030000 -0400" stop="20260814043000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -134253,18 +133853,6 @@ Repetición</title>
   <programme start="20260815213000 -0400" stop="20260815220000 -0400" channel="BBCWorldNews.us">
     <title lang="en">What Happened at Chernobyl</title>
     <desc lang="en">Jordan Dunbar travels to Chernobyl to explore events that caused one of the world's worst nuclear disaster and to understand what we can learn from them.(n)</desc>
-  </programme>
-  <programme start="20260814010000 -0400" stop="20260814020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Gutfeld!</title>
-    <desc lang="en">Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.(n)</desc>
-  </programme>
-  <programme start="20260814020000 -0400" stop="20260814030000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Fox News at Night</title>
-    <desc lang="en">Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.(n)</desc>
-  </programme>
-  <programme start="20260814030000 -0400" stop="20260814040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX &amp; Friends First</title>
-    <desc lang="en">Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.(n)</desc>
   </programme>
   <programme start="20260814040000 -0400" stop="20260814070000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">FOX and Friends</title>
@@ -165865,26 +165453,8 @@ En Vivo</title>
   </programme>
   <programme start="20260814173000 -0500" stop="20260814190000 -0500" channel="ImagenTv.mx">
     <title lang="es">Legado de amor</title>
-    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
-    <credits>
-      <actor>Halil Ibrahim Ceyhan</actor>
-      <actor>Sila Turkoglu</actor>
-      <actor>Berat Rüzgar Özkan</actor>
-      <actor>Melih Ozkaya</actor>
-      <actor>Tolga Pancaroglu</actor>
-      <actor>Ömer Gecü</actor>
-      <actor>Derya Oguz Ertün</actor>
-      <actor>Oguz Yagci</actor>
-      <actor>Binnaz Ekren</actor>
-      <actor>Özge Agyar</actor>
-      <actor>Ayhan Özen</actor>
-      <actor>Basak Yazi Odasi</actor>
-      <actor>Nazmiye Yilmaz</actor>
-    </credits>
-    <date>2020</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22885993.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260814190000 -0500" stop="20260814203000 -0500" channel="ImagenTv.mx">
     <title lang="es">El rico y Lázaro</title>
@@ -166153,7 +165723,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992791777.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260815090000 -0500" stop="20260815093000 -0500" channel="ImagenTv.mx">
+  <programme start="20260815090000 -0500" stop="20260815094500 -0500" channel="ImagenTv.mx">
     <title lang="es">CV directo</title>
     <desc lang="es">Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal.(n)</desc>
     <date>2000</date>
@@ -166161,7 +165731,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992791777.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260815093000 -0500" stop="20260815100000 -0500" channel="ImagenTv.mx">
+  <programme start="20260815094500 -0500" stop="20260815100000 -0500" channel="ImagenTv.mx">
     <title lang="es">Sale el sol para todos</title>
     <desc lang="es">Revive los mejores momentos de la semana de 'Sale el sol' en este resumen que recapitula lo mas importante sólo para ti.(n)</desc>
     <credits>
@@ -166219,22 +165789,23 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/43554074.jpg" />
     <country lang="es">Corea del Sur</country>
   </programme>
-  <programme start="20260815124500 -0500" stop="20260815163000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Cine</title>
-    <desc lang="es">Selección de las mejores películas del mundo.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Película</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991598843.jpg" />
+  <programme start="20260815124500 -0500" stop="20260815143000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Al fin de primera mano</title>
+    <desc lang="es">Programa de opinión sobre el mundo de los espectáculos. Hechos y secretos del mundo de la farándula donde lo que más importa es la opinión del público. Un equipo de expertos analiza y comenta la actualidad, los conflictos y mucho más.(n)</desc>
+    <credits>
+      <actor>Lalo Carrillo</actor>
+      <actor>Addis Tuñon</actor>
+      <actor>Erika González</actor>
+      <actor>Gustavo Adolfo Infante</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22199798.jpg" />
+    <country lang="es">México</country>
   </programme>
-  <programme start="20260815163000 -0500" stop="20260815191000 -0500" channel="ImagenTv.mx">
-    <title lang="es">A confirmar</title>
-    <desc lang="es">Programación a confirmar.(n)</desc>
-    <date>2025</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53554890.jpg" />
-  </programme>
-  <programme start="20260815191000 -0500" stop="20260815200000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Lo mejor de Rocío a tu lado</title>
+  <programme start="20260815143000 -0500" stop="20260815160000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Lo mejor de Rocío a tu lado - Sábado</title>
+    <sub-title lang="es">Sábado</sub-title>
     <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el que podrás acercarte para hablar de todo lo que te preocupa.(n)</desc>
     <credits>
       <actor>Rocío Sánchez Azuara</actor>
@@ -166244,8 +165815,50 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/55574868.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260815200000 -0500" stop="20260815211000 -0500" channel="ImagenTv.mx">
+  <programme start="20260815160000 -0500" stop="20260815175500 -0500" channel="ImagenTv.mx">
+    <title lang="es">Diamante de ilusiones</title>
+    <desc lang="es">Mickey Tussler vive con su familia en una granja, tiene 18 años y padece de síndrome de Asperger, pero tiene una capacidad especial: lanzar manzanas a una velocidad increíble.(n)</desc>
+    <credits>
+      <actor>Luke Schroder</actor>
+      <actor>Dean Cain</actor>
+      <actor>George Canyon</actor>
+      <actor>Jarod Joseph</actor>
+      <actor>Jesse Hutch</actor>
+      <actor>Andrew Wheeler</actor>
+      <actor>Jaren Brandt Bartlett</actor>
+      <actor>Anna Mae Wills</actor>
+      <actor>Matthew Robert Kelly</actor>
+      <actor>Chilton Crane</actor>
+      <actor>William Dear</actor>
+      <actor>Jason Koornick</actor>
+      <actor>Jack Nasser</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18753476.jpg" />
+    <country lang="es">Canadá</country>
+  </programme>
+  <programme start="20260815175500 -0500" stop="20260815180000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Previa - Liga Mexicana de Béisbol</title>
+    <sub-title lang="es">Playoffs, Kickapoo Lucky Eagle Stadium</sub-title>
+    <desc lang="es">Vive la previa de los partidos de la 101º edición de la Liga Mexicana de Béisbol. Los amantes del deporte podrán disfrutar de una competición en la que 20 equipos compiten por el máximo honor.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992287796.jpg" />
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20260815180000 -0500" stop="20260815210000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Liga Mexicana de Béisbol</title>
+    <sub-title lang="es">Playoffs, Kickapoo Lucky Eagle Stadium</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 101º edición de la Liga Mexicana de Béisbol, en la cual participan 20 equipos y que contará con dos instancias de competencia: temporada regular y playoffs.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989336728.jpg" />
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20260815210000 -0500" stop="20260815223000 -0500" channel="ImagenTv.mx">
     <title lang="es">El minuto que cambió mi destino: sin censura</title>
+    <sub-title lang="es">Invitado: Eduardo Yañez</sub-title>
     <desc lang="es">Conoce la historia detrás del espectáculo, totalmente SIN CENSURA.(n)</desc>
     <credits>
       <actor>Gustavo Adolfo</actor>
@@ -166255,18 +165868,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992810956.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260815211000 -0500" stop="20260815224500 -0500" channel="ImagenTv.mx">
-    <title lang="es">El minuto que cambió mi destino: sin censura</title>
-    <desc lang="es">Conoce la historia detrás del espectáculo, totalmente SIN CENSURA.(n)</desc>
-    <credits>
-      <actor>Gustavo Adolfo</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Entrevista</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992810956.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20260815224500 -0500" stop="20260815233000 -0500" channel="ImagenTv.mx">
+  <programme start="20260815223000 -0500" stop="20260815233000 -0500" channel="ImagenTv.mx">
     <title lang="es">De la que pica</title>
     <desc lang="es">Javier Niño conduce un programa de entrevistas con grandes personalidades del mundo del futbol mexicano. A través de la charla, los futbolistas reflexionan sobre sus carreras, sobre el deporte actual y mucho más.(n)</desc>
     <credits>
@@ -166424,7 +166026,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992791777.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260816090000 -0500" stop="20260816093000 -0500" channel="ImagenTv.mx">
+  <programme start="20260816090000 -0500" stop="20260816094500 -0500" channel="ImagenTv.mx">
     <title lang="es">CV directo</title>
     <desc lang="es">Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal.(n)</desc>
     <date>2000</date>
@@ -166432,7 +166034,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992791777.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260816093000 -0500" stop="20260816100000 -0500" channel="ImagenTv.mx">
+  <programme start="20260816094500 -0500" stop="20260816100000 -0500" channel="ImagenTv.mx">
     <title lang="es">Sale el sol para todos</title>
     <desc lang="es">Revive los mejores momentos de la semana de 'Sale el sol' en este resumen que recapitula lo mas importante sólo para ti.(n)</desc>
     <credits>
@@ -166490,22 +166092,23 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/43554074.jpg" />
     <country lang="es">Corea del Sur</country>
   </programme>
-  <programme start="20260816124500 -0500" stop="20260816163000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Cine</title>
-    <desc lang="es">Selección de las mejores películas del mundo.(n)</desc>
-    <date>2020</date>
-    <category lang="es">Película</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991598843.jpg" />
+  <programme start="20260816124500 -0500" stop="20260816143000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Al fin de primera mano</title>
+    <desc lang="es">Programa de opinión sobre el mundo de los espectáculos. Hechos y secretos del mundo de la farándula donde lo que más importa es la opinión del público. Un equipo de expertos analiza y comenta la actualidad, los conflictos y mucho más.(n)</desc>
+    <credits>
+      <actor>Lalo Carrillo</actor>
+      <actor>Addis Tuñon</actor>
+      <actor>Erika González</actor>
+      <actor>Gustavo Adolfo Infante</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22199798.jpg" />
+    <country lang="es">México</country>
   </programme>
-  <programme start="20260816163000 -0500" stop="20260816191000 -0500" channel="ImagenTv.mx">
-    <title lang="es">A confirmar</title>
-    <desc lang="es">Programación a confirmar.(n)</desc>
-    <date>2025</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53554890.jpg" />
-  </programme>
-  <programme start="20260816191000 -0500" stop="20260816200000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Lo mejor de Rocío a tu lado</title>
+  <programme start="20260816143000 -0500" stop="20260816160000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Lo mejor de Rocío a tu lado - Sábado</title>
+    <sub-title lang="es">Sábado</sub-title>
     <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el que podrás acercarte para hablar de todo lo que te preocupa.(n)</desc>
     <credits>
       <actor>Rocío Sánchez Azuara</actor>
@@ -166515,8 +166118,50 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/55574868.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260816200000 -0500" stop="20260816211000 -0500" channel="ImagenTv.mx">
+  <programme start="20260816160000 -0500" stop="20260816175500 -0500" channel="ImagenTv.mx">
+    <title lang="es">Diamante de ilusiones</title>
+    <desc lang="es">Mickey Tussler vive con su familia en una granja, tiene 18 años y padece de síndrome de Asperger, pero tiene una capacidad especial: lanzar manzanas a una velocidad increíble.(n)</desc>
+    <credits>
+      <actor>Luke Schroder</actor>
+      <actor>Dean Cain</actor>
+      <actor>George Canyon</actor>
+      <actor>Jarod Joseph</actor>
+      <actor>Jesse Hutch</actor>
+      <actor>Andrew Wheeler</actor>
+      <actor>Jaren Brandt Bartlett</actor>
+      <actor>Anna Mae Wills</actor>
+      <actor>Matthew Robert Kelly</actor>
+      <actor>Chilton Crane</actor>
+      <actor>William Dear</actor>
+      <actor>Jason Koornick</actor>
+      <actor>Jack Nasser</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18753476.jpg" />
+    <country lang="es">Canadá</country>
+  </programme>
+  <programme start="20260816175500 -0500" stop="20260816180000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Previa - Liga Mexicana de Béisbol</title>
+    <sub-title lang="es">Playoffs, Kickapoo Lucky Eagle Stadium</sub-title>
+    <desc lang="es">Vive la previa de los partidos de la 101º edición de la Liga Mexicana de Béisbol. Los amantes del deporte podrán disfrutar de una competición en la que 20 equipos compiten por el máximo honor.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992287796.jpg" />
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20260816180000 -0500" stop="20260816210000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Liga Mexicana de Béisbol</title>
+    <sub-title lang="es">Playoffs, Kickapoo Lucky Eagle Stadium</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 101º edición de la Liga Mexicana de Béisbol, en la cual participan 20 equipos y que contará con dos instancias de competencia: temporada regular y playoffs.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989336728.jpg" />
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20260816210000 -0500" stop="20260816223000 -0500" channel="ImagenTv.mx">
     <title lang="es">El minuto que cambió mi destino: sin censura</title>
+    <sub-title lang="es">Invitado: Eduardo Yañez</sub-title>
     <desc lang="es">Conoce la historia detrás del espectáculo, totalmente SIN CENSURA.(n)</desc>
     <credits>
       <actor>Gustavo Adolfo</actor>
@@ -166526,18 +166171,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992810956.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260816211000 -0500" stop="20260816224500 -0500" channel="ImagenTv.mx">
-    <title lang="es">El minuto que cambió mi destino: sin censura</title>
-    <desc lang="es">Conoce la historia detrás del espectáculo, totalmente SIN CENSURA.(n)</desc>
-    <credits>
-      <actor>Gustavo Adolfo</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Entrevista</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992810956.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20260816224500 -0500" stop="20260816233000 -0500" channel="ImagenTv.mx">
+  <programme start="20260816223000 -0500" stop="20260816233000 -0500" channel="ImagenTv.mx">
     <title lang="es">De la que pica</title>
     <desc lang="es">Javier Niño conduce un programa de entrevistas con grandes personalidades del mundo del futbol mexicano. A través de la charla, los futbolistas reflexionan sobre sus carreras, sobre el deporte actual y mucho más.(n)</desc>
     <credits>
@@ -184596,21 +184230,8 @@ En Vivo</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260815060000 -0400" stop="20260815070000 -0400" channel="TELEVEN">
-    <title lang="es">Los Pitufos</title>
-    <desc lang="es">Son unas criaturas azules no mayores a un dedo índice, que viven en una aldea de hongos oculta en el bosque. Gargamel y su gato Azrael, intentarán atraparlos por ser un ingrediente necesario para obtener la piedra filosofal.(n)</desc>
-    <credits>
-      <actor>Davis Freeman</actor>
-      <actor>Youssef El Kaoukibi</actor>
-      <actor>Vincent Broes</actor>
-      <actor>Joshua Rubin</actor>
-      <actor>Jackie Jones</actor>
-      <actor>Sandra Asratian</actor>
-    </credits>
-    <date>2021</date>
+    <title lang="es">Los Pitufos (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20272709.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260815070000 -0400" stop="20260815080000 -0400" channel="TELEVEN">
     <title lang="es">A cada quien su santo</title>
@@ -185214,21 +184835,8 @@ En Vivo</title>
     <episode-num system="onscreen">S1 E53</episode-num>
   </programme>
   <programme start="20260814200000 -0400" stop="20260814210000 -0400" channel="TLT">
-    <title lang="es">La ley de la tierra</title>
-    <desc lang="es">Dos familias, bañadas en el fuego de la venganza, pondrán a prueba el amor de Omer y Leyla. Juntos deberán enfrentar el complicado pasado familiar y sortear el orgullo para alcanzar la felicidad mientras su vínculo se ve amenazado.(n)</desc>
-    <credits>
-      <actor>Serhan Yavas</actor>
-      <actor>Ipek Karapinar</actor>
-      <actor>Sahra Sas</actor>
-      <actor>Emel Göksu</actor>
-      <actor>Engin Yüksel</actor>
-      <actor>Erkan Bektas</actor>
-    </credits>
-    <date>2013</date>
+    <title lang="es">La ley de la tierra (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/39613670.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260814210000 -0400" stop="20260814220000 -0400" channel="TLT">
     <title lang="es">Relaciones complicadas</title>
@@ -185373,42 +184981,12 @@ En Vivo</title>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260815070000 -0400" stop="20260815071000 -0400" channel="TLT">
-    <title lang="es">Snow Snaps</title>
-    <sub-title lang="es">Ballet de nieve</sub-title>
-    <desc lang="es">Cuatro niños pequeños muy diferentes están afuera en la nieve al aire libre. En cada episodio, se enfrentan a un nuevo desafío.(n)</desc>
-    <credits>
-      <actor>Ella Rose Coderre</actor>
-      <actor>Kimia Esfahani</actor>
-      <actor>Satine Scarlett Montaz</actor>
-      <actor>Benoit Godbout</actor>
-      <actor>Richard M Dumont</actor>
-      <actor>Paul Risacher</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Snow Snaps (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9392746.jpg" />
-    <country lang="es">Canadá</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260815071000 -0400" stop="20260815072000 -0400" channel="TLT">
-    <title lang="es">VIPO</title>
-    <sub-title lang="es">México</sub-title>
-    <desc lang="es">Vipo es un perro muy especial, que puede usar sus enormes orejas para volar. Junto con sus amigos, la cigüeña Henry y la gata de peluche Betty, parte de Vipolandia para explorar el mundo real.(n)</desc>
-    <credits>
-      <actor>Nitzan Sitzer</actor>
-      <actor>Dahlia Lynn</actor>
-      <actor>Danielle Bilberg</actor>
-      <actor>Ido Angel</actor>
-      <actor>Eran Barel</actor>
-      <actor>Yaakov Chai</actor>
-    </credits>
-    <date>2007</date>
+    <title lang="es">VIPO (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/50524937.jpg" />
-    <country lang="es">Israel</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260815072000 -0400" stop="20260815074000 -0400" channel="TLT">
     <title lang="es">Filly Funtasia</title>
@@ -185661,23 +185239,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260815200000 -0400" stop="20260815203000 -0400" channel="TLT">
-    <title lang="es">Historias de diván</title>
-    <sub-title lang="es">Novia fugitiva</sub-title>
-    <desc lang="es">Unitario basado en las obras del psicoanalista Gabriel Rolón. 26 relatos basados en casos reales de individuos que atraviesan graves situaciones pero que a la vez están dispuestos a luchar para salir del sufrimiento que éstas le causan.(n)</desc>
-    <credits>
-      <actor>Jorge Marrale</actor>
-      <actor>Arturo Goetz</actor>
-      <actor>Pablo Rago</actor>
-      <actor>Susú Pecoraro</actor>
-      <actor>Alejandro Awada</actor>
-      <actor>Luis Ziembroswki</actor>
-    </credits>
-    <date>2013</date>
+    <title lang="es">Historias de diván (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3734453.jpg" />
-    <country lang="es">Argentina</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260815203000 -0400" stop="20260815204000 -0400" channel="TLT">
     <title lang="es">De héroes a villanos</title>
@@ -185689,23 +185252,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260815204000 -0400" stop="20260815220000 -0400" channel="TLT">
-    <title lang="es">Los archivos del cardenal</title>
-    <sub-title lang="es">Manuel entra en la clandestinidad</sub-title>
-    <desc lang="es">Chile, años 80. Durante la dictadura de Pinochet, Ramón Sarmiento y Laura Pedregal se encuentran en el momento justo para empezar una serie de investigaciones que los llevarán a las entrañas de un capítulo oscuro en la historia chilena.(n)</desc>
-    <credits>
-      <actor>Benjamín Vicuña</actor>
-      <actor>Daniela Ramírez</actor>
-      <actor>Néstor Cantillana</actor>
-      <actor>Paulina García</actor>
-      <actor>Francisco Melo</actor>
-      <actor>Edgardo Bruna</actor>
-    </credits>
-    <date>2011</date>
+    <title lang="es">Los archivos del cardenal (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12599320.jpg" />
-    <country lang="es">Chile</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260815220000 -0400" stop="20260816000000 -0400" channel="TLT">
     <title lang="es">Carlos, rey emperador</title>
@@ -186023,21 +185571,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2426307.jpg" />
   </programme>
   <programme start="20260814190000 -0400" stop="20260814193000 -0400" channel="TV FAMILIA">
-    <title lang="es">Tres por tres</title>
-    <desc lang="es">Una cómica mirada al hogar en el que tres hombres jóvenes y solteros experimentan las delicias de ser padres mientras se encargan de la crianza de tres adorables niñas.(n)</desc>
-    <credits>
-      <actor>John Stamos</actor>
-      <actor>B Saget</actor>
-      <actor>Dave Coulier</actor>
-      <actor>Jodie Sweetin</actor>
-      <actor>Mary-Kate Olsen</actor>
-      <actor>Ashley Olsen</actor>
-    </credits>
-    <date>1987</date>
+    <title lang="es">Tres por tres (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20574020.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260814193000 -0400" stop="20260814200000 -0400" channel="TV FAMILIA">
     <title lang="es">Los cuentos del tío Pepe</title>
@@ -186281,21 +185816,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2426307.jpg" />
   </programme>
   <programme start="20260815090000 -0400" stop="20260815100000 -0400" channel="TV FAMILIA">
-    <title lang="es">El toque de un ángel</title>
-    <desc lang="es">Esta serie recrea la vida de un ángel moderno que inspira a la gente que atraviesa períodos difíciles a cambiar sus vidas antes que sea demasiado tarde.(n)</desc>
-    <credits>
-      <actor>Della Reese</actor>
-      <actor>John Dye</actor>
-      <actor>Valerie Bertinelli</actor>
-      <actor>Gavin Sheehan</actor>
-      <actor>Alexis Cruz</actor>
-      <actor>Charles Rocket</actor>
-    </credits>
-    <date>1994</date>
+    <title lang="es">El toque de un ángel (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2666753.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260815100000 -0400" stop="20260815113000 -0400" channel="TV FAMILIA">
     <title lang="es">De retiro con la voz de Jesús</title>
@@ -186392,21 +185914,8 @@ En Vivo</title>
     <country lang="es">España</country>
   </programme>
   <programme start="20260815163000 -0400" stop="20260815173000 -0400" channel="TV FAMILIA">
-    <title lang="es">La pequeña casa de la pradera</title>
-    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.(n)</desc>
-    <credits>
-      <actor>Michael Landon</actor>
-      <actor>Melissa Gilbert</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-    </credits>
-    <date>1974</date>
+    <title lang="es">La pequeña casa de la pradera (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55024418.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260815173000 -0400" stop="20260815180000 -0400" channel="TV FAMILIA">
     <title lang="es">El santo rosario</title>
@@ -186659,22 +186168,12 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/6299223.jpg" />
   </programme>
   <programme start="20260814150000 -0400" stop="20260814153000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260814153000 -0400" stop="20260814160000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260814160000 -0400" stop="20260814163000 -0400" channel="TVES">
     <title lang="es">Bloque infantil</title>
@@ -187530,11 +187029,8 @@ En Vivo</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260814150000 -0400" stop="20260814160000 -0400" channel="VENEVISION">
-    <title lang="es">¡Siéntese quien pueda!</title>
-    <desc lang="es">El primer reality show en el que participan periodistas y miembros de la farándula, quienes comentan y arman polémica sobre las noticias más actuales de ese medio y la cultura pop.(n)</desc>
-    <date>2022</date>
+    <title lang="es">¡Siéntese quien pueda! (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20260814160000 -0400" stop="20260814170000 -0400" channel="VENEVISION">
     <title lang="es">La rosa de Guadalupe</title>
@@ -187721,8 +187217,21 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260815060000 -0400" stop="20260815070000 -0400" channel="VENEVISION">
-    <title lang="es">El Chapulín Colorado (?)</title>
+    <title lang="es">El Chapulín Colorado</title>
+    <desc lang="es">Sigue las aventuras de este héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón.(n)</desc>
+    <credits>
+      <actor>Roberto Gómez Bolaños</actor>
+      <actor>Florinda Meza</actor>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Carlos Villagrán</actor>
+      <actor>Rubén Aguirre</actor>
+    </credits>
+    <date>1973</date>
     <category lang="es">Comedia</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822850.jpg" />
+    <country lang="es">México</country>
   </programme>
   <programme start="20260815070000 -0400" stop="20260815080000 -0400" channel="VENEVISION">
     <title lang="es">Noticiero Venevisión</title>
