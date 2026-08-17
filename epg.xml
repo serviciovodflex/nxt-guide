@@ -12591,17 +12591,7 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260817060000 -0400" stop="20260817073000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La batidora</title>
-    <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
-    <credits>
-      <actor>Daniel Pesce</actor>
-      <actor>Grisel Quiroga</actor>
-      <actor>Ronald Arnez</actor>
-      <actor>Eloisa Gutierrez</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
+    <title lang="es">La batidora (?)</title>
   </programme>
   <programme start="20260817073000 -0400" stop="20260817090000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Los Simpson</title>
@@ -12628,21 +12618,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260817110000 -0400" stop="20260817120000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260817120000 -0400" stop="20260817130000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Caso cerrado</title>
@@ -12731,34 +12708,12 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260817184500 -0400" stop="20260817201500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260817201500 -0400" stop="20260817204500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Enemigo íntimo (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260817204500 -0400" stop="20260817210000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís media noche</title>
@@ -12840,21 +12795,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260818110000 -0400" stop="20260818120000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260818120000 -0400" stop="20260818130000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Caso cerrado</title>
@@ -12947,21 +12889,8 @@ Repetición</title>
     <category lang="es">Reality Show</category>
   </programme>
   <programme start="20260818201500 -0400" stop="20260818204500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Enemigo íntimo (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260818204500 -0400" stop="20260818210000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís media noche</title>
@@ -13129,34 +13058,12 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260817184500 -0400" stop="20260817201500 -0400" channel="UNITEL">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260817201500 -0400" stop="20260817204500 -0400" channel="UNITEL">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Enemigo íntimo (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260817204500 -0400" stop="20260817210000 -0400" channel="UNITEL">
     <title lang="es">Telepaís media noche</title>
@@ -13213,21 +13120,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20260818073000 -0400" stop="20260818090000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260818090000 -0400" stop="20260818110000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -13341,34 +13235,12 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260818184500 -0400" stop="20260818201500 -0400" channel="UNITEL">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260818201500 -0400" stop="20260818204500 -0400" channel="UNITEL">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Enemigo íntimo (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260818204500 -0400" stop="20260818210000 -0400" channel="UNITEL">
     <title lang="es">Telepaís media noche</title>
@@ -13403,20 +13275,7 @@ Repetición</title>
     <country lang="es">España</country>
   </programme>
   <programme start="20260816233000 -0400" stop="20260817003000 -0400" channel="BOLIVISION">
-    <title lang="es">Mar de plástico</title>
-    <desc lang="es">En el sur de España, en una región mediterránea repleta de invernaderos, se comete un crimen. Durante la investigación, surge una historia de amor entre Lucas, un joven con prejuicios raciales, y una inmigrante negra.(n)</desc>
-    <credits>
-      <actor>Belén López</actor>
-      <actor>Pedro Casablanc</actor>
-      <actor>Luis Fernández</actor>
-      <actor>Patrick Criado</actor>
-      <actor>Nya de la Rubia</actor>
-      <actor>Jesús Castro</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/39845046.jpg" />
-    <country lang="es">España</country>
+    <title lang="es">Mar de plástico (?)</title>
   </programme>
   <programme start="20260817003000 -0400" stop="20260817013000 -0400" channel="BOLIVISION">
     <title lang="es">Misterios de Laura</title>
@@ -14046,21 +13905,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/40982392.jpg" />
   </programme>
   <programme start="20260817133000 -0400" stop="20260817140000 -0400" channel="RED UNO">
-    <title lang="es">El Chavo del 8</title>
-    <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.(n)</desc>
-    <credits>
-      <actor>Roberto Gómez Bolaños</actor>
-      <actor>Ramón Valdez</actor>
-      <actor>Carlos Villagrán</actor>
-      <actor>Florinda Meza</actor>
-      <actor>María Antonieta de las Nieves</actor>
-      <actor>Edgar Vivar</actor>
-    </credits>
-    <date>1973</date>
+    <title lang="es">El Chavo del 8 (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822699.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260817140000 -0400" stop="20260817155500 -0400" channel="RED UNO">
     <title lang="es">Dueños de la tarde</title>
@@ -55524,103 +55370,13 @@ Repetición</title>
   </programme>
   <programme start="20260819165000 -0500" stop="20260819174000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Toda la oscuridad</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260819174000 -0500" stop="20260819183000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Ella tiene algo especial</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260819183000 -0500" stop="20260819192000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón La ley y el orden: UVE</title>
@@ -58538,26 +58294,8 @@ Repetición</title>
   </programme>
   <programme start="20260819112500 -0500" stop="20260819115000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <sub-title lang="es">El almuerzo de los corresponsales</sub-title>
-    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
-    <credits>
-      <actor>Amy Poehler</actor>
-      <actor>Nick Offerman</actor>
-      <actor>Aubrey Plaza</actor>
-      <actor>Chris Pratt</actor>
-      <actor>Aziz Ansari</actor>
-      <actor>Jim O'Heir</actor>
-      <actor>Rashida Jones</actor>
-      <actor>Adam Scott</actor>
-      <actor>Retta</actor>
-      <actor>Rob Lowe</actor>
-      <actor>Greg Daniels</actor>
-      <actor>Michael Schur</actor>
-    </credits>
-    <date>2009</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992187323.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260819115000 -0500" stop="20260819121500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
@@ -59599,20 +59337,8 @@ Repetición</title>
   </programme>
   <programme start="20260817154000 -0500" stop="20260817160500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">Siempre es más oscuro antes del amanecer</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260817160500 -0500" stop="20260817163000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
@@ -59951,20 +59677,8 @@ Repetición</title>
   </programme>
   <programme start="20260818005000 -0500" stop="20260818011000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">El novato y yo</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260818011000 -0500" stop="20260818013000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
@@ -60032,20 +59746,8 @@ Repetición</title>
   </programme>
   <programme start="20260818030000 -0500" stop="20260818032500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">Matt el supervisor</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260818032500 -0500" stop="20260818034500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
@@ -62776,36 +62478,8 @@ Repetición</title>
   </programme>
   <programme start="20260818150000 -0500" stop="20260818154500 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Blkpill</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260818154500 -0500" stop="20260818163000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
@@ -63377,27 +63051,8 @@ Repetición</title>
   </programme>
   <programme start="20260819092000 -0500" stop="20260819101000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">El Conde de Montecristo</title>
-    <sub-title lang="es">El castillo</sub-title>
-    <desc lang="es">Edmond, un marinero acusado falsamente de traición, es encarcelado en el castillo de If, frente a las costas de Marsella. Tras escapar y adoptar la identidad del Conde de Montecristo, planea vengarse de quienes lo acusaron injustamente.(n)</desc>
-    <credits>
-      <actor>Sam Claflin</actor>
-      <actor>Mikkel Boe Følsgaard</actor>
-      <actor>Ana Girardot</actor>
-      <actor>Blake Ritson</actor>
-      <actor>Karla-Simone Spence</actor>
-      <actor>Lino Guanciale</actor>
-      <actor>Michele Riondino</actor>
-      <actor>Gabriella Pession</actor>
-      <actor>Harry Taurasi</actor>
-      <actor>Poppy Corby-Tuech</actor>
-      <actor>Bille August</actor>
-      <actor>Greg Latter</actor>
-      <actor>Sandro Petraglia</actor>
-    </credits>
-    <date>2024</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990820997.jpg" />
-    <country lang="es">Francia</country>
   </programme>
   <programme start="20260819101000 -0500" stop="20260819110000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">The Lazarus Project</title>
@@ -77112,21 +76767,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260817111500 -0300" stop="20260817134000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260817134000 -0300" stop="20260817141000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260817141000 -0300" stop="20260817143500 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20260817143500 -0300" stop="20260817153500 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -85471,14 +85111,6 @@ En Vivo</title>
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20260817010000 -0400" stop="20260817020000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">FIM Motocross World Championship: MX2 of Sweden</title>
-    <desc lang="en">No details are there for this program.(n)</desc>
-  </programme>
-  <programme start="20260817020000 -0400" stop="20260817030000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">FIM Motocross World Championship: MXGP of Sweden</title>
-    <desc lang="en">No details are there for this program.(n)</desc>
-  </programme>
   <programme start="20260817030000 -0400" stop="20260817043000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">2026 Women's FIH Hockey World Cup: United States vs. Scotland</title>
     <desc lang="en">From Belfius Hockey Arena in Waver, Belgium.(n)</desc>
@@ -85586,18 +85218,6 @@ En Vivo</title>
   <programme start="20260818210000 -0400" stop="20260818220000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Inside College Football: Big Ten Preview</title>
     <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.(n)</desc>
-  </programme>
-  <programme start="20260817000000 -0400" stop="20260817013000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">NBA TV's the Doctor</title>
-    <desc lang="en">An original documentary exploring the life and legacy of basketball legend Julius "Dr. J" Erving.(n)</desc>
-  </programme>
-  <programme start="20260817013000 -0400" stop="20260817033000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">WNBA Shot Clock: Games of the Week: 8/7-8/13</title>
-    <desc lang="en">The best WNBA games of the week in a condensed format.(n)</desc>
-  </programme>
-  <programme start="20260817033000 -0400" stop="20260817040000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Chasing History: West Opening Round</title>
-    <desc lang="en">An inside all-access look at the top storylines and moments including Wemby's debut, LeBron James and the resurgent Lakers, a dominant Thunder D and the riveting rivalry between the Nuggets and Wolves.(n)</desc>
   </programme>
   <programme start="20260817040000 -0400" stop="20260817043000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">Chasing History: East Opening Round</title>
@@ -137888,14 +137508,6 @@ Repetición</title>
     <category lang="es">Antropológicos</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5e/20020062.png" />
   </programme>
-  <programme start="20260817010000 -0400" stop="20260817025500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260817025500 -0400" stop="20260817030000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled; Nick Kwek is at the Imperial War Museum in London to hear how survivor stories are brought to life.(n)</desc>
-  </programme>
   <programme start="20260817030000 -0400" stop="20260817043000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -138055,18 +137667,6 @@ Repetición</title>
   <programme start="20260817233000 -0400" stop="20260817235500 -0400" channel="BBCWorldNews.us">
     <title lang="en">Business Today</title>
     <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.(n)</desc>
-  </programme>
-  <programme start="20260817010000 -0400" stop="20260817020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Life, Liberty &amp; Levin</title>
-    <desc lang="en">Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.(n)</desc>
-  </programme>
-  <programme start="20260817020000 -0400" stop="20260817030000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Sunday Night in America With Trey Gowdy</title>
-    <desc lang="en">Insightful analysis and a new outlook on the issues facing the country; Trey Gowdy, the former South Carolina Congressman, breaks down the legal and political news.(n)</desc>
-  </programme>
-  <programme start="20260817030000 -0400" stop="20260817040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX &amp; Friends First</title>
-    <desc lang="en">Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.(n)</desc>
   </programme>
   <programme start="20260817040000 -0400" stop="20260817070000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">FOX and Friends</title>
@@ -144926,8 +144526,12 @@ En Vivo</title>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
   <programme start="20260817220000 -0400" stop="20260817223000 -0400" channel="CGTN Español">
-    <title lang="es">Diálogo (?)</title>
+    <title lang="es">Diálogo</title>
     <desc lang="es">Convoca a celebridades, eruditos y funcionarios gubernamentales tanto de China como del exterior, para debatir temas de palpitante actualidad e interés general y de proyección internacional.(n)</desc>
+    <credits>
+      <director>Liu Runqiu</director>
+    </credits>
+    <date>2008</date>
     <category lang="es">Entrevistas</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e5/247269.png" />
   </programme>
@@ -170894,7 +170498,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21522475.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260817140000 -0500" stop="20260817160000 -0500" channel="ImagenTv.mx">
+  <programme start="20260817140000 -0500" stop="20260817150000 -0500" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
     <desc lang="es">Crystal Mendívil es la titular de este noticiero dinámico, fresco e innovador, dirigido a todas las generaciones que hoy ven televisión pero también comparten y viralizan todo aquello que les causa impacto.(n)</desc>
     <credits>
@@ -170905,7 +170509,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/27461019.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260817160000 -0500" stop="20260817173000 -0500" channel="ImagenTv.mx">
+  <programme start="20260817150000 -0500" stop="20260817173000 -0500" channel="ImagenTv.mx">
     <title lang="es">De primera mano</title>
     <desc lang="es">Programa de opinión sobre el mundo de los espectáculos. Hechos y secretos del mundo de la farándula donde lo que más importa es tu opinión.(n)</desc>
     <credits>
@@ -170920,26 +170524,8 @@ En Vivo</title>
   </programme>
   <programme start="20260817173000 -0500" stop="20260817190000 -0500" channel="ImagenTv.mx">
     <title lang="es">Legado de amor</title>
-    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
-    <credits>
-      <actor>Halil Ibrahim Ceyhan</actor>
-      <actor>Sila Turkoglu</actor>
-      <actor>Berat Rüzgar Özkan</actor>
-      <actor>Melih Ozkaya</actor>
-      <actor>Tolga Pancaroglu</actor>
-      <actor>Ömer Gecü</actor>
-      <actor>Derya Oguz Ertün</actor>
-      <actor>Oguz Yagci</actor>
-      <actor>Binnaz Ekren</actor>
-      <actor>Özge Agyar</actor>
-      <actor>Ayhan Özen</actor>
-      <actor>Basak Yazi Odasi</actor>
-      <actor>Nazmiye Yilmaz</actor>
-    </credits>
-    <date>2020</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22885993.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260817190000 -0500" stop="20260817203000 -0500" channel="ImagenTv.mx">
     <title lang="es">El rico y Lázaro</title>
@@ -171010,28 +170596,8 @@ En Vivo</title>
   </programme>
   <programme start="20260817213000 -0500" stop="20260817223000 -0500" channel="ImagenTv.mx">
     <title lang="es">Por un amor</title>
-    <desc lang="es">Doga es una joven que se enamora perdidamente de un hombre encantador de una familia devota cuyos valores chocan con los de su madre. Un embarazo inesperado cambiará los planes de vida de Doga, sacudiendo hasta a dos familias diferentes.(n)</desc>
-    <credits>
-      <actor>Sila Turkoglu</actor>
-      <actor>Evrim Alasya</actor>
-      <actor>Dogukan Güngör</actor>
-      <actor>Ceren Yalazoglu</actor>
-      <actor>Feyza Civelek</actor>
-      <actor>Emrah Altintoprak</actor>
-      <actor>Rahimcan Kapkap</actor>
-      <actor>Aliye Uzunatagan</actor>
-      <actor>Soydan Soydas</actor>
-      <actor>Sevim Erdogan</actor>
-      <actor>Ketche</actor>
-      <actor>Melis Civelek</actor>
-      <actor>Faruk Turgut</actor>
-      <actor>Merve Göntem</actor>
-      <actor>Zeynep Gür</actor>
-    </credits>
-    <date>2022</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/47563130.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260817223000 -0500" stop="20260817231000 -0500" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -171056,7 +170622,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12451813.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260817234000 -0500" stop="20260818000000 -0500" channel="ImagenTv.mx">
+  <programme start="20260817234000 -0500" stop="20260818001000 -0500" channel="ImagenTv.mx">
     <title lang="es">Farmacias similares</title>
     <desc lang="es">Espacio infomercial.(n)</desc>
     <date>2000</date>
@@ -171064,7 +170630,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/8300750.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260818000000 -0500" stop="20260818003000 -0500" channel="ImagenTv.mx">
+  <programme start="20260818001000 -0500" stop="20260818003000 -0500" channel="ImagenTv.mx">
     <title lang="es">Farmacias similares</title>
     <desc lang="es">Espacio infomercial.(n)</desc>
     <date>2000</date>
@@ -171229,7 +170795,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21522475.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260818140000 -0500" stop="20260818160000 -0500" channel="ImagenTv.mx">
+  <programme start="20260818140000 -0500" stop="20260818150000 -0500" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
     <desc lang="es">Crystal Mendívil es la titular de este noticiero dinámico, fresco e innovador, dirigido a todas las generaciones que hoy ven televisión pero también comparten y viralizan todo aquello que les causa impacto.(n)</desc>
     <credits>
@@ -171240,7 +170806,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/27461019.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260818160000 -0500" stop="20260818173000 -0500" channel="ImagenTv.mx">
+  <programme start="20260818150000 -0500" stop="20260818173000 -0500" channel="ImagenTv.mx">
     <title lang="es">De primera mano</title>
     <desc lang="es">Programa de opinión sobre el mundo de los espectáculos. Hechos y secretos del mundo de la farándula donde lo que más importa es tu opinión.(n)</desc>
     <credits>
@@ -171314,13 +170880,64 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10620409.jpg" />
     <country lang="es">Brasil</country>
   </programme>
-  <programme start="20260818200000 -0500" stop="20260818223000 -0500" channel="ImagenTv.mx">
+  <programme start="20260818200000 -0500" stop="20260818203000 -0500" channel="ImagenTv.mx">
     <title lang="es">Leagues Cup</title>
-    <desc lang="es">Vive toda la emoción de los partidos de fútbol de la Leagues Cup en su edición del 2026, la competencia que enfrenta a clubes de la Major League Soccer y la Liga MX.(n)</desc>
-    <date>2026</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Fútbol</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994323566.jpg" />
-    <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260818203000 -0500" stop="20260818213000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Escóndeme</title>
+    <desc lang="es">Mete y Naz, nacidos en familias acomodadas e influyentes, están unidos por una promesa de la infancia. Cuando Mete regresa del extranjero para casarse con Naz, su destino dará un giro tras reencontrarse con Incila, la leal ayudante de Naz.(n)</desc>
+    <credits>
+      <actor>Uraz Kaygilaroglu</actor>
+      <actor>Cemre Baysel</actor>
+      <actor>Asude Kalebek</actor>
+      <actor>Senay Gürler</actor>
+      <actor>Ceyda Düvenci</actor>
+      <actor>Nilüfer Açikalin</actor>
+      <actor>Sevinç Erbulak</actor>
+      <actor>Nizam Namidar</actor>
+      <actor>Göksen Ates</actor>
+      <actor>Kamil Güler</actor>
+      <actor>Nadim Güç</actor>
+      <actor>Gülseren Budayicioglu</actor>
+      <actor>Sinan Çelik</actor>
+      <actor>Armagan Gülsahin</actor>
+      <actor>Onur Güvenatam</actor>
+      <actor>Nergis Otluoglu</actor>
+      <actor>Aysil Tay</actor>
+      <actor>Elif Basaran</actor>
+      <actor>Fuat Mete</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992727244.jpg" />
+    <country lang="es">Turquía</country>
+  </programme>
+  <programme start="20260818213000 -0500" stop="20260818223000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Por un amor</title>
+    <desc lang="es">Doga es una joven que se enamora perdidamente de un hombre encantador de una familia devota cuyos valores chocan con los de su madre. Un embarazo inesperado cambiará los planes de vida de Doga, sacudiendo hasta a dos familias diferentes.(n)</desc>
+    <credits>
+      <actor>Sila Turkoglu</actor>
+      <actor>Evrim Alasya</actor>
+      <actor>Dogukan Güngör</actor>
+      <actor>Ceren Yalazoglu</actor>
+      <actor>Feyza Civelek</actor>
+      <actor>Emrah Altintoprak</actor>
+      <actor>Rahimcan Kapkap</actor>
+      <actor>Aliye Uzunatagan</actor>
+      <actor>Soydan Soydas</actor>
+      <actor>Sevim Erdogan</actor>
+      <actor>Ketche</actor>
+      <actor>Melis Civelek</actor>
+      <actor>Faruk Turgut</actor>
+      <actor>Merve Göntem</actor>
+      <actor>Zeynep Gür</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/47563130.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260818223000 -0500" stop="20260818231000 -0500" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -171345,15 +170962,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12451813.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260818234000 -0500" stop="20260819000000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Farmacias similares</title>
-    <desc lang="es">Espacio infomercial.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Publicidad</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8300750.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20260819000000 -0500" stop="20260819010000 -0500" channel="ImagenTv.mx">
+  <programme start="20260818234000 -0500" stop="20260819010000 -0500" channel="ImagenTv.mx">
     <title lang="es">Farmacias similares</title>
     <desc lang="es">Espacio infomercial.(n)</desc>
     <date>2000</date>
@@ -171510,7 +171119,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21522475.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260819140000 -0500" stop="20260819160000 -0500" channel="ImagenTv.mx">
+  <programme start="20260819140000 -0500" stop="20260819150000 -0500" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
     <desc lang="es">Crystal Mendívil es la titular de este noticiero dinámico, fresco e innovador, dirigido a todas las generaciones que hoy ven televisión pero también comparten y viralizan todo aquello que les causa impacto.(n)</desc>
     <credits>
@@ -171521,7 +171130,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/27461019.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260819160000 -0500" stop="20260819173000 -0500" channel="ImagenTv.mx">
+  <programme start="20260819150000 -0500" stop="20260819173000 -0500" channel="ImagenTv.mx">
     <title lang="es">De primera mano</title>
     <desc lang="es">Programa de opinión sobre el mundo de los espectáculos. Hechos y secretos del mundo de la farándula donde lo que más importa es tu opinión.(n)</desc>
     <credits>
@@ -171536,8 +171145,26 @@ En Vivo</title>
   </programme>
   <programme start="20260819173000 -0500" stop="20260819190000 -0500" channel="ImagenTv.mx">
     <title lang="es">Legado de amor</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
+    <credits>
+      <actor>Halil Ibrahim Ceyhan</actor>
+      <actor>Sila Turkoglu</actor>
+      <actor>Berat Rüzgar Özkan</actor>
+      <actor>Melih Ozkaya</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Derya Oguz Ertün</actor>
+      <actor>Oguz Yagci</actor>
+      <actor>Binnaz Ekren</actor>
+      <actor>Özge Agyar</actor>
+      <actor>Ayhan Özen</actor>
+      <actor>Basak Yazi Odasi</actor>
+      <actor>Nazmiye Yilmaz</actor>
+    </credits>
+    <date>2020</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22885993.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260819190000 -0500" stop="20260819200000 -0500" channel="ImagenTv.mx">
     <title lang="es">El rico y Lázaro</title>
@@ -171577,13 +171204,67 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10620409.jpg" />
     <country lang="es">Brasil</country>
   </programme>
-  <programme start="20260819200000 -0500" stop="20260819223000 -0500" channel="ImagenTv.mx">
+  <programme start="20260819200000 -0500" stop="20260819203000 -0500" channel="ImagenTv.mx">
     <title lang="es">Leagues Cup</title>
     <desc lang="es">Vive toda la emoción de los partidos de fútbol de la Leagues Cup en su edición del 2026, la competencia que enfrenta a clubes de la Major League Soccer y la Liga MX.(n)</desc>
     <date>2026</date>
     <category lang="es">Fútbol</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994323566.jpg" />
     <country lang="es">EE. UU</country>
+  </programme>
+  <programme start="20260819203000 -0500" stop="20260819213000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Escóndeme</title>
+    <desc lang="es">Mete y Naz, nacidos en familias acomodadas e influyentes, están unidos por una promesa de la infancia. Cuando Mete regresa del extranjero para casarse con Naz, su destino dará un giro tras reencontrarse con Incila, la leal ayudante de Naz.(n)</desc>
+    <credits>
+      <actor>Uraz Kaygilaroglu</actor>
+      <actor>Cemre Baysel</actor>
+      <actor>Asude Kalebek</actor>
+      <actor>Senay Gürler</actor>
+      <actor>Ceyda Düvenci</actor>
+      <actor>Nilüfer Açikalin</actor>
+      <actor>Sevinç Erbulak</actor>
+      <actor>Nizam Namidar</actor>
+      <actor>Göksen Ates</actor>
+      <actor>Kamil Güler</actor>
+      <actor>Nadim Güç</actor>
+      <actor>Gülseren Budayicioglu</actor>
+      <actor>Sinan Çelik</actor>
+      <actor>Armagan Gülsahin</actor>
+      <actor>Onur Güvenatam</actor>
+      <actor>Nergis Otluoglu</actor>
+      <actor>Aysil Tay</actor>
+      <actor>Elif Basaran</actor>
+      <actor>Fuat Mete</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Telenovela</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992727244.jpg" />
+    <country lang="es">Turquía</country>
+  </programme>
+  <programme start="20260819213000 -0500" stop="20260819223000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Por un amor</title>
+    <desc lang="es">Doga es una joven que se enamora perdidamente de un hombre encantador de una familia devota cuyos valores chocan con los de su madre. Un embarazo inesperado cambiará los planes de vida de Doga, sacudiendo hasta a dos familias diferentes.(n)</desc>
+    <credits>
+      <actor>Sila Turkoglu</actor>
+      <actor>Evrim Alasya</actor>
+      <actor>Dogukan Güngör</actor>
+      <actor>Ceren Yalazoglu</actor>
+      <actor>Feyza Civelek</actor>
+      <actor>Emrah Altintoprak</actor>
+      <actor>Rahimcan Kapkap</actor>
+      <actor>Aliye Uzunatagan</actor>
+      <actor>Soydan Soydas</actor>
+      <actor>Sevim Erdogan</actor>
+      <actor>Ketche</actor>
+      <actor>Melis Civelek</actor>
+      <actor>Faruk Turgut</actor>
+      <actor>Merve Göntem</actor>
+      <actor>Zeynep Gür</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/47563130.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260819223000 -0500" stop="20260819231000 -0500" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -171608,7 +171289,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12451813.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260819234000 -0500" stop="20260820000000 -0500" channel="ImagenTv.mx">
+  <programme start="20260819234000 -0500" stop="20260820001000 -0500" channel="ImagenTv.mx">
     <title lang="es">Farmacias similares</title>
     <desc lang="es">Espacio infomercial.(n)</desc>
     <date>2000</date>
@@ -191186,8 +190867,15 @@ En Vivo</title>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260817064500 -0400" stop="20260817070000 -0400" channel="TVES">
-    <title lang="es">Expresiones de Fe (?)</title>
+    <title lang="es">Expresiones de Fe</title>
+    <desc lang="es">El pastor Alexis Romero trae para ti en esta emisión un compendio de reflexiones, predicas y meditaciones extraídas de las sagradas escrituras para que puedas conectarte con Dios a través de la oración y el evangelio.(n)</desc>
+    <credits>
+      <actor>Alexis Romero</actor>
+    </credits>
+    <date>2016</date>
     <category lang="es">Religioso</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/23021030.jpg" />
   </programme>
   <programme start="20260817070000 -0400" stop="20260817073000 -0400" channel="TVES">
     <title lang="es">Dibujos animados</title>
@@ -191291,13 +190979,8 @@ En Vivo</title>
     <episode-num system="onscreen">S1 E264</episode-num>
   </programme>
   <programme start="20260817150000 -0400" stop="20260817153000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260817153000 -0400" stop="20260817160000 -0400" channel="TVES">
     <title lang="es">Bloque infantil</title>
@@ -191560,40 +191243,20 @@ En Vivo</title>
     <episode-num system="onscreen">S1 E265</episode-num>
   </programme>
   <programme start="20260818150000 -0400" stop="20260818153000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260818153000 -0400" stop="20260818160000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260818160000 -0400" stop="20260818163000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260818163000 -0400" stop="20260818170000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260818170000 -0400" stop="20260818180000 -0400" channel="TVES">
     <title lang="es">Series TVES</title>
@@ -192751,21 +192414,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20260818160000 -0400" stop="20260818170000 -0400" channel="VENEVISION">
-    <title lang="es">La rosa de Guadalupe</title>
-    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.(n)</desc>
-    <credits>
-      <actor>Milia Nader</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Maru Dueñas</actor>
-      <actor>Aleyda Gallardo</actor>
-      <actor>Miriam Calderón</actor>
-      <actor>Sandra Itzel</actor>
-    </credits>
-    <date>2008</date>
+    <title lang="es">La rosa de Guadalupe (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/54682488.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260818170000 -0400" stop="20260818180000 -0400" channel="VENEVISION">
     <title lang="es">Desiguales</title>
