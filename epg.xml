@@ -13233,16 +13233,7 @@
     </rating>
   </programme>
   <programme start="20260828210000 -0400" stop="20260828214500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
+    <title lang="es">Caso cerrado (?)</title>
   </programme>
   <programme start="20260828214500 -0400" stop="20260829030000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Pare de sufrir</title>
@@ -14263,21 +14254,8 @@
     <country lang="es">España</country>
   </programme>
   <programme start="20260830003000 -0400" stop="20260830013000 -0400" channel="BOLIVISION">
-    <title lang="es">Misterios de Laura</title>
-    <desc lang="es">Laura Lebrel tiene que compatibilizar sus labores de esposa, ama de casa y madre de dos gemelos de cinco años con su trabajo como inspectora de policía. Pero no es una inspectora cualquiera...(n)</desc>
-    <credits>
-      <actor>Oriol Tarrason</actor>
-      <actor>Laura Pamplona</actor>
-      <actor>María Pujalte</actor>
-      <actor>Juan del Pozo</actor>
-      <actor>Fernando Guillén Cuervo</actor>
-      <actor>César Camino</actor>
-    </credits>
-    <date>2009</date>
+    <title lang="es">Misterios de Laura (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4258830.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260830013000 -0400" stop="20260830030000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
@@ -14407,15 +14385,8 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10092289.jpg" />
   </programme>
   <programme start="20260830084000 -0400" stop="20260830093000 -0400" channel="BOLIVISION">
-    <title lang="es">Desafío África</title>
-    <desc lang="es">Reality show colombiano conducido por la actriz Margarita Rosa de Francisco.(n)</desc>
-    <credits>
-      <actor>Margarita Rosa De Francisco</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">Desafío África (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1403297.jpg" />
-    <country lang="es">Colombia</country>
   </programme>
   <programme start="20260830093000 -0400" stop="20260830103000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
@@ -14927,7 +14898,7 @@
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260830054500 -0400" stop="20260830061500 -0400" channel="RED UNO">
-    <title lang="es">Paw Patrol</title>
+    <title lang="es">PAW Patrol</title>
     <desc lang="es">Conoce a un equipo de cachorros liderado por el energético Ryder, que está siempre listo cuando se trata de ayudar en la bulliciosa ciudad de Bahía Aventura.(n)</desc>
     <credits>
       <actor>Alex Thorne</actor>
@@ -14944,7 +14915,7 @@
     <country lang="es">Canadá</country>
   </programme>
   <programme start="20260830061500 -0400" stop="20260830064500 -0400" channel="RED UNO">
-    <title lang="es">Plim plim, un héroe del corazón</title>
+    <title lang="es">Plim Plim: un héroe del corazón</title>
     <desc lang="es">Con su estilo innovador, El payaso Plim Plim: Un héroe del corazón, hace de la simpleza un valor y de la infancia un mundo mágico. Sus historias en formato de fábula incluyen guiños visuales, musicales, cinematográficos y literarios.(n)</desc>
     <credits>
       <actor>Bianca Alencar</actor>
@@ -15054,56 +15025,32 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22787315.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260830110000 -0400" stop="20260830125000 -0400" channel="RED UNO">
-    <title lang="es">Código Paz</title>
-    <desc lang="es">Un vendedor inmobiliario se confabula con una colega del trabajo y un amigo de él, para robar los valores de las casas que venden.(n)</desc>
+  <programme start="20260830110000 -0400" stop="20260830123000 -0400" channel="RED UNO">
+    <title lang="es">A ritmo de fe</title>
+    <desc lang="es">Juan es un bailarín de música urbana y de clase humilde, que por su extraordinario talento, le permiten estudiar en la academia de danza más prestigiosa de la ciudad de Santo Domingo, donde se le avecinarán dificultades.(n)</desc>
     <credits>
-      <actor>Paula Sanchez Ferry</actor>
-      <actor>Héctor Aníbal</actor>
-      <actor>Nashla Bogaert</actor>
-      <actor>Félix Germán</actor>
-      <actor>Isaac Saviñón</actor>
-      <actor>José Cortines</actor>
+      <actor>Mario Peguero</actor>
+      <actor>Hayrold Abreu</actor>
+      <actor>Vladimir Acevedo</actor>
+      <actor>Loraida Bobadilla</actor>
+      <actor>Yamile Scheker</actor>
+      <actor>Raffy Hdz</actor>
     </credits>
-    <date>2014</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Cine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2689794.jpg" />
-    <country lang="es">Rep. Dominicana</country>
-  </programme>
-  <programme start="20260830125000 -0400" stop="20260830143500 -0400" channel="RED UNO">
-    <title lang="es">El último minuto</title>
-    <desc lang="es">Karla luchará con ferviente fe y amor incondicional para que Angie, su sobrina, no llegue al suicidio, mientras enfrenta una enfermedad terminal.(n)</desc>
-    <credits>
-      <actor>Viviana Rodríguez</actor>
-      <actor>Marta Cabeza</actor>
-      <actor>Jorge Negrón</actor>
-      <actor>Julio Román López</actor>
-    </credits>
-    <date>2008</date>
+    <date>2013</date>
     <category lang="es">Drama</category>
     <category lang="es">Cine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/32437186.jpg" />
-    <country lang="es">Puerto Rico</country>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3018292.jpg" />
+    <country lang="es">Rep. Dominicana</country>
   </programme>
-  <programme start="20260830143500 -0400" stop="20260830155000 -0400" channel="RED UNO">
-    <title lang="es">El Chavo del 8</title>
-    <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.(n)</desc>
-    <credits>
-      <actor>Roberto Gómez Bolaños</actor>
-      <actor>Ramón Valdez</actor>
-      <actor>Carlos Villagrán</actor>
-      <actor>Florinda Meza</actor>
-      <actor>María Antonieta de las Nieves</actor>
-      <actor>Edgar Vivar</actor>
-    </credits>
-    <date>1973</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822699.jpg" />
-    <country lang="es">México</country>
+  <programme start="20260830123000 -0400" stop="20260830160000 -0400" channel="RED UNO">
+    <title lang="es">Previa del clásico Paceño y Cruceño</title>
+    <desc lang="es">Un programa que anticipa los clásicos Paceño y Cruceño del fútbol boliviano. A través del espacio, el público podrá informarse al completo sobre el estado de los equipos, la preparación de los jugadores y mucho más.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995224818.jpg" />
   </programme>
-  <programme start="20260830155000 -0400" stop="20260830165500 -0400" channel="RED UNO">
+  <programme start="20260830160000 -0400" stop="20260830165500 -0400" channel="RED UNO">
     <title lang="es">El Chapulín Colorado</title>
     <desc lang="es">Sigue las aventuras de este héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón.(n)</desc>
     <credits>
@@ -15527,11 +15474,8 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260829210000 -0400" stop="20260829210500 -0400" channel="TVU">
-    <title lang="es">Himno Nacional</title>
-    <date>2000</date>
+    <title lang="es">Himno Nacional (?)</title>
     <category lang="es">Cultural</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3615415.jpg" />
   </programme>
   <programme start="20260829210500 -0400" stop="20260829213400 -0400" channel="TVU">
     <title lang="es">Caminando con cavernícolas</title>
@@ -35879,35 +35823,8 @@
   </programme>
   <programme start="20260829043000 -0500" stop="20260829051500 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Herencia</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260829051500 -0500" stop="20260829060000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón La ley y el orden: UVE</title>
@@ -36011,35 +35928,8 @@
   </programme>
   <programme start="20260829074000 -0500" stop="20260829083000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Reunión</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260829083000 -0500" stop="20260829092000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
@@ -36638,47 +36528,8 @@
   </programme>
   <programme start="20260829210000 -0500" stop="20260829215000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón Chicago PD</title>
-    <sub-title lang="es">A toda potencia</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260829215000 -0500" stop="20260829224000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón Chicago PD</title>
@@ -37169,35 +37020,8 @@
   </programme>
   <programme start="20260830092000 -0500" stop="20260830101000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Herencia</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260830101000 -0500" stop="20260830110000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón La ley y el orden: UVE</title>
@@ -37334,29 +37158,8 @@
   </programme>
   <programme start="20260830133000 -0500" stop="20260830142000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">La ley y el orden: crimen organizado</title>
-    <sub-title lang="es">Con muchos nombres</sub-title>
-    <desc lang="es">Elliot Stabler regresa a la policía de Nueva York para luchar contra el crimen organizado después de una devastadora pérdida personal. Su objetivo es encontrar la absolución y reconstruir su vida mientras lidera un nuevo grupo de élite.(n)</desc>
-    <credits>
-      <actor>Christopher Meloni</actor>
-      <actor>Dylan McDermott</actor>
-      <actor>Tamara Taylor</actor>
-      <actor>Danielle Moné Truitt</actor>
-      <actor>Ainsley Seiger</actor>
-      <actor>Ibrahim Renno</actor>
-      <actor>Michael Rivera</actor>
-      <actor>Fred Berner</actor>
-      <actor>John David Coles</actor>
-      <actor>Ken Girotti</actor>
-      <actor>Amy Durning</actor>
-      <actor>Ilene Chaiken</actor>
-      <actor>Warren Leight</actor>
-      <actor>Julie Martin</actor>
-      <actor>Matt Olmstead</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14221305.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260830142000 -0500" stop="20260830151000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Law &amp; Order</title>
@@ -39404,26 +39207,8 @@
   </programme>
   <programme start="20260829214000 -0500" stop="20260829221000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <sub-title lang="es">Halloween IV</sub-title>
-    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
-    <credits>
-      <actor>Terry Crews</actor>
-      <actor>Melissa Fumero</actor>
-      <actor>Joe Lo Truglio</actor>
-      <actor>Dirk Blocker</actor>
-      <actor>Joel McKinnon Miller</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Andre Braugher</actor>
-      <actor>Chelsea Peretti</actor>
-      <actor>Stephanie Beatriz</actor>
-      <actor>Dan Goor</actor>
-      <actor>Michael Schur</actor>
-      <actor>Matt Nodella</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4125186.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260829221000 -0500" stop="20260829224000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
@@ -43131,77 +42916,18 @@
   </programme>
   <programme start="20260829085000 -0500" stop="20260829094000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Señorita 89</title>
-    <sub-title lang="es">Episodio 2</sub-title>
-    <desc lang="es">Diferentes candidatas llegan a la finca La Encantada para convertirse en Señorita México. En el camino descubrirán los oscuros secretos que hay para conseguir la corona.(n)</desc>
-    <credits>
-      <actor>Ilse Salas</actor>
-      <actor>Natasha Dupeyrón</actor>
-      <actor>Leidi Gutiérrez</actor>
-      <actor>Natasha Dupeyron</actor>
-      <actor>Ximena Romo</actor>
-      <actor>Coty Camacho</actor>
-      <actor>Ianis Guerrero</actor>
-      <actor>Ruth Ramos</actor>
-      <actor>Ari Brickman</actor>
-      <actor>Bárbara López</actor>
-      <actor>Juan de Dios Larraín</actor>
-      <actor>Luis Ernesto Franco</actor>
-      <actor>Sílvia Quer</actor>
-      <actor>Jimena Montemayor</actor>
-      <actor>Nicolás Puenzo</actor>
-      <actor>María Reneé Prudencio</actor>
-      <actor>Pablo Larraín</actor>
-    </credits>
-    <date>2022</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27105057.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260829094000 -0500" stop="20260829103000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">El Conde de Montecristo</title>
-    <sub-title lang="es">La habitación roja</sub-title>
-    <desc lang="es">Edmond, un marinero acusado falsamente de traición, es encarcelado en el castillo de If, frente a las costas de Marsella. Tras escapar y adoptar la identidad del Conde de Montecristo, planea vengarse de quienes lo acusaron injustamente.(n)</desc>
-    <credits>
-      <actor>Sam Claflin</actor>
-      <actor>Mikkel Boe Følsgaard</actor>
-      <actor>Ana Girardot</actor>
-      <actor>Blake Ritson</actor>
-      <actor>Karla-Simone Spence</actor>
-      <actor>Lino Guanciale</actor>
-      <actor>Michele Riondino</actor>
-      <actor>Gabriella Pession</actor>
-      <actor>Harry Taurasi</actor>
-      <actor>Poppy Corby-Tuech</actor>
-      <actor>Bille August</actor>
-      <actor>Greg Latter</actor>
-      <actor>Sandro Petraglia</actor>
-    </credits>
-    <date>2024</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990820997.jpg" />
-    <country lang="es">Francia</country>
   </programme>
   <programme start="20260829103000 -0500" stop="20260829112000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">From</title>
-    <sub-title lang="es">Pesada es la cabeza</sub-title>
-    <desc lang="es">Un pueblo del centro de los EEUU que encarcela a todos los que entran. Mientras los residentes luchan por mantener una normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante.(n)</desc>
-    <credits>
-      <actor>Harold Perrineau</actor>
-      <actor>Catalina Sandino Moreno</actor>
-      <actor>Shaun Majumder</actor>
-      <actor>Avery Konrad</actor>
-      <actor>Corteon Moore</actor>
-      <actor>Eion Bailey</actor>
-      <actor>Hannah Cheramy</actor>
-      <actor>Simon Webster</actor>
-      <actor>Jack Bender</actor>
-      <actor>Michael Mahoney</actor>
-      <actor>John Griffin</actor>
-    </credits>
-    <date>2022</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/25069928.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260829112000 -0500" stop="20260829121500 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">From</title>
@@ -44676,47 +44402,13 @@
   </programme>
   <programme start="20260831153500 -0500" stop="20260831163000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">From</title>
-    <sub-title lang="es">Extraños en una tierra extraña</sub-title>
-    <desc lang="es">Un pueblo del centro de los EEUU que encarcela a todos los que entran. Mientras los residentes luchan por mantener una normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante.(n)</desc>
-    <credits>
-      <actor>Harold Perrineau</actor>
-      <actor>Catalina Sandino Moreno</actor>
-      <actor>Shaun Majumder</actor>
-      <actor>Avery Konrad</actor>
-      <actor>Corteon Moore</actor>
-      <actor>Eion Bailey</actor>
-      <actor>Hannah Cheramy</actor>
-      <actor>Simon Webster</actor>
-      <actor>Jack Bender</actor>
-      <actor>Michael Mahoney</actor>
-      <actor>John Griffin</actor>
-    </credits>
-    <date>2022</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/25069928.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831163000 -0500" stop="20260831172000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">From</title>
-    <sub-title lang="es">La amabilidad de los extraños</sub-title>
-    <desc lang="es">Un pueblo del centro de los EEUU que encarcela a todos los que entran. Mientras los residentes luchan por mantener una normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante.(n)</desc>
-    <credits>
-      <actor>Harold Perrineau</actor>
-      <actor>Catalina Sandino Moreno</actor>
-      <actor>Shaun Majumder</actor>
-      <actor>Avery Konrad</actor>
-      <actor>Corteon Moore</actor>
-      <actor>Eion Bailey</actor>
-      <actor>Hannah Cheramy</actor>
-      <actor>Simon Webster</actor>
-      <actor>Jack Bender</actor>
-      <actor>Michael Mahoney</actor>
-      <actor>John Griffin</actor>
-    </credits>
-    <date>2022</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/25069928.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831172000 -0500" stop="20260831181500 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">From</title>
@@ -54786,16 +54478,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260829093000 -0300" stop="20260829115500 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260829115500 -0300" stop="20260829140000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20260829140000 -0300" stop="20260829161000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -59627,22 +59309,6 @@ En Vivo</title>
     <rating>
       <value>Todas las edades</value>
     </rating>
-  </programme>
-  <programme start="20260829010000 -0400" stop="20260829013000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Fight Flashback: UFC 229: Khabib vs McGregor</title>
-    <desc lang="en">UFC Fight Flashback is an enhanced replay of some of the most memorable title fights in UFC history, featuring never-before-seen footage from state-of-the-art cameras, and exclusive new sound.(n)</desc>
-  </programme>
-  <programme start="20260829013000 -0400" stop="20260829020000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC - The Walk: UFC 257: Dustin Poirer v Conor McGregor 2</title>
-    <desc lang="en">An inside look at Dustin Poirier and Conor McGregor preparing to face off again at UFC 257 in Abu Dhabi.(n)</desc>
-  </programme>
-  <programme start="20260829020000 -0400" stop="20260829030000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Main Events: Ferguson vs. Gaethje</title>
-    <desc lang="en">Showcasing the best fights from recent events, revealing backstories of the athletes and their mindsets.(n)</desc>
-  </programme>
-  <programme start="20260829030000 -0400" stop="20260829040000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Main Events: Volkanovski vs. Holloway 3</title>
-    <desc lang="en">Showcasing the best fights from recent events, revealing backstories of the athletes and their mindsets.(n)</desc>
   </programme>
   <programme start="20260829040000 -0400" stop="20260829050000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">FIM Women Motocross World Championship: MXGP of The Netherlands</title>
@@ -100313,22 +99979,6 @@ Repetición</title>
     <category lang="es">Talk Show</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/21000043.png" />
   </programme>
-  <programme start="20260829010000 -0400" stop="20260829013000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260829013000 -0400" stop="20260829020000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Streets of Gold: Mumbai</title>
-    <desc lang="en">Jimmy Mistry, a Parsi business tycoon, designed his own skyscraper. Building an empire after India's 1991 economic reforms, he now embodies entrepreneurs who pair wealth with philanthropy at scale.(n)</desc>
-  </programme>
-  <programme start="20260829020000 -0400" stop="20260829033000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260829033000 -0400" stop="20260829040000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Global Eye</title>
-    <desc lang="en">Global reporters deliver in-depth, investigative coverage of major world events, uncovering crucial details in international news.(n)</desc>
-  </programme>
   <programme start="20260829040000 -0400" stop="20260829043000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -100620,18 +100270,6 @@ Repetición</title>
   <programme start="20260830214500 -0400" stop="20260830220000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC Sport</title>
     <desc lang="en">Coverage, commentary highlights and more from the world's biggest sporting events.(n)</desc>
-  </programme>
-  <programme start="20260829010000 -0400" stop="20260829020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Gutfeld!</title>
-    <desc lang="en">Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.(n)</desc>
-  </programme>
-  <programme start="20260829020000 -0400" stop="20260829030000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Fox News at Night</title>
-    <desc lang="en">Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.(n)</desc>
-  </programme>
-  <programme start="20260829030000 -0400" stop="20260829040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">The Five</title>
-    <desc lang="en">Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.(n)</desc>
   </programme>
   <programme start="20260829040000 -0400" stop="20260829080000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">Fox &amp; Friends Weekend</title>
@@ -130823,7 +130461,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/43554074.jpg" />
     <country lang="es">Corea del Sur</country>
   </programme>
-  <programme start="20260829124500 -0500" stop="20260829143000 -0500" channel="ImagenTv.mx">
+  <programme start="20260829124500 -0500" stop="20260829150000 -0500" channel="ImagenTv.mx">
     <title lang="es">Al fin de primera mano</title>
     <desc lang="es">Programa de opinión sobre el mundo de los espectáculos. Hechos y secretos del mundo de la farándula donde lo que más importa es la opinión del público. Un equipo de expertos analiza y comenta la actualidad, los conflictos y mucho más.(n)</desc>
     <credits>
@@ -130837,7 +130475,7 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22199798.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260829143000 -0500" stop="20260829160000 -0500" channel="ImagenTv.mx">
+  <programme start="20260829150000 -0500" stop="20260829170000 -0500" channel="ImagenTv.mx">
     <title lang="es">Lo mejor de Rocío a tu lado - Sábado</title>
     <sub-title lang="es">Sábado</sub-title>
     <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el que podrás acercarte para hablar de todo lo que te preocupa.(n)</desc>
@@ -130849,71 +130487,57 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/55574868.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260829160000 -0500" stop="20260829190000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Cine</title>
-    <desc lang="es">Selección de las mejores películas del mundo.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Película</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991598843.jpg" />
-  </programme>
-  <programme start="20260829190000 -0500" stop="20260829200000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Lo mejor de Rocío a tu lado</title>
-    <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el que podrás acercarte para hablar de todo lo que te preocupa.(n)</desc>
+  <programme start="20260829170000 -0500" stop="20260829185500 -0500" channel="ImagenTv.mx">
+    <title lang="es">Las tres perfectas casadas</title>
+    <desc lang="es">Tres matrimonios se verán inmersos en la locura cuando una carta dejada por un hombre muerto amigo suyo informe que ha estado con las tres mujeres.(n)</desc>
     <credits>
-      <actor>Rocío Sánchez Azuara</actor>
+      <actor>Laura Hidalgo</actor>
+      <actor>Consuelo Frank</actor>
+      <actor>Armando Sáenz</actor>
+      <actor>Arturo Soto Rangel</actor>
+      <actor>Miroslava</actor>
+      <actor>René Cardona</actor>
+      <actor>Miroslava Stern</actor>
+      <actor>Arturo de Córdova</actor>
+      <actor>Gregorio Walerstein</actor>
+      <actor>Mauricio Magdaleno</actor>
+      <actor>José Elías Moreno</actor>
+      <actor>Roberto Gavaldón</actor>
+      <actor>Alma Delia Fuentes</actor>
+      <actor>José Revueltas</actor>
     </credits>
-    <date>2022</date>
-    <category lang="es">Talk Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55574868.jpg" />
+    <date>1953</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3423010.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260829200000 -0500" stop="20260829210000 -0500" channel="ImagenTv.mx">
-    <title lang="es">El minuto que cambió mi destino: sin censura</title>
-    <desc lang="es">Conoce la historia detrás del espectáculo, totalmente SIN CENSURA.(n)</desc>
-    <credits>
-      <actor>Gustavo Adolfo</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Entrevista</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992810956.jpg" />
+  <programme start="20260829185500 -0500" stop="20260829190000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Previa - LMB</title>
+    <sub-title lang="es">Series de Campeonato, Estadio 27 de Febrero</sub-title>
+    <desc lang="es">Vive la previa de los partidos de la 101º edición de la Liga Mexicana de Béisbol. Los amantes del deporte podrán disfrutar de una competición en la que 20 equipos compiten por el máximo honor.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992287796.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260829210000 -0500" stop="20260829220000 -0500" channel="ImagenTv.mx">
-    <title lang="es">El minuto que cambió mi destino: sin censura</title>
-    <desc lang="es">Conoce la historia detrás del espectáculo, totalmente SIN CENSURA.(n)</desc>
-    <credits>
-      <actor>Gustavo Adolfo</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Entrevista</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992810956.jpg" />
+  <programme start="20260829190000 -0500" stop="20260829220000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Liga Mexicana de Béisbol</title>
+    <sub-title lang="es">Series de Campeonato, Estadio 27 de Febrero</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 101º edición de la Liga Mexicana de Béisbol, en la cual participan 20 equipos y que contará con dos instancias de competencia: temporada regular y playoffs.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989336728.jpg" />
     <country lang="es">México</country>
   </programme>
   <programme start="20260829220000 -0500" stop="20260829233000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Divina comida</title>
-    <desc lang="es">Dieciséis celebridades mexicanas abren las puertas de sus casas y preparan una cena en la que demostrarán quién es el mejor anfitrión.(n)</desc>
+    <title lang="es">El minuto que cambió mi destino: sin censura</title>
+    <desc lang="es">Conoce la historia detrás del espectáculo, totalmente SIN CENSURA.(n)</desc>
     <credits>
-      <actor>Dulce María</actor>
-      <actor>Erik Rubín</actor>
-      <actor>Maria León</actor>
-      <actor>Alex Lora</actor>
-      <actor>Emmanuel</actor>
-      <actor>Rafa Márquez</actor>
-      <actor>Itatí Cantoral</actor>
-      <actor>Faisy</actor>
-      <actor>Karol Sevilla</actor>
-      <actor>Michelle Rodriguez</actor>
-      <actor>Carlos Gatica</actor>
-      <actor>Belinda</actor>
-      <actor>José Ángel Bichir</actor>
-      <actor>Verónica Toussaint</actor>
-      <actor>Manu Nna</actor>
-      <actor>Jacobo Ovalle</actor>
-      <actor>Sebastián Averbuj</actor>
+      <actor>Gustavo Adolfo</actor>
     </credits>
-    <date>2023</date>
-    <category lang="es">Cocina</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/24080856.jpg" />
+    <date>2025</date>
+    <category lang="es">Entrevista</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992810956.jpg" />
     <country lang="es">México</country>
   </programme>
   <programme start="20260829233000 -0500" stop="20260830000000 -0500" channel="ImagenTv.mx">
@@ -131102,82 +130726,101 @@ En Vivo</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260830123000 -0500" stop="20260830140000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Lo mejor de Rocío a tu lado - Domingo</title>
-    <sub-title lang="es">Domingo</sub-title>
-    <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el que podrás acercarte para hablar de todo lo que te preocupa.(n)</desc>
+    <title lang="es">El rico y Lázaro - Final</title>
+    <sub-title lang="es">Final</sub-title>
+    <desc lang="es">Después de la muerte de Josué, el pueblo hebreo le dio la espalda a Dios y adoró dioses paganos. El profeta Jeremías intentó advertirles pero lo llamaron falso profeta, sin embargo su profecía se cumplió con la llegada de Nabucodonosor II.(n)</desc>
     <credits>
-      <actor>Rocío Sánchez Azuara</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Talk Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55574868.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20260830140000 -0500" stop="20260830154500 -0500" channel="ImagenTv.mx">
-    <title lang="es">Legado de amor - Resumen</title>
-    <sub-title lang="es">Resumen</sub-title>
-    <desc lang="es">Cuando fallece el patriarca de una casa, la vida de sus herederos cambia. Durante la lectura del testamento aparece Sara, la hermana que los jóvenes hijos no sabían que existía.(n)</desc>
-    <credits>
-      <actor>Michelle Renaud</actor>
-      <actor>Matías Novoa</actor>
-      <actor>Daniel Elbittar</actor>
-      <actor>Emmanuel Palomares</actor>
-      <actor>Mauricio Hénao</actor>
-      <actor>Paulina Matos</actor>
-      <actor>Tiaré Scanda</actor>
-      <actor>Julián Gil</actor>
-      <actor>Juan Pablo Gil</actor>
-      <actor>Elizabeth Álvarez</actor>
-      <actor>Sandra Schiffner</actor>
-      <actor>Helena Aguilera</actor>
-      <actor>Ignacio Ortiz</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20493154.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20260830154500 -0500" stop="20260830173000 -0500" channel="ImagenTv.mx">
-    <title lang="es">El rico y Lázaro - Resumen</title>
-    <sub-title lang="es">Resumen</sub-title>
-    <desc lang="es">Inspirada en la parábola que Jesús contó a sus discípulos, la novela narra la historia de dos hombres que mueren el mismo día. Uno va al infierno, el otro al cielo.(n)</desc>
-    <credits>
-      <actor>Milena Toscano</actor>
       <actor>Dudu Azevedo</actor>
-      <actor>Igor Rickli</actor>
-      <actor>Lucinha Lins</actor>
       <actor>Christine Fernandes</actor>
-      <actor>Rafael Awi</actor>
-      <actor>Ângelo Paes Leme</actor>
-      <actor>Vittória Seixas</actor>
-      <actor>Diogo Caruso</actor>
+      <actor>Igor Rickli</actor>
+      <actor>Milena Toscano</actor>
+      <actor>Lucinha Lins</actor>
       <actor>Samia Abreu</actor>
-      <actor>Hamsa Wood</actor>
+      <actor>Michelle Batista</actor>
+      <actor>Kayky Brito</actor>
+      <actor>Osmar Silveira</actor>
+      <actor>Rafael Almeida</actor>
+      <actor>Pablo Uranga</actor>
+      <actor>Leonardo Medeiros</actor>
+      <actor>Sthefany Brito</actor>
+      <actor>Cláudia Mauro</actor>
+      <actor>Paulo Gorgulho</actor>
+      <actor>Paulo Figueiredo</actor>
       <actor>Ajax Camacho</actor>
+      <actor>Regis Faria</actor>
+      <actor>Edgard Miranda</actor>
+      <actor>Rogério Passos</actor>
+      <actor>Hansa Wood</actor>
+      <actor>Monique Ferreira</actor>
+      <actor>Joaquim Assis</actor>
+      <actor>Cristianne Fridman</actor>
+      <actor>Vania Matos</actor>
+      <actor>Camilo Pellegrini</actor>
+      <actor>Rodrigo Ribeiro</actor>
       <actor>Paula Richard</actor>
     </credits>
     <date>2017</date>
     <category lang="es">Telenovela</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991685160.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10620409.jpg" />
     <country lang="es">Brasil</country>
   </programme>
-  <programme start="20260830173000 -0500" stop="20260830193000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Leagues Cup</title>
-    <desc lang="es">Vive toda la emoción de los partidos de fútbol de la Leagues Cup en su edición del 2026, la competencia que enfrenta a clubes de la Major League Soccer y la Liga MX.(n)</desc>
-    <date>2026</date>
-    <category lang="es">Fútbol</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994323566.jpg" />
-    <country lang="es">EE. UU</country>
+  <programme start="20260830140000 -0500" stop="20260830160000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Barrabás - P1</title>
+    <sub-title lang="es">P1</sub-title>
+    <desc lang="es">Una historia bíblica de la crucifixión de Cristo relatado por la visión de Barrabás, un criminal condenado a la crucifixión y perdonado Por Pôncio Pilato en una festividad judía.(n)</desc>
+    <credits>
+      <actor>Albert Filozov</actor>
+      <actor>Elena Podkaminskaya</actor>
+      <actor>Konstantin Samoukov</actor>
+      <actor>Regina Khakimova</actor>
+      <actor>Pavel Krajnov</actor>
+      <actor>Zalim Mirzoev</actor>
+      <actor>Evgeniy Emelin</actor>
+      <actor>Anton Kirillov</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15229497.jpg" />
+    <country lang="es">Rusia</country>
   </programme>
-  <programme start="20260830193000 -0500" stop="20260830213000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Leagues Cup</title>
-    <desc lang="es">Vive toda la emoción de los partidos de fútbol de la Leagues Cup en su edición del 2026, la competencia que enfrenta a clubes de la Major League Soccer y la Liga MX.(n)</desc>
-    <date>2026</date>
-    <category lang="es">Fútbol</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994323566.jpg" />
-    <country lang="es">EE. UU</country>
+  <programme start="20260830160000 -0500" stop="20260830175500 -0500" channel="ImagenTv.mx">
+    <title lang="es">Barrabás - P2</title>
+    <sub-title lang="es">P2</sub-title>
+    <desc lang="es">Una historia bíblica de la crucifixión de Cristo relatado por la visión de Barrabás, un criminal condenado a la crucifixión y perdonado Por Pôncio Pilato en una festividad judía.(n)</desc>
+    <credits>
+      <actor>Albert Filozov</actor>
+      <actor>Elena Podkaminskaya</actor>
+      <actor>Konstantin Samoukov</actor>
+      <actor>Regina Khakimova</actor>
+      <actor>Pavel Krajnov</actor>
+      <actor>Zalim Mirzoev</actor>
+      <actor>Evgeniy Emelin</actor>
+      <actor>Anton Kirillov</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15229497.jpg" />
+    <country lang="es">Rusia</country>
   </programme>
-  <programme start="20260830213000 -0500" stop="20260830233000 -0500" channel="ImagenTv.mx">
+  <programme start="20260830175500 -0500" stop="20260830180000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Previa - LMB</title>
+    <sub-title lang="es">Series de Campeonato, Estadio 27 de Febrero</sub-title>
+    <desc lang="es">Vive la previa de los partidos de la 101º edición de la Liga Mexicana de Béisbol. Los amantes del deporte podrán disfrutar de una competición en la que 20 equipos compiten por el máximo honor.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992287796.jpg" />
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20260830180000 -0500" stop="20260830210000 -0500" channel="ImagenTv.mx">
+    <title lang="es">LMB</title>
+    <sub-title lang="es">Series de Campeonato, Estadio 27 de Febrero</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 101º edición de la Liga Mexicana de Béisbol, en la cual participan 20 equipos y que contará con dos instancias de competencia: temporada regular y playoffs.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989336728.jpg" />
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20260830210000 -0500" stop="20260830233000 -0500" channel="ImagenTv.mx">
     <title lang="es">Resumen - Escóndeme</title>
     <sub-title lang="es">Escóndeme</sub-title>
     <desc lang="es">Naz es una joven privilegiada y rica. Incila es una joven huérfana, criada por su tía que no la tolera. Cuando su tía entra a trabajar con la familia de Naz, es cuando Incila y ella se conocen y la trata como si fuera su esclava.(n)</desc>
@@ -131380,82 +131023,101 @@ En Vivo</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260831123000 -0500" stop="20260831140000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Lo mejor de Rocío a tu lado - Domingo</title>
-    <sub-title lang="es">Domingo</sub-title>
-    <desc lang="es">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el que podrás acercarte para hablar de todo lo que te preocupa.(n)</desc>
+    <title lang="es">El rico y Lázaro - Final</title>
+    <sub-title lang="es">Final</sub-title>
+    <desc lang="es">Después de la muerte de Josué, el pueblo hebreo le dio la espalda a Dios y adoró dioses paganos. El profeta Jeremías intentó advertirles pero lo llamaron falso profeta, sin embargo su profecía se cumplió con la llegada de Nabucodonosor II.(n)</desc>
     <credits>
-      <actor>Rocío Sánchez Azuara</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Talk Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55574868.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20260831140000 -0500" stop="20260831154500 -0500" channel="ImagenTv.mx">
-    <title lang="es">Legado de amor - Resumen</title>
-    <sub-title lang="es">Resumen</sub-title>
-    <desc lang="es">Cuando fallece el patriarca de una casa, la vida de sus herederos cambia. Durante la lectura del testamento aparece Sara, la hermana que los jóvenes hijos no sabían que existía.(n)</desc>
-    <credits>
-      <actor>Michelle Renaud</actor>
-      <actor>Matías Novoa</actor>
-      <actor>Daniel Elbittar</actor>
-      <actor>Emmanuel Palomares</actor>
-      <actor>Mauricio Hénao</actor>
-      <actor>Paulina Matos</actor>
-      <actor>Tiaré Scanda</actor>
-      <actor>Julián Gil</actor>
-      <actor>Juan Pablo Gil</actor>
-      <actor>Elizabeth Álvarez</actor>
-      <actor>Sandra Schiffner</actor>
-      <actor>Helena Aguilera</actor>
-      <actor>Ignacio Ortiz</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20493154.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20260831154500 -0500" stop="20260831173000 -0500" channel="ImagenTv.mx">
-    <title lang="es">El rico y Lázaro - Resumen</title>
-    <sub-title lang="es">Resumen</sub-title>
-    <desc lang="es">Inspirada en la parábola que Jesús contó a sus discípulos, la novela narra la historia de dos hombres que mueren el mismo día. Uno va al infierno, el otro al cielo.(n)</desc>
-    <credits>
-      <actor>Milena Toscano</actor>
       <actor>Dudu Azevedo</actor>
-      <actor>Igor Rickli</actor>
-      <actor>Lucinha Lins</actor>
       <actor>Christine Fernandes</actor>
-      <actor>Rafael Awi</actor>
-      <actor>Ângelo Paes Leme</actor>
-      <actor>Vittória Seixas</actor>
-      <actor>Diogo Caruso</actor>
+      <actor>Igor Rickli</actor>
+      <actor>Milena Toscano</actor>
+      <actor>Lucinha Lins</actor>
       <actor>Samia Abreu</actor>
-      <actor>Hamsa Wood</actor>
+      <actor>Michelle Batista</actor>
+      <actor>Kayky Brito</actor>
+      <actor>Osmar Silveira</actor>
+      <actor>Rafael Almeida</actor>
+      <actor>Pablo Uranga</actor>
+      <actor>Leonardo Medeiros</actor>
+      <actor>Sthefany Brito</actor>
+      <actor>Cláudia Mauro</actor>
+      <actor>Paulo Gorgulho</actor>
+      <actor>Paulo Figueiredo</actor>
       <actor>Ajax Camacho</actor>
+      <actor>Regis Faria</actor>
+      <actor>Edgard Miranda</actor>
+      <actor>Rogério Passos</actor>
+      <actor>Hansa Wood</actor>
+      <actor>Monique Ferreira</actor>
+      <actor>Joaquim Assis</actor>
+      <actor>Cristianne Fridman</actor>
+      <actor>Vania Matos</actor>
+      <actor>Camilo Pellegrini</actor>
+      <actor>Rodrigo Ribeiro</actor>
       <actor>Paula Richard</actor>
     </credits>
     <date>2017</date>
     <category lang="es">Telenovela</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991685160.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10620409.jpg" />
     <country lang="es">Brasil</country>
   </programme>
-  <programme start="20260831173000 -0500" stop="20260831193000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Leagues Cup</title>
-    <desc lang="es">Vive toda la emoción de los partidos de fútbol de la Leagues Cup en su edición del 2026, la competencia que enfrenta a clubes de la Major League Soccer y la Liga MX.(n)</desc>
-    <date>2026</date>
-    <category lang="es">Fútbol</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994323566.jpg" />
-    <country lang="es">EE. UU</country>
+  <programme start="20260831140000 -0500" stop="20260831160000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Barrabás - P1</title>
+    <sub-title lang="es">P1</sub-title>
+    <desc lang="es">Una historia bíblica de la crucifixión de Cristo relatado por la visión de Barrabás, un criminal condenado a la crucifixión y perdonado Por Pôncio Pilato en una festividad judía.(n)</desc>
+    <credits>
+      <actor>Albert Filozov</actor>
+      <actor>Elena Podkaminskaya</actor>
+      <actor>Konstantin Samoukov</actor>
+      <actor>Regina Khakimova</actor>
+      <actor>Pavel Krajnov</actor>
+      <actor>Zalim Mirzoev</actor>
+      <actor>Evgeniy Emelin</actor>
+      <actor>Anton Kirillov</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15229497.jpg" />
+    <country lang="es">Rusia</country>
   </programme>
-  <programme start="20260831193000 -0500" stop="20260831213000 -0500" channel="ImagenTv.mx">
-    <title lang="es">Leagues Cup</title>
-    <desc lang="es">Vive toda la emoción de los partidos de fútbol de la Leagues Cup en su edición del 2026, la competencia que enfrenta a clubes de la Major League Soccer y la Liga MX.(n)</desc>
-    <date>2026</date>
-    <category lang="es">Fútbol</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994323566.jpg" />
-    <country lang="es">EE. UU</country>
+  <programme start="20260831160000 -0500" stop="20260831175500 -0500" channel="ImagenTv.mx">
+    <title lang="es">Barrabás - P2</title>
+    <sub-title lang="es">P2</sub-title>
+    <desc lang="es">Una historia bíblica de la crucifixión de Cristo relatado por la visión de Barrabás, un criminal condenado a la crucifixión y perdonado Por Pôncio Pilato en una festividad judía.(n)</desc>
+    <credits>
+      <actor>Albert Filozov</actor>
+      <actor>Elena Podkaminskaya</actor>
+      <actor>Konstantin Samoukov</actor>
+      <actor>Regina Khakimova</actor>
+      <actor>Pavel Krajnov</actor>
+      <actor>Zalim Mirzoev</actor>
+      <actor>Evgeniy Emelin</actor>
+      <actor>Anton Kirillov</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15229497.jpg" />
+    <country lang="es">Rusia</country>
   </programme>
-  <programme start="20260831213000 -0500" stop="20260831233000 -0500" channel="ImagenTv.mx">
+  <programme start="20260831175500 -0500" stop="20260831180000 -0500" channel="ImagenTv.mx">
+    <title lang="es">Previa - LMB</title>
+    <sub-title lang="es">Series de Campeonato, Estadio 27 de Febrero</sub-title>
+    <desc lang="es">Vive la previa de los partidos de la 101º edición de la Liga Mexicana de Béisbol. Los amantes del deporte podrán disfrutar de una competición en la que 20 equipos compiten por el máximo honor.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992287796.jpg" />
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20260831180000 -0500" stop="20260831210000 -0500" channel="ImagenTv.mx">
+    <title lang="es">LMB</title>
+    <sub-title lang="es">Series de Campeonato, Estadio 27 de Febrero</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 101º edición de la Liga Mexicana de Béisbol, en la cual participan 20 equipos y que contará con dos instancias de competencia: temporada regular y playoffs.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989336728.jpg" />
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20260831210000 -0500" stop="20260831233000 -0500" channel="ImagenTv.mx">
     <title lang="es">Resumen - Escóndeme</title>
     <sub-title lang="es">Escóndeme</sub-title>
     <desc lang="es">Naz es una joven privilegiada y rica. Incila es una joven huérfana, criada por su tía que no la tolera. Cuando su tía entra a trabajar con la familia de Naz, es cuando Incila y ella se conocen y la trata como si fuera su esclava.(n)</desc>
@@ -144753,15 +144415,8 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260829150000 -0400" stop="20260829160000 -0400" channel="CANAL I">
-    <title lang="es">Socca World Cup Essen</title>
-    <sub-title lang="es">Albania vs. Uruguay</sub-title>
-    <desc lang="es">Disfruta de los partidos más emocionantes de la Copa Mundial de Socca en su edición 2026. El público podrá disfrutar deun torneo disputado por las selecciones masculinas de los países miembros de la Federación Internacional de Socca.(n)</desc>
-    <date>2026</date>
+    <title lang="es">Socca World Cup Essen (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994999890.jpg" />
-    <country lang="es">Alemania</country>
-    <episode-num system="onscreen">S2026</episode-num>
   </programme>
   <programme start="20260829160000 -0400" stop="20260829170000 -0400" channel="CANAL I">
     <title lang="es">Socca World Cup Essen</title>
@@ -148382,8 +148037,20 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260829060000 -0400" stop="20260829070000 -0400" channel="TV FAMILIA">
-    <title lang="es">Vascos por el mundo (?)</title>
+    <title lang="es">Vascos por el mundo</title>
+    <desc lang="es">Un equipo de reporteros viajará por las principales ciudades y países del mundo para mostrarnos cómo vive en dichos lugares una de las comunidades históricamente más viajeras del mundo: los vascos.(n)</desc>
+    <credits>
+      <actor>Roberto Vázquez</actor>
+      <actor>Patricia Labrador</actor>
+      <actor>Pedro Mardones</actor>
+      <actor>Soraya Vegas</actor>
+      <actor>Gorka Vallejo</actor>
+    </credits>
+    <date>2018</date>
     <category lang="es">Turismo</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7557467.jpg" />
+    <country lang="es">España</country>
   </programme>
   <programme start="20260829070000 -0400" stop="20260829073000 -0400" channel="TV FAMILIA">
     <title lang="es">El santo rosario</title>
@@ -148411,21 +148078,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2426307.jpg" />
   </programme>
   <programme start="20260829090000 -0400" stop="20260829100000 -0400" channel="TV FAMILIA">
-    <title lang="es">El toque de un ángel</title>
-    <desc lang="es">Esta serie recrea la vida de un ángel moderno que inspira a la gente que atraviesa períodos difíciles a cambiar sus vidas antes que sea demasiado tarde.(n)</desc>
-    <credits>
-      <actor>Della Reese</actor>
-      <actor>John Dye</actor>
-      <actor>Valerie Bertinelli</actor>
-      <actor>Gavin Sheehan</actor>
-      <actor>Alexis Cruz</actor>
-      <actor>Charles Rocket</actor>
-    </credits>
-    <date>1994</date>
+    <title lang="es">El toque de un ángel (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2666753.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260829100000 -0400" stop="20260829113000 -0400" channel="TV FAMILIA">
     <title lang="es">De retiro con la voz de Jesús</title>
@@ -148522,21 +148176,8 @@ Repetición</title>
     <country lang="es">España</country>
   </programme>
   <programme start="20260829163000 -0400" stop="20260829173000 -0400" channel="TV FAMILIA">
-    <title lang="es">La pequeña casa de la pradera</title>
-    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.(n)</desc>
-    <credits>
-      <actor>Michael Landon</actor>
-      <actor>Melissa Gilbert</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-    </credits>
-    <date>1974</date>
+    <title lang="es">La pequeña casa de la pradera (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55024418.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260829173000 -0400" stop="20260829180000 -0400" channel="TV FAMILIA">
     <title lang="es">El santo rosario</title>
@@ -150071,21 +149712,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260829220000 -0400" stop="20260829230000 -0400" channel="VENEVISION">
-    <title lang="es">Velvet</title>
-    <desc lang="es">Entre las paredes de las Galerías Velvet se encuentran los trajes más elegantes, sofisticados y caros del momento, pero sobre todo se esconde una de las más maravillosas historias de amor que se haya contado jamás: la de Ana y Alberto.(n)</desc>
-    <credits>
-      <actor>Miguel Ángel Silvestre</actor>
-      <actor>Sean Campbell</actor>
-      <actor>Aitana Sánchez-Gijón</actor>
-      <actor>Cecilia Freire</actor>
-      <actor>Adrián Lastra</actor>
-      <actor>José Sacristán</actor>
-    </credits>
-    <date>2014</date>
+    <title lang="es">Velvet (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/39755754.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260829230000 -0400" stop="20260829233000 -0400" channel="VENEVISION">
     <title lang="es">La viuda joven</title>
