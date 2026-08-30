@@ -2556,6 +2556,7 @@
   </channel>
   <channel id="IVC">
     <display-name lang="es">IVC</display-name>
+    <icon src="https://www.reportv.com.ar/buscador/img/Logos/4793481.jpg" />
     <url>http://www.inter.com.ve</url>
   </channel>
   <channel id="MERIDIANO TV">
@@ -12509,21 +12510,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260830110000 -0400" stop="20260830150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260830150000 -0400" stop="20260830170000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Policías de repuesto</title>
@@ -12958,21 +12946,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20260831073000 -0400" stop="20260831090000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260831090000 -0400" stop="20260831110000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -12983,8 +12958,21 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20260831110000 -0400" stop="20260831120000 -0400" channel="UNITEL">
-    <title lang="es">Hercai (?)</title>
+    <title lang="es">Hercai</title>
+    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
+    <credits>
+      <actor>Akin Akinözü</actor>
+      <actor>Ebru Sahin</actor>
+      <actor>Gülçin Santircioglu</actor>
+      <actor>Serhat Tutumluer</actor>
+      <actor>Macit Sonkan</actor>
+      <actor>Oya Unustasi</actor>
+    </credits>
+    <date>2019</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260831120000 -0400" stop="20260831130000 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
@@ -13086,21 +13074,8 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260831201500 -0400" stop="20260831204500 -0400" channel="UNITEL">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Enemigo íntimo (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260831204500 -0400" stop="20260831210000 -0400" channel="UNITEL">
     <title lang="es">Telepaís media noche</title>
@@ -13175,8 +13150,19 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
   <programme start="20260830030000 -0400" stop="20260830033000 -0400" channel="BOLIVISION">
-    <title lang="es">Master Raindrop (?)</title>
+    <title lang="es">Master Raindrop</title>
+    <desc lang="es">Maetro Raindrop sigue al novato en artes marciales Raindrop y su amiga Shao Yen en su viaje. Ellos buscan salvar a su Maestro Yun y eventualmente a su pacífica tierra del malvado General Bu y su ejército de Guerreros Terracota.(n)</desc>
+    <credits>
+      <actor>Jane O'Brien</actor>
+      <actor>Rachel King</actor>
+      <actor>Sarah Aubrey</actor>
+      <actor>Steve Cooper</actor>
+    </credits>
+    <date>2008</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/902586.jpg" />
+    <country lang="es">Australia</country>
   </programme>
   <programme start="20260830033000 -0400" stop="20260830035000 -0400" channel="BOLIVISION">
     <title lang="es">La abeja Maya</title>
@@ -13428,21 +13414,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260830200000 -0400" stop="20260830210000 -0400" channel="BOLIVISION">
-    <title lang="es">Hombres de Paco</title>
-    <desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.(n)</desc>
-    <credits>
-      <actor>Hugo Silva</actor>
-      <actor>Paco Tous</actor>
-      <actor>Pepón Nieto</actor>
-      <actor>Federico Celada</actor>
-      <actor>Neus Sanz</actor>
-      <actor>Marián Aguilera</actor>
-    </credits>
-    <date>2005</date>
+    <title lang="es">Hombres de Paco (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16277624.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260830210000 -0400" stop="20260830223000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
@@ -13798,21 +13771,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260830054500 -0400" stop="20260830061500 -0400" channel="RED UNO">
-    <title lang="es">PAW Patrol</title>
-    <desc lang="es">Conoce a un equipo de cachorros liderado por el energético Ryder, que está siempre listo cuando se trata de ayudar en la bulliciosa ciudad de Bahía Aventura.(n)</desc>
-    <credits>
-      <actor>Alex Thorne</actor>
-      <actor>Gabriela Milani</actor>
-      <actor>Valentina Letelier</actor>
-      <actor>Carolina Highet</actor>
-      <actor>Devan Cohen</actor>
-      <actor>Drew Davis</actor>
-    </credits>
-    <date>2013</date>
+    <title lang="es">PAW Patrol (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7751111.jpg" />
-    <country lang="es">Canadá</country>
   </programme>
   <programme start="20260830061500 -0400" stop="20260830064500 -0400" channel="RED UNO">
     <title lang="es">Plim Plim: un héroe del corazón</title>
@@ -14539,17 +14499,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260830180000 -0400" stop="20260830192500 -0400" channel="TVU">
-    <title lang="es">Código deportivo</title>
-    <desc lang="es">Las principales noticias deportivas generadas tanto de los deportes locales como internacionales.(n)</desc>
-    <credits>
-      <actor>Francisco Molestina</actor>
-      <actor>Ufredo Borbor</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">Código deportivo (?)</title>
     <category lang="es">Deportivo</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26549791.jpg" />
-    <country lang="es">Ecuador</country>
   </programme>
   <programme start="20260830192500 -0400" stop="20260830193000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -14939,17 +14890,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260831193000 -0400" stop="20260831202500 -0400" channel="TVU">
-    <title lang="es">Código deportivo</title>
-    <desc lang="es">Las principales noticias deportivas generadas tanto de los deportes locales como internacionales.(n)</desc>
-    <credits>
-      <actor>Francisco Molestina</actor>
-      <actor>Ufredo Borbor</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">Código deportivo (?)</title>
     <category lang="es">Deportivo</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26549791.jpg" />
-    <country lang="es">Ecuador</country>
   </programme>
   <programme start="20260831202500 -0400" stop="20260831203000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -37815,26 +37757,8 @@ Repetición</title>
   </programme>
   <programme start="20260830062000 -0500" stop="20260830064500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
-    <sub-title lang="es">Segundo Chunce</sub-title>
-    <desc lang="es">Una serie que sigue a Leslie Knope, la encargada del departamento de Parques y Recreación de Pawnee, Indiana. Durante la serie Knope tomará el proyecto de una joven enfermera llamada Ann para construir un nuevo parque.(n)</desc>
-    <credits>
-      <actor>Amy Poehler</actor>
-      <actor>Nick Offerman</actor>
-      <actor>Aubrey Plaza</actor>
-      <actor>Chris Pratt</actor>
-      <actor>Aziz Ansari</actor>
-      <actor>Jim O'Heir</actor>
-      <actor>Rashida Jones</actor>
-      <actor>Adam Scott</actor>
-      <actor>Retta</actor>
-      <actor>Rob Lowe</actor>
-      <actor>Greg Daniels</actor>
-      <actor>Michael Schur</actor>
-    </credits>
-    <date>2009</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992187323.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260830064500 -0500" stop="20260830071000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Parks and Recreation</title>
@@ -39944,26 +39868,8 @@ Repetición</title>
   </programme>
   <programme start="20260901053000 -0500" stop="20260901055500 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
-    <sub-title lang="es">Tragos y salsa</sub-title>
-    <desc lang="es">Una mirada a la vida de un grupo de empleados del supermercado Cloud 9 en St. Louis, Missouri, quienes deben enfrentar día a día a los cazadores de ofertas, las ventas desenfrenadas y tediosas sesiones de entrenamiento.(n)</desc>
-    <credits>
-      <actor>Ben Feldman</actor>
-      <actor>Nico Santos</actor>
-      <actor>Nichole Bloom</actor>
-      <actor>Christopher Riordan</actor>
-      <actor>Kaliko Kauahi</actor>
-      <actor>Colton Dunn</actor>
-      <actor>Lauren Ash</actor>
-      <actor>Mark McKinney</actor>
-      <actor>America Ferrera</actor>
-      <actor>Tristram Shapeero</actor>
-      <actor>Justin Spitzer</actor>
-      <actor>Josh Greene</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5869239.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260901055500 -0500" stop="20260901062000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Superstore</title>
@@ -41087,51 +40993,18 @@ Repetición</title>
   </programme>
   <programme start="20260830120000 -0500" stop="20260830124500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Cartas envenenadas</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260830124500 -0500" stop="20260830133000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Muerte en Christmas Town</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260830133000 -0500" stop="20260830141500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Enterrado por la Bratva</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260830141500 -0500" stop="20260830150000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">A sangre fría</title>
@@ -41462,82 +41335,28 @@ Repetición</title>
   </programme>
   <programme start="20260831013000 -0500" stop="20260831021500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Los huesos en Party Hill</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831021500 -0500" stop="20260831030000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Enterrado en la arena: debajo de la puesta del sol</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831030000 -0500" stop="20260831032500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">12 horas juntos</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831032500 -0500" stop="20260831034500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">La mejor de las suertes</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831034500 -0500" stop="20260831043000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Parejas asesinas</title>
-    <sub-title lang="es">Jennifer Smith y Dale Moneypenny</sub-title>
-    <desc lang="es">En Parejas asesinas, el prestigioso novelista Mark Billingham explora el truculento fenómeno de las parejas de asesinos, intentando explicar sus horrendos crímenes y oscuras motivaciones.(n)</desc>
-    <credits>
-      <actor>Anna Vocino</actor>
-      <actor>Stephen Land</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6301571.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831043000 -0500" stop="20260831051500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">The Real Murders of Atlanta</title>
@@ -41567,67 +41386,13 @@ Repetición</title>
   </programme>
   <programme start="20260831060000 -0500" stop="20260831062500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">Rompecabezas humano</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831062500 -0500" stop="20260831064500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">Entrenados para matar</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831064500 -0500" stop="20260831073000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Accidente, suicidio, o asesinato</title>
@@ -41873,35 +41638,13 @@ Repetición</title>
   </programme>
   <programme start="20260831180000 -0500" stop="20260831184500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Vadeando en el agua</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831184500 -0500" stop="20260831193000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Congelación profunda</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260831193000 -0500" stop="20260831202000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Parejas asesinas</title>
@@ -42451,37 +42194,13 @@ Repetición</title>
   </programme>
   <programme start="20260901154500 -0500" stop="20260901161000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">12 horas juntos</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260901161000 -0500" stop="20260901163000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Centro de crisis 911</title>
-    <sub-title lang="es">La mejor de las suertes</sub-title>
-    <desc lang="es">Se sigue la vida personal y profesional de un equipo de despachadores del servicio de emergencias de las afueras de Cleveland, que enfrenta un incesante llamado de auxilio de la gente que necesita ayuda.(n)</desc>
-    <credits>
-      <actor>Ashley Welch</actor>
-      <actor>Charline Polk</actor>
-      <actor>Essence Sullins</actor>
-      <actor>Melanie McCavish</actor>
-      <actor>Adam Kassen</actor>
-      <actor>Amy Franceschi</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27300614.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260901163000 -0500" stop="20260901171500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Accidente, suicidio, o asesinato</title>
@@ -42522,19 +42241,8 @@ Repetición</title>
   </programme>
   <programme start="20260901184500 -0500" stop="20260901193000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Congelación profunda</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260901193000 -0500" stop="20260901202000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Parejas asesinas</title>
@@ -42708,36 +42416,8 @@ Repetición</title>
   </programme>
   <programme start="20260830035000 -0500" stop="20260830044000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Conflicto de intereses</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260830044000 -0500" stop="20260830053000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
@@ -54692,21 +54372,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260830091000 -0300" stop="20260830115500 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260830115500 -0300" stop="20260830143000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260830143000 -0300" stop="20260830145500 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20260830145500 -0300" stop="20260830175500 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -59528,14 +59193,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260830010000 -0400" stop="20260830020000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">World Poker Tour: WPT Seminole Hard Rock Poker Showdown - Part 3</title>
-    <desc lang="en">The fight for $1 million dollars continues as three players remain.(n)</desc>
-  </programme>
-  <programme start="20260830020000 -0400" stop="20260830040000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">Poker Night in America</title>
-    <desc lang="en">The show keeps it pretty simple, emphasizing the fun personalities and stories behind the players, injecting lifestyle and reality aspects to the game.(n)</desc>
-  </programme>
   <programme start="20260830040000 -0400" stop="20260830050000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">PBR Bull Riding: PBR Team Challenge - Bridgeport</title>
     <desc lang="en">Professional Bull Riders events from around the country.(n)</desc>
@@ -59655,14 +59312,6 @@ En Vivo</title>
   <programme start="20260831210000 -0400" stop="20260831220000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">PGA Tour Classic: 2015: FedEx Cup Playoffs</title>
     <desc lang="en">Jordan Spieth wins.(n)</desc>
-  </programme>
-  <programme start="20260830000000 -0400" stop="20260830020000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Hardwood Classics: 2017 Eastern Conference, Semifinal: Washington vs. Boston</title>
-    <desc lang="en">Game 2. Isaiah Thomas duels John Wall in OT thriller.(n)</desc>
-  </programme>
-  <programme start="20260830020000 -0400" stop="20260830033000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">WNBA Playback</title>
-    <desc lang="en">Replay action from a WNBA matchup.(n)</desc>
   </programme>
   <programme start="20260830033000 -0400" stop="20260830053000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">NBA Playback: 2026 NBA Playoffs, First Round: Portland vs. San Antonio</title>
@@ -83499,8 +83148,29 @@ En Vivo</title>
     </star-rating>
   </programme>
   <programme start="20260831132400 -0500" stop="20260831135100 -0500" channel="Tooncast.us">
-    <title lang="es">Los Picapiedra (?)</title>
+    <title lang="es">Los Picapiedra</title>
+    <desc lang="es">Únete a la diversión en la ciudad de Piedradura con esta fabulosamente famosa familia moderna de la Edad de Piedra. Cortar el césped con un dinosaurio de dientes de sierra, bañarse con agua rociada del tronco de un mamut lanudo y comer hamburguesas de brontosaurios son eventos cotidianos para los adorables Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol. Vivir en tiempos prehistóricos tiene sus inconvenientes, pero los Picapiedra y sus vecinos sobreviven con estilo.(n)</desc>
+    <credits>
+      <director>William Hanna</director>
+      <director>Joseph Barbera</director>
+      <writer>William Hanna</writer>
+      <writer>Joseph Barbera</writer>
+      <producer>William Hanna</producer>
+      <producer>Joseph Barbera</producer>
+    </credits>
+    <date>1960</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Caricatura</category>
     <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_picapiedra.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
   </programme>
   <programme start="20260831135100 -0500" stop="20260831140100 -0500" channel="Tooncast.us">
     <title lang="es">Los autos locos</title>
@@ -98955,22 +98625,6 @@ Repetición</title>
     <category lang="es">Magazines</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/21000043.png" />
   </programme>
-  <programme start="20260830010000 -0400" stop="20260830013000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260830013000 -0400" stop="20260830020000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Talking Movies: Summer Blockbuster Season</title>
-    <desc lang="en">A review of Hollywood's summer movie season and the success of the blockbusters The Odyssey and Spider-Man: Brand New Day. Plus, the triumph of low-budget horror films Obsession and Backrooms.(n)</desc>
-  </programme>
-  <programme start="20260830020000 -0400" stop="20260830033000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260830033000 -0400" stop="20260830040000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Will Robots Take My Job?</title>
-    <desc lang="en">No details are there for this program.(n)</desc>
-  </programme>
   <programme start="20260830040000 -0400" stop="20260830044500 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -99278,18 +98932,6 @@ Repetición</title>
   <programme start="20260831214500 -0400" stop="20260831220000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC Sport</title>
     <desc lang="en">Coverage, commentary highlights and more from the world's biggest sporting events.(n)</desc>
-  </programme>
-  <programme start="20260830010000 -0400" stop="20260830020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Life, Liberty &amp; Levin</title>
-    <desc lang="en">Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.(n)</desc>
-  </programme>
-  <programme start="20260830020000 -0400" stop="20260830030000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">My View With Lara Trump</title>
-    <desc lang="en">Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.(n)</desc>
-  </programme>
-  <programme start="20260830030000 -0400" stop="20260830040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX News Saturday Night With Jimmy Failla</title>
-    <desc lang="en">Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.(n)</desc>
   </programme>
   <programme start="20260830040000 -0400" stop="20260830080000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">Fox &amp; Friends Weekend</title>
@@ -115464,8 +115106,31 @@ En Vivo</title>
   </programme>
   <programme start="20260830200000 +0000" stop="20260830220000 +0000" channel="RCNTV.co">
     <title lang="es">Regreso del todopoderoso</title>
+    <title lang="en">Evan Almighty</title>
+    <desc lang="es">Evan Baxter acaba de ser elegido al Congreso de Estados Unidos y se muda de Buffalo con su familia para vivir en una urbanización del norte de Virginia. Una vez allí, su vida sufre un importante vuelco cuando Dios le dice que una devastadora inundación se acerca para limpiar la Tierra nuevamente y le ordena construir un arca. Cuando Baxter acepta y su apariencia empieza a cambiar rápidamente, llama la atención de los medios y su atónita familia no acaba de decidir si Evan sufre la crisis de los cuarenta llevada a extremos inimaginables o si realmente ha descubierto algo de proporciones bíblicas.(n)</desc>
+    <credits>
+      <director>Tom Shadyac</director>
+      <actor>Steve Carell</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Johnny Simmons</actor>
+      <actor>Graham Phillips</actor>
+      <actor>Jim Bennett</actor>
+      <actor>John Goodman</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Molly Shannon</actor>
+      <actor>Harve Presnell</actor>
+      <actor>P.J. Byrne</actor>
+    </credits>
     <date>2007</date>
     <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/co_regreso-del-todopoderoso-2007_l_l.jpg" />
+    <country lang="es">EE. UU.</country>
+    <rating>
+      <value>Guía parental sugerida</value>
+    </rating>
+    <star-rating system="IMdb">
+      <value>5.4</value>
+    </star-rating>
   </programme>
   <programme start="20260830220000 +0000" stop="20260831000000 +0000" channel="RCNTV.co">
     <title lang="es">Caso cerrado</title>
@@ -129257,14 +128922,8 @@ En Vivo</title>
   </programme>
   <programme start="20260901130000 -0500" stop="20260901140000 -0500" channel="ImagenTv.mx">
     <title lang="es">Historias de un milagro</title>
-    <desc lang="es">Vidas marcadas por la pérdida, la traición, el amor, la injusticia y las segundas oportunidades. Una verdad o un acto de amor puede cambiar todo. Porque los milagros no siempre caen del cielo a veces llegan justo cuando más los necesitamos.(n)</desc>
-    <credits>
-      <actor>Rocío Sánchez Azuara</actor>
-    </credits>
-    <date>2026</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995272669.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260901140000 -0500" stop="20260901150000 -0500" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -129368,28 +129027,8 @@ En Vivo</title>
   </programme>
   <programme start="20260901213000 -0500" stop="20260901223000 -0500" channel="ImagenTv.mx">
     <title lang="es">Por un amor</title>
-    <desc lang="es">Doga es una joven que se enamora perdidamente de un hombre encantador de una familia devota cuyos valores chocan con los de su madre. Un embarazo inesperado cambiará los planes de vida de Doga, sacudiendo hasta a dos familias diferentes.(n)</desc>
-    <credits>
-      <actor>Sila Turkoglu</actor>
-      <actor>Evrim Alasya</actor>
-      <actor>Dogukan Güngör</actor>
-      <actor>Ceren Yalazoglu</actor>
-      <actor>Feyza Civelek</actor>
-      <actor>Emrah Altintoprak</actor>
-      <actor>Rahimcan Kapkap</actor>
-      <actor>Aliye Uzunatagan</actor>
-      <actor>Soydan Soydas</actor>
-      <actor>Sevim Erdogan</actor>
-      <actor>Ketche</actor>
-      <actor>Melis Civelek</actor>
-      <actor>Faruk Turgut</actor>
-      <actor>Merve Göntem</actor>
-      <actor>Zeynep Gür</actor>
-    </credits>
-    <date>2022</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/47563130.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260901223000 -0500" stop="20260901231000 -0500" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -143100,16 +142739,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3615415.jpg" />
   </programme>
   <programme start="20260831060500 -0400" stop="20260831063000 -0400" channel="CANAL I">
-    <title lang="es">En forma con Elio Gutiérrez</title>
-    <desc lang="es">Un espacio del entrenador físico Elio Gutierrez, cuyo propósito es ayudar a sus televidentes a llevar una vida mejor. Un espacio que enfatizará algunos aspectos fundamentales para el ser humano.(n)</desc>
-    <credits>
-      <actor>Elio Gutiérrez</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">En forma con Elio Gutiérrez (?)</title>
     <category lang="es">Deportivo</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4683712.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260831063000 -0400" stop="20260831080000 -0400" channel="CANAL I">
     <title lang="es">NCI matutina</title>
@@ -143260,26 +142891,12 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260831180000 -0400" stop="20260831190000 -0400" channel="CANAL I">
-    <title lang="es">Socca World Cup Essen</title>
-    <sub-title lang="es">Colombia vs. Grecia</sub-title>
-    <desc lang="es">Disfruta de los partidos más emocionantes de la Copa Mundial de Socca en su edición 2026. El público podrá disfrutar deun torneo disputado por las selecciones masculinas de los países miembros de la Federación Internacional de Socca.(n)</desc>
-    <date>2026</date>
+    <title lang="es">Socca World Cup Essen (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994999890.jpg" />
-    <country lang="es">Alemania</country>
-    <episode-num system="onscreen">S2026</episode-num>
   </programme>
   <programme start="20260831190000 -0400" stop="20260831200000 -0400" channel="CANAL I">
-    <title lang="es">Socca World Cup Essen</title>
-    <sub-title lang="es">Uruguay vs. Hungria</sub-title>
-    <desc lang="es">Disfruta de los partidos más emocionantes de la Copa Mundial de Socca en su edición 2026. El público podrá disfrutar deun torneo disputado por las selecciones masculinas de los países miembros de la Federación Internacional de Socca.(n)</desc>
-    <date>2026</date>
+    <title lang="es">Socca World Cup Essen (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994999890.jpg" />
-    <country lang="es">Alemania</country>
-    <episode-num system="onscreen">S2026</episode-num>
   </programme>
   <programme start="20260831200000 -0400" stop="20260831203000 -0400" channel="CANAL I">
     <title lang="es">Básket Report</title>
@@ -144026,6 +143643,526 @@ Repetición</title>
     <category lang="es">Periodístico</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/20139186.jpg" />
   </programme>
+  <programme start="20260830010000 -0400" stop="20260830030000 -0400" channel="IVC">
+    <title lang="es">A Dog's Way Home</title>
+    <desc lang="es">Una perra viaja cuatrocientas millas en busca de su dueño a través de un desierto de Colorado. Hay lazos que la distancia no puede romper.(n)</desc>
+    <credits>
+      <actor>Ashley Judd</actor>
+      <actor>Jonah Hauer-King</actor>
+      <actor>Chris Bauer</actor>
+      <actor>Wes Studi</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Alexandra Shipp</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/38657672.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20260830030000 -0400" stop="20260830050000 -0400" channel="IVC">
+    <title lang="es">World Series Classics</title>
+    <desc lang="es">Documentales sobre la historia de la Serie Mundial de béisbol desde 1996 hasta 2019 para revivir los mejores momentos de los útlimos trece años del deporte con información extra y datos curiosos.(n)</desc>
+    <date>1995</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13531721.jpg" />
+  </programme>
+  <programme start="20260830050000 -0400" stop="20260830053000 -0400" channel="IVC">
+    <title lang="es">Especial</title>
+    <desc lang="es">Te acercamos a la pasión, adrenalina y a vivir toda la emoción del béisbol.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13772672.jpg" />
+  </programme>
+  <programme start="20260830053000 -0400" stop="20260830060000 -0400" channel="IVC">
+    <title lang="es">Especial</title>
+    <desc lang="es">Te acercamos a la pasión, adrenalina y a vivir toda la emoción del béisbol.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13772672.jpg" />
+  </programme>
+  <programme start="20260830060000 -0400" stop="20260830063000 -0400" channel="IVC">
+    <title lang="es">Aventura gastronómica Colombia</title>
+    <sub-title lang="es">Aventura del calentado paisa, Medellín</sub-title>
+    <desc lang="es">Conducido por Nicolás de Zubiría, Aventura Gastronómica busca redescubrir los sabores, la biodiversidad y la pluriculturalidad del país, a través de las raíces y tradiciones culinarias de cada región.(n)</desc>
+    <credits>
+      <actor>Nicolás De Zubiría</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Cocina</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/24285063.jpg" />
+    <country lang="es">Colombia</country>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260830063000 -0400" stop="20260830070000 -0400" channel="IVC">
+    <title lang="es">El recetario de Sumito</title>
+    <sub-title lang="es">Torta pascualina de acelgas</sub-title>
+    <desc lang="es">Sumito te muestra nuevas técnicas de cocina. Siempre acompañado de su gran carisma y sencillez que lo han convertido en uno de los chefs más queridos de Latinoamérica.(n)</desc>
+    <credits>
+      <actor>Sumito Estévez</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Cocina</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16200615.jpg" />
+    <country lang="es">Colombia</country>
+    <episode-num system="onscreen">S4</episode-num>
+  </programme>
+  <programme start="20260830070000 -0400" stop="20260830073000 -0400" channel="IVC">
+    <title lang="es">Misa dominical</title>
+    <desc lang="es">Un espacio para reencontrarse con la calidez de Dios y sus Sagradas Enseñanzas. El público podrá disfrutar de una misa dominical como espacio de adoración y reflexión espiritual a través de la interpretación de la Palabra de Cristo.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Religioso</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21349056.jpg" />
+    <episode-num system="onscreen">S2 E57</episode-num>
+  </programme>
+  <programme start="20260830073000 -0400" stop="20260830100000 -0400" channel="IVC">
+    <title lang="es">MLB</title>
+    <sub-title lang="es">Los Angeles Angels vs. Detroit Tigers, Temporada regular, Comerica Park</sub-title>
+    <desc lang="es">Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49339337.jpg" />
+    <country lang="es">EE. UU.</country>
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260830100000 -0400" stop="20260830113000 -0400" channel="IVC">
+    <title lang="es">El hormiguero</title>
+    <desc lang="es">Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio te trae el mejor entretenimiento, con contenidos de humor, magia, entrevistas y experimentos de divulgación científica.(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+      <actor>Antonio Resines</actor>
+      <actor>Juan Ibáñez Pérez</actor>
+      <actor>Barrancas</actor>
+      <actor>Trancas</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Talk Show</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994563789.jpg" />
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20260830113000 -0400" stop="20260830133000 -0400" channel="IVC">
+    <title lang="es">Bloodshot</title>
+    <desc lang="es">Ray Garrison, un soldado de élite que murió en la batalla, vuelve a la vida gracias a una tecnología avanzada que le brinda la capacidad de una fuerza súper humana y una curación rápida.(n)</desc>
+    <credits>
+      <actor>Vin Diesel</actor>
+      <actor>Eiza González</actor>
+      <actor>Sam Heughan</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Talulah Riley</actor>
+      <actor>Lamorne Morris</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">C.Ficción</category>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19284628.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20260830133000 -0400" stop="20260830160000 -0400" channel="IVC">
+    <title lang="es">MLB</title>
+    <sub-title lang="es">Los Angeles Dodgers vs. Detroit Tigers, Temporada regular, Comerica Park</sub-title>
+    <desc lang="es">Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49339337.jpg" />
+    <country lang="es">EE. UU.</country>
+    <episode-num system="onscreen">S2026</episode-num>
+  </programme>
+  <programme start="20260830160000 -0400" stop="20260830163000 -0400" channel="IVC">
+    <title lang="es">Casa y estilo</title>
+    <desc lang="es">Este programa muestra lo mejor en decoración y diseño, lo más exquisito del arte y la moda, los mejores lugares, recorriendo exclusivos restaurantes, hoteles, gimnasios, spas y todo lo que tenga que ver con los mejores estilos de vida.(n)</desc>
+    <credits>
+      <actor>Susy Rosado</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Arquitectura</category>
+    <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26424639.jpg" />
+    <episode-num system="onscreen">S2 E26</episode-num>
+  </programme>
+  <programme start="20260830163000 -0400" stop="20260830170000 -0400" channel="IVC">
+    <title lang="es">Antesala</title>
+    <sub-title lang="es">Caracas vs. Dep. Táchira, Fecha 6, Estadio Olímpico</sub-title>
+    <desc lang="es">Vive la previa de los partidos de la 70º edición de la Primera División de Venezuela, torneo organizado por la Liga FUTVE bajo la supervisión de la Federación Venezolana de Fútbol.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1987762929.jpg" />
+    <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S0</episode-num>
+  </programme>
+  <programme start="20260830170000 -0400" stop="20260830190000 -0400" channel="IVC">
+    <title lang="es">Liga FUTVE</title>
+    <sub-title lang="es">Caracas vs. Dep. Táchira, Fecha 6, Estadio Olímpico</sub-title>
+    <desc lang="es">Vive los partidos de la 70º edición de la Primera División de Venezuela, torneo organizado por la Liga FUTVE bajo la supervisión de la Federación Venezolana de Fútbol.(n)</desc>
+    <date>2026</date>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Deportes</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1987762929.jpg" />
+    <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S0</episode-num>
+  </programme>
+  <programme start="20260830190000 -0400" stop="20260830210000 -0400" channel="IVC">
+    <title lang="es">Bloodshot</title>
+    <desc lang="es">Ray Garrison, un soldado de élite que murió en la batalla, vuelve a la vida gracias a una tecnología avanzada que le brinda la capacidad de una fuerza súper humana y una curación rápida.(n)</desc>
+    <credits>
+      <actor>Vin Diesel</actor>
+      <actor>Eiza González</actor>
+      <actor>Sam Heughan</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Talulah Riley</actor>
+      <actor>Lamorne Morris</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">C.Ficción</category>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19284628.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20260830210000 -0400" stop="20260830223000 -0400" channel="IVC">
+    <title lang="es">El hormiguero</title>
+    <sub-title lang="es">Ana Torroja</sub-title>
+    <desc lang="es">Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio te trae el mejor entretenimiento, con contenidos de humor, magia, entrevistas y experimentos de divulgación científica.(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+      <actor>Antonio Resines</actor>
+      <actor>Juan Ibáñez Pérez</actor>
+      <actor>Barrancas</actor>
+      <actor>Trancas</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Talk Show</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994563789.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S18</episode-num>
+  </programme>
+  <programme start="20260830223000 -0400" stop="20260831010000 -0400" channel="IVC">
+    <title lang="es">Chappie</title>
+    <desc lang="es">Chappie, un droide de la policía, es robado y se convierte en el primer robot con la capacidad de pensar y sentir. Las fuerzas lo ven como un peligro para el orden, y no se detendrán para asegurar que Chappie sea el último de su especie.(n)</desc>
+    <credits>
+      <actor>Hugh Jackman</actor>
+      <actor>Dev Patel</actor>
+      <actor>Sharlto Copley</actor>
+      <actor>Jose Pablo Cantillo</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Brandon Auret</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15952589.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20260831010000 -0400" stop="20260831030000 -0400" channel="IVC">
+    <title lang="es">Bloodshot</title>
+    <desc lang="es">Ray Garrison, un soldado de élite que murió en la batalla, vuelve a la vida gracias a una tecnología avanzada que le brinda la capacidad de una fuerza súper humana y una curación rápida.(n)</desc>
+    <credits>
+      <actor>Vin Diesel</actor>
+      <actor>Eiza González</actor>
+      <actor>Sam Heughan</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Talulah Riley</actor>
+      <actor>Lamorne Morris</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">C.Ficción</category>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19284628.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20260831030000 -0400" stop="20260831053000 -0400" channel="IVC">
+    <title lang="es">Chappie</title>
+    <desc lang="es">Chappie, un droide de la policía, es robado y se convierte en el primer robot con la capacidad de pensar y sentir. Las fuerzas lo ven como un peligro para el orden, y no se detendrán para asegurar que Chappie sea el último de su especie.(n)</desc>
+    <credits>
+      <actor>Hugh Jackman</actor>
+      <actor>Dev Patel</actor>
+      <actor>Sharlto Copley</actor>
+      <actor>Jose Pablo Cantillo</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Brandon Auret</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15952589.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20260831053000 -0400" stop="20260831060000 -0400" channel="IVC">
+    <title lang="es">Casa y estilo</title>
+    <desc lang="es">Este programa muestra lo mejor en decoración y diseño, lo más exquisito del arte y la moda, los mejores lugares, recorriendo exclusivos restaurantes, hoteles, gimnasios, spas y todo lo que tenga que ver con los mejores estilos de vida.(n)</desc>
+    <credits>
+      <actor>Susy Rosado</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Arquitectura</category>
+    <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26424639.jpg" />
+    <episode-num system="onscreen">S2 E26</episode-num>
+  </programme>
+  <programme start="20260831060000 -0400" stop="20260831063000 -0400" channel="IVC">
+    <title lang="es">Cosmos diario</title>
+    <desc lang="es">Un programa cuyo objetivo es brindar información y consejos para la vida cotidiana basados en la astrología. Un espacio para ayudar a comprender cómo funcionan las energías, su influencia y las ventajas para el día a día.(n)</desc>
+    <date>2025</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/48755304.jpg" />
+    <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20260831063000 -0400" stop="20260831083000 -0400" channel="IVC">
+    <title lang="es">A tiempo</title>
+    <desc lang="es">Un espacio que cuenta con todo el contenido noticioso y las entrevistas con las personalidades más relevantes del acontecer nacional. Conducido por Eduardo Rodríguez Giolitti.(n)</desc>
+    <credits>
+      <actor>Sonsiré Luna Da Costa</actor>
+      <actor>Saul Noriega</actor>
+      <actor>Eduardo Rodríguez Giolitti</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Radio</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9613869.jpg" />
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20260831083000 -0400" stop="20260831090000 -0400" channel="IVC">
+    <title lang="es">Cosmos diario</title>
+    <desc lang="es">Un programa cuyo objetivo es brindar información y consejos para la vida cotidiana basados en la astrología. Un espacio para ayudar a comprender cómo funcionan las energías, su influencia y las ventajas para el día a día.(n)</desc>
+    <date>2025</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/48755304.jpg" />
+    <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20260831090000 -0400" stop="20260831110000 -0400" channel="IVC">
+    <title lang="es">La junta</title>
+    <desc lang="es">Punto de encuentro matutino que combina actualidad, entretenimiento y conexión humana en vivo. Un equipo con ADN de actualidad que contará con figuras de amplia trayectoria.(n)</desc>
+    <credits>
+      <actor>Eyla Adrián</actor>
+      <actor>Andreína Nedjme</actor>
+      <actor>Óscar Martinez</actor>
+      <actor>Alba Cecilia Mujica</actor>
+      <actor>Jorge Roig</actor>
+      <actor>Daniela Duran</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="es">Magazine</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994024587.jpg" />
+    <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+  </programme>
+  <programme start="20260831110000 -0400" stop="20260831120000 -0400" channel="IVC">
+    <title lang="es">Sunshine Girls (?)</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260831120000 -0400" stop="20260831123000 -0400" channel="IVC">
+    <title lang="es">Ana Avellana</title>
+    <desc lang="es">Deleitate con las nuevas preparaciones que nos trae Ana Avellana desde Perú. Prepara y disfruta las dulces alternativas que trae para tí.(n)</desc>
+    <credits>
+      <actor>Ana Luisa Velarde</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Cocina</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11468234.jpg" />
+    <country lang="es">Perú</country>
+  </programme>
+  <programme start="20260831123000 -0400" stop="20260831130000 -0400" channel="IVC">
+    <title lang="es">Contraplato</title>
+    <desc lang="es">Un programa de cocina en el que diversos cocineros compiten por preparar los platos más deliciosos. Una espacio para que el público aprenda sobre gastronomía y se anime a realizar las mejores preparaciones.(n)</desc>
+    <credits>
+      <actor>Christian Bravo</actor>
+      <actor>Yiddá Eslava</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Cocina</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14991619.jpg" />
+    <country lang="es">Perú</country>
+  </programme>
+  <programme start="20260831130000 -0400" stop="20260831140000 -0400" channel="IVC">
+    <title lang="es">La moderna</title>
+    <desc lang="es">Matilde, una joven humilde, vuelve a Madrid durante 1930 para buscar empleo y se reencuentra con su amor de la adolescencia. Entre ambos vuelve a surgir la pasión, pero deberán vencer diversos obstáculos para estar juntos.(n)</desc>
+    <credits>
+      <actor>Helena Ezquerro</actor>
+      <actor>Stéphanie Magnin</actor>
+      <actor>Almagro San Miguel</actor>
+      <actor>Berta Castañé</actor>
+      <actor>Llorenç González</actor>
+      <actor>Germán Alcarazu</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29888661.jpg" />
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20260831140000 -0400" stop="20260831150000 -0400" channel="IVC">
+    <title lang="es">Loquito por ti</title>
+    <desc lang="es">Camilo y Juancho comparten el sueño de convertirse en músicos reconocidos. En el camino al éxito, coinciden con Daniela, quien sueña con ser una estrella de la música. Cuando los dos amigos se enamoran de ella, su amistad llegará a su fin.(n)</desc>
+    <credits>
+      <actor>Variel Sánchez</actor>
+      <actor>Sebastián Carvajal</actor>
+      <actor>Danielle Arciniegas</actor>
+      <actor>Kimberly Reyes</actor>
+      <actor>Daniela Tapia</actor>
+      <actor>Carla Giraldo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7706154.jpg" />
+    <country lang="es">Colombia</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20260831150000 -0400" stop="20260831160000 -0400" channel="IVC">
+    <title lang="es">Sunshine Girls</title>
+    <desc lang="es">Günes es una mujer que, junto a sus tres hijas, decide rehacer su vida casándose con Haluk, un millonario empresario hotelero. Lo que ella ignora es el oscuro pasado de su flamante esposo.(n)</desc>
+    <credits>
+      <actor>Emre Kinay</actor>
+      <actor>Evrim Alasya</actor>
+      <actor>Tolga Saritas</actor>
+      <actor>Burcu Özberk</actor>
+      <actor>Hande Erçel</actor>
+      <actor>Berk Atan</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/38429915.jpg" />
+    <country lang="es">Turquía</country>
+  </programme>
+  <programme start="20260831160000 -0400" stop="20260831170000 -0400" channel="IVC">
+    <title lang="es">La venganza de Analía</title>
+    <desc lang="es">Analía decide tomar venganza contra el asesino de su madre, el candidato a la Presidencia de la República, Guillermo León Mejía. Para eso se convertirá en la más importante asesora política y en la mano derecha del candidato.(n)</desc>
+    <credits>
+      <actor>Jacobo Diez</actor>
+      <actor>Carolina Gómez</actor>
+      <actor>Marlon Moreno</actor>
+      <actor>George Slebi</actor>
+      <actor>Camilo Calvo</actor>
+      <actor>Mauricio Figueroa</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11285365.jpg" />
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20260831170000 -0400" stop="20260831180000 -0400" channel="IVC">
+    <title lang="es">La venganza de Analía</title>
+    <desc lang="es">Analía decide tomar venganza contra el asesino de su madre, el candidato a la Presidencia de la República, Guillermo León Mejía. Para eso se convertirá en la más importante asesora política y en la mano derecha del candidato.(n)</desc>
+    <credits>
+      <actor>Jacobo Diez</actor>
+      <actor>Carolina Gómez</actor>
+      <actor>Marlon Moreno</actor>
+      <actor>George Slebi</actor>
+      <actor>Camilo Calvo</actor>
+      <actor>Mauricio Figueroa</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11285365.jpg" />
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20260831180000 -0400" stop="20260831190000 -0400" channel="IVC">
+    <title lang="es">Play Top</title>
+    <desc lang="es">Una visión general del acontecer deportivo nacional e internacional, con los más apasionantes y entretenidos debates y puntos de vista de renombrados panelistas de la escena deportiva.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Magazine</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13021850.jpg" />
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20260831190000 -0400" stop="20260831200000 -0400" channel="IVC">
+    <title lang="es">Camino al aplauso</title>
+    <desc lang="es">Camino al Aplauso nos muestra el proceso detrás de las cámaras, desde el casting hasta el montaje final, de uno de los musicales más importantes a nivel mundial 'Mamma Mia'.(n)</desc>
+    <date>2025</date>
+    <category lang="es">Entretenimientos</category>
+    <category lang="es">Reality Show</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1947534087.jpg" />
+  </programme>
+  <programme start="20260831200000 -0400" stop="20260831210000 -0400" channel="IVC">
+    <title lang="es">Camino al aplauso</title>
+    <desc lang="es">Camino al Aplauso nos muestra el proceso detrás de las cámaras, desde el casting hasta el montaje final, de uno de los musicales más importantes a nivel mundial 'Mamma Mia'.(n)</desc>
+    <date>2025</date>
+    <category lang="es">Entretenimientos</category>
+    <category lang="es">Reality Show</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1947534087.jpg" />
+  </programme>
+  <programme start="20260831210000 -0400" stop="20260831213000 -0400" channel="IVC">
+    <title lang="es">Aventura gastronómica Colombia</title>
+    <sub-title lang="es">Aventura de la Trucha (Guatavita)</sub-title>
+    <desc lang="es">Conducido por Nicolás de Zubiría, Aventura Gastronómica busca redescubrir los sabores, la biodiversidad y la pluriculturalidad del país, a través de las raíces y tradiciones culinarias de cada región.(n)</desc>
+    <credits>
+      <actor>Nicolás De Zubiría</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Cocina</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/24285063.jpg" />
+    <country lang="es">Colombia</country>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260831213000 -0400" stop="20260831225500 -0400" channel="IVC">
+    <title lang="es">El hormiguero</title>
+    <sub-title lang="es">Manuel Carrasco</sub-title>
+    <desc lang="es">Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio te trae el mejor entretenimiento, con contenidos de humor, magia, entrevistas y experimentos de divulgación científica.(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+      <actor>Antonio Resines</actor>
+      <actor>Juan Ibáñez Pérez</actor>
+      <actor>Barrancas</actor>
+      <actor>Trancas</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Talk Show</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1994563789.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S16</episode-num>
+  </programme>
+  <programme start="20260831225500 -0400" stop="20260831235500 -0400" channel="IVC">
+    <title lang="es">La moderna</title>
+    <desc lang="es">Matilde, una joven humilde, vuelve a Madrid durante 1930 para buscar empleo y se reencuentra con su amor de la adolescencia. Entre ambos vuelve a surgir la pasión, pero deberán vencer diversos obstáculos para estar juntos.(n)</desc>
+    <credits>
+      <actor>Helena Ezquerro</actor>
+      <actor>Stéphanie Magnin</actor>
+      <actor>Almagro San Miguel</actor>
+      <actor>Berta Castañé</actor>
+      <actor>Llorenç González</actor>
+      <actor>Germán Alcarazu</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29888661.jpg" />
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20260831235500 -0400" stop="20260901005500 -0400" channel="IVC">
+    <title lang="es">Loquito por ti</title>
+    <desc lang="es">Camilo y Juancho comparten el sueño de convertirse en músicos reconocidos. En el camino al éxito, coinciden con Daniela, quien sueña con ser una estrella de la música. Cuando los dos amigos se enamoran de ella, su amistad llegará a su fin.(n)</desc>
+    <credits>
+      <actor>Variel Sánchez</actor>
+      <actor>Sebastián Carvajal</actor>
+      <actor>Danielle Arciniegas</actor>
+      <actor>Kimberly Reyes</actor>
+      <actor>Daniela Tapia</actor>
+      <actor>Carla Giraldo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7706154.jpg" />
+    <country lang="es">Colombia</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
   <programme start="20260830000000 -0400" stop="20260830000300 -0400" channel="MERIDIANO TV">
     <title lang="es">Himno Nacional</title>
     <desc lang="es">Transmisión del Himno Nacional de Venezuela.(n)</desc>
@@ -144456,12 +144593,8 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260831210000 -0400" stop="20260831213000 -0400" channel="MERIDIANO TV">
-    <title lang="es">Meridiano Televisión</title>
-    <desc lang="es">Disfrute las mejores noticias del deporte nacional e internacional. Resultados, informaciones y estadísticas de las principales disciplinas deportivas.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Meridiano Televisión (?)</title>
     <category lang="es">Deportivo</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11381230.jpg" />
   </programme>
   <programme start="20260831213000 -0400" stop="20260831233000 -0400" channel="MERIDIANO TV">
     <title lang="es">Chiringuito de Jugones</title>
@@ -144976,21 +145109,8 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260830060000 -0400" stop="20260830070000 -0400" channel="TELEVEN">
-    <title lang="es">Los Pitufos</title>
-    <desc lang="es">Son unas criaturas azules no mayores a un dedo índice, que viven en una aldea de hongos oculta en el bosque. Gargamel y su gato Azrael, intentarán atraparlos por ser un ingrediente necesario para obtener la piedra filosofal.(n)</desc>
-    <credits>
-      <actor>Davis Freeman</actor>
-      <actor>Youssef El Kaoukibi</actor>
-      <actor>Vincent Broes</actor>
-      <actor>Joshua Rubin</actor>
-      <actor>Jackie Jones</actor>
-      <actor>Sandra Asratian</actor>
-    </credits>
-    <date>2021</date>
+    <title lang="es">Los Pitufos (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20272709.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260830070000 -0400" stop="20260830073000 -0400" channel="TELEVEN">
     <title lang="es">Santa Misa dominical</title>
@@ -145405,21 +145525,8 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260831210000 -0400" stop="20260831220000 -0400" channel="TELEVEN">
-    <title lang="es">Doménica Montero</title>
-    <desc lang="es">Abandonada en el altar, Doménica se endurece dirigiendo su rancho. Luis Fernando ve más allá de su coraza e intenta probarle que el amor existe, pese a los obstáculos.(n)</desc>
-    <credits>
-      <actor>Angelique Boyer</actor>
-      <actor>Marcus Ornellas</actor>
-      <actor>Scarlet Gruber</actor>
-      <actor>Brandon Peniche</actor>
-      <actor>Diego Amozurrutia</actor>
-      <actor>Gonzalo Peña</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Doménica Montero (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1987995242.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260831220000 -0400" stop="20260831230000 -0400" channel="TELEVEN">
     <title lang="es">El noticiero</title>
@@ -145794,21 +145901,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995268612.jpg" />
   </programme>
   <programme start="20260831094000 -0400" stop="20260831103000 -0400" channel="TLT">
-    <title lang="es">Oh My General</title>
-    <desc lang="es">Cuenta una historia de amor peculiar entre una general femenina estoica y fuerte Ye Zhao y un bueno para nada pero apuesto príncipe Zhao Yu Jin, después de que fueron comprometidos el uno al otro por la Emperatriz Viuda.(n)</desc>
-    <credits>
-      <actor>Ma Si Chun</actor>
-      <actor>Sheng Yi Lun</actor>
-      <actor>Ding Chuan</actor>
-      <actor>Wang Zixuan</actor>
-      <actor>Wen Jie</actor>
-      <actor>Gongzi Shichen</actor>
-    </credits>
-    <date>2017</date>
+    <title lang="es">Oh My General (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26908732.jpg" />
-    <country lang="es">China</country>
   </programme>
   <programme start="20260831103000 -0400" stop="20260831104000 -0400" channel="TLT">
     <title lang="es">Japan Video Topic en Tele Tuya</title>
@@ -145992,40 +146086,12 @@ Repetición</title>
     <episode-num system="onscreen">S1 E64</episode-num>
   </programme>
   <programme start="20260831200000 -0400" stop="20260831210000 -0400" channel="TLT">
-    <title lang="es">Isla paraíso</title>
-    <sub-title lang="es">Andrés llama a su papá</sub-title>
-    <desc lang="es">De un día para otro, Carolina se ve envuelta en una estafa producto de los irresponsables manejos de su marido. Perseguida por la justicia, sale a pedirle ayuda a su hermana, quien está yéndose a una misión religiosa en Isla Paraíso.(n)</desc>
-    <credits>
-      <actor>Paola Volpato</actor>
-      <actor>Francisco Melo</actor>
-      <actor>Andrés Velasco</actor>
-      <actor>Montserrat Ballarin</actor>
-      <actor>Nicolás Oyarzún</actor>
-      <actor>Fernando Godoy</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Isla paraíso (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9521072.jpg" />
-    <country lang="es">Chile</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260831210000 -0400" stop="20260831220000 -0400" channel="TLT">
-    <title lang="es">Relaciones complicadas</title>
-    <desc lang="es">La vida de la escritora Aysegül cambia radicalmente tras regresar de un viaje a Grecia. Tras perder su casa a raíz de un engaño, termina como empleada del nuevo dueño.(n)</desc>
-    <credits>
-      <actor>Berk Oktay</actor>
-      <actor>Seren Sirince</actor>
-      <actor>Gülden Avsaroglu</actor>
-      <actor>Nurseli Idiz</actor>
-      <actor>Sezai Altekin</actor>
-      <actor>Eda Ece</actor>
-    </credits>
-    <date>2015</date>
+    <title lang="es">Relaciones complicadas (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/38301895.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260831220000 -0400" stop="20260831230000 -0400" channel="TLT">
     <title lang="es">Encuentro en el estudio</title>
@@ -146231,21 +146297,8 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260830110000 -0400" stop="20260830113000 -0400" channel="TV FAMILIA">
-    <title lang="es">La pequeña casa de la pradera</title>
-    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.(n)</desc>
-    <credits>
-      <actor>Michael Landon</actor>
-      <actor>Melissa Gilbert</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-    </credits>
-    <date>1974</date>
+    <title lang="es">La pequeña casa de la pradera (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55024418.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260830113000 -0400" stop="20260830120000 -0400" channel="TV FAMILIA">
     <title lang="es">Trisagio a la Santísima Trinidad</title>
@@ -146738,21 +146791,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2426307.jpg" />
   </programme>
   <programme start="20260831190000 -0400" stop="20260831200000 -0400" channel="TV FAMILIA">
-    <title lang="es">La pequena casa de la pradera</title>
-    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.(n)</desc>
-    <credits>
-      <actor>Michael Landon</actor>
-      <actor>Melissa Gilbert</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-    </credits>
-    <date>1974</date>
+    <title lang="es">La pequena casa de la pradera (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55024418.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260831200000 -0400" stop="20260831210000 -0400" channel="TV FAMILIA">
     <title lang="es">Atrápame si puedes</title>
@@ -147111,31 +147151,16 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/35774983.jpg" />
   </programme>
   <programme start="20260831150000 -0400" stop="20260831153000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260831153000 -0400" stop="20260831160000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260831160000 -0400" stop="20260831163000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260831163000 -0400" stop="20260831170000 -0400" channel="TVES">
     <title lang="es">Bloque infantil</title>
@@ -148222,11 +148247,8 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260831150000 -0400" stop="20260831160000 -0400" channel="VENEVISION">
-    <title lang="es">¡Siéntese quien pueda!</title>
-    <desc lang="es">El primer reality show en el que participan periodistas y miembros de la farándula, quienes comentan y arman polémica sobre las noticias más actuales de ese medio y la cultura pop.(n)</desc>
-    <date>2022</date>
+    <title lang="es">¡Siéntese quien pueda! (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20260831160000 -0400" stop="20260831170000 -0400" channel="VENEVISION">
     <title lang="es">La rosa de Guadalupe</title>
@@ -148554,21 +148576,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260830170000 -0400" stop="20260830180000 -0400" channel="VENEVISION PLUS">
-    <title lang="es">Amorcito corazón</title>
-    <desc lang="es">Este melodrama narra la historia de Isabel, una arquitecta que tiene marcado su destino amoroso, Zoe, la aparente ama de casa perfecta y Lucía novicia de corazón.(n)</desc>
-    <credits>
-      <actor>Diego Olivera</actor>
-      <actor>África Zavala</actor>
-      <actor>Lis Vega</actor>
-      <actor>Mariana Karr</actor>
-      <actor>Silvia Mariscal</actor>
-      <actor>Alejandro Ibarra</actor>
-    </credits>
-    <date>2011</date>
+    <title lang="es">Amorcito corazón (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22971351.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260830180000 -0400" stop="20260830190000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Entre mujeres</title>
@@ -148831,21 +148840,8 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260831160000 -0400" stop="20260831170000 -0400" channel="VENEVISION PLUS">
-    <title lang="es">Rebeca</title>
-    <desc lang="es">Un padre y su hijo enfrentados por el amor de una misma mujer. ¿Quién se quedará con la protagonista?(n)</desc>
-    <credits>
-      <actor>José María Seoane</actor>
-      <actor>Ricardo Álamo</actor>
-      <actor>Víctor Cámara</actor>
-      <actor>Pablo Montero</actor>
-      <actor>Katie Barberi</actor>
-      <actor>Leonardo Daniel</actor>
-    </credits>
-    <date>2003</date>
+    <title lang="es">Rebeca (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2407914.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260831170000 -0400" stop="20260831180000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Somos tú y yo</title>
