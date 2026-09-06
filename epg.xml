@@ -250,7 +250,6 @@
   </channel>
   <channel id="UNITEL SANTA CRUZ">
     <display-name lang="es">Unitel Santa Cruz</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/13041556.jpg" />
     <url>http://www.intersatelital.com.bo</url>
   </channel>
   <channel id="UNITEL">
@@ -13054,7 +13053,7 @@ Repetición</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260905212000 -0400" stop="20260905214500 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260905222000 -0400" stop="20260905224500 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
     <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
     <credits>
@@ -13066,7 +13065,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260905214500 -0400" stop="20260906030000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260905224500 -0400" stop="20260906040000 -0400" channel="UNITEL">
     <title lang="es">Pare de sufrir</title>
     <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.(n)</desc>
     <date>2016</date>
@@ -13074,7 +13073,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2416632.jpg" />
     <country lang="es">Brasil</country>
   </programme>
-  <programme start="20260906030000 -0400" stop="20260906043000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906040000 -0400" stop="20260906053000 -0400" channel="UNITEL">
     <title lang="es">Súper libro</title>
     <desc lang="es">Un espacio que presenta las aventuras de dos niños que se sumergen en las páginas de un libro que los llevará por diferentes historias que conectan al hombre con el amor supremo de Dios.(n)</desc>
     <credits>
@@ -13090,7 +13089,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/26261902.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906043000 -0400" stop="20260906060000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906053000 -0400" stop="20260906070000 -0400" channel="UNITEL">
     <title lang="es">Looney Tunes</title>
     <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
     <credits>
@@ -13102,7 +13101,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906060000 -0400" stop="20260906080000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906070000 -0400" stop="20260906090000 -0400" channel="UNITEL">
     <title lang="es">Tom y Jerry</title>
     <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
     <credits>
@@ -13116,7 +13115,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906080000 -0400" stop="20260906093000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906090000 -0400" stop="20260906103000 -0400" channel="UNITEL">
     <title lang="es">Los Croods: Una nueva era</title>
     <desc lang="es">La familia prehistórica de los Croods es desafiada por su familia rival, los Bettermans, quienes afirman estar más evolucionadas.(n)</desc>
     <credits>
@@ -13133,7 +13132,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13138678.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906093000 -0400" stop="20260906110000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906103000 -0400" stop="20260906120000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
     <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
     <date>2000</date>
@@ -13141,7 +13140,7 @@ Repetición</title>
     <category lang="es">Noticias</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
-  <programme start="20260906110000 -0400" stop="20260906150000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906120000 -0400" stop="20260906160000 -0400" channel="UNITEL">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
     <credits>
@@ -13158,7 +13157,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906150000 -0400" stop="20260906170000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906160000 -0400" stop="20260906180000 -0400" channel="UNITEL">
     <title lang="es">El sorprendente Hombre Araña</title>
     <desc lang="es">Como la mayoría de los adolescentes, Peter intenta descubrir quién es y cómo ha logrado ser lo que es. Mientras ata los cabos sueltos de su pasado, descubre un misterioso secreto de su padre, que le dará forma a su destino como Spiderman.(n)</desc>
     <credits>
@@ -13175,7 +13174,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/16739701.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906170000 -0400" stop="20260906180000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906180000 -0400" stop="20260906190000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
     <desc lang="es">Telepais, el centro informativo mas completo del país, trae a tu alcance noticias nacionales e internacionales, deportivas y de farándula. Telepais te ofrece información veraz e inmediata. Telepais, donde esta la noticia.(n)</desc>
     <date>2000</date>
@@ -13183,7 +13182,7 @@ Repetición</title>
     <category lang="es">Noticias</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
-  <programme start="20260906180000 -0400" stop="20260906200000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906190000 -0400" stop="20260906210000 -0400" channel="UNITEL">
     <title lang="es">El día después de mañana</title>
     <desc lang="es">Las investigaciones de Jack indican que el calentamiento global puede provocar un cambio climático. Se toman medidas pero es tarde, por lo que se debe realizar una evacuación hacia el sur. Sin embargo, Jack va al norte a buscar a su hijo.(n)</desc>
     <credits>
@@ -13200,7 +13199,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/8473610.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906200000 -0400" stop="20260906214500 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906210000 -0400" stop="20260906224500 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
     <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
     <credits>
@@ -13213,7 +13212,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906214500 -0400" stop="20260907030000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260906224500 -0400" stop="20260907040000 -0400" channel="UNITEL">
     <title lang="es">Pare de sufrir</title>
     <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.(n)</desc>
     <date>2016</date>
@@ -13222,7 +13221,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2416632.jpg" />
     <country lang="es">Brasil</country>
   </programme>
-  <programme start="20260907030000 -0400" stop="20260907060000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260907040000 -0400" stop="20260907070000 -0400" channel="UNITEL">
     <title lang="es">La revista</title>
     <desc lang="es">Infórmese con nuestro resumen de noticias.(n)</desc>
     <date>2000</date>
@@ -13231,7 +13230,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/8846658.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907060000 -0400" stop="20260907073000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260907070000 -0400" stop="20260907083000 -0400" channel="UNITEL">
     <title lang="es">La batidora</title>
     <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
     <credits>
@@ -13245,7 +13244,7 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
-  <programme start="20260907073000 -0400" stop="20260907090000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260907083000 -0400" stop="20260907100000 -0400" channel="UNITEL">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
     <credits>
@@ -13262,368 +13261,32 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260907090000 -0400" stop="20260907110000 -0400" channel="UNITEL SANTA CRUZ">
+  <programme start="20260907100000 -0400" stop="20260907120000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
     <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
     <date>2000</date>
     <category lang="es">Noticiero</category>
     <category lang="es">Noticias</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260907110000 -0400" stop="20260907120000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260907120000 -0400" stop="20260907130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260907130000 -0400" stop="20260907140000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Corazón Negro</title>
-    <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
-    <credits>
-      <actor>Ece Uslu</actor>
-      <actor>Hafsanur Sancaktutan</actor>
-      <actor>Aras Aydin</actor>
-      <actor>Leyla Tanlar</actor>
-      <actor>Burak Tozkoparan</actor>
-      <actor>Esra Dermancioglu</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260907140000 -0400" stop="20260907150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Cemre Öktem</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13518081.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260907150000 -0400" stop="20260907160000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Un programa que repasa lo más destacado de la agenda de noticias nacional e internacional. Junto a un equipo de periodistas, expertos y reporteros, el público podrá informarse al completo sobre la realidad en Bolivia.(n)</desc>
-    <credits>
-      <actor>Paola Araúz</actor>
-      <actor>Agustín Belforte</actor>
-      <actor>Alejandra Fernández</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49943572.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260907160000 -0400" stop="20260907180000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Telepais, el centro informativo mas completo del país, trae a tu alcance noticias nacionales e internacionales, deportivas y de farándula. Telepais te ofrece información veraz e inmediata. Telepais, donde esta la noticia.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260907180000 -0400" stop="20260907184500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Corazón Negro</title>
-    <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
-    <credits>
-      <actor>Ece Uslu</actor>
-      <actor>Hafsanur Sancaktutan</actor>
-      <actor>Aras Aydin</actor>
-      <actor>Leyla Tanlar</actor>
-      <actor>Burak Tozkoparan</actor>
-      <actor>Esra Dermancioglu</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260907184500 -0400" stop="20260907201500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Yo me llamo (?)</title>
-    <category lang="es">Reality Show</category>
-  </programme>
-  <programme start="20260907201500 -0400" stop="20260907204500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo (?)</title>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20260907204500 -0400" stop="20260907210000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Telepaís media noche</title>
-    <desc lang="es">El servicio informativo de Unitel.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15160250.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260905212000 -0400" stop="20260905214500 -0400" channel="UNITEL">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260905214500 -0400" stop="20260906030000 -0400" channel="UNITEL">
-    <title lang="es">Pare de sufrir</title>
-    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2416632.jpg" />
-    <country lang="es">Brasil</country>
-  </programme>
-  <programme start="20260906030000 -0400" stop="20260906043000 -0400" channel="UNITEL">
-    <title lang="es">Súper libro</title>
-    <desc lang="es">Un espacio que presenta las aventuras de dos niños que se sumergen en las páginas de un libro que los llevará por diferentes historias que conectan al hombre con el amor supremo de Dios.(n)</desc>
-    <credits>
-      <actor>Billie Lou Watt</actor>
-      <actor>Ray Owens</actor>
-      <actor>Sonia Owens</actor>
-      <actor>Helena Van Koert</actor>
-      <actor>Katsue Miwa</actor>
-      <actor>Hal Studer</actor>
-    </credits>
-    <date>1981</date>
-    <category lang="es">Infantiles</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26261902.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260906043000 -0400" stop="20260906060000 -0400" channel="UNITEL">
-    <title lang="es">Looney Tunes</title>
-    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
-    <credits>
-      <actor>Mel Blanc</actor>
-      <actor>Chuck Jones</actor>
-    </credits>
-    <date>1946</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260906060000 -0400" stop="20260906080000 -0400" channel="UNITEL">
-    <title lang="es">Tom y Jerry</title>
-    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
-    <credits>
-      <actor>Lillian Randolph</actor>
-      <actor>William Hanna</actor>
-      <actor>Joseph Barbera</actor>
-    </credits>
-    <date>1940</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260906080000 -0400" stop="20260906093000 -0400" channel="UNITEL">
-    <title lang="es">Los Croods: Una nueva era</title>
-    <desc lang="es">La familia prehistórica de los Croods es desafiada por su familia rival, los Bettermans, quienes afirman estar más evolucionadas.(n)</desc>
-    <credits>
-      <actor>Emma Stone</actor>
-      <actor>Catherine Keener</actor>
-      <actor>Cloris Leachman</actor>
-      <actor>Clark Duke</actor>
-      <actor>Leslie Mann</actor>
-      <actor>Kailey Crawford</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Cine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13138678.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260906093000 -0400" stop="20260906110000 -0400" channel="UNITEL">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260906110000 -0400" stop="20260906150000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260906150000 -0400" stop="20260906170000 -0400" channel="UNITEL">
-    <title lang="es">El sorprendente Hombre Araña</title>
-    <desc lang="es">Como la mayoría de los adolescentes, Peter intenta descubrir quién es y cómo ha logrado ser lo que es. Mientras ata los cabos sueltos de su pasado, descubre un misterioso secreto de su padre, que le dará forma a su destino como Spiderman.(n)</desc>
-    <credits>
-      <actor>Emma Stone</actor>
-      <actor>Martin Sheen</actor>
-      <actor>Rhys Ifans</actor>
-      <actor>Sally Field</actor>
-      <actor>Irrfan Khan</actor>
-      <actor>Chris Zylka</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Cine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16739701.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260906170000 -0400" stop="20260906180000 -0400" channel="UNITEL">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Telepais, el centro informativo mas completo del país, trae a tu alcance noticias nacionales e internacionales, deportivas y de farándula. Telepais te ofrece información veraz e inmediata. Telepais, donde esta la noticia.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260906180000 -0400" stop="20260906200000 -0400" channel="UNITEL">
-    <title lang="es">El día después de mañana</title>
-    <desc lang="es">Las investigaciones de Jack indican que el calentamiento global puede provocar un cambio climático. Se toman medidas pero es tarde, por lo que se debe realizar una evacuación hacia el sur. Sin embargo, Jack va al norte a buscar a su hijo.(n)</desc>
-    <credits>
-      <actor>Dennis Quaid</actor>
-      <actor>Emmy Rossum</actor>
-      <actor>Ian Holm</actor>
-      <actor>Sela Ward</actor>
-      <actor>Arjay Smith</actor>
-      <actor>Tamlyn Tomita</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Cine</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8473610.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260906200000 -0400" stop="20260906214500 -0400" channel="UNITEL">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260906214500 -0400" stop="20260907030000 -0400" channel="UNITEL">
-    <title lang="es">Pare de sufrir</title>
-    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Religioso</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2416632.jpg" />
-    <country lang="es">Brasil</country>
-  </programme>
-  <programme start="20260907030000 -0400" stop="20260907060000 -0400" channel="UNITEL">
-    <title lang="es">La revista</title>
-    <desc lang="es">Infórmese con nuestro resumen de noticias.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Magazine</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8846658.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260907060000 -0400" stop="20260907073000 -0400" channel="UNITEL">
-    <title lang="es">La batidora</title>
-    <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
-    <credits>
-      <actor>Daniel Pesce</actor>
-      <actor>Grisel Quiroga</actor>
-      <actor>Ronald Arnez</actor>
-      <actor>Eloisa Gutierrez</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
-  </programme>
-  <programme start="20260907073000 -0400" stop="20260907090000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20260907090000 -0400" stop="20260907110000 -0400" channel="UNITEL">
-    <title lang="es">Telepaís</title>
-    <desc lang="es">Entérate de la ultima y mejor información de Bolivia y el mundo, con noticias de política, economía, seguridad, cultura y espectáculos.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
-  </programme>
-  <programme start="20260907110000 -0400" stop="20260907120000 -0400" channel="UNITEL">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260907120000 -0400" stop="20260907130000 -0400" channel="UNITEL">
+    <title lang="es">Hercai</title>
+    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
+    <credits>
+      <actor>Akin Akinözü</actor>
+      <actor>Ebru Sahin</actor>
+      <actor>Gülçin Santircioglu</actor>
+      <actor>Serhat Tutumluer</actor>
+      <actor>Macit Sonkan</actor>
+      <actor>Oya Unustasi</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
+    <country lang="es">Turquía</country>
+  </programme>
+  <programme start="20260907130000 -0400" stop="20260907140000 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
     <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
     <credits>
@@ -13636,7 +13299,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260907130000 -0400" stop="20260907140000 -0400" channel="UNITEL">
+  <programme start="20260907140000 -0400" stop="20260907150000 -0400" channel="UNITEL">
     <title lang="es">Corazón Negro</title>
     <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
     <credits>
@@ -13651,26 +13314,26 @@ Repetición</title>
     <category lang="es">Telenovela</category>
     <category lang="es">Series</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
-    <country lang="es">Turquía</country>
-  </programme>
-  <programme start="20260907140000 -0400" stop="20260907150000 -0400" channel="UNITEL">
-    <title lang="es">La hija del embajador</title>
-    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
-    <credits>
-      <actor>Engin Akyürek</actor>
-      <actor>Erdal Küçükkömürcü</actor>
-      <actor>Konca Cilasun</actor>
-      <actor>Dogukan Polat</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Cemre Öktem</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13518081.jpg" />
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260907150000 -0400" stop="20260907160000 -0400" channel="UNITEL">
+    <title lang="es">La hija del embajador</title>
+    <desc lang="es">Sancar es hijo de un pobre leñador y Nare es hija de un embajador. Mientras crecía, Sancar aprendió sobre el mundo de Nare, mientras Nare aprendió sobre su país. Solo se veían dos días al año, pero nunca dejaron de pensar el uno en el otro.(n)</desc>
+    <credits>
+      <actor>Engin Akyürek</actor>
+      <actor>Erdal Küçükkömürcü</actor>
+      <actor>Konca Cilasun</actor>
+      <actor>Dogukan Polat</actor>
+      <actor>Edip Tepeli</actor>
+      <actor>Cemre Öktem</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13518081.jpg" />
+    <country lang="es">Turquía</country>
+  </programme>
+  <programme start="20260907160000 -0400" stop="20260907170000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
     <desc lang="es">Un programa que repasa lo más destacado de la agenda de noticias nacional e internacional. Junto a un equipo de periodistas, expertos y reporteros, el público podrá informarse al completo sobre la realidad en Bolivia.(n)</desc>
     <credits>
@@ -13684,7 +13347,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/49943572.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907160000 -0400" stop="20260907180000 -0400" channel="UNITEL">
+  <programme start="20260907170000 -0400" stop="20260907190000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
     <desc lang="es">Telepais, el centro informativo mas completo del país, trae a tu alcance noticias nacionales e internacionales, deportivas y de farándula. Telepais te ofrece información veraz e inmediata. Telepais, donde esta la noticia.(n)</desc>
     <date>2000</date>
@@ -13692,7 +13355,7 @@ Repetición</title>
     <category lang="es">Noticias</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
-  <programme start="20260907180000 -0400" stop="20260907184500 -0400" channel="UNITEL">
+  <programme start="20260907190000 -0400" stop="20260907194500 -0400" channel="UNITEL">
     <title lang="es">Corazón Negro</title>
     <desc lang="es">Abandonados al nacer, los hermanos Nuh y Melek idean un plan de venganza tras descubrir que su rica madre vive sin remordimientos.(n)</desc>
     <credits>
@@ -13709,7 +13372,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/55569485.jpg" />
     <country lang="es">Turquía</country>
   </programme>
-  <programme start="20260907184500 -0400" stop="20260907201500 -0400" channel="UNITEL">
+  <programme start="20260907194500 -0400" stop="20260907211500 -0400" channel="UNITEL">
     <title lang="es">Yo me llamo</title>
     <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
     <credits>
@@ -13722,40 +13385,30 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907201500 -0400" stop="20260907204500 -0400" channel="UNITEL">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
+  <programme start="20260905210000 -0400" stop="20260905220000 -0400" channel="BOLIVISION">
+    <title lang="es">Hombres de Paco</title>
+    <desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.(n)</desc>
     <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
+      <actor>Hugo Silva</actor>
+      <actor>Paco Tous</actor>
+      <actor>Pepón Nieto</actor>
+      <actor>Federico Celada</actor>
+      <actor>Neus Sanz</actor>
+      <actor>Marián Aguilera</actor>
     </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
+    <date>2005</date>
     <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16277624.jpg" />
+    <country lang="es">España</country>
   </programme>
-  <programme start="20260907204500 -0400" stop="20260907210000 -0400" channel="UNITEL">
-    <title lang="es">Telepaís media noche</title>
-    <desc lang="es">El servicio informativo de Unitel.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15160250.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260905210000 -0400" stop="20260905223000 -0400" channel="BOLIVISION">
+  <programme start="20260905220000 -0400" stop="20260905233000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
     <desc lang="es">Programación privada, con contenidos e informaciones variadas.(n)</desc>
     <date>2000</date>
     <category lang="es">Venta y Publicidad</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
-  <programme start="20260905223000 -0400" stop="20260905233000 -0400" channel="BOLIVISION">
+  <programme start="20260905233000 -0400" stop="20260906003000 -0400" channel="BOLIVISION">
     <title lang="es">Águila roja</title>
     <desc lang="es">En el Siglo de Oro, durante el reinado de Felipe IV, Gonzalo de Montalvo, maestro de profesión, se verá envuelto en diversas aventuras e intrigas, tratando de descubrir la conspiración que se esconde tras el asesinato de su esposa.(n)</desc>
     <credits>
@@ -13771,7 +13424,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4082795.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260905233000 -0400" stop="20260906003000 -0400" channel="BOLIVISION">
+  <programme start="20260906003000 -0400" stop="20260906013000 -0400" channel="BOLIVISION">
     <title lang="es">El barco</title>
     <desc lang="es">Una catástrofe mundial provoca un cataclismo que lleva a la desaparición de la tierra firme. Con el planeta inundado de agua, la tripulación y los jóvenes alumnos de un buque escuela parecen ser los únicos supervivientes.(n)</desc>
     <credits>
@@ -13787,7 +13440,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/32435654.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260906003000 -0400" stop="20260906013000 -0400" channel="BOLIVISION">
+  <programme start="20260906013000 -0400" stop="20260906023000 -0400" channel="BOLIVISION">
     <title lang="es">Misterios de Laura</title>
     <desc lang="es">Laura Lebrel tiene que compatibilizar sus labores de esposa, ama de casa y madre de dos gemelos de cinco años con su trabajo como inspectora de policía. Pero no es una inspectora cualquiera...(n)</desc>
     <credits>
@@ -13799,11 +13452,12 @@ Repetición</title>
       <actor>César Camino</actor>
     </credits>
     <date>2009</date>
+    <category lang="es">Drama</category>
     <category lang="es">Series</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4258830.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260906013000 -0400" stop="20260906030000 -0400" channel="BOLIVISION">
+  <programme start="20260906023000 -0400" stop="20260906040000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
     <desc lang="es">Programación privada, con contenidos e informaciones variadas.(n)</desc>
     <date>2000</date>
@@ -13811,7 +13465,7 @@ Repetición</title>
     <category lang="es">Venta y Publicidad</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
-  <programme start="20260906030000 -0400" stop="20260906033000 -0400" channel="BOLIVISION">
+  <programme start="20260906040000 -0400" stop="20260906043000 -0400" channel="BOLIVISION">
     <title lang="es">Master Raindrop</title>
     <desc lang="es">Maetro Raindrop sigue al novato en artes marciales Raindrop y su amiga Shao Yen en su viaje. Ellos buscan salvar a su Maestro Yun y eventualmente a su pacífica tierra del malvado General Bu y su ejército de Guerreros Terracota.(n)</desc>
     <credits>
@@ -13826,7 +13480,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/902586.jpg" />
     <country lang="es">Australia</country>
   </programme>
-  <programme start="20260906033000 -0400" stop="20260906035000 -0400" channel="BOLIVISION">
+  <programme start="20260906043000 -0400" stop="20260906045000 -0400" channel="BOLIVISION">
     <title lang="es">La abeja Maya</title>
     <desc lang="es">Una abeja joven llamada Maya ha dejado su colmena para descubrir la belleza y los misterios de la naturaleza, encontrándose con otros insectos que están allí, a quienes contagia su enorme entusiasmo.(n)</desc>
     <credits>
@@ -13843,7 +13497,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/35013092.jpg" />
     <country lang="es">Francia</country>
   </programme>
-  <programme start="20260906035000 -0400" stop="20260906045000 -0400" channel="BOLIVISION">
+  <programme start="20260906045000 -0400" stop="20260906055000 -0400" channel="BOLIVISION">
     <title lang="es">Plaza Sésamo</title>
     <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.(n)</desc>
     <credits>
@@ -13860,13 +13514,13 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/29861082.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260906045000 -0400" stop="20260906051500 -0400" channel="BOLIVISION">
+  <programme start="20260906055000 -0400" stop="20260906061500 -0400" channel="BOLIVISION">
     <title lang="es">Cabeón</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990574997.jpg" />
   </programme>
-  <programme start="20260906051500 -0400" stop="20260906055000 -0400" channel="BOLIVISION">
+  <programme start="20260906061500 -0400" stop="20260906065000 -0400" channel="BOLIVISION">
     <title lang="es">Beyblade Burst</title>
     <desc lang="es">Valt Aoi y sus compañeros de clases luchan, a su manera, en diferentes torneos con sus ojos puestos en el título de Blader número uno.(n)</desc>
     <credits>
@@ -13883,7 +13537,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3818028.jpg" />
     <country lang="es">Japón</country>
   </programme>
-  <programme start="20260906055000 -0400" stop="20260906061500 -0400" channel="BOLIVISION">
+  <programme start="20260906065000 -0400" stop="20260906071500 -0400" channel="BOLIVISION">
     <title lang="es">Guinness World Records</title>
     <desc lang="es">Un programa que celebra la dedicación de miles de personas alrededor del mundo y sus increíbles esfuerzos para establecer o romper nuevos récords. Asómbrese con múltiples pruebas asombrosas de superación física y mental.(n)</desc>
     <date>2000</date>
@@ -13891,7 +13545,7 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/53569589.jpg" />
   </programme>
-  <programme start="20260906061500 -0400" stop="20260906064000 -0400" channel="BOLIVISION">
+  <programme start="20260906071500 -0400" stop="20260906074000 -0400" channel="BOLIVISION">
     <title lang="es">The Planet's Funniest Animals</title>
     <desc lang="es">Disfrute de la mejor recopilación de videos caseros sobre animales haciendo todo tipo de travesuras.(n)</desc>
     <credits>
@@ -13905,7 +13559,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/11567346.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906064000 -0400" stop="20260906073000 -0400" channel="BOLIVISION">
+  <programme start="20260906074000 -0400" stop="20260906083000 -0400" channel="BOLIVISION">
     <title lang="es">El conciertazo</title>
     <desc lang="es">Entretenimiento educativo musical. Pretende acercar la música clásica al público infantil con un estilo desenfadado y ameno. Mientras la orquesta interpreta piezas en directo, el público interactúa a través de concursos y juegos.(n)</desc>
     <date>2000</date>
@@ -13914,7 +13568,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12146741.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260906073000 -0400" stop="20260906080000 -0400" channel="BOLIVISION">
+  <programme start="20260906083000 -0400" stop="20260906090000 -0400" channel="BOLIVISION">
     <title lang="es">Popcorn TV</title>
     <desc lang="es">Espacio en el cual podrás conocer datos, curiosidades y entrevistas de los principales protagonistas de tus series y películas favoritas y, a la vez, disfrutar de los estrenos cinematográficos que han sido récord en taquilla.(n)</desc>
     <date>2017</date>
@@ -13922,7 +13576,7 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13613005.jpg" />
   </programme>
-  <programme start="20260906080000 -0400" stop="20260906084000 -0400" channel="BOLIVISION">
+  <programme start="20260906090000 -0400" stop="20260906094000 -0400" channel="BOLIVISION">
     <title lang="es">Escape perfecto</title>
     <desc lang="es">El programa inicia con una pareja, el participante trivia que debe responder las pregunta, y si contesta bien, el participante escapatorio entra a la jaula y tiene 10 segundos para agarrar cosas y salir con vida de la jaula.(n)</desc>
     <date>2000</date>
@@ -13930,7 +13584,7 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10092289.jpg" />
   </programme>
-  <programme start="20260906084000 -0400" stop="20260906093000 -0400" channel="BOLIVISION">
+  <programme start="20260906094000 -0400" stop="20260906103000 -0400" channel="BOLIVISION">
     <title lang="es">Desafío África</title>
     <desc lang="es">Reality show colombiano conducido por la actriz Margarita Rosa de Francisco.(n)</desc>
     <credits>
@@ -13941,7 +13595,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1403297.jpg" />
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20260906093000 -0400" stop="20260906103000 -0400" channel="BOLIVISION">
+  <programme start="20260906103000 -0400" stop="20260906113000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
     <desc lang="es">Manténgase informado sobre todo el acontecer local e internacional.(n)</desc>
     <date>2000</date>
@@ -13950,7 +13604,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/26127528.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260906103000 -0400" stop="20260906113000 -0400" channel="BOLIVISION">
+  <programme start="20260906113000 -0400" stop="20260906123000 -0400" channel="BOLIVISION">
     <title lang="es">American Ninja Warrior</title>
     <desc lang="es">Cientos de concursantes deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, para poder lograr ser el guerrero ninja americano.(n)</desc>
     <credits>
@@ -13967,7 +13621,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/17204901.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906113000 -0400" stop="20260906123000 -0400" channel="BOLIVISION">
+  <programme start="20260906123000 -0400" stop="20260906133000 -0400" channel="BOLIVISION">
     <title lang="es">El desafío</title>
     <desc lang="es">Es un programa que reúne a jóvenes de diferentes países y realidades para conversar y pensar sobre los retos a los que se enfrenta su generación. ¿Cuáles son los que más les preocupan?, ¿Cómo piensan resolverlos?(n)</desc>
     <date>2000</date>
@@ -13975,7 +13629,7 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/41019337.jpg" />
   </programme>
-  <programme start="20260906123000 -0400" stop="20260906133000 -0400" channel="BOLIVISION">
+  <programme start="20260906133000 -0400" stop="20260906143000 -0400" channel="BOLIVISION">
     <title lang="es">Entre él y ella</title>
     <desc lang="es">Tras siete años juntos, la relación entre Jung Hyun seong y Han Seong ok se ha estancado. Cuando ambos se encuentran por casualidad en un motel acompañados de otras personas, la pareja se ve obligada a afrontar lo que han evitado por años.(n)</desc>
     <credits>
@@ -13992,7 +13646,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991946911.jpg" />
     <country lang="es">Corea del Sur</country>
   </programme>
-  <programme start="20260906133000 -0400" stop="20260906142000 -0400" channel="BOLIVISION">
+  <programme start="20260906143000 -0400" stop="20260906152000 -0400" channel="BOLIVISION">
     <title lang="es">Policías novatos</title>
     <desc lang="es">Una serie que sigue la vida de cinco jóvenes y ambiciosos policías, recién salidos de la Academia. Desde el primer día de trabajo, estos novatos se zambullen en el mundo policial de la gran ciudad.(n)</desc>
     <credits>
@@ -14009,7 +13663,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/14638068.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906142000 -0400" stop="20260906151000 -0400" channel="BOLIVISION">
+  <programme start="20260906152000 -0400" stop="20260906161000 -0400" channel="BOLIVISION">
     <title lang="es">Comisario Rex</title>
     <desc lang="es">Esta es la historia de un perro que trabaja para la policía, resolviendo los casos más extraordinarios. En compañía de Marc y de Niki, deberá enfrentar una serie de situaciones peligrosas en su lucha contra el crimen.(n)</desc>
     <credits>
@@ -14026,7 +13680,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3620137.jpg" />
     <country lang="es">Austria</country>
   </programme>
-  <programme start="20260906151000 -0400" stop="20260906155000 -0400" channel="BOLIVISION">
+  <programme start="20260906161000 -0400" stop="20260906165000 -0400" channel="BOLIVISION">
     <title lang="es">El novato</title>
     <desc lang="es">En una edad en la que la mayoría de la gente está en el momento culminante de su carrera, Nolan deja de lado su cómoda vida pueblerina y se muda a Los Ángeles para hacer realidad su sueño de ser policía.(n)</desc>
     <credits>
@@ -14043,7 +13697,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/8194341.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906155000 -0400" stop="20260906173000 -0400" channel="BOLIVISION">
+  <programme start="20260906165000 -0400" stop="20260906183000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
     <desc lang="es">Manténgase informado sobre todo el acontecer local e internacional.(n)</desc>
     <date>2000</date>
@@ -14052,7 +13706,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/26127528.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260906173000 -0400" stop="20260906184500 -0400" channel="BOLIVISION">
+  <programme start="20260906183000 -0400" stop="20260906194500 -0400" channel="BOLIVISION">
     <title lang="es">Vikingos</title>
     <desc lang="es">Ragnar Lothbrok, un joven granjero y hombre de familia, cuestiona la política conservadora del jefe de su tribu. Posee una gran ambición por descubrir civilizaciones hacia el oeste, que lo lleva a construir una nueva generación de barcos.(n)</desc>
     <credits>
@@ -14069,7 +13723,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/26158183.jpg" />
     <country lang="es">Canadá</country>
   </programme>
-  <programme start="20260906184500 -0400" stop="20260906200000 -0400" channel="BOLIVISION">
+  <programme start="20260906194500 -0400" stop="20260906210000 -0400" channel="BOLIVISION">
     <title lang="es">Fear the Walking Dead</title>
     <desc lang="es">En la ciudad de Los Ángeles, California, el brote de un misterioso virus y la aparición de personas infectadas, con un comportamiento similar al de los zombies, obligará a una familia disfuncional a unirse por una única razón: sobrevivir.(n)</desc>
     <credits>
@@ -14086,7 +13740,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/20068019.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906200000 -0400" stop="20260906210000 -0400" channel="BOLIVISION">
+  <programme start="20260906210000 -0400" stop="20260906220000 -0400" channel="BOLIVISION">
     <title lang="es">Hombres de Paco</title>
     <desc lang="es">La historia de la familia del inspector Paco Miranda, que es trasladado a la comisaría de San Antonio, junto a los subinspectores y amigos, Lucas y Mariano.(n)</desc>
     <credits>
@@ -14103,7 +13757,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/16277624.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260906210000 -0400" stop="20260906223000 -0400" channel="BOLIVISION">
+  <programme start="20260906220000 -0400" stop="20260906233000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
     <desc lang="es">Programación privada, con contenidos e informaciones variadas.(n)</desc>
     <date>2000</date>
@@ -14111,7 +13765,7 @@ Repetición</title>
     <category lang="es">Venta y Publicidad</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
-  <programme start="20260906223000 -0400" stop="20260906233000 -0400" channel="BOLIVISION">
+  <programme start="20260906233000 -0400" stop="20260907003000 -0400" channel="BOLIVISION">
     <title lang="es">Águila roja</title>
     <desc lang="es">En el Siglo de Oro, durante el reinado de Felipe IV, Gonzalo de Montalvo, maestro de profesión, se verá envuelto en diversas aventuras e intrigas, tratando de descubrir la conspiración que se esconde tras el asesinato de su esposa.(n)</desc>
     <credits>
@@ -14128,7 +13782,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4082795.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260906233000 -0400" stop="20260907003000 -0400" channel="BOLIVISION">
+  <programme start="20260907003000 -0400" stop="20260907013000 -0400" channel="BOLIVISION">
     <title lang="es">El barco</title>
     <desc lang="es">Una catástrofe mundial provoca un cataclismo que lleva a la desaparición de la tierra firme. Con el planeta inundado de agua, la tripulación y los jóvenes alumnos de un buque escuela parecen ser los únicos supervivientes.(n)</desc>
     <credits>
@@ -14145,7 +13799,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/32435654.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260907003000 -0400" stop="20260907013000 -0400" channel="BOLIVISION">
+  <programme start="20260907013000 -0400" stop="20260907023000 -0400" channel="BOLIVISION">
     <title lang="es">Misterios de Laura</title>
     <desc lang="es">Laura Lebrel tiene que compatibilizar sus labores de esposa, ama de casa y madre de dos gemelos de cinco años con su trabajo como inspectora de policía. Pero no es una inspectora cualquiera...(n)</desc>
     <credits>
@@ -14162,7 +13816,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4258830.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260907013000 -0400" stop="20260907030000 -0400" channel="BOLIVISION">
+  <programme start="20260907023000 -0400" stop="20260907040000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
     <desc lang="es">Programación privada, con contenidos e informaciones variadas.(n)</desc>
     <date>2000</date>
@@ -14170,7 +13824,7 @@ Repetición</title>
     <category lang="es">Venta y Publicidad</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
-  <programme start="20260907030000 -0400" stop="20260907060000 -0400" channel="BOLIVISION">
+  <programme start="20260907040000 -0400" stop="20260907070000 -0400" channel="BOLIVISION">
     <title lang="es">Al día tu día</title>
     <desc lang="es">Un espacio de noticias locales, nacionales, historias de impacto social, denuncias ciudadanas y segmentos de entretenimiento y actualidad.(n)</desc>
     <date>2000</date>
@@ -14179,7 +13833,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991098869.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907060000 -0400" stop="20260907075000 -0400" channel="BOLIVISION">
+  <programme start="20260907070000 -0400" stop="20260907085000 -0400" channel="BOLIVISION">
     <title lang="es">El reto del sabor</title>
     <desc lang="es">Sanda Alcázar conduce una competencia culinaria que enfrenta a diversos chefs en la preparación de recetas. A través del espacio, el público podrá aprender a realizar todo tipo de comidas mientras se divierte con la competición.(n)</desc>
     <credits>
@@ -14191,7 +13845,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/45337847.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907075000 -0400" stop="20260907084500 -0400" channel="BOLIVISION">
+  <programme start="20260907085000 -0400" stop="20260907094500 -0400" channel="BOLIVISION">
     <title lang="es">Cuando los ángeles caen</title>
     <desc lang="es">Un espacio que muestra testimonios de historias inspiradoras y cómo existen los ángeles en la tierra que impactan en la vida de las personas. El presentador recorre los distintos relatos y ofrece profundas reflexiones.(n)</desc>
     <credits>
@@ -14203,7 +13857,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/51127367.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260907084500 -0400" stop="20260907092000 -0400" channel="BOLIVISION">
+  <programme start="20260907094500 -0400" stop="20260907102000 -0400" channel="BOLIVISION">
     <title lang="es">Perdóname</title>
     <desc lang="es">Osman es uno de los empresarios más ricos de Ankara. Se caracteriza por ser un hombre severo y cruel, obsesionado con una disciplina que hace infeliz a su familia. Por eso, todo se complica cuando uno de sus hijos se enamora de la criada.(n)</desc>
     <credits>
@@ -14220,7 +13874,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3200342.jpg" />
     <country lang="es">Turquía</country>
   </programme>
-  <programme start="20260907092000 -0400" stop="20260907110000 -0400" channel="BOLIVISION">
+  <programme start="20260907102000 -0400" stop="20260907120000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
     <desc lang="es">Manténgase informado sobre todo el acontecer local e internacional.(n)</desc>
     <date>2000</date>
@@ -14229,7 +13883,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/26127528.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907110000 -0400" stop="20260907114500 -0400" channel="BOLIVISION">
+  <programme start="20260907120000 -0400" stop="20260907124500 -0400" channel="BOLIVISION">
     <title lang="es">El legado</title>
     <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
     <credits>
@@ -14246,7 +13900,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22848639.jpg" />
     <country lang="es">Turquía</country>
   </programme>
-  <programme start="20260907114500 -0400" stop="20260907123000 -0400" channel="BOLIVISION">
+  <programme start="20260907124500 -0400" stop="20260907133000 -0400" channel="BOLIVISION">
     <title lang="es">Doménica Montero</title>
     <desc lang="es">Abandonada en el altar, Doménica se endurece dirigiendo su rancho. Luis Fernando ve más allá de su coraza e intenta probarle que el amor existe, pese a los obstáculos.(n)</desc>
     <credits>
@@ -14263,7 +13917,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1987995242.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260907123000 -0400" stop="20260907133000 -0400" channel="BOLIVISION">
+  <programme start="20260907133000 -0400" stop="20260907143000 -0400" channel="BOLIVISION">
     <title lang="es">Elif</title>
     <desc lang="es">Cuenta la historia de Elif, una mujer necesitada de dinero que aceptará ser el vientre de alquiler de Kahraman y Defne una pareja de la alta alcurnia.(n)</desc>
     <credits>
@@ -14280,7 +13934,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12146753.jpg" />
     <country lang="es">Turquía</country>
   </programme>
-  <programme start="20260907133000 -0400" stop="20260907140500 -0400" channel="BOLIVISION">
+  <programme start="20260907143000 -0400" stop="20260907150500 -0400" channel="BOLIVISION">
     <title lang="es">La promesa</title>
     <desc lang="es">Jana está sola en el mundo por culpa de los Marqueses de Luján, pero busca venganza y encontrar a su hermano. Pero no contaba con que Manuel, hijo de los Marqueses, se cruzara en su camino y la enamorara.(n)</desc>
     <credits>
@@ -14297,7 +13951,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/25346595.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260907140500 -0400" stop="20260907153000 -0400" channel="BOLIVISION">
+  <programme start="20260907150500 -0400" stop="20260907163000 -0400" channel="BOLIVISION">
     <title lang="es">Corazón abandonado</title>
     <desc lang="es">La familia Sayar es una de las más respetadas y adineradas de Ankara. Sin embargo, todo se complica cuando el hijo mayor decide rechazar casarse con la hija del socio de su padre.(n)</desc>
     <credits>
@@ -14314,7 +13968,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989416705.jpg" />
     <country lang="es">Turquía</country>
   </programme>
-  <programme start="20260907153000 -0400" stop="20260907163000 -0400" channel="BOLIVISION">
+  <programme start="20260907163000 -0400" stop="20260907173000 -0400" channel="BOLIVISION">
     <title lang="es">Rosa de Guadalupe</title>
     <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.(n)</desc>
     <credits>
@@ -14331,7 +13985,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/54682488.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260907163000 -0400" stop="20260907172500 -0400" channel="BOLIVISION">
+  <programme start="20260907173000 -0400" stop="20260907182500 -0400" channel="BOLIVISION">
     <title lang="es">Rosa de Guadalupe</title>
     <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.(n)</desc>
     <credits>
@@ -14348,7 +14002,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/54682488.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260907172500 -0400" stop="20260907190000 -0400" channel="BOLIVISION">
+  <programme start="20260907182500 -0400" stop="20260907200000 -0400" channel="BOLIVISION">
     <title lang="es">Al día central</title>
     <desc lang="es">Noticiero de televisión con información imparcial y actualizada.(n)</desc>
     <date>2000</date>
@@ -14357,7 +14011,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/11329929.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907190000 -0400" stop="20260907210000 -0400" channel="BOLIVISION">
+  <programme start="20260907200000 -0400" stop="20260907220000 -0400" channel="BOLIVISION">
     <title lang="es">Aquí en vivo</title>
     <desc lang="es">Pone a prueba a la nueva justicia, se sumerge en el mundo de los grandes flagelos sociales y en la más descarnada estrategia de los tímadores y estafadores.(n)</desc>
     <credits>
@@ -14368,39 +14022,39 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/14133177.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260905210000 -0400" stop="20260905220000 -0400" channel="RED UNO">
+  <programme start="20260905220000 -0400" stop="20260905230000 -0400" channel="RED UNO">
     <title lang="es">Problemas y soluciones</title>
     <desc lang="es">Es un programa religioso donde pastores del exterior predican la palabra de Dios a todos los creyentes.(n)</desc>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/7939507.jpg" />
   </programme>
-  <programme start="20260905220000 -0400" stop="20260905231000 -0400" channel="RED UNO">
+  <programme start="20260905230000 -0400" stop="20260906001000 -0400" channel="RED UNO">
     <title lang="es">Uno de película</title>
     <date>2000</date>
     <category lang="es">Ciclo</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/14925591.jpg" />
   </programme>
-  <programme start="20260905231000 -0400" stop="20260906015700 -0400" channel="RED UNO">
+  <programme start="20260906001000 -0400" stop="20260906025700 -0400" channel="RED UNO">
     <title lang="es">Uno de película</title>
     <date>2000</date>
     <category lang="es">Ciclo</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/14925591.jpg" />
   </programme>
-  <programme start="20260906015700 -0400" stop="20260906025700 -0400" channel="RED UNO">
+  <programme start="20260906025700 -0400" stop="20260906035700 -0400" channel="RED UNO">
     <title lang="es">Problemas y soluciones</title>
     <desc lang="es">Es un programa religioso donde pastores del exterior predican la palabra de Dios a todos los creyentes.(n)</desc>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/7939507.jpg" />
   </programme>
-  <programme start="20260906025700 -0400" stop="20260906030000 -0400" channel="RED UNO">
+  <programme start="20260906035700 -0400" stop="20260906040000 -0400" channel="RED UNO">
     <title lang="es">Identificación red / Himno nacional / Marcha naval</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/15715131.jpg" />
   </programme>
-  <programme start="20260906030000 -0400" stop="20260906040000 -0400" channel="RED UNO">
+  <programme start="20260906040000 -0400" stop="20260906050000 -0400" channel="RED UNO">
     <title lang="es">El Chapulín Colorado</title>
     <desc lang="es">Sigue las aventuras de este héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón.(n)</desc>
     <credits>
@@ -14417,7 +14071,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822850.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260906040000 -0400" stop="20260906050000 -0400" channel="RED UNO">
+  <programme start="20260906050000 -0400" stop="20260906060000 -0400" channel="RED UNO">
     <title lang="es">Santa misa</title>
     <desc lang="es">La misa dominical transmitida desde distintas iglesias católicas de nuestro país.(n)</desc>
     <date>2022</date>
@@ -14425,7 +14079,7 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2403050.jpg" />
   </programme>
-  <programme start="20260906050000 -0400" stop="20260906051500 -0400" channel="RED UNO">
+  <programme start="20260906060000 -0400" stop="20260906061500 -0400" channel="RED UNO">
     <title lang="es">Bebefinn</title>
     <desc lang="es">El pequeño Finn nos invita a vivir aventuras llenas de diversión y a aprender algo nuevo cada día.(n)</desc>
     <credits>
@@ -14439,7 +14093,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/38197805.jpg" />
     <country lang="es">Corea</country>
   </programme>
-  <programme start="20260906051500 -0400" stop="20260906054500 -0400" channel="RED UNO">
+  <programme start="20260906061500 -0400" stop="20260906064500 -0400" channel="RED UNO">
     <title lang="es">Baby shark's big show</title>
     <desc lang="es">Baby Shark y su mejor amigo, el pez William, emprenden varias aventuras en su comunidad de Carnivore Cove, donde siempre aprenden algo nuevo.(n)</desc>
     <credits>
@@ -14456,7 +14110,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12763284.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906054500 -0400" stop="20260906061500 -0400" channel="RED UNO">
+  <programme start="20260906064500 -0400" stop="20260906071500 -0400" channel="RED UNO">
     <title lang="es">Paw Patrol</title>
     <desc lang="es">Conoce a un equipo de cachorros liderado por el energético Ryder, que está siempre listo cuando se trata de ayudar en la bulliciosa ciudad de Bahía Aventura.(n)</desc>
     <credits>
@@ -14473,7 +14127,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/7751111.jpg" />
     <country lang="es">Canadá</country>
   </programme>
-  <programme start="20260906061500 -0400" stop="20260906064500 -0400" channel="RED UNO">
+  <programme start="20260906071500 -0400" stop="20260906074500 -0400" channel="RED UNO">
     <title lang="es">Plim Plim, un héroe del corazón</title>
     <desc lang="es">Con su estilo innovador, El payaso Plim Plim: Un héroe del corazón, hace de la simpleza un valor y de la infancia un mundo mágico. Sus historias en formato de fábula incluyen guiños visuales, musicales, cinematográficos y literarios.(n)</desc>
     <credits>
@@ -14490,7 +14144,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/649673.jpg" />
     <country lang="es">Argentina</country>
   </programme>
-  <programme start="20260906064500 -0400" stop="20260906070000 -0400" channel="RED UNO">
+  <programme start="20260906074500 -0400" stop="20260906080000 -0400" channel="RED UNO">
     <title lang="es">Space Cops</title>
     <desc lang="es">¿Podrán los Policías Espaciales encontrar y revivir a los Guardianes Espaciales y restaurar la paz de la Tierra y la seguridad de la humanidad?(n)</desc>
     <credits>
@@ -14507,7 +14161,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990013033.jpg" />
     <country lang="es">Corea</country>
   </programme>
-  <programme start="20260906070000 -0400" stop="20260906073000 -0400" channel="RED UNO">
+  <programme start="20260906080000 -0400" stop="20260906083000 -0400" channel="RED UNO">
     <title lang="es">Metal Cardbots</title>
     <desc lang="es">Tras una explosión que obliga a unos vehículos robóticos llamados Cardbots a llegar a la Tierra, estos se disfrazan de vehículos normales. Un joven ciclista de BMX se hace amigo de ellos y encuentra un dispositivo para darles energía.(n)</desc>
     <credits>
@@ -14524,7 +14178,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990606841.jpg" />
     <country lang="es">Corea del Sur</country>
   </programme>
-  <programme start="20260906073000 -0400" stop="20260906080000 -0400" channel="RED UNO">
+  <programme start="20260906083000 -0400" stop="20260906090000 -0400" channel="RED UNO">
     <title lang="es">Bob Esponja</title>
     <desc lang="es">Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional.(n)</desc>
     <credits>
@@ -14541,7 +14195,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/39455996.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906080000 -0400" stop="20260906083000 -0400" channel="RED UNO">
+  <programme start="20260906090000 -0400" stop="20260906093000 -0400" channel="RED UNO">
     <title lang="es">The Loud House</title>
     <desc lang="es">Lincoln Loud es un chico de once años que vive con sus diez hermanas. Con la ayuda de su confiable amigo Clyde, Lincoln encuentra nuevas y distintas maneras de sobrevivir a diario en una familia gigante.(n)</desc>
     <credits>
@@ -14558,7 +14212,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/36653807.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906083000 -0400" stop="20260906092500 -0400" channel="RED UNO">
+  <programme start="20260906093000 -0400" stop="20260906102500 -0400" channel="RED UNO">
     <title lang="es">El Chapulín Colorado</title>
     <desc lang="es">Sigue las aventuras de este héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón.(n)</desc>
     <credits>
@@ -14575,7 +14229,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822850.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260906092500 -0400" stop="20260906110000 -0400" channel="RED UNO">
+  <programme start="20260906102500 -0400" stop="20260906120000 -0400" channel="RED UNO">
     <title lang="es">Notivisión</title>
     <desc lang="es">Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.(n)</desc>
     <date>2000</date>
@@ -14584,7 +14238,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22787315.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260906110000 -0400" stop="20260906123000 -0400" channel="RED UNO">
+  <programme start="20260906120000 -0400" stop="20260906133000 -0400" channel="RED UNO">
     <title lang="es">Savva, el dragón de fuego</title>
     <desc lang="es">Savva es un niño de 10 años cuya aldea ha caído en manos de una manada de hienas despiadadas. Con sus amigos Angee el lobo blanco, Puffy y Mosquito, emprende una aventura para tratar de salvar su aldea. Un héroe ha nacido.(n)</desc>
     <credits>
@@ -14601,7 +14255,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2520798.jpg" />
     <country lang="es">Rusia</country>
   </programme>
-  <programme start="20260906123000 -0400" stop="20260906140000 -0400" channel="RED UNO">
+  <programme start="20260906133000 -0400" stop="20260906150000 -0400" channel="RED UNO">
     <title lang="es">Mascota jurásica</title>
     <desc lang="es">Chris es un adolescente a quien le encantan las aventuras, que tiene por amigo a un dinosaurio. Pero ahora Chris deberá hacer lo imposible para salvar a su querida mascota de los experimentos de un científico loco.(n)</desc>
     <credits>
@@ -14618,7 +14272,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/33442447.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20260906140000 -0400" stop="20260906153000 -0400" channel="RED UNO">
+  <programme start="20260906150000 -0400" stop="20260906163000 -0400" channel="RED UNO">
     <title lang="es">El Chavo del 8</title>
     <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.(n)</desc>
     <credits>
@@ -14635,7 +14289,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822699.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260906153000 -0400" stop="20260906165500 -0400" channel="RED UNO">
+  <programme start="20260906163000 -0400" stop="20260906175500 -0400" channel="RED UNO">
     <title lang="es">El Chapulín Colorado</title>
     <desc lang="es">Sigue las aventuras de este héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón.(n)</desc>
     <credits>
@@ -14652,7 +14306,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822850.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260906165500 -0400" stop="20260906180000 -0400" channel="RED UNO">
+  <programme start="20260906175500 -0400" stop="20260906190000 -0400" channel="RED UNO">
     <title lang="es">Notivisión</title>
     <desc lang="es">Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.(n)</desc>
     <date>2000</date>
@@ -14661,14 +14315,14 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22787315.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260906180000 -0400" stop="20260906193000 -0400" channel="RED UNO">
+  <programme start="20260906190000 -0400" stop="20260906203000 -0400" channel="RED UNO">
     <title lang="es">El Show de Keler</title>
     <date>2026</date>
     <category lang="es">Entretenimientos</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/27181912.jpg" />
   </programme>
-  <programme start="20260906193000 -0400" stop="20260906203000 -0400" channel="RED UNO">
+  <programme start="20260906203000 -0400" stop="20260906213000 -0400" channel="RED UNO">
     <title lang="es">Súper deportivo</title>
     <desc lang="es">Un programa con energía, originalidad y dirigido a los amantes del deporte. La información más actualizada de tus equipos y disciplinas favoritas, así como los hechos de mayor relevancia mundial estarán presentes cada día.(n)</desc>
     <date>2000</date>
@@ -14677,7 +14331,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1986939129.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260906203000 -0400" stop="20260906210000 -0400" channel="RED UNO">
+  <programme start="20260906213000 -0400" stop="20260906220000 -0400" channel="RED UNO">
     <title lang="es">Tierra nuestra</title>
     <desc lang="es">Prrograma que contribuye en dar a conocer diferentes lugares del país, mostrando la flora y fauna chilenas, únicas en su especie, además de la importancia de proteger y cuidar la naturaleza; en el marco del Día Mundial del Medio Ambiente.(n)</desc>
     <date>2024</date>
@@ -14686,7 +14340,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/45724252.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260906210000 -0400" stop="20260906220000 -0400" channel="RED UNO">
+  <programme start="20260906220000 -0400" stop="20260906230000 -0400" channel="RED UNO">
     <title lang="es">Problemas y soluciones</title>
     <desc lang="es">Es un programa religioso donde pastores del exterior predican la palabra de Dios a todos los creyentes.(n)</desc>
     <date>2000</date>
@@ -14694,21 +14348,21 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/7939507.jpg" />
   </programme>
-  <programme start="20260906220000 -0400" stop="20260907000000 -0400" channel="RED UNO">
+  <programme start="20260906230000 -0400" stop="20260907010000 -0400" channel="RED UNO">
     <title lang="es">Uno de película</title>
     <date>2000</date>
     <category lang="es">Película</category>
     <category lang="es">Ciclo</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/14925591.jpg" />
   </programme>
-  <programme start="20260907000000 -0400" stop="20260907015700 -0400" channel="RED UNO">
+  <programme start="20260907010000 -0400" stop="20260907025700 -0400" channel="RED UNO">
     <title lang="es">Uno de película</title>
     <date>2000</date>
     <category lang="es">Película</category>
     <category lang="es">Ciclo</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/14925591.jpg" />
   </programme>
-  <programme start="20260907015700 -0400" stop="20260907025700 -0400" channel="RED UNO">
+  <programme start="20260907025700 -0400" stop="20260907035700 -0400" channel="RED UNO">
     <title lang="es">Problemas y soluciones</title>
     <desc lang="es">Es un programa religioso donde pastores del exterior predican la palabra de Dios a todos los creyentes.(n)</desc>
     <date>2000</date>
@@ -14716,13 +14370,13 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/7939507.jpg" />
   </programme>
-  <programme start="20260907025700 -0400" stop="20260907030000 -0400" channel="RED UNO">
+  <programme start="20260907035700 -0400" stop="20260907040000 -0400" channel="RED UNO">
     <title lang="es">Identificación red / Marcha naval / Programación diaria</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/54378603.jpg" />
   </programme>
-  <programme start="20260907030000 -0400" stop="20260907062500 -0400" channel="RED UNO">
+  <programme start="20260907040000 -0400" stop="20260907072500 -0400" channel="RED UNO">
     <title lang="es">El mañanero</title>
     <desc lang="es">Revista informativa matinal que brinda información y entretenimiento, dando también cobertura a los artistas nacionales e internacionales, con espacios para la salud y educación con las visitas de profesionales en el área.(n)</desc>
     <credits>
@@ -14738,7 +14392,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/35647055.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907062500 -0400" stop="20260907063000 -0400" channel="RED UNO">
+  <programme start="20260907072500 -0400" stop="20260907073000 -0400" channel="RED UNO">
     <title lang="es">Plim Plim, un héroe del corazón</title>
     <desc lang="es">Con su estilo innovador, El payaso Plim Plim: Un héroe del corazón, hace de la simpleza un valor y de la infancia un mundo mágico. Sus historias en formato de fábula incluyen guiños visuales, musicales, cinematográficos y literarios.(n)</desc>
     <credits>
@@ -14755,7 +14409,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/649673.jpg" />
     <country lang="es">Argentina</country>
   </programme>
-  <programme start="20260907063000 -0400" stop="20260907090000 -0400" channel="RED UNO">
+  <programme start="20260907073000 -0400" stop="20260907100000 -0400" channel="RED UNO">
     <title lang="es">Sabores bolivianos</title>
     <desc lang="es">Preparados para llevarte entretenimiento, recetas fáciles y útiles para que prepares en cualquier momento, descubramos juntos los sabores bolivianos.(n)</desc>
     <credits>
@@ -14770,7 +14424,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/24437084.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907090000 -0400" stop="20260907092500 -0400" channel="RED UNO">
+  <programme start="20260907100000 -0400" stop="20260907102500 -0400" channel="RED UNO">
     <title lang="es">Súper deportivo</title>
     <desc lang="es">Un programa con energía, originalidad y dirigido a los amantes del deporte. La información más actualizada de tus equipos y disciplinas favoritas, así como los hechos de mayor relevancia mundial estarán presentes cada día.(n)</desc>
     <date>2000</date>
@@ -14779,7 +14433,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1986939129.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907092500 -0400" stop="20260907110000 -0400" channel="RED UNO">
+  <programme start="20260907102500 -0400" stop="20260907120000 -0400" channel="RED UNO">
     <title lang="es">Notivisión</title>
     <desc lang="es">Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.(n)</desc>
     <date>2000</date>
@@ -14788,7 +14442,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22787315.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907110000 -0400" stop="20260907120000 -0400" channel="RED UNO">
+  <programme start="20260907120000 -0400" stop="20260907130000 -0400" channel="RED UNO">
     <title lang="es">Destinos separados</title>
     <desc lang="es">El destino une a Fidan y Toprak cuando ella descubre que él se parece a su difunto esposo, aunque él no la reconoce. A medida que pasan tiempo juntos, ambos comienzan a sentir una conexión especial.(n)</desc>
     <credits>
@@ -14805,7 +14459,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/49440595.jpg" />
     <country lang="es">Turquía</country>
   </programme>
-  <programme start="20260907120000 -0400" stop="20260907132500 -0400" channel="RED UNO">
+  <programme start="20260907130000 -0400" stop="20260907142500 -0400" channel="RED UNO">
     <title lang="es">Dulce ambición</title>
     <desc lang="es">La rivalidad entre dos familias de justicieros enfrentadas hace generaciones puede llegar a su fin gracias al amor entre Maria da Paz y Amadeu. Sin embargo, la sed de venganza y la violencia no son mas que obstáculos para alcanzar la paz.(n)</desc>
     <credits>
@@ -14822,7 +14476,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/15272291.jpg" />
     <country lang="es">Brasil</country>
   </programme>
-  <programme start="20260907132500 -0400" stop="20260907133000 -0400" channel="RED UNO">
+  <programme start="20260907142500 -0400" stop="20260907143000 -0400" channel="RED UNO">
     <title lang="es">Avance informativo</title>
     <desc lang="es">Información de las actividades y el trabajo que se desarrollan en el Congreso de la Unión.(n)</desc>
     <date>2023</date>
@@ -14830,7 +14484,7 @@ Repetición</title>
     <category lang="es">Periodístico</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/40982392.jpg" />
   </programme>
-  <programme start="20260907133000 -0400" stop="20260907140000 -0400" channel="RED UNO">
+  <programme start="20260907143000 -0400" stop="20260907150000 -0400" channel="RED UNO">
     <title lang="es">El Chavo del 8</title>
     <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.(n)</desc>
     <credits>
@@ -14847,7 +14501,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822699.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20260907140000 -0400" stop="20260907155500 -0400" channel="RED UNO">
+  <programme start="20260907150000 -0400" stop="20260907165500 -0400" channel="RED UNO">
     <title lang="es">Dueños de la tarde</title>
     <desc lang="es">Un espacio donde la información, el debate y el entretenimiento se fusionan. Daniel Dueñas y Ximena Zalzer abordan temas de salud, bienestar, tecnología y espiritualidad, con la participación de un panel de especialistas.(n)</desc>
     <credits>
@@ -14864,7 +14518,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/49135876.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907155500 -0400" stop="20260907174500 -0400" channel="RED UNO">
+  <programme start="20260907165500 -0400" stop="20260907184500 -0400" channel="RED UNO">
     <title lang="es">Notivisión</title>
     <desc lang="es">Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.(n)</desc>
     <date>2000</date>
@@ -14873,7 +14527,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22787315.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907174500 -0400" stop="20260907190000 -0400" channel="RED UNO">
+  <programme start="20260907184500 -0400" stop="20260907200000 -0400" channel="RED UNO">
     <title lang="es">La gran batalla</title>
     <desc lang="es">Un reality show donde participarán 20 equipos, cada uno conformado por 8 bailarines en puesta en escena y 1 famoso de la farándula boliviana. Todos ellos realizarán su presentación en nuestro escenario, demostrando su talento y habilidades.(n)</desc>
     <date>2025</date>
@@ -14882,7 +14536,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/50687171.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907190000 -0400" stop="20260907210000 -0400" channel="RED UNO">
+  <programme start="20260907200000 -0400" stop="20260907220000 -0400" channel="RED UNO">
     <title lang="es">Que no me pierda</title>
     <desc lang="es">Espacio informativo nocturno, el escenario perfecto para analizar la coyuntura local y nacional que transcurre a diario.(n)</desc>
     <credits>
@@ -14894,13 +14548,31 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12671681.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260905210000 -0400" stop="20260905210500 -0400" channel="TVU">
+  <programme start="20260905210100 -0400" stop="20260905210300 -0400" channel="TVU">
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
+  </programme>
+  <programme start="20260905210300 -0400" stop="20260905215800 -0400" channel="TVU">
+    <title lang="es">Biografía musical</title>
+    <date>2000</date>
+    <category lang="es">Musicales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21588380.jpg" />
+  </programme>
+  <programme start="20260905215800 -0400" stop="20260905220000 -0400" channel="TVU">
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
+  </programme>
+  <programme start="20260905220000 -0400" stop="20260905220500 -0400" channel="TVU">
     <title lang="es">Himno Nacional</title>
     <date>2000</date>
     <category lang="es">Culturales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3615415.jpg" />
   </programme>
-  <programme start="20260905210500 -0400" stop="20260905213400 -0400" channel="TVU">
+  <programme start="20260905220500 -0400" stop="20260905223400 -0400" channel="TVU">
     <title lang="es">Caminando con cavernícolas</title>
     <desc lang="es">Un prestigioso equipo científico formado por climatólogos, geólogos, antropólogos y genetistas y el uso de las más modernas técnicas digitales y de maquillaje, han hecho posible la dramatización de la evolución humana.(n)</desc>
     <credits>
@@ -14912,17 +14584,19 @@ Repetición</title>
       <actor>Pierre De Lespinois</actor>
     </credits>
     <date>2003</date>
+    <category lang="es">Documental</category>
     <category lang="es">Documentales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21588692.jpg" />
     <country lang="es">Reino Unido</country>
   </programme>
-  <programme start="20260905213400 -0400" stop="20260905213800 -0400" channel="TVU">
+  <programme start="20260905223400 -0400" stop="20260905223800 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
+    <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260905213800 -0400" stop="20260905222700 -0400" channel="TVU">
+  <programme start="20260905223800 -0400" stop="20260905232700 -0400" channel="TVU">
     <title lang="es">La vida privada de las plantas</title>
     <desc lang="es">Describe vívidamente los más intrigantes aspectos del comportamiento de las plantas, desde el abrasador desierto del Sáhara hasta la congelada superficie de la Antártida.(n)</desc>
     <credits>
@@ -14932,18 +14606,19 @@ Repetición</title>
       <actor>Keith Scholey</actor>
     </credits>
     <date>1995</date>
+    <category lang="es">Documental</category>
     <category lang="es">Series</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/48816345.jpg" />
     <country lang="es">Reino Unido</country>
   </programme>
-  <programme start="20260905222700 -0400" stop="20260905223100 -0400" channel="TVU">
+  <programme start="20260905232700 -0400" stop="20260905233100 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260905223100 -0400" stop="20260906001300 -0400" channel="TVU">
+  <programme start="20260905233100 -0400" stop="20260906011300 -0400" channel="TVU">
     <title lang="es">Cine TVU</title>
     <desc lang="es">Rememora las grandes producciones latinoamericanas y del mundo en este espacio que te pasea por varios géneros cinematográficos.(n)</desc>
     <date>2000</date>
@@ -14952,14 +14627,14 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12410806.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260906001300 -0400" stop="20260906001600 -0400" channel="TVU">
+  <programme start="20260906011300 -0400" stop="20260906011600 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906001600 -0400" stop="20260906010700 -0400" channel="TVU">
+  <programme start="20260906011600 -0400" stop="20260906020700 -0400" channel="TVU">
     <title lang="es">Planeta Tierra</title>
     <desc lang="es">Según la posición del sol el crecimiento de la flora y comportamiento de la fauna varía según la localidad, afectando la vida en los océanos como la terrestre.(n)</desc>
     <date>2000</date>
@@ -14967,49 +14642,33 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13477601.jpg" />
   </programme>
-  <programme start="20260906010700 -0400" stop="20260906011000 -0400" channel="TVU">
+  <programme start="20260906020700 -0400" stop="20260906021000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906011000 -0400" stop="20260906022700 -0400" channel="TVU">
+  <programme start="20260906021000 -0400" stop="20260906032700 -0400" channel="TVU">
     <title lang="es">Naturaleza</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
   </programme>
-  <programme start="20260906022700 -0400" stop="20260906023000 -0400" channel="TVU">
+  <programme start="20260906032700 -0400" stop="20260906033000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906023000 -0400" stop="20260906035500 -0400" channel="TVU">
+  <programme start="20260906033000 -0400" stop="20260906045500 -0400" channel="TVU">
     <title lang="es">Cuidando tu sonrisa</title>
     <desc lang="es">Segmento especial dedicado a todos los temas de interés para la población en general, donde podrás encontrar espacios de consulta al odontólogo, además de invitados especiales, sondeo en las calles y mucho más.(n)</desc>
     <date>2000</date>
     <category lang="es">Magazine</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10144131.jpg" />
-    <country lang="es">Bolivia</country>
-  </programme>
-  <programme start="20260906035500 -0400" stop="20260906040000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
-  </programme>
-  <programme start="20260906040000 -0400" stop="20260906045500 -0400" channel="TVU">
-    <title lang="es">Prisma agropecuario</title>
-    <desc lang="es">Espacio que Informa sobre las temáticas concernientes al rubro agropecuario e institucional de la facultad de agronomía.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Agro</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21536440.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260906045500 -0400" stop="20260906050000 -0400" channel="TVU">
@@ -15020,10 +14679,13 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260906050000 -0400" stop="20260906055500 -0400" channel="TVU">
-    <title lang="es">Naturaleza</title>
+    <title lang="es">Prisma agropecuario</title>
+    <desc lang="es">Espacio que Informa sobre las temáticas concernientes al rubro agropecuario e institucional de la facultad de agronomía.(n)</desc>
     <date>2000</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
+    <category lang="es">Agro</category>
+    <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21536440.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260906055500 -0400" stop="20260906060000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -15032,29 +14694,26 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906060000 -0400" stop="20260906071600 -0400" channel="TVU">
-    <title lang="es">Cine TVU infantil</title>
+  <programme start="20260906060000 -0400" stop="20260906065500 -0400" channel="TVU">
+    <title lang="es">Naturaleza</title>
     <date>2000</date>
-    <category lang="es">Película</category>
-    <category lang="es">Ciclo</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21461283.jpg" />
-    <country lang="es">Bolivia</country>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
   </programme>
-  <programme start="20260906071600 -0400" stop="20260906072100 -0400" channel="TVU">
+  <programme start="20260906065500 -0400" stop="20260906070000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906072100 -0400" stop="20260906081600 -0400" channel="TVU">
-    <title lang="es">Planeta U</title>
-    <desc lang="es">Una colección de dibujos animados, hechos divertidos y cortos programas para niños.(n)</desc>
-    <date>2008</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12531904.jpg" />
-    <country lang="es">EE. UU.</country>
+  <programme start="20260906070000 -0400" stop="20260906081600 -0400" channel="TVU">
+    <title lang="es">Cine TVU infantil</title>
+    <date>2000</date>
+    <category lang="es">Película</category>
+    <category lang="es">Ciclo</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21461283.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260906081600 -0400" stop="20260906082100 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -15063,7 +14722,23 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906082100 -0400" stop="20260906083600 -0400" channel="TVU">
+  <programme start="20260906082100 -0400" stop="20260906091600 -0400" channel="TVU">
+    <title lang="es">Planeta U</title>
+    <desc lang="es">Una colección de dibujos animados, hechos divertidos y cortos programas para niños.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12531904.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20260906091600 -0400" stop="20260906092100 -0400" channel="TVU">
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
+  </programme>
+  <programme start="20260906092100 -0400" stop="20260906093600 -0400" channel="TVU">
     <title lang="es">Japan Video Topics</title>
     <desc lang="es">Serie de audiovisuales que ofrecen una visión global de la cultura japonesa, la naturaleza, la ciencia, la tecnología, educación, tradiciones, costumbres e ideologías, con entrevistas y reportajes increíbles sobre esta nación milenaria.(n)</desc>
     <date>2000</date>
@@ -15072,27 +14747,27 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/35101262.jpg" />
     <country lang="es">Japón</country>
   </programme>
-  <programme start="20260906083600 -0400" stop="20260906084000 -0400" channel="TVU">
+  <programme start="20260906093600 -0400" stop="20260906094000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906084000 -0400" stop="20260906084500 -0400" channel="TVU">
+  <programme start="20260906094000 -0400" stop="20260906094500 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
-  <programme start="20260906084500 -0400" stop="20260906085000 -0400" channel="TVU">
+  <programme start="20260906094500 -0400" stop="20260906095000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906085000 -0400" stop="20260906091600 -0400" channel="TVU">
+  <programme start="20260906095000 -0400" stop="20260906101600 -0400" channel="TVU">
     <title lang="es">Alterados por Pi</title>
     <desc lang="es">Con anécdotas, entrevistas y resolución de problemas, Adrián Paenza nos acerca historias que tienen a la matemática como protagonista y nos ofrece un panorama más humano, divertido y cercano a la vida cotidiana de esta disciplina.(n)</desc>
     <credits>
@@ -15104,107 +14779,94 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2407162.jpg" />
     <country lang="es">Argentina</country>
   </programme>
-  <programme start="20260906091600 -0400" stop="20260906092100 -0400" channel="TVU">
+  <programme start="20260906101600 -0400" stop="20260906102100 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906092100 -0400" stop="20260906112700 -0400" channel="TVU">
+  <programme start="20260906102100 -0400" stop="20260906122700 -0400" channel="TVU">
     <title lang="es">Cine TVU familiar</title>
     <date>2000</date>
     <category lang="es">Película</category>
     <category lang="es">Ciclo</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21462062.jpg" />
   </programme>
-  <programme start="20260906112700 -0400" stop="20260906113200 -0400" channel="TVU">
+  <programme start="20260906122700 -0400" stop="20260906123200 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906113200 -0400" stop="20260906124900 -0400" channel="TVU">
+  <programme start="20260906123200 -0400" stop="20260906134900 -0400" channel="TVU">
     <title lang="es">Naturaleza</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
   </programme>
-  <programme start="20260906124900 -0400" stop="20260906125400 -0400" channel="TVU">
+  <programme start="20260906134900 -0400" stop="20260906135400 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906125400 -0400" stop="20260906145100 -0400" channel="TVU">
+  <programme start="20260906135400 -0400" stop="20260906155100 -0400" channel="TVU">
     <title lang="es">Cine TVU familiar</title>
     <date>2000</date>
     <category lang="es">Película</category>
     <category lang="es">Ciclo</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21462062.jpg" />
   </programme>
-  <programme start="20260906145100 -0400" stop="20260906145400 -0400" channel="TVU">
+  <programme start="20260906155100 -0400" stop="20260906155400 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906145400 -0400" stop="20260906153900 -0400" channel="TVU">
+  <programme start="20260906155400 -0400" stop="20260906163900 -0400" channel="TVU">
     <title lang="es">Historia</title>
     <date>2000</date>
     <category lang="es">Documental</category>
     <category lang="es">Documentales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21464743.jpg" />
   </programme>
-  <programme start="20260906153900 -0400" stop="20260906154000 -0400" channel="TVU">
+  <programme start="20260906163900 -0400" stop="20260906164000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906154000 -0400" stop="20260906155000 -0400" channel="TVU">
+  <programme start="20260906164000 -0400" stop="20260906165000 -0400" channel="TVU">
     <title lang="es">Cinefilando 4</title>
     <date>2000</date>
     <category lang="es">Cine</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21600980.jpg" />
   </programme>
-  <programme start="20260906155000 -0400" stop="20260906155500 -0400" channel="TVU">
+  <programme start="20260906165000 -0400" stop="20260906165500 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906155500 -0400" stop="20260906160000 -0400" channel="TVU">
+  <programme start="20260906165500 -0400" stop="20260906170000 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
-  <programme start="20260906160000 -0400" stop="20260906165500 -0400" channel="TVU">
+  <programme start="20260906170000 -0400" stop="20260906175500 -0400" channel="TVU">
     <title lang="es">Desarrollo humano</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21439194.jpg" />
     <country lang="es">México</country>
-  </programme>
-  <programme start="20260906165500 -0400" stop="20260906170000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
-  </programme>
-  <programme start="20260906170000 -0400" stop="20260906175500 -0400" channel="TVU">
-    <title lang="es">Naturaleza</title>
-    <date>2000</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
   </programme>
   <programme start="20260906175500 -0400" stop="20260906180000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -15213,7 +14875,20 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906180000 -0400" stop="20260906192500 -0400" channel="TVU">
+  <programme start="20260906180000 -0400" stop="20260906185500 -0400" channel="TVU">
+    <title lang="es">Naturaleza</title>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
+  </programme>
+  <programme start="20260906185500 -0400" stop="20260906190000 -0400" channel="TVU">
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
+  </programme>
+  <programme start="20260906190000 -0400" stop="20260906202500 -0400" channel="TVU">
     <title lang="es">Código deportivo</title>
     <desc lang="es">Las principales noticias deportivas generadas tanto de los deportes locales como internacionales.(n)</desc>
     <credits>
@@ -15226,14 +14901,14 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/26549791.jpg" />
     <country lang="es">Ecuador</country>
   </programme>
-  <programme start="20260906192500 -0400" stop="20260906193000 -0400" channel="TVU">
+  <programme start="20260906202500 -0400" stop="20260906203000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906193000 -0400" stop="20260906202500 -0400" channel="TVU">
+  <programme start="20260906203000 -0400" stop="20260906212500 -0400" channel="TVU">
     <title lang="es">Fin de la historia</title>
     <desc lang="es">El periodista Sandro Velarde Vargas se enfoca en los problemas de la democracia actual y las amenazas autoritarias, tanto de derecha como de izquierda, que se presentan en las democracias en el mundo.(n)</desc>
     <credits>
@@ -15245,35 +14920,35 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21512659.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260906202500 -0400" stop="20260906203000 -0400" channel="TVU">
+  <programme start="20260906212500 -0400" stop="20260906213000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906203000 -0400" stop="20260906205500 -0400" channel="TVU">
+  <programme start="20260906213000 -0400" stop="20260906215500 -0400" channel="TVU">
     <title lang="es">Crónicas universitarias</title>
     <date>2000</date>
     <category lang="es">Educativo</category>
     <category lang="es">Culturales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21555082.jpg" />
   </programme>
-  <programme start="20260906205500 -0400" stop="20260906210000 -0400" channel="TVU">
+  <programme start="20260906215500 -0400" stop="20260906220000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906210000 -0400" stop="20260906210500 -0400" channel="TVU">
+  <programme start="20260906220000 -0400" stop="20260906220500 -0400" channel="TVU">
     <title lang="es">Himno Nacional</title>
     <date>2000</date>
     <category lang="es">Cultural</category>
     <category lang="es">Culturales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3615415.jpg" />
   </programme>
-  <programme start="20260906210500 -0400" stop="20260906220000 -0400" channel="TVU">
+  <programme start="20260906220500 -0400" stop="20260906230000 -0400" channel="TVU">
     <title lang="es">Guia médica</title>
     <desc lang="es">Reporte sobre temas relevantes en medicina, con información actual y precisa en la que se brindan consejos de cuidado y prevención bajo la asesoría de especialistas en la materia, quienes indicarán como llevar una vida saludable.(n)</desc>
     <date>2014</date>
@@ -15282,28 +14957,28 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436932.jpg" />
     <country lang="es">Ecuador</country>
   </programme>
-  <programme start="20260906220000 -0400" stop="20260906220500 -0400" channel="TVU">
+  <programme start="20260906230000 -0400" stop="20260906230500 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906220500 -0400" stop="20260906235400 -0400" channel="TVU">
+  <programme start="20260906230500 -0400" stop="20260907005400 -0400" channel="TVU">
     <title lang="es">Cine TVU trasnoche</title>
     <date>2000</date>
     <category lang="es">Película</category>
     <category lang="es">Ciclo</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21481260.jpg" />
   </programme>
-  <programme start="20260906235400 -0400" stop="20260906235900 -0400" channel="TVU">
+  <programme start="20260907005400 -0400" stop="20260907005900 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260906235900 -0400" stop="20260907002500 -0400" channel="TVU">
+  <programme start="20260907005900 -0400" stop="20260907012500 -0400" channel="TVU">
     <title lang="es">Érase una vez... el hombre</title>
     <desc lang="es">Divertidas lecciones de historia universal que muestran la evolución de la humanidad a través del tiempo, narrando cómo se han formado las grandes civilizaciones y qué papel ha tomado el hombre en el desarrollo de toda la trama.(n)</desc>
     <credits>
@@ -15319,32 +14994,18 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3247356.jpg" />
     <country lang="es">Francia</country>
   </programme>
-  <programme start="20260907002500 -0400" stop="20260907003000 -0400" channel="TVU">
+  <programme start="20260907012500 -0400" stop="20260907013000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907003000 -0400" stop="20260907013200 -0400" channel="TVU">
+  <programme start="20260907013000 -0400" stop="20260907023200 -0400" channel="TVU">
     <title lang="es">Naturaleza</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
-  </programme>
-  <programme start="20260907013200 -0400" stop="20260907013700 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
-  </programme>
-  <programme start="20260907013700 -0400" stop="20260907023200 -0400" channel="TVU">
-    <title lang="es">Historia</title>
-    <date>2000</date>
-    <category lang="es">Documental</category>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21464743.jpg" />
   </programme>
   <programme start="20260907023200 -0400" stop="20260907023700 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -15353,7 +15014,21 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907023700 -0400" stop="20260907025500 -0400" channel="TVU">
+  <programme start="20260907023700 -0400" stop="20260907033200 -0400" channel="TVU">
+    <title lang="es">Historia</title>
+    <date>2000</date>
+    <category lang="es">Documental</category>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21464743.jpg" />
+  </programme>
+  <programme start="20260907033200 -0400" stop="20260907033700 -0400" channel="TVU">
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
+  </programme>
+  <programme start="20260907033700 -0400" stop="20260907035500 -0400" channel="TVU">
     <title lang="es">Japan Video Topics</title>
     <desc lang="es">Serie de audiovisuales que ofrecen una visión global de la cultura japonesa, la naturaleza, la ciencia, la tecnología, educación, tradiciones, costumbres e ideologías, con entrevistas y reportajes increíbles sobre esta nación milenaria.(n)</desc>
     <date>2000</date>
@@ -15362,19 +15037,6 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/35101262.jpg" />
     <country lang="es">Japón</country>
   </programme>
-  <programme start="20260907025500 -0400" stop="20260907030000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
-  </programme>
-  <programme start="20260907030000 -0400" stop="20260907035500 -0400" channel="TVU">
-    <title lang="es">Hechos matinal</title>
-    <date>2000</date>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21481512.jpg" />
-  </programme>
   <programme start="20260907035500 -0400" stop="20260907040000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
@@ -15382,7 +15044,20 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907040000 -0400" stop="20260907052500 -0400" channel="TVU">
+  <programme start="20260907040000 -0400" stop="20260907045500 -0400" channel="TVU">
+    <title lang="es">Hechos matinal</title>
+    <date>2000</date>
+    <category lang="es">Periodístico</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21481512.jpg" />
+  </programme>
+  <programme start="20260907045500 -0400" stop="20260907050000 -0400" channel="TVU">
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
+  </programme>
+  <programme start="20260907050000 -0400" stop="20260907062500 -0400" channel="TVU">
     <title lang="es">Primera impresión</title>
     <date>2000</date>
     <category lang="es">Magazine</category>
@@ -15390,27 +15065,27 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21503567.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907052500 -0400" stop="20260907053000 -0400" channel="TVU">
+  <programme start="20260907062500 -0400" stop="20260907063000 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
-  <programme start="20260907053000 -0400" stop="20260907062500 -0400" channel="TVU">
+  <programme start="20260907063000 -0400" stop="20260907072500 -0400" channel="TVU">
     <title lang="es">TV express</title>
     <date>2000</date>
     <category lang="es">Periodístico</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21464626.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907062500 -0400" stop="20260907063000 -0400" channel="TVU">
+  <programme start="20260907072500 -0400" stop="20260907073000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907063000 -0400" stop="20260907075500 -0400" channel="TVU">
+  <programme start="20260907073000 -0400" stop="20260907085500 -0400" channel="TVU">
     <title lang="es">A pedir de boca</title>
     <desc lang="es">Recorrido por la historia, el hábitat y los procesos de elaboración de alimentos de calidad producidos en España. Un viaje a sus comarcas de origen, analizando los vínculos con su procedencia y preparaciones culinarias tradicionales.(n)</desc>
     <credits>
@@ -15424,56 +15099,40 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21464097.jpg" />
     <country lang="es">España</country>
   </programme>
-  <programme start="20260907075500 -0400" stop="20260907080000 -0400" channel="TVU">
+  <programme start="20260907085500 -0400" stop="20260907090000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907080000 -0400" stop="20260907085500 -0400" channel="TVU">
+  <programme start="20260907090000 -0400" stop="20260907095500 -0400" channel="TVU">
     <title lang="es">Historia</title>
     <date>2000</date>
     <category lang="es">Documental</category>
     <category lang="es">Documentales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21464743.jpg" />
   </programme>
-  <programme start="20260907085500 -0400" stop="20260907090000 -0400" channel="TVU">
+  <programme start="20260907095500 -0400" stop="20260907100000 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
-  <programme start="20260907090000 -0400" stop="20260907090500 -0400" channel="TVU">
+  <programme start="20260907100000 -0400" stop="20260907100500 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907090500 -0400" stop="20260907095400 -0400" channel="TVU">
+  <programme start="20260907100500 -0400" stop="20260907105400 -0400" channel="TVU">
     <title lang="es">Naturaleza</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/17856252.jpg" />
   </programme>
-  <programme start="20260907095400 -0400" stop="20260907100000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
-  </programme>
-  <programme start="20260907100000 -0400" stop="20260907105500 -0400" channel="TVU">
-    <title lang="es">Hechos meridiano</title>
-    <desc lang="es">Traemos la información en donde podrás seguir en vivo el noticiero Hechos Meridiano.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18182457.jpg" />
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20260907105500 -0400" stop="20260907110000 -0400" channel="TVU">
+  <programme start="20260907105400 -0400" stop="20260907110000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
@@ -15481,13 +15140,13 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260907110000 -0400" stop="20260907115500 -0400" channel="TVU">
-    <title lang="es">Regeneración</title>
-    <desc lang="es">Espacio juvenil abierto a conversación, crítica, debate e interés en los nueve departamentos de nuestro país.(n)</desc>
+    <title lang="es">Hechos meridiano</title>
+    <desc lang="es">Traemos la información en donde podrás seguir en vivo el noticiero Hechos Meridiano.(n)</desc>
     <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21465381.jpg" />
-    <country lang="es">Bolivia</country>
+    <category lang="es">Noticiero</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18182457.jpg" />
+    <country lang="es">México</country>
   </programme>
   <programme start="20260907115500 -0400" stop="20260907120000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -15497,11 +15156,12 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260907120000 -0400" stop="20260907125500 -0400" channel="TVU">
-    <title lang="es">Tropicalísimo cultura viva</title>
+    <title lang="es">Regeneración</title>
+    <desc lang="es">Espacio juvenil abierto a conversación, crítica, debate e interés en los nueve departamentos de nuestro país.(n)</desc>
     <date>2000</date>
-    <category lang="es">Musical</category>
-    <category lang="es">Musicales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21466511.jpg" />
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21465381.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260907125500 -0400" stop="20260907130000 -0400" channel="TVU">
@@ -15512,6 +15172,21 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260907130000 -0400" stop="20260907135500 -0400" channel="TVU">
+    <title lang="es">Tropicalísimo cultura viva</title>
+    <date>2000</date>
+    <category lang="es">Musical</category>
+    <category lang="es">Musicales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21466511.jpg" />
+    <country lang="es">Bolivia</country>
+  </programme>
+  <programme start="20260907135500 -0400" stop="20260907140000 -0400" channel="TVU">
+    <title lang="es">Características y/o avances</title>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
+  </programme>
+  <programme start="20260907140000 -0400" stop="20260907145500 -0400" channel="TVU">
     <title lang="es">Marca registrada</title>
     <desc lang="es">En formato podcast y junto a Cinthia Cuesta y su equipo, el público podrá disfrutar de un espacio con risas, datos interesantes y la mejor compañía.(n)</desc>
     <credits>
@@ -15523,14 +15198,14 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/11365141.jpg" />
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20260907135500 -0400" stop="20260907140000 -0400" channel="TVU">
+  <programme start="20260907145500 -0400" stop="20260907150000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907140000 -0400" stop="20260907145500 -0400" channel="TVU">
+  <programme start="20260907150000 -0400" stop="20260907155500 -0400" channel="TVU">
     <title lang="es">Hoy contigo</title>
     <desc lang="es">Magazine de entretenimiento familiar, con segmentos dedicados a la familia, con una nueva visión y manejo en la forma de llegar al público. Además, sorpresas e información.(n)</desc>
     <credits>
@@ -15542,14 +15217,14 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10357831.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907145500 -0400" stop="20260907150000 -0400" channel="TVU">
+  <programme start="20260907155500 -0400" stop="20260907160000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907150000 -0400" stop="20260907155500 -0400" channel="TVU">
+  <programme start="20260907160000 -0400" stop="20260907165500 -0400" channel="TVU">
     <title lang="es">Doctor TV</title>
     <desc lang="es">Los mejores profesionales en el campo de la salud. Los síntomas, las causas y tratamiento de las diferentes patologías y enfermedades.(n)</desc>
     <date>2000</date>
@@ -15557,27 +15232,27 @@ Repetición</title>
     <category lang="es">Culturales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10450532.jpg" />
   </programme>
-  <programme start="20260907155500 -0400" stop="20260907160000 -0400" channel="TVU">
+  <programme start="20260907165500 -0400" stop="20260907170000 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
-  <programme start="20260907160000 -0400" stop="20260907162500 -0400" channel="TVU">
+  <programme start="20260907170000 -0400" stop="20260907172500 -0400" channel="TVU">
     <title lang="es">Características y/o avances / Economía para todos</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21466398.jpg" />
   </programme>
-  <programme start="20260907162500 -0400" stop="20260907163000 -0400" channel="TVU">
+  <programme start="20260907172500 -0400" stop="20260907173000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907163000 -0400" stop="20260907182500 -0400" channel="TVU">
+  <programme start="20260907173000 -0400" stop="20260907192500 -0400" channel="TVU">
     <title lang="es">Cartas sobre la mesa</title>
     <desc lang="es">Revista nocturna que contiene las noticas más importantes de la jornada, análisis de temas coyunturales y una mesa de debate con temas de importancia para la sociedad.(n)</desc>
     <credits>
@@ -15591,13 +15266,13 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21466960.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907182500 -0400" stop="20260907183000 -0400" channel="TVU">
+  <programme start="20260907192500 -0400" stop="20260907193000 -0400" channel="TVU">
     <title lang="es">Tv empresas</title>
     <date>2000</date>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
-  <programme start="20260907183000 -0400" stop="20260907192500 -0400" channel="TVU">
+  <programme start="20260907193000 -0400" stop="20260907202500 -0400" channel="TVU">
     <title lang="es">Prisma agropecuario</title>
     <desc lang="es">Espacio que Informa sobre las temáticas concernientes al rubro agropecuario e institucional de la facultad de agronomía.(n)</desc>
     <date>2000</date>
@@ -15606,14 +15281,14 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21536440.jpg" />
     <country lang="es">Bolivia</country>
   </programme>
-  <programme start="20260907192500 -0400" stop="20260907193000 -0400" channel="TVU">
+  <programme start="20260907202500 -0400" stop="20260907203000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
-  <programme start="20260907193000 -0400" stop="20260907202500 -0400" channel="TVU">
+  <programme start="20260907203000 -0400" stop="20260907212500 -0400" channel="TVU">
     <title lang="es">Código deportivo</title>
     <desc lang="es">Las principales noticias deportivas generadas tanto de los deportes locales como internacionales.(n)</desc>
     <credits>
@@ -15625,26 +15300,6 @@ Repetición</title>
     <category lang="es">Deportes</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/26549791.jpg" />
     <country lang="es">Ecuador</country>
-  </programme>
-  <programme start="20260907202500 -0400" stop="20260907203000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
-  </programme>
-  <programme start="20260907203000 -0400" stop="20260907205500 -0400" channel="TVU">
-    <title lang="es">Mística</title>
-    <date>2000</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21480854.jpg" />
-  </programme>
-  <programme start="20260907205500 -0400" stop="20260907210000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20260906051500 +0000" stop="20260906100000 +0000" channel="ChileVision.cl">
     <title lang="es">Programación de trasnoche</title>
@@ -49501,35 +49156,8 @@ Repetición</title>
   </programme>
   <programme start="20260906060000 -0500" stop="20260906065000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Historia natural</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260906065000 -0500" stop="20260906074000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
@@ -49565,35 +49193,8 @@ Repetición</title>
   </programme>
   <programme start="20260906074000 -0500" stop="20260906083000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Medidas extremas</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260906083000 -0500" stop="20260906092000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
@@ -50873,47 +50474,8 @@ Repetición</title>
   </programme>
   <programme start="20260907133000 -0500" stop="20260907142000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón Chicago P.D.</title>
-    <sub-title lang="es">Ejército de un solo hombre</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260907142000 -0500" stop="20260907151000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón Chicago P.D.</title>
@@ -51964,91 +51526,13 @@ Repetición</title>
   </programme>
   <programme start="20260908133000 -0500" stop="20260908142000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón Chicago P.D.</title>
-    <sub-title lang="es">Ejército de un solo hombre</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260908142000 -0500" stop="20260908151000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón Chicago P.D.</title>
-    <sub-title lang="es">Encrucijada</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260908151000 -0500" stop="20260908160000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón Chicago P.D.</title>
@@ -52436,91 +51920,13 @@ Repetición</title>
   </programme>
   <programme start="20260908224000 -0500" stop="20260908233000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Control de impulsos</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260908233000 -0500" stop="20260909002000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Maratón Chicago P.D.</title>
-    <sub-title lang="es">Ejército de un solo hombre</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260906030000 -0500" stop="20260906035000 -0500" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Monk</title>
@@ -55998,19 +55404,8 @@ Repetición</title>
   </programme>
   <programme start="20260906120000 -0500" stop="20260906124500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Secretos al costado del camino</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260906124500 -0500" stop="20260906133000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
@@ -56398,19 +55793,8 @@ Repetición</title>
   </programme>
   <programme start="20260907021500 -0500" stop="20260907030000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Campo de golf de espanto</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260907030000 -0500" stop="20260907034500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Asesinatos en Navidad</title>
@@ -59997,36 +59381,8 @@ Repetición</title>
   </programme>
   <programme start="20260908235500 -0500" stop="20260909004000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Promesas incumplidas</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260906013100 -0500" stop="20260906022800 -0500" channel="Canal HBO Latino Este">
     <title lang="es">Linternas</title>
@@ -74343,21 +73699,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260906090000 -0300" stop="20260906120000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260906120000 -0300" stop="20260906143000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260906143000 -0300" stop="20260906150000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20260906150000 -0300" stop="20260906170000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -81455,14 +80796,6 @@ En Vivo</title>
       <value>Sin información de rating</value>
     </rating>
   </programme>
-  <programme start="20260906010000 -0400" stop="20260906020000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Main Events: Oliveira vs. Chandler 2</title>
-    <desc lang="en">Showcasing the best fights from recent events, revealing backstories of the athletes and their mindsets.(n)</desc>
-  </programme>
-  <programme start="20260906020000 -0400" stop="20260906030000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Main Events: Ferguson vs. Gaethje</title>
-    <desc lang="en">Showcasing the best fights from recent events, revealing backstories of the athletes and their mindsets.(n)</desc>
-  </programme>
   <programme start="20260906030000 -0400" stop="20260906050000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Inside College Football</title>
     <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.(n)</desc>
@@ -81582,18 +80915,6 @@ En Vivo</title>
   <programme start="20260907200000 -0400" stop="20260907220000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Athletes Unlimited Pro Softball</title>
     <desc lang="en">Softball action where athletes compete to win team, individual, and MVP points. From Parkway Bank Sports Complex in Chicago.(n)</desc>
-  </programme>
-  <programme start="20260906010000 -0400" stop="20260906020000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Best of NBA Action: Vol. 2</title>
-    <desc lang="en">NBA TV highlights the unforgettable features and storylines from the 35 seasons of NBA Action! Each 1-hour compilation volume includes a comprehensive range of features across the decades, such as Holding Court, Chalk Talk and Into the Action.(n)</desc>
-  </programme>
-  <programme start="20260906020000 -0400" stop="20260906030000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Best of NBA Social: Vol. 2</title>
-    <desc lang="en">NBA TV curates and showcases the best social content from across the NBA ecosystem, bringing fans closer to the game, players and culture.(n)</desc>
-  </programme>
-  <programme start="20260906030000 -0400" stop="20260906040000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Best of NBA Inside Stuff: Vol. 3</title>
-    <desc lang="en">All-access and lifestyle features from the award-winning show, NBA Inside Stuff. Each 1-hour volume includes memorable interviews and profiles with NBA players and legends. Hosted by Ahmad Rashad, Willow Bay, Julie Moran and Summer Sanders.(n)</desc>
   </programme>
   <programme start="20260906040000 -0400" stop="20260906050000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">Best of NBA Action: Vol. 4</title>
@@ -81730,10 +81051,6 @@ En Vivo</title>
   <programme start="20260907200000 -0400" stop="20260907220000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">The Association: Summer Special</title>
     <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.(n)</desc>
-  </programme>
-  <programme start="20260905220000 -0400" stop="20260906040000 -0400" channel="TennisChannel.us">
-    <title lang="en">US Open ENCORE: 2026 3rd Round</title>
-    <desc lang="en">Revisit action from the U.S. Open tennis tournament.(n)</desc>
   </programme>
   <programme start="20260906040000 -0400" stop="20260906070000 -0400" channel="TennisChannel.us">
     <title lang="en">US Open ENCORE: 2026 3rd Round</title>
@@ -132711,22 +132028,6 @@ Repetición</title>
     <category lang="es">Actualidad</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
-  <programme start="20260906010000 -0400" stop="20260906013000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260906013000 -0400" stop="20260906020000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Talking Movies: American Cinema Special</title>
-    <desc lang="en">Marking America's 250th anniversary, leading figures in US media, film and culture talk about their favourite classic American movies and what they tell us about the country.(n)</desc>
-  </programme>
-  <programme start="20260906020000 -0400" stop="20260906033000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260906033000 -0400" stop="20260906040000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our "AI Decoded" team as we unpack and take a deep dive into the world of artificial intelligence.(n)</desc>
-  </programme>
   <programme start="20260906040000 -0400" stop="20260906044500 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -133042,18 +132343,6 @@ Repetición</title>
   <programme start="20260907214500 -0400" stop="20260907220000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC Sport</title>
     <desc lang="en">Coverage, commentary highlights and more from the world's biggest sporting events.(n)</desc>
-  </programme>
-  <programme start="20260906010000 -0400" stop="20260906020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Life, Liberty &amp; Levin</title>
-    <desc lang="en">Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.(n)</desc>
-  </programme>
-  <programme start="20260906020000 -0400" stop="20260906030000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">My View With Lara Trump</title>
-    <desc lang="en">Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.(n)</desc>
-  </programme>
-  <programme start="20260906030000 -0400" stop="20260906040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX News Saturday Night With Jimmy Failla</title>
-    <desc lang="en">Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.(n)</desc>
   </programme>
   <programme start="20260906040000 -0400" stop="20260906080000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">Fox &amp; Friends Weekend</title>
@@ -178281,7 +177570,7 @@ Repetición</title>
   </programme>
   <programme start="20260906140000 -0400" stop="20260906150000 -0400" channel="CANAL I">
     <title lang="es">Socca World Cup Essen</title>
-    <sub-title lang="es">Gran Final</sub-title>
+    <sub-title lang="es">Brasil vs. Alemania, Gran Final</sub-title>
     <desc lang="es">Disfruta de los partidos más emocionantes de la Copa Mundial de Socca en su edición 2026. El público podrá disfrutar deun torneo disputado por las selecciones masculinas de los países miembros de la Federación Internacional de Socca.(n)</desc>
     <date>2026</date>
     <category lang="es">Fútbol</category>
@@ -180898,21 +180187,8 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260906060000 -0400" stop="20260906070000 -0400" channel="TELEVEN">
-    <title lang="es">Los Pitufos</title>
-    <desc lang="es">Son unas criaturas azules no mayores a un dedo índice, que viven en una aldea de hongos oculta en el bosque. Gargamel y su gato Azrael, intentarán atraparlos por ser un ingrediente necesario para obtener la piedra filosofal.(n)</desc>
-    <credits>
-      <actor>Davis Freeman</actor>
-      <actor>Youssef El Kaoukibi</actor>
-      <actor>Vincent Broes</actor>
-      <actor>Joshua Rubin</actor>
-      <actor>Jackie Jones</actor>
-      <actor>Sandra Asratian</actor>
-    </credits>
-    <date>2021</date>
+    <title lang="es">Los Pitufos (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20272709.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260906070000 -0400" stop="20260906073000 -0400" channel="TELEVEN">
     <title lang="es">Santa Misa dominical</title>
@@ -181125,10 +180401,18 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/7939507.jpg" />
   </programme>
   <programme start="20260907013000 -0400" stop="20260907023000 -0400" channel="TELEVEN">
-    <title lang="es">Televen</title>
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Una reflexión de la vida misma, historias, consejos y problemas que viven actualmente las mujeres en su entorno social.(n)</desc>
+    <credits>
+      <actor>Mishelle Garfias</actor>
+      <actor>Mildred Motta</actor>
+      <actor>Jesús Estrada</actor>
+    </credits>
     <date>2000</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11333692.jpg" />
+    <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3689897.jpg" />
+    <country lang="es">México</country>
   </programme>
   <programme start="20260907023000 -0400" stop="20260907041500 -0400" channel="TELEVEN">
     <title lang="es">Vitrina hoy</title>
@@ -181489,71 +180773,20 @@ Repetición</title>
     <category lang="es">Infantil</category>
   </programme>
   <programme start="20260906071000 -0400" stop="20260906072000 -0400" channel="TLT">
-    <title lang="es">Blink Blink</title>
-    <desc lang="es">Blink Blink es una serie animada tailandesa producida por Big Brain Pictures.(n)</desc>
-    <date>2014</date>
+    <title lang="es">Blink Blink (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/16946510.jpg" />
-    <country lang="es">Tailandia</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20260906072000 -0400" stop="20260906074000 -0400" channel="TLT">
-    <title lang="es">Filly Funtasia</title>
-    <sub-title lang="es">La batalla por el cristal oscuro</sub-title>
-    <desc lang="es">Rose y sus amigos se embarcan en divertidas aventuras en la academia mágica de Funtasia. Mientras estudian y aprenden nuevos poderes, un grupo de villanos liderados por el mago Wranglum intentan robar toda la magia del reino.(n)</desc>
-    <credits>
-      <actor>Jacob Andersen</actor>
-      <actor>Henrik Andersen</actor>
-      <actor>Carlos Bleycher</actor>
-      <actor>Zhong Lin</actor>
-      <actor>Sean Catherine Derek</actor>
-      <actor>Haichuan Shen</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Filly Funtasia (?)</title>
     <category lang="es">Animación</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15898225.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260906074000 -0400" stop="20260906075000 -0400" channel="TLT">
-    <title lang="es">Darwin &amp; Newts</title>
-    <sub-title lang="es">Awake at Night</sub-title>
-    <desc lang="es">Darwin y Newts son dos hermanos que descubren y experimentan con los primeros principios científicos mientras exploran las maravillas naturales de su increíble hogar en Nueva Zelanda.(n)</desc>
-    <credits>
-      <actor>Sarah Hart</actor>
-      <actor>Sara Stone</actor>
-      <actor>George Henare</actor>
-      <actor>Faith Gunn</actor>
-      <actor>Mark Hadlow</actor>
-      <actor>Andrew Jack</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Darwin &amp; Newts (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18988679.jpg" />
-    <country lang="es">Nueva Zelanda</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260906075000 -0400" stop="20260906081000 -0400" channel="TLT">
-    <title lang="es">Edu y Lucy</title>
-    <sub-title lang="es">El festival de miel</sub-title>
-    <desc lang="es">Edu la ardilla y Lucy la osita crecen como hermanos en un majestuoso castaño. Ambos juegan en el corazón de la naturaleza, descubren sus misterios y viven aventuras al aire libre.(n)</desc>
-    <credits>
-      <actor>Emmylou Homs</actor>
-      <actor>Lilly Caruso</actor>
-      <actor>Damien Boisseau</actor>
-      <actor>Magali Rosenzweig</actor>
-      <actor>Christophe Lemoine</actor>
-      <actor>Tiffany Hofstetter</actor>
-    </credits>
-    <date>2023</date>
+    <title lang="es">Edu y Lucy (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Infantiles</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/33352722.jpg" />
-    <country lang="es">EE. UU.</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260906081000 -0400" stop="20260906082000 -0400" channel="TLT">
     <title lang="es">Dinocore</title>
@@ -181911,12 +181144,8 @@ Repetición</title>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
   <programme start="20260907082000 -0400" stop="20260907083000 -0400" channel="TLT">
-    <title lang="es">Un tiempo con</title>
-    <desc lang="es">Un programa que profundiza en las trayectorias de las personalidades más influyentes del cine, el entretenimiento y la música. La propuesta combina valor informativo, anécdotas inéditas y los hitos clave que han definido sus carreras.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Un tiempo con (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995268612.jpg" />
   </programme>
   <programme start="20260907083000 -0400" stop="20260907090000 -0400" channel="TLT">
     <title lang="es">La alquimia del chef</title>
@@ -182152,8 +181381,23 @@ Repetición</title>
     <episode-num system="onscreen">S1 E69</episode-num>
   </programme>
   <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="TLT">
-    <title lang="es">Isla paraíso (?)</title>
+    <title lang="es">Isla paraíso</title>
+    <sub-title lang="es">Pablo le confesó todos sus sentimientos a Madelyn</sub-title>
+    <desc lang="es">De un día para otro, Carolina se ve envuelta en una estafa producto de los irresponsables manejos de su marido. Perseguida por la justicia, sale a pedirle ayuda a su hermana, quien está yéndose a una misión religiosa en Isla Paraíso.(n)</desc>
+    <credits>
+      <actor>Paola Volpato</actor>
+      <actor>Francisco Melo</actor>
+      <actor>Andrés Velasco</actor>
+      <actor>Montserrat Ballarin</actor>
+      <actor>Nicolás Oyarzún</actor>
+      <actor>Fernando Godoy</actor>
+    </credits>
+    <date>2018</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9521072.jpg" />
+    <country lang="es">Chile</country>
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260907210000 -0400" stop="20260907220000 -0400" channel="TLT">
     <title lang="es">Rosa salvaje</title>
@@ -182386,8 +181630,21 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260906110000 -0400" stop="20260906113000 -0400" channel="TV FAMILIA">
-    <title lang="es">La pequeña casa de la pradera (?)</title>
+    <title lang="es">La pequeña casa de la pradera</title>
+    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.(n)</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Melissa Gilbert</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Rachel Lindsay Greenbush</actor>
+      <actor>Sidney Greenbush</actor>
+      <actor>Melissa Sue Anderson</actor>
+    </credits>
+    <date>1974</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55024418.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260906113000 -0400" stop="20260906120000 -0400" channel="TV FAMILIA">
     <title lang="es">Trisagio a la Santísima Trinidad</title>
@@ -183269,22 +182526,12 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/35774983.jpg" />
   </programme>
   <programme start="20260907150000 -0400" stop="20260907153000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260907153000 -0400" stop="20260907160000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260907160000 -0400" stop="20260907163000 -0400" channel="TVES">
     <title lang="es">Bloque infantil</title>
@@ -183871,51 +183118,16 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/25784749.jpg" />
   </programme>
   <programme start="20260907150000 -0400" stop="20260907151500 -0400" channel="VALE TV">
-    <title lang="es">Metal Cardbot</title>
-    <sub-title lang="es">El equipo de rescate de ciudad escoba</sub-title>
-    <desc lang="es">Tras una explosión que obliga a los Cardbots a llegar a la Tierra, estos vehículos robóticos se disfrazan de vehículos normales. Un joven ciclista de BMX se hace amigo de ellos y encuentra un dispositivo que los impulsa.(n)</desc>
-    <credits>
-      <actor>Jang Ye-na</actor>
-      <actor>Kim Eun-ah</actor>
-      <actor>Kim Ga-ryung</actor>
-      <actor>Lee Hyun</actor>
-      <actor>Choi Han</actor>
-      <actor>Hwang Chang-yung</actor>
-    </credits>
-    <date>2023</date>
+    <title lang="es">Metal Cardbot (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989718176.jpg" />
-    <country lang="es">Corea del Sur</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260907151500 -0400" stop="20260907153000 -0400" channel="VALE TV">
-    <title lang="es">Metal Cardbot</title>
-    <sub-title lang="es">El obsequio de School B</sub-title>
-    <desc lang="es">Tras una explosión que obliga a los Cardbots a llegar a la Tierra, estos vehículos robóticos se disfrazan de vehículos normales. Un joven ciclista de BMX se hace amigo de ellos y encuentra un dispositivo que los impulsa.(n)</desc>
-    <credits>
-      <actor>Jang Ye-na</actor>
-      <actor>Kim Eun-ah</actor>
-      <actor>Kim Ga-ryung</actor>
-      <actor>Lee Hyun</actor>
-      <actor>Choi Han</actor>
-      <actor>Hwang Chang-yung</actor>
-    </credits>
-    <date>2023</date>
+    <title lang="es">Metal Cardbot (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989718176.jpg" />
-    <country lang="es">Corea del Sur</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20260907153000 -0400" stop="20260907160000 -0400" channel="VALE TV">
-    <title lang="es">El divertido mundo de Peep</title>
-    <desc lang="es">Un pollito recién sacado sale en aventuras diarias con sus amigos, Peep aprende en cada aventura nuevos conceptos científicos.(n)</desc>
-    <date>2004</date>
+    <title lang="es">El divertido mundo de Peep (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26289891.jpg" />
-    <country lang="es">Canadá</country>
   </programme>
   <programme start="20260907160000 -0400" stop="20260907161500 -0400" channel="VALE TV">
     <title lang="es">Robocar Poli</title>
@@ -185456,11 +184668,8 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="TVEPACO">
-    <title lang="es">Programación VEPACO TV</title>
-    <date>2000</date>
+    <title lang="es">Programación VEPACO TV (?)</title>
     <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4847370.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260907210000 -0400" stop="20260907220000 -0400" channel="TVEPACO">
     <title lang="es">Programación VEPACO TV</title>
