@@ -13658,17 +13658,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260914194500 -0400" stop="20260914211500 -0400" channel="UNITEL">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260912210000 -0400" stop="20260912220000 -0400" channel="BOLIVISION">
     <title lang="es">Hombres de Paco</title>
@@ -13751,8 +13742,19 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
   <programme start="20260913040000 -0400" stop="20260913043000 -0400" channel="BOLIVISION">
-    <title lang="es">Master Raindrop (?)</title>
+    <title lang="es">Master Raindrop</title>
+    <desc lang="es">Maetro Raindrop sigue al novato en artes marciales Raindrop y su amiga Shao Yen en su viaje. Ellos buscan salvar a su Maestro Yun y eventualmente a su pacífica tierra del malvado General Bu y su ejército de Guerreros Terracota.(n)</desc>
+    <credits>
+      <actor>Jane O'Brien</actor>
+      <actor>Rachel King</actor>
+      <actor>Sarah Aubrey</actor>
+      <actor>Steve Cooper</actor>
+    </credits>
+    <date>2008</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/902586.jpg" />
+    <country lang="es">Australia</country>
   </programme>
   <programme start="20260913043000 -0400" stop="20260913045000 -0400" channel="BOLIVISION">
     <title lang="es">La abeja Maya</title>
@@ -13862,15 +13864,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10092289.jpg" />
   </programme>
   <programme start="20260913094000 -0400" stop="20260913103000 -0400" channel="BOLIVISION">
-    <title lang="es">Desafío África</title>
-    <desc lang="es">Reality show colombiano conducido por la actriz Margarita Rosa de Francisco.(n)</desc>
-    <credits>
-      <actor>Margarita Rosa De Francisco</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">Desafío África (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1403297.jpg" />
-    <country lang="es">Colombia</country>
   </programme>
   <programme start="20260913103000 -0400" stop="20260913113000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
@@ -13907,8 +13902,21 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/41019337.jpg" />
   </programme>
   <programme start="20260913133000 -0400" stop="20260913143000 -0400" channel="BOLIVISION">
-    <title lang="es">Entre él y ella (?)</title>
+    <title lang="es">Entre él y ella</title>
+    <desc lang="es">Tras siete años juntos, la relación entre Jung Hyun seong y Han Seong ok se ha estancado. Cuando ambos se encuentran por casualidad en un motel acompañados de otras personas, la pareja se ve obligada a afrontar lo que han evitado por años.(n)</desc>
+    <credits>
+      <actor>Lee Dong-hae</actor>
+      <actor>Lim Jae-Hyeok</actor>
+      <actor>Shin Eun-jung</actor>
+      <actor>Kim Hyun-Mok</actor>
+      <actor>Yeon Jae-hyeong</actor>
+      <actor>Baek Sun-ho</actor>
+    </credits>
+    <date>2023</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991946911.jpg" />
+    <country lang="es">Corea del Sur</country>
   </programme>
   <programme start="20260913143000 -0400" stop="20260913152000 -0400" channel="BOLIVISION">
     <title lang="es">Policías novatos</title>
@@ -14122,21 +14130,8 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260914094500 -0400" stop="20260914102000 -0400" channel="BOLIVISION">
-    <title lang="es">Perdóname</title>
-    <desc lang="es">Osman es uno de los empresarios más ricos de Ankara. Se caracteriza por ser un hombre severo y cruel, obsesionado con una disciplina que hace infeliz a su familia. Por eso, todo se complica cuando uno de sus hijos se enamora de la criada.(n)</desc>
-    <credits>
-      <actor>Seyma Korkmaz</actor>
-      <actor>Murat Danaci</actor>
-      <actor>Gaye Turgut</actor>
-      <actor>Ulviye Karaca</actor>
-      <actor>Nusret Senay</actor>
-      <actor>Gamze Igdiroglu</actor>
-    </credits>
-    <date>2011</date>
+    <title lang="es">Perdóname (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3200342.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20260914102000 -0400" stop="20260914120000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
@@ -14344,8 +14339,18 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2403050.jpg" />
   </programme>
   <programme start="20260913060000 -0400" stop="20260913061500 -0400" channel="RED UNO">
-    <title lang="es">Bebefinn (?)</title>
+    <title lang="es">Bebefinn</title>
+    <desc lang="es">El pequeño Finn nos invita a vivir aventuras llenas de diversión y a aprender algo nuevo cada día.(n)</desc>
+    <credits>
+      <actor>Bang Marshall Jeanwon</actor>
+      <actor>Scarlett Vivian Unger</actor>
+      <actor>Bommie Catherine Han</actor>
+    </credits>
+    <date>2022</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/38197805.jpg" />
+    <country lang="es">Corea</country>
   </programme>
   <programme start="20260913061500 -0400" stop="20260913064500 -0400" channel="RED UNO">
     <title lang="es">Baby Shark's Big Show</title>
@@ -53147,53 +53152,8 @@ Repetición</title>
   </programme>
   <programme start="20260914165000 -0500" stop="20260914174000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Paseo en coche</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.(n)</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Lauren German</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Yuri Sardarov</actor>
-      <actor>Christian Stolte</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Joe Minoso</actor>
-      <actor>Randy Flagler</actor>
-      <actor>William Smillie</actor>
-      <actor>Teri Reeves</actor>
-      <actor>Asta Razma</actor>
-      <actor>Michelle Romano</actor>
-      <actor>Cookie Santucci</actor>
-      <actor>Denise E Schroeder</actor>
-      <actor>MJ Starshak</actor>
-      <actor>Josh Stephenson</actor>
-      <actor>Shani Salyers Stiles</actor>
-      <actor>Amber Whelan</actor>
-      <actor>Michele Sweeney Abrams</actor>
-      <actor>Bill H Bailey</actor>
-      <actor>Nicole C Barnes</actor>
-      <actor>Adrian Bond</actor>
-      <actor>Larson Lee Brumfield</actor>
-      <actor>Patricia Urbonas Clark</actor>
-      <actor>Alexandra Groot</actor>
-      <actor>Derek Haas</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Reza Tabrizi</actor>
-      <actor>Joe Chappelle</actor>
-      <actor>Sanford Bookstaver</actor>
-      <actor>Eric Matsumoto</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Demetra Diamantopoulos</actor>
-      <actor>John L Roman</actor>
-    </credits>
-    <date>2012</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2051454.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260914174000 -0500" stop="20260914183000 -0500" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Fire</title>
@@ -58140,8 +58100,19 @@ Repetición</title>
   </programme>
   <programme start="20260913120000 -0500" stop="20260913124500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Enterrado en dinero</sub-title>
+    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
+    <credits>
+      <actor>Sadie Medley</actor>
+      <actor>Kelly Ann Barrett</actor>
+      <actor>Mignon Farmani</actor>
+      <actor>Dana Devlin</actor>
+      <actor>David Garfinkle</actor>
+    </credits>
+    <date>2018</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260913124500 -0500" stop="20260913133000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
@@ -58790,19 +58761,8 @@ Repetición</title>
   </programme>
   <programme start="20260914094500 -0500" stop="20260914103000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Enterrado en el bosque: secretos de las colinas de Hollywood</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260914103000 -0500" stop="20260914111500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
@@ -59253,19 +59213,8 @@ Repetición</title>
   </programme>
   <programme start="20260915013000 -0500" stop="20260915021500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Enterrado en la arena: el viaje final de un vaquero</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260915021500 -0500" stop="20260915030000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
@@ -60385,27 +60334,8 @@ Repetición</title>
   </programme>
   <programme start="20260913163000 -0500" stop="20260913172000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Surreal Estate</title>
-    <sub-title lang="es">Incendiar la bandera</sub-title>
-    <desc lang="es">Un agente de bienes raíces y un equipo de élite de especialistas manejan casos que nadie más puede: casas embrujadas y poseídas que literalmente ahuyentan a los posibles compradores.(n)</desc>
-    <credits>
-      <actor>Adam Korson</actor>
-      <actor>Savannah Basley</actor>
-      <actor>Tennille Read</actor>
-      <actor>Jennifer Dale</actor>
-      <actor>Art Hindle</actor>
-      <actor>Paul Ewan Wilson</actor>
-      <actor>Alison Brooks</actor>
-      <actor>Tim Rozon</actor>
-      <actor>Danishka Esterhazy</actor>
-      <actor>Sarah Levy</actor>
-      <actor>Maurice Dean Wint</actor>
-      <actor>Gillian Muller</actor>
-      <actor>Peter Blackie</actor>
-    </credits>
-    <date>2021</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21176803.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260913172000 -0500" stop="20260913181000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">Surreal Estate</title>
@@ -61171,69 +61101,13 @@ Repetición</title>
   </programme>
   <programme start="20260914154500 -0500" stop="20260914163000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Orgullo y prejuicio</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260914163000 -0500" stop="20260914171500 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Ambición</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260914171500 -0500" stop="20260914180000 -0500" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: Most Wanted</title>
@@ -76922,21 +76796,6 @@ En Vivo</title>
     <rating>
       <value>Todas las edades</value>
     </rating>
-  </programme>
-  <programme start="20260913090000 -0300" stop="20260913120000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260913120000 -0300" stop="20260913143000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20260913143000 -0300" stop="20260913151500 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
   </programme>
   <programme start="20260913151500 -0300" stop="20260913170500 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
@@ -168386,14 +168245,8 @@ En Vivo</title>
   </programme>
   <programme start="20260914130000 -0500" stop="20260914140000 -0500" channel="ImagenTv.mx">
     <title lang="es">Historias de un milagro</title>
-    <desc lang="es">Vidas marcadas por la pérdida, la traición, el amor, la injusticia y las segundas oportunidades. Una verdad o un acto de amor puede cambiar todo. Porque los milagros no siempre caen del cielo a veces llegan justo cuando más los necesitamos.(n)</desc>
-    <credits>
-      <actor>Rocío Sánchez Azuara</actor>
-    </credits>
-    <date>2026</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995272669.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260914140000 -0500" stop="20260914150000 -0500" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -185796,17 +185649,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/7939507.jpg" />
   </programme>
   <programme start="20260913013000 -0400" stop="20260913023000 -0400" channel="TELEVEN">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Una reflexión de la vida misma, historias, consejos y problemas que viven actualmente las mujeres en su entorno social.(n)</desc>
-    <credits>
-      <actor>Mishelle Garfias</actor>
-      <actor>Mildred Motta</actor>
-      <actor>Jesús Estrada</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3689897.jpg" />
-    <country lang="es">México</country>
+    <title lang="es">Lo que callamos las mujeres (?)</title>
   </programme>
   <programme start="20260913023000 -0400" stop="20260913041500 -0400" channel="TELEVEN">
     <title lang="es">Vitrina hoy</title>
@@ -185832,38 +185675,12 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260913050000 -0400" stop="20260913060000 -0400" channel="TELEVEN">
-    <title lang="es">The Good Doctor</title>
-    <desc lang="es">Shaun, un joven cirujano con autismo y síndrome de Savant, es reclutado en la unidad quirúrgica pediátrica de un prestigioso hospital. ¿Puede una persona que no tiene la capacidad de relacionarse con la gente realmente salvar sus vidas?(n)</desc>
-    <credits>
-      <actor>Richard Schiff</actor>
-      <actor>Hill Harper</actor>
-      <actor>Nicholas Gonzalez</actor>
-      <actor>Antonia Thomas</actor>
-      <actor>Chuku Modu</actor>
-      <actor>Beau Garrett</actor>
-    </credits>
-    <date>2017</date>
+    <title lang="es">The Good Doctor (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9706086.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260913060000 -0400" stop="20260913070000 -0400" channel="TELEVEN">
-    <title lang="es">Los Pitufos</title>
-    <desc lang="es">Son unas criaturas azules no mayores a un dedo índice, que viven en una aldea de hongos oculta en el bosque. Gargamel y su gato Azrael, intentarán atraparlos por ser un ingrediente necesario para obtener la piedra filosofal.(n)</desc>
-    <credits>
-      <actor>Davis Freeman</actor>
-      <actor>Youssef El Kaoukibi</actor>
-      <actor>Vincent Broes</actor>
-      <actor>Joshua Rubin</actor>
-      <actor>Jackie Jones</actor>
-      <actor>Sandra Asratian</actor>
-    </credits>
-    <date>2021</date>
+    <title lang="es">Los Pitufos (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20272709.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260913070000 -0400" stop="20260913073000 -0400" channel="TELEVEN">
     <title lang="es">Santa Misa dominical</title>
@@ -187106,21 +186923,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3324641.jpg" />
   </programme>
   <programme start="20260913043000 -0400" stop="20260913051000 -0400" channel="TV FAMILIA">
-    <title lang="es">El toque de un ángel</title>
-    <desc lang="es">Esta serie recrea la vida de un ángel moderno que inspira a la gente que atraviesa períodos difíciles a cambiar sus vidas antes que sea demasiado tarde.(n)</desc>
-    <credits>
-      <actor>Della Reese</actor>
-      <actor>John Dye</actor>
-      <actor>Valerie Bertinelli</actor>
-      <actor>Gavin Sheehan</actor>
-      <actor>Alexis Cruz</actor>
-      <actor>Charles Rocket</actor>
-    </credits>
-    <date>1994</date>
+    <title lang="es">El toque de un ángel (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2666753.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260913051000 -0400" stop="20260913053000 -0400" channel="TV FAMILIA">
     <title lang="es">Trisagio a la Santísima Trinidad</title>
@@ -189121,21 +188925,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20260914160000 -0400" stop="20260914170000 -0400" channel="VENEVISION">
-    <title lang="es">La rosa de Guadalupe</title>
-    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.(n)</desc>
-    <credits>
-      <actor>Milia Nader</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Maru Dueñas</actor>
-      <actor>Aleyda Gallardo</actor>
-      <actor>Miriam Calderón</actor>
-      <actor>Sandra Itzel</actor>
-    </credits>
-    <date>2008</date>
+    <title lang="es">La rosa de Guadalupe (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/54682488.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260914170000 -0400" stop="20260914180000 -0400" channel="VENEVISION">
     <title lang="es">Desiguales</title>
@@ -189179,17 +188970,8 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260914200000 -0400" stop="20260914210000 -0400" channel="VENEVISION">
-    <title lang="es">La casa de la fortuna</title>
-    <desc lang="es">Conducido por Nieves Soteldo y José Andrés Padrón, una dupla llena de energía que te acompañará en este innovador programa de concursos diseñado para toda la familia.(n)</desc>
-    <credits>
-      <actor>José Andrés Padrón</actor>
-      <actor>Nieves Soteldo</actor>
-    </credits>
-    <date>2026</date>
+    <title lang="es">La casa de la fortuna (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992928448.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20260914210000 -0400" stop="20260914220000 -0400" channel="VENEVISION">
     <title lang="es">Karsu, la fuerza de una madre</title>
@@ -189209,21 +188991,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260914220000 -0400" stop="20260914230000 -0400" channel="VENEVISION">
-    <title lang="es">Velvet</title>
-    <desc lang="es">Entre las paredes de las Galerías Velvet se encuentran los trajes más elegantes, sofisticados y caros del momento, pero sobre todo se esconde una de las más maravillosas historias de amor que se haya contado jamás: la de Ana y Alberto.(n)</desc>
-    <credits>
-      <actor>Miguel Ángel Silvestre</actor>
-      <actor>Sean Campbell</actor>
-      <actor>Aitana Sánchez-Gijón</actor>
-      <actor>Cecilia Freire</actor>
-      <actor>Adrián Lastra</actor>
-      <actor>José Sacristán</actor>
-    </credits>
-    <date>2014</date>
+    <title lang="es">Velvet (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/39755754.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20260914230000 -0400" stop="20260914233000 -0400" channel="VENEVISION">
     <title lang="es">La viuda joven</title>
@@ -189446,21 +189215,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20260913170000 -0400" stop="20260913180000 -0400" channel="VENEVISION PLUS">
-    <title lang="es">Amorcito corazón</title>
-    <desc lang="es">Este melodrama narra la historia de Isabel, una arquitecta que tiene marcado su destino amoroso, Zoe, la aparente ama de casa perfecta y Lucía novicia de corazón.(n)</desc>
-    <credits>
-      <actor>Diego Olivera</actor>
-      <actor>África Zavala</actor>
-      <actor>Lis Vega</actor>
-      <actor>Mariana Karr</actor>
-      <actor>Silvia Mariscal</actor>
-      <actor>Alejandro Ibarra</actor>
-    </credits>
-    <date>2011</date>
+    <title lang="es">Amorcito corazón (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22971351.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20260913180000 -0400" stop="20260913190000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Entre mujeres</title>
