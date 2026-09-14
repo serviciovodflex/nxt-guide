@@ -11004,17 +11004,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260914194500 -0400" stop="20260914211500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260914211500 -0400" stop="20260914214500 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Enemigo íntimo</title>
@@ -11398,17 +11389,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20260914194500 -0400" stop="20260914211500 -0400" channel="UNITEL">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20260914211500 -0400" stop="20260914214500 -0400" channel="UNITEL">
     <title lang="es">Enemigo íntimo</title>
@@ -58404,19 +58386,8 @@ Repetición</title>
   </programme>
   <programme start="20260916180000 -0500" stop="20260916184500 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
-    <sub-title lang="es">Misterio en la mina</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20260916184500 -0500" stop="20260916193000 -0500" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el Jardín</title>
@@ -74676,11 +74647,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260914103500 -0300" stop="20260914132000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20260914132000 -0300" stop="20260914161500 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -83017,18 +82983,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20260914010000 -0400" stop="20260914020000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">World Poker Tour: WPT Choctaw - Part 1</title>
-    <desc lang="en">Yee Haw! The WPT Choctaw final table action begins with six players.(n)</desc>
-  </programme>
-  <programme start="20260914020000 -0400" stop="20260914033000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">E1 Championship: Luanda, Angola</title>
-    <desc lang="en">No details are there for this program.(n)</desc>
-  </programme>
-  <programme start="20260914033000 -0400" stop="20260914040000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">Watercross: LIQUI MOLY Pro Watercross USA National Tour</title>
-    <desc lang="en">From Norman, OK.(n)</desc>
-  </programme>
   <programme start="20260914040000 -0400" stop="20260914080000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Boomer and Gio</title>
     <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.(n)</desc>
@@ -83140,18 +83094,6 @@ En Vivo</title>
   <programme start="20260915190000 -0400" stop="20260916000000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Inside College Football</title>
     <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.(n)</desc>
-  </programme>
-  <programme start="20260914010000 -0400" stop="20260914020000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Best of NBA Action: Vol. 2</title>
-    <desc lang="en">NBA TV highlights the unforgettable features and storylines from the 35 seasons of NBA Action! Each 1-hour compilation volume includes a comprehensive range of features across the decades, such as Holding Court, Chalk Talk and Into the Action.(n)</desc>
-  </programme>
-  <programme start="20260914020000 -0400" stop="20260914030000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Best of NBA Inside Stuff: Vol. 3</title>
-    <desc lang="en">All-access and lifestyle features from the award-winning show, NBA Inside Stuff. Each 1-hour volume includes memorable interviews and profiles with NBA players and legends. Hosted by Ahmad Rashad, Willow Bay, Julie Moran and Summer Sanders.(n)</desc>
-  </programme>
-  <programme start="20260914030000 -0400" stop="20260914040000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Best of NBA Action: Vol. 3</title>
-    <desc lang="en">NBA TV highlights the unforgettable features and storylines from the 35 seasons of NBA Action! Each 1-hour compilation volume includes a comprehensive range of features across the decades, such as Holding Court, Chalk Talk and Into the Action.(n)</desc>
   </programme>
   <programme start="20260914040000 -0400" stop="20260914050000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">Best of NBA Action: Vol. 4</title>
@@ -83300,10 +83242,6 @@ En Vivo</title>
   <programme start="20260915210000 -0400" stop="20260915220000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">Best of NBA Social: Vol. 2</title>
     <desc lang="en">NBA TV curates and showcases the best social content from across the NBA ecosystem, bringing fans closer to the game, players and culture.(n)</desc>
-  </programme>
-  <programme start="20260913220000 -0400" stop="20260914040000 -0400" channel="TennisChannel.us">
-    <title lang="en">US Open ENCORE: 2026 Men's Singles Championship</title>
-    <desc lang="en">Revisit action from the U.S. Open tennis tournament.(n)</desc>
   </programme>
   <programme start="20260914040000 -0400" stop="20260914100000 -0400" channel="TennisChannel.us">
     <title lang="en">Courtside: Guadalajara-WTA Early Rounds</title>
@@ -132376,14 +132314,6 @@ Repetición</title>
     <category lang="es">Actualidad</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
-  <programme start="20260914010000 -0400" stop="20260914025500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20260914025500 -0400" stop="20260914030000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled; Nick Kwek is at the Imperial War Museum in London to hear how survivor stories are brought to life.(n)</desc>
-  </programme>
   <programme start="20260914030000 -0400" stop="20260914043000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -132711,18 +132641,6 @@ Repetición</title>
   <programme start="20260915214500 -0400" stop="20260915220000 -0400" channel="BBCWorldNews.us">
     <title lang="en">Asia Specific</title>
     <desc lang="en">Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.(n)</desc>
-  </programme>
-  <programme start="20260914010000 -0400" stop="20260914020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Life, Liberty &amp; Levin</title>
-    <desc lang="en">Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.(n)</desc>
-  </programme>
-  <programme start="20260914020000 -0400" stop="20260914030000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Sunday Night in America With Trey Gowdy</title>
-    <desc lang="en">Insightful analysis and a new outlook on the issues facing the country; Trey Gowdy, the former South Carolina Congressman, breaks down the legal and political news.(n)</desc>
-  </programme>
-  <programme start="20260914030000 -0400" stop="20260914040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX &amp; Friends First</title>
-    <desc lang="en">Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.(n)</desc>
   </programme>
   <programme start="20260914040000 -0400" stop="20260914070000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">FOX and Friends</title>
@@ -159627,15 +159545,11 @@ En Vivo</title>
     </rating>
   </programme>
   <programme start="20260914172700 -0300" stop="20260914181400 -0300" channel="DKiss.es">
-    <title lang="es">Sucedió en Urgencias</title>
+    <title lang="es">Sucedió en Urgencias (?)</title>
     <desc lang="es">Una niña empeora delante de su familia debido a una meningitis. La lucha de un médico para salvar a un paciente suicida se complica debido a una víctima de mordedura de serpiente.(n)</desc>
-    <date>2019</date>
     <category lang="es">Docu-drama</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/d1/661201.png" />
     <episode-num system="onscreen">E11</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20260914181400 -0300" stop="20260914190000 -0300" channel="DKiss.es">
     <title lang="es">Sucedió en Urgencias</title>
@@ -186641,11 +186555,8 @@ En Vivo</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260914150000 -0400" stop="20260914160000 -0400" channel="VENEVISION">
-    <title lang="es">¡Siéntese quien pueda!</title>
-    <desc lang="es">El primer reality show en el que participan periodistas y miembros de la farándula, quienes comentan y arman polémica sobre las noticias más actuales de ese medio y la cultura pop.(n)</desc>
-    <date>2022</date>
+    <title lang="es">¡Siéntese quien pueda! (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20260914160000 -0400" stop="20260914170000 -0400" channel="VENEVISION">
     <title lang="es">La rosa de Guadalupe</title>
@@ -186920,11 +186831,8 @@ En Vivo</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20260915150000 -0400" stop="20260915160000 -0400" channel="VENEVISION">
-    <title lang="es">¡Siéntese quien pueda!</title>
-    <desc lang="es">El primer reality show en el que participan periodistas y miembros de la farándula, quienes comentan y arman polémica sobre las noticias más actuales de ese medio y la cultura pop.(n)</desc>
-    <date>2022</date>
+    <title lang="es">¡Siéntese quien pueda! (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20260915160000 -0400" stop="20260915170000 -0400" channel="VENEVISION">
     <title lang="es">La rosa de Guadalupe</title>
