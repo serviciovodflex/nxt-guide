@@ -12409,20 +12409,7 @@ Repetición</title>
     </rating>
   </programme>
   <programme start="20261027211500 -0400" stop="20261027214500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
+    <title lang="es">Enemigo íntimo (?)</title>
   </programme>
   <programme start="20261027214500 -0400" stop="20261027220000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís media noche</title>
@@ -12476,21 +12463,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20261028083000 -0400" stop="20261028103000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261028103000 -0400" stop="20261028120000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -12531,21 +12505,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261028140000 -0400" stop="20261028150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La caída del rey</title>
-    <desc lang="es">La fachada de Kenan Baran, un hombre carismático y exitoso, comienza a resquebrajarse cuando su esposa Handan descubre una nueva infidelidad. Sofocada por años de traiciones, la mujer se enfrenta a su pasado y a su propio reflejo.(n)</desc>
-    <credits>
-      <actor>Halit Ergenç</actor>
-      <actor>Merve Dizdar</actor>
-      <actor>Aslihan Gürbüz</actor>
-      <actor>Nilperi Sahinkaya</actor>
-      <actor>Murat Garipagaoglu</actor>
-      <actor>Cenan Çamyurdu</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">La caída del rey (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989072697.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261028150000 -0400" stop="20261028160000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">La hija del embajador</title>
@@ -12713,21 +12674,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261029120000 -0400" stop="20261029130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029130000 -0400" stop="20261029140000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Caso cerrado</title>
@@ -12816,17 +12764,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029194500 -0400" stop="20261029211500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261027211500 -0400" stop="20261027214500 -0400" channel="UNITEL">
     <title lang="es">Enemigo íntimo</title>
@@ -13024,34 +12963,12 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261028194500 -0400" stop="20261028211500 -0400" channel="UNITEL">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261028211500 -0400" stop="20261028214500 -0400" channel="UNITEL">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Enemigo íntimo (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261028214500 -0400" stop="20261028220000 -0400" channel="UNITEL">
     <title lang="es">Telepaís media noche</title>
@@ -13236,17 +13153,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029194500 -0400" stop="20261029211500 -0400" channel="UNITEL">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261027220000 -0400" stop="20261027233000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
@@ -13610,21 +13518,8 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261029094000 -0400" stop="20261029102000 -0400" channel="BOLIVISION">
-    <title lang="es">Perdóname</title>
-    <desc lang="es">Osman es uno de los empresarios más ricos de Ankara. Se caracteriza por ser un hombre severo y cruel, obsesionado con una disciplina que hace infeliz a su familia. Por eso, todo se complica cuando uno de sus hijos se enamora de la criada.(n)</desc>
-    <credits>
-      <actor>Seyma Korkmaz</actor>
-      <actor>Murat Danaci</actor>
-      <actor>Gaye Turgut</actor>
-      <actor>Ulviye Karaca</actor>
-      <actor>Nusret Senay</actor>
-      <actor>Gamze Igdiroglu</actor>
-    </credits>
-    <date>2011</date>
+    <title lang="es">Perdóname (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3200342.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029102000 -0400" stop="20261029120000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
@@ -13636,21 +13531,8 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029124500 -0400" channel="BOLIVISION">
-    <title lang="es">El legado</title>
-    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
-    <credits>
-      <actor>Halil Ibrahim Ceyhan</actor>
-      <actor>Sila Turkoglu</actor>
-      <actor>Berat Rüzgar Özkan</actor>
-      <actor>Melih Ozkaya</actor>
-      <actor>Tolga Pancaroglu</actor>
-      <actor>Ömer Gecü</actor>
-    </credits>
-    <date>2020</date>
+    <title lang="es">El legado (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22848639.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029124500 -0400" stop="20261029133000 -0400" channel="BOLIVISION">
     <title lang="es">Los hilos del pasado</title>
@@ -13894,38 +13776,12 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261028120000 -0400" stop="20261028130000 -0400" channel="RED UNO">
-    <title lang="es">Las hijas de la señora García</title>
-    <desc lang="es">La madre decidida, la Sra. García, se esfuerza por darles a sus hijas Valeria y Mar un futuro mejor, protegiéndolas de la pobreza. Luchará para ver sus sueños reflejados en ellas y proporcionarles el más alto nivel de vida.(n)</desc>
-    <credits>
-      <actor>María Sorté</actor>
-      <actor>Oka Giner</actor>
-      <actor>Ela Velden</actor>
-      <actor>Brandon Peniche</actor>
-      <actor>Emmanuel Palomares</actor>
-      <actor>Mónica Dionne</actor>
-    </credits>
-    <date>2024</date>
+    <title lang="es">Las hijas de la señora García (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44728614.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261028130000 -0400" stop="20261028142500 -0400" channel="RED UNO">
-    <title lang="es">Dulce ambición</title>
-    <desc lang="es">La rivalidad entre dos familias de justicieros enfrentadas hace generaciones puede llegar a su fin gracias al amor entre Maria da Paz y Amadeu. Sin embargo, la sed de venganza y la violencia no son mas que obstáculos para alcanzar la paz.(n)</desc>
-    <credits>
-      <actor>Juliana Paes</actor>
-      <actor>Agatha Moreira</actor>
-      <actor>Paolla Oliveira</actor>
-      <actor>Sérgio Guizé</actor>
-      <actor>Nathalia Dill</actor>
-      <actor>Guilherme Leicam</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Dulce ambición (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15272291.jpg" />
-    <country lang="es">Brasil</country>
   </programme>
   <programme start="20261028142500 -0400" stop="20261028143000 -0400" channel="RED UNO">
     <title lang="es">Avance informativo</title>
@@ -14123,21 +13979,8 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029130000 -0400" channel="RED UNO">
-    <title lang="es">Las hijas de la señora García</title>
-    <desc lang="es">La madre decidida, la Sra. García, se esfuerza por darles a sus hijas Valeria y Mar un futuro mejor, protegiéndolas de la pobreza. Luchará para ver sus sueños reflejados en ellas y proporcionarles el más alto nivel de vida.(n)</desc>
-    <credits>
-      <actor>María Sorté</actor>
-      <actor>Oka Giner</actor>
-      <actor>Ela Velden</actor>
-      <actor>Brandon Peniche</actor>
-      <actor>Emmanuel Palomares</actor>
-      <actor>Mónica Dionne</actor>
-    </credits>
-    <date>2024</date>
+    <title lang="es">Las hijas de la señora García (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44728614.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261029130000 -0400" stop="20261029142500 -0400" channel="RED UNO">
     <title lang="es">Dulce ambición</title>
@@ -58703,8 +58546,19 @@ Repetición</title>
   </programme>
   <programme start="20261030094500 -0600" stop="20261030103000 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Hermanos de sangre</sub-title>
+    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
+    <credits>
+      <actor>Sadie Medley</actor>
+      <actor>Kelly Ann Barrett</actor>
+      <actor>Mignon Farmani</actor>
+      <actor>Dana Devlin</actor>
+      <actor>David Garfinkle</actor>
+    </credits>
+    <date>2018</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261030103000 -0600" stop="20261030111500 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
@@ -58873,13 +58727,35 @@ Repetición</title>
   </programme>
   <programme start="20261030180000 -0600" stop="20261030184500 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Hermanos de sangre</sub-title>
+    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
+    <credits>
+      <actor>Sadie Medley</actor>
+      <actor>Kelly Ann Barrett</actor>
+      <actor>Mignon Farmani</actor>
+      <actor>Dana Devlin</actor>
+      <actor>David Garfinkle</actor>
+    </credits>
+    <date>2018</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261030184500 -0600" stop="20261030193000 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Última llamada</sub-title>
+    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
+    <credits>
+      <actor>Sadie Medley</actor>
+      <actor>Kelly Ann Barrett</actor>
+      <actor>Mignon Farmani</actor>
+      <actor>Dana Devlin</actor>
+      <actor>David Garfinkle</actor>
+    </credits>
+    <date>2018</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261030193000 -0600" stop="20261030201500 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Exhumed</title>
@@ -60817,36 +60693,8 @@ Repetición</title>
   </programme>
   <programme start="20261030055500 -0600" stop="20261030064000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Nombre en clave: Ferdinand</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261030064000 -0600" stop="20261030072500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
@@ -76763,11 +76611,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20261028115500 -0300" stop="20261028141500 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20261028141500 -0300" stop="20261028170000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -85399,18 +85242,6 @@ En Vivo</title>
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20261027233000 -0400" stop="20261028013000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">APP Tour Pickleball: Columbus Open</title>
-    <desc lang="en">Pickleball competitions from various cities across the United States.(n)</desc>
-  </programme>
-  <programme start="20261028013000 -0400" stop="20261028020000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">Pro Pulling League: Full Throttle Summer Classic</title>
-    <desc lang="en">From Goshen, IN.(n)</desc>
-  </programme>
-  <programme start="20261028020000 -0400" stop="20261028040000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">Inside College Football</title>
-    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.(n)</desc>
-  </programme>
   <programme start="20261028040000 -0400" stop="20261028080000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Boomer and Gio</title>
     <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.(n)</desc>
@@ -85550,14 +85381,6 @@ En Vivo</title>
   <programme start="20261029210000 -0400" stop="20261030000000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">UFC Ultimate Knockouts</title>
     <desc lang="en">Memorable knock-outs from throughout MMA history.(n)</desc>
-  </programme>
-  <programme start="20261027223000 -0400" stop="20261028030000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261028030000 -0400" stop="20261028033000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">The Association: Post Up</title>
-    <desc lang="en">"The Association Post Up" looks back at the NBA highlights and news of the day.(n)</desc>
   </programme>
   <programme start="20261028033000 -0400" stop="20261028050000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">Full Court</title>
@@ -85814,13 +85637,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261028083000 -0400" stop="20261028090000 -0400" channel="BYM SPORTS">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia.(n)</desc>
-    <date>2013</date>
+    <title lang="es">The Football Review (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7006818.jpg" />
-    <country lang="es">Colombia</country>
   </programme>
   <programme start="20261028090000 -0400" stop="20261028120000 -0400" channel="BYM SPORTS">
     <title lang="es">LVBP</title>
@@ -115856,8 +115674,8 @@ En Vivo</title>
   <programme start="20261028114400 +0000" stop="20261028115100 +0000" channel="Cartoonito.us">
     <title lang="es">Hola, Duggee</title>
     <title lang="en">Hey, Duggee</title>
-    <sub-title lang="es">La Insignia de la burbuja</sub-title>
-    <desc lang="es">Duggee tiene un frasco con una mezcla para hacer burbujas y hace fantásticas burbujas. Es difícil pero finalmente los miembros de Squirrels le toman la mano. El pobre Happy no consigue dominarlo, hasta que se le ocurre una idea que le permitirá hacer la burbuja más grande de la historia.(n)</desc>
+    <sub-title lang="es">La insignia de primeros auxilios</sub-title>
+    <desc lang="es">Las Ardillas están jugando a copiar al rey, cuando Tag se cae y se golpea la rodilla. Luego, Duggee trae sus elementos de primeros auxilios para vendar a Tag. Pero luego, las Ardillas también quieren ayudar y practicar a vendar a Happy.(n)</desc>
     <credits>
       <actor>Alexander Armstrong</actor>
       <actor>Jasmine Bartholomew</actor>
@@ -117478,8 +117296,8 @@ En Vivo</title>
   <programme start="20261028234700 +0000" stop="20261028235500 +0000" channel="Cartoonito.us">
     <title lang="es">Hola, Duggee</title>
     <title lang="en">Hey, Duggee</title>
-    <sub-title lang="es">La Insignia de la burbuja</sub-title>
-    <desc lang="es">Duggee tiene un frasco con una mezcla para hacer burbujas y hace fantásticas burbujas. Es difícil pero finalmente los miembros de Squirrels le toman la mano. El pobre Happy no consigue dominarlo, hasta que se le ocurre una idea que le permitirá hacer la burbuja más grande de la historia.(n)</desc>
+    <sub-title lang="es">La insignia de primeros auxilios</sub-title>
+    <desc lang="es">Las Ardillas están jugando a copiar al rey, cuando Tag se cae y se golpea la rodilla. Luego, Duggee trae sus elementos de primeros auxilios para vendar a Tag. Pero luego, las Ardillas también quieren ayudar y practicar a vendar a Happy.(n)</desc>
     <credits>
       <actor>Alexander Armstrong</actor>
       <actor>Jasmine Bartholomew</actor>
@@ -119037,7 +118855,7 @@ En Vivo</title>
     <title lang="es">Hola, Duggee</title>
     <title lang="en">Hey, Duggee</title>
     <sub-title lang="es">La Insignia de la burbuja</sub-title>
-    <desc lang="es">Duggee tiene un frasco con una mezcla para hacer burbujas y hace fantásticas burbujas. Es difícil pero finalmente los miembros de Squirrels le toman la mano. El pobre Happy no consigue dominarlo, hasta que se le ocurre una idea que le permitirá hacer la burbuja más grande de la historia.(n)</desc>
+    <desc lang="es">Las Ardillas están jugando a copiar al rey, cuando Tag se cae y se golpea la rodilla. Luego, Duggee trae sus elementos de primeros auxilios para vendar a Tag. Pero luego, las Ardillas también quieren ayudar y practicar a vendar a Happy.(n)</desc>
     <credits>
       <actor>Alexander Armstrong</actor>
       <actor>Jasmine Bartholomew</actor>
@@ -120711,7 +120529,7 @@ En Vivo</title>
     <title lang="es">Hola, Duggee</title>
     <title lang="en">Hey, Duggee</title>
     <sub-title lang="es">La Insignia de la burbuja</sub-title>
-    <desc lang="es">Duggee tiene un frasco con una mezcla para hacer burbujas y hace fantásticas burbujas. Es difícil pero finalmente los miembros de Squirrels le toman la mano. El pobre Happy no consigue dominarlo, hasta que se le ocurre una idea que le permitirá hacer la burbuja más grande de la historia.(n)</desc>
+    <desc lang="es">Las Ardillas están jugando a copiar al rey, cuando Tag se cae y se golpea la rodilla. Luego, Duggee trae sus elementos de primeros auxilios para vendar a Tag. Pero luego, las Ardillas también quieren ayudar y practicar a vendar a Happy.(n)</desc>
     <credits>
       <actor>Alexander Armstrong</actor>
       <actor>Jasmine Bartholomew</actor>
@@ -136911,26 +136729,6 @@ Repetición</title>
     <category lang="es">Actualidad</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
-  <programme start="20261028010000 -0400" stop="20261028013000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261028013000 -0400" stop="20261028015500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.(n)</desc>
-  </programme>
-  <programme start="20261028015500 -0400" stop="20261028020000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled; Nick Kwek is at the Imperial War Museum in London to hear how survivor stories are brought to life.(n)</desc>
-  </programme>
-  <programme start="20261028020000 -0400" stop="20261028035500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261028035500 -0400" stop="20261028040000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled; Nick Kwek is at the Imperial War Museum in London to hear how survivor stories are brought to life.(n)</desc>
-  </programme>
   <programme start="20261028040000 -0400" stop="20261028053000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -137254,18 +137052,6 @@ Repetición</title>
   <programme start="20261029214500 -0400" stop="20261029220000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC Sport</title>
     <desc lang="en">Coverage, commentary highlights and more from the world's biggest sporting events.(n)</desc>
-  </programme>
-  <programme start="20261028010000 -0400" stop="20261028020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Gutfeld!</title>
-    <desc lang="en">Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.(n)</desc>
-  </programme>
-  <programme start="20261028020000 -0400" stop="20261028030000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Fox News at Night</title>
-    <desc lang="en">Hard news and analysis of compelling stories from Washington, D.C., and across the country; journalists provide viewers with must-see information and consequential news.(n)</desc>
-  </programme>
-  <programme start="20261028030000 -0400" stop="20261028040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX &amp; Friends First</title>
-    <desc lang="en">Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.(n)</desc>
   </programme>
   <programme start="20261028040000 -0400" stop="20261028070000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">FOX and Friends</title>
@@ -171476,14 +171262,8 @@ En Vivo</title>
   </programme>
   <programme start="20261028130000 -0600" stop="20261028140000 -0600" channel="ImagenTv.mx">
     <title lang="es">Historias de un milagro</title>
-    <desc lang="es">Vidas marcadas por la pérdida, la traición, el amor, la injusticia y las segundas oportunidades. Una verdad o un acto de amor puede cambiar todo. Porque los milagros no siempre caen del cielo a veces llegan justo cuando más los necesitamos.(n)</desc>
-    <credits>
-      <actor>Rocío Sánchez Azuara</actor>
-    </credits>
-    <date>2026</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995272669.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261028140000 -0600" stop="20261028150000 -0600" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -171791,14 +171571,8 @@ En Vivo</title>
   </programme>
   <programme start="20261029130000 -0600" stop="20261029140000 -0600" channel="ImagenTv.mx">
     <title lang="es">Historias de un milagro</title>
-    <desc lang="es">Vidas marcadas por la pérdida, la traición, el amor, la injusticia y las segundas oportunidades. Una verdad o un acto de amor puede cambiar todo. Porque los milagros no siempre caen del cielo a veces llegan justo cuando más los necesitamos.(n)</desc>
-    <credits>
-      <actor>Rocío Sánchez Azuara</actor>
-    </credits>
-    <date>2026</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995272669.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261029140000 -0600" stop="20261029150000 -0600" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -171873,36 +171647,8 @@ En Vivo</title>
   </programme>
   <programme start="20261029203000 -0600" stop="20261029213000 -0600" channel="ImagenTv.mx">
     <title lang="es">Destino roto</title>
-    <desc lang="es">El destino une a Fidan y Toprak cuando ella descubre que él se parece a su difunto esposo, aunque él no la reconoce. A medida que pasan tiempo juntos, ambos comienzan a sentir una conexión especial.(n)</desc>
-    <credits>
-      <actor>Sefer Canbaz</actor>
-      <actor>Hazal Adiyaman</actor>
-      <actor>Osman Aydin</actor>
-      <actor>Asuman Bora</actor>
-      <actor>Nazan Bayazit</actor>
-      <actor>Osman Findik</actor>
-      <actor>Azim Sengül</actor>
-      <actor>Hilal Tüfekçi</actor>
-      <actor>Kagan Arpaci</actor>
-      <actor>Burcu Kirman</actor>
-      <actor>Günce Miraç Dizman</actor>
-      <actor>Nur Araboga Kiymac</actor>
-      <actor>Burcu Bayram Dursun</actor>
-      <actor>Eray Koçak</actor>
-      <actor>Inci Gulen</actor>
-      <actor>Deniz Aydenk</actor>
-      <actor>Zeliha Dogan</actor>
-      <actor>Onur Güvenatam</actor>
-      <actor>Gökçen Eroglu</actor>
-      <actor>Ahmet Köseoglu</actor>
-      <actor>Münevver Yildiz</actor>
-      <actor>Banu Özyürek</actor>
-      <actor>Inan Güngören</actor>
-    </credits>
-    <date>2022</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49469125.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029213000 -0600" stop="20261029223000 -0600" channel="ImagenTv.mx">
     <title lang="es">Me prohíbo amarte</title>
@@ -187389,34 +187135,16 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261028203000 -0400" stop="20261028213000 -0400" channel="CANAL I">
-    <title lang="es">Una noche tan linda con Osmel</title>
-    <desc lang="es">Esta emocionante producción está protagonizada por el máximo experto en la materia, el reconocido Osmel Sousa, el Zar de la Belleza. A lo largo de la serie, el público disfrutará de entrevistas exclusivas con distintas reinas.(n)</desc>
-    <credits>
-      <actor>Osmel Sousa</actor>
-      <actor>Karin Aridi</actor>
-    </credits>
-    <date>2026</date>
+    <title lang="es">Una noche tan linda con Osmel (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996159622.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261028213000 -0400" stop="20261028223000 -0400" channel="CANAL I">
-    <title lang="es">Resumen deportivo</title>
-    <desc lang="es">Un resumen con las últimas noticias y lo más relevante en materia de deportes.(n)</desc>
-    <date>2024</date>
+    <title lang="es">Resumen deportivo (?)</title>
     <category lang="es">Deportivo</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/38082545.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261028223000 -0400" stop="20261029000000 -0400" channel="CANAL I">
-    <title lang="es">El Curubito</title>
-    <desc lang="es">Programa con el análisis más completo de las ligas del mundo, con la voz de expertos y la pasión de la afición.(n)</desc>
-    <date>2000</date>
+    <title lang="es">El Curubito (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/28773877.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20261029000000 -0400" stop="20261029000500 -0400" channel="CANAL I">
     <title lang="es">Himno Nacional</title>
@@ -187706,50 +187434,24 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029193000 -0400" stop="20261029203000 -0400" channel="CANAL I">
-    <title lang="es">Una noche tan linda con Osmel</title>
-    <desc lang="es">Esta emocionante producción está protagonizada por el máximo experto en la materia, el reconocido Osmel Sousa, el Zar de la Belleza. A lo largo de la serie, el público disfrutará de entrevistas exclusivas con distintas reinas.(n)</desc>
-    <credits>
-      <actor>Osmel Sousa</actor>
-      <actor>Karin Aridi</actor>
-    </credits>
-    <date>2026</date>
+    <title lang="es">Una noche tan linda con Osmel (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996159622.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029203000 -0400" stop="20261029210000 -0400" channel="CANAL I">
-    <title lang="es">Grand Slam</title>
-    <date>2000</date>
+    <title lang="es">Grand Slam (?)</title>
     <category lang="es">Deportivo</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11240147.jpg" />
   </programme>
   <programme start="20261029210000 -0400" stop="20261029213000 -0400" channel="CANAL I">
-    <title lang="es">Fórmula I</title>
-    <desc lang="es">Lo mejor de las carrera disputadas en el Campeonato Mundial de Fórmula 1 de la FIA. Los amantes del deporte podrán disfrutar de la principal competición de automovilismo internacional y que reúne a pilotos de diversas nacionalidades.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Fórmula I (?)</title>
     <category lang="es">Automovilismo</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990458448.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029213000 -0400" stop="20261029223000 -0400" channel="CANAL I">
-    <title lang="es">Resumen deportivo</title>
-    <desc lang="es">Un resumen con las últimas noticias y lo más relevante en materia de deportes.(n)</desc>
-    <date>2024</date>
+    <title lang="es">Resumen deportivo (?)</title>
     <category lang="es">Deportivo</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/38082545.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029223000 -0400" stop="20261030000000 -0400" channel="CANAL I">
-    <title lang="es">El Curubito</title>
-    <desc lang="es">Programa con el análisis más completo de las ligas del mundo, con la voz de expertos y la pasión de la afición.(n)</desc>
-    <date>2000</date>
+    <title lang="es">El Curubito (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/28773877.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20261028000000 -0400" stop="20261028000400 -0400" channel="GLOBOVISION">
     <title lang="es">Himno Nacional</title>
@@ -188094,11 +187796,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261028230000 -0400" stop="20261029000000 -0400" channel="GLOBOVISION">
-    <title lang="es">Argumentos</title>
-    <desc lang="es">Un programa para entender los temas más importantes de la coyuntura actual en el país y el mundo. Se promueve el diálogo así como la búsqueda de puntos de encuentro a través de charlas con diversos expertos y personalidades invitadas.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Argumentos (?)</title>
     <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20139186.jpg" />
   </programme>
   <programme start="20261029000000 -0400" stop="20261029000400 -0400" channel="GLOBOVISION">
     <title lang="es">Himno Nacional</title>
@@ -188122,15 +187821,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029010000 -0400" stop="20261029020000 -0400" channel="GLOBOVISION">
-    <title lang="es">Brújula internacional</title>
-    <desc lang="es">Julio César Pineda presenta un panorama del acontecer internacional. Contextualiza los sucesos nacionales con repercusión internacional e informa sobre las actividades diplomáticas que son noticia.(n)</desc>
-    <credits>
-      <actor>Julio César Pineda</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">Brújula internacional (?)</title>
     <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14049092.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029020000 -0400" stop="20261029023000 -0400" channel="GLOBOVISION">
     <title lang="es">Noticias Globovisión</title>
@@ -188157,16 +187849,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029033000 -0400" channel="GLOBOVISION">
-    <title lang="es">AM con Beatriz Lugo</title>
-    <desc lang="es">Espacio enfocado en el entorno familiar y en las inquietudes que se generen. Temas de salud, estilo de vida, crecimiento personal, responsabilidad social y actualidad, serán abordados.(n)</desc>
-    <credits>
-      <actor>Beatriz Lugo</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">AM con Beatriz Lugo (?)</title>
     <category lang="es">Magazine</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19124362.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029033000 -0400" stop="20261029040000 -0400" channel="GLOBOVISION">
     <title lang="es">Reporte estelar</title>
@@ -188181,15 +187865,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029040000 -0400" stop="20261029050000 -0400" channel="GLOBOVISION">
-    <title lang="es">Kicosis</title>
-    <desc lang="es">Con el estilo que lo caracteriza, Kico Bautista hace gala de un periodismo particular con el fin de tocar la fibra emocional de sus invitados y obtener la noticia de manera divertida, real y sobre todo, humana.(n)</desc>
-    <credits>
-      <actor>Kico Bautista</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">Kicosis (?)</title>
     <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14057539.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029050000 -0400" stop="20261029060000 -0400" channel="GLOBOVISION">
     <title lang="es">Noticias Globovisión Estelar</title>
@@ -188485,21 +188162,7 @@ En Vivo</title>
     <country lang="es">Colombia</country>
   </programme>
   <programme start="20261028020000 -0400" stop="20261028030000 -0400" channel="IVC">
-    <title lang="es">Amor y esperanza</title>
-    <desc lang="es">Zeynep trabajó incansablemente y obtuvo el acceso al departamento de derecho de la universidad de su elección. Él sueña con mudarse a Estambul con su madre para ir a la universidad pero desconoce la desgracia que ésta sufre.(n)</desc>
-    <credits>
-      <actor>Furkan Okumus</actor>
-      <actor>Hakan Dinçkol</actor>
-      <actor>Eda Baslamisli</actor>
-      <actor>Zafer Demircan</actor>
-      <actor>Zeynep Melis Girsen</actor>
-      <actor>Duygu Keser</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53374552.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
+    <title lang="es">Amor y esperanzaEpisodio 12 (?)</title>
   </programme>
   <programme start="20261028030000 -0400" stop="20261028040000 -0400" channel="IVC">
     <title lang="es">La venganza de Analía</title>
@@ -188805,39 +188468,12 @@ En Vivo</title>
     <country lang="es">Colombia</country>
   </programme>
   <programme start="20261029020000 -0400" stop="20261029030000 -0400" channel="IVC">
-    <title lang="es">Amor y esperanza</title>
-    <desc lang="es">Zeynep trabajó incansablemente y obtuvo el acceso al departamento de derecho de la universidad de su elección. Él sueña con mudarse a Estambul con su madre para ir a la universidad pero desconoce la desgracia que ésta sufre.(n)</desc>
-    <credits>
-      <actor>Furkan Okumus</actor>
-      <actor>Hakan Dinçkol</actor>
-      <actor>Eda Baslamisli</actor>
-      <actor>Zafer Demircan</actor>
-      <actor>Zeynep Melis Girsen</actor>
-      <actor>Duygu Keser</actor>
-    </credits>
-    <date>2022</date>
+    <title lang="es">Amor y esperanza (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53374552.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
   <programme start="20261029030000 -0400" stop="20261029040000 -0400" channel="IVC">
-    <title lang="es">La venganza de Analía</title>
-    <desc lang="es">Analía decide tomar venganza contra el asesino de su madre, el candidato a la Presidencia de la República, Guillermo León Mejía. Para eso se convertirá en la más importante asesora política y en la mano derecha del candidato.(n)</desc>
-    <credits>
-      <actor>Jacobo Diez</actor>
-      <actor>Carolina Gómez</actor>
-      <actor>Marlon Moreno</actor>
-      <actor>George Slebi</actor>
-      <actor>Camilo Calvo</actor>
-      <actor>Mauricio Figueroa</actor>
-    </credits>
-    <date>2020</date>
+    <title lang="es">La venganza de Analía (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11285365.jpg" />
-    <country lang="es">Colombia</country>
   </programme>
   <programme start="20261029040000 -0400" stop="20261029050000 -0400" channel="IVC">
     <title lang="es">Los Briceño</title>
@@ -188993,22 +188629,8 @@ En Vivo</title>
     <country lang="es">Colombia</country>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029160000 -0400" channel="IVC">
-    <title lang="es">Amor y esperanza</title>
-    <desc lang="es">Zeynep trabajó incansablemente y obtuvo el acceso al departamento de derecho de la universidad de su elección. Él sueña con mudarse a Estambul con su madre para ir a la universidad pero desconoce la desgracia que ésta sufre.(n)</desc>
-    <credits>
-      <actor>Furkan Okumus</actor>
-      <actor>Hakan Dinçkol</actor>
-      <actor>Eda Baslamisli</actor>
-      <actor>Zafer Demircan</actor>
-      <actor>Zeynep Melis Girsen</actor>
-      <actor>Duygu Keser</actor>
-    </credits>
-    <date>2022</date>
+    <title lang="es">Amor y esperanza (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53374552.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
   </programme>
   <programme start="20261029160000 -0400" stop="20261029170000 -0400" channel="IVC">
     <title lang="es">La venganza de Analía</title>
@@ -190493,18 +190115,8 @@ En Vivo</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261029170000 -0400" stop="20261029180000 -0400" channel="TELEVEN">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Una reflexión de la vida misma, historias, consejos y problemas que viven actualmente las mujeres en su entorno social.(n)</desc>
-    <credits>
-      <actor>Mishelle Garfias</actor>
-      <actor>Mildred Motta</actor>
-      <actor>Jesús Estrada</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">Lo que callamos las mujeres (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3689897.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029190000 -0400" channel="TELEVEN">
     <title lang="es">Se ha dicho</title>
@@ -190571,16 +190183,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029230000 -0400" stop="20261030000000 -0400" channel="TELEVEN">
-    <title lang="es">Bono de noche</title>
-    <desc lang="es">Un Live Night Show conducido por la animadora y publicista Annarella Bono.(n)</desc>
-    <credits>
-      <actor>Annarella Bono</actor>
-    </credits>
-    <date>2026</date>
+    <title lang="es">Bono de noche (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995611736.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261028000000 -0400" stop="20261028000400 -0400" channel="TLT">
     <title lang="es">Himno Nacional</title>
@@ -190745,21 +190349,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261028094000 -0400" stop="20261028103000 -0400" channel="TLT">
-    <title lang="es">Rattan</title>
-    <desc lang="es">Un encuentro entre dos desconocidos los conduce a una vida de recuerdos. Un hombre corriente despierta por accidente a la misteriosa Si Teng tras décadas de letargo.(n)</desc>
-    <credits>
-      <actor>Tian Jing</actor>
-      <actor>Vin Zhang</actor>
-      <actor>Daisy Li</actor>
-      <actor>Yichi Zhang</actor>
-      <actor>Junyu Wu</actor>
-      <actor>Zehao Jin</actor>
-    </credits>
-    <date>2021</date>
+    <title lang="es">Rattan (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29248190.jpg" />
-    <country lang="es">China</country>
   </programme>
   <programme start="20261028103000 -0400" stop="20261028104000 -0400" channel="TLT">
     <title lang="es">Japan Video Topics en Tele Tuya</title>
@@ -191723,21 +191314,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/38965945.jpg" />
   </programme>
   <programme start="20261028163000 -0400" stop="20261028173000 -0400" channel="TV FAMILIA">
-    <title lang="es">La pequena casa de la pradera</title>
-    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.(n)</desc>
-    <credits>
-      <actor>Michael Landon</actor>
-      <actor>Melissa Gilbert</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-    </credits>
-    <date>1974</date>
+    <title lang="es">La pequena casa de la pradera (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55024418.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261028173000 -0400" stop="20261028180000 -0400" channel="TV FAMILIA">
     <title lang="es">El santo rosario</title>
@@ -192148,33 +191726,12 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2426307.jpg" />
   </programme>
   <programme start="20261029190000 -0400" stop="20261029200000 -0400" channel="TV FAMILIA">
-    <title lang="es">El toque de un ángel</title>
-    <desc lang="es">Esta serie recrea la vida de un ángel moderno que inspira a la gente que atraviesa períodos difíciles a cambiar sus vidas antes que sea demasiado tarde.(n)</desc>
-    <credits>
-      <actor>Della Reese</actor>
-      <actor>John Dye</actor>
-      <actor>Valerie Bertinelli</actor>
-      <actor>Gavin Sheehan</actor>
-      <actor>Alexis Cruz</actor>
-      <actor>Charles Rocket</actor>
-    </credits>
-    <date>1994</date>
+    <title lang="es">El toque de un ángel (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2666753.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261029200000 -0400" stop="20261029210000 -0400" channel="TV FAMILIA">
-    <title lang="es">Atrápame si puedes</title>
-    <desc lang="es">Este es un programa de concursos donde la rapidez, picardía y capacidad de deducción son un verdadero reto para los concursantes ya que uno solo puede atrapar el bote. Date gusto y ¡atrápame si puedes!(n)</desc>
-    <credits>
-      <actor>Patxi Alonso</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Atrápame si puedes (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995449724.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20261029210000 -0400" stop="20261029213000 -0400" channel="TV FAMILIA">
     <title lang="es">La voz de Jesús</title>
@@ -192372,8 +191929,13 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261028160000 -0400" stop="20261028163000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil (?)</title>
+    <title lang="es">Bloque infantil</title>
+    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
+    <date>2000</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
+    <country lang="es">España</country>
   </programme>
   <programme start="20261028163000 -0400" stop="20261028170000 -0400" channel="TVES">
     <title lang="es">Bloque infantil</title>
@@ -192550,13 +192112,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/35774983.jpg" />
   </programme>
   <programme start="20261029150000 -0400" stop="20261029153000 -0400" channel="TVES">
-    <title lang="es">Bloque infantil</title>
-    <desc lang="es">Segmento en el cual podrás disfrutar de los más recientes dibujos animados, marionetas, canciones, manualidades y muchas enseñanzas para que puedas mantenerte entretenido con lo que te gusta.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Bloque infantil (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2743184.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20261029153000 -0400" stop="20261029160000 -0400" channel="TVES">
     <title lang="es">Bloque infantil</title>
@@ -193411,21 +192968,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261028140000 -0400" stop="20261028150000 -0400" channel="VENEVISION">
-    <title lang="es">Regalo de amor</title>
-    <desc lang="es">Isabella es una mujer dulce y anhela ser madre. Este fuerte deseo se ve truncado por la repentina muerte de su esposo hasta que conoce a Eugenio. Él es un hombre generoso y la vida le da a ambos la oportunidad de ser padres.(n)</desc>
-    <credits>
-      <actor>Claudia Ramírez</actor>
-      <actor>Diana Bracho</actor>
-      <actor>Alejandra Robles Gil</actor>
-      <actor>Chris Pascal</actor>
-      <actor>Valentina Buzzurro</actor>
-      <actor>Alberto Estrella</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Regalo de amor (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53749366.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261028150000 -0400" stop="20261028160000 -0400" channel="VENEVISION">
     <title lang="es">¡Siéntese quien pueda! (?)</title>
@@ -193695,8 +193239,11 @@ En Vivo</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029160000 -0400" channel="VENEVISION">
-    <title lang="es">¡Siéntese quien pueda! (?)</title>
+    <title lang="es">¡Siéntese quien pueda!</title>
+    <desc lang="es">El primer reality show en el que participan periodistas y miembros de la farándula, quienes comentan y arman polémica sobre las noticias más actuales de ese medio y la cultura pop.(n)</desc>
+    <date>2022</date>
     <category lang="es">Reality Show</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20261029160000 -0400" stop="20261029170000 -0400" channel="VENEVISION">
     <title lang="es">La rosa de Guadalupe</title>
@@ -194374,21 +193921,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029160000 -0400" stop="20261029170000 -0400" channel="VENEVISION PLUS">
-    <title lang="es">Rebeca</title>
-    <desc lang="es">Un padre y su hijo enfrentados por el amor de una misma mujer. ¿Quién se quedará con la protagonista?(n)</desc>
-    <credits>
-      <actor>José María Seoane</actor>
-      <actor>Ricardo Álamo</actor>
-      <actor>Víctor Cámara</actor>
-      <actor>Pablo Montero</actor>
-      <actor>Katie Barberi</actor>
-      <actor>Leonardo Daniel</actor>
-    </credits>
-    <date>2003</date>
+    <title lang="es">Rebeca (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2407914.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029170000 -0400" stop="20261029180000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Somos tú y yo</title>
