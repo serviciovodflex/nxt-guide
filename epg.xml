@@ -13086,21 +13086,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20261029083000 -0400" stop="20261029103000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261029103000 -0400" stop="20261029120000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -13111,21 +13098,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261029120000 -0400" stop="20261029130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029130000 -0400" stop="20261029140000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Caso cerrado</title>
@@ -13197,51 +13171,16 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261029190000 -0400" stop="20261029194500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La caída del rey</title>
-    <desc lang="es">La fachada de Kenan Baran, un hombre carismático y exitoso, comienza a resquebrajarse cuando su esposa Handan descubre una nueva infidelidad. Sofocada por años de traiciones, la mujer se enfrenta a su pasado y a su propio reflejo.(n)</desc>
-    <credits>
-      <actor>Halit Ergenç</actor>
-      <actor>Merve Dizdar</actor>
-      <actor>Aslihan Gürbüz</actor>
-      <actor>Nilperi Sahinkaya</actor>
-      <actor>Murat Garipagaoglu</actor>
-      <actor>Cenan Çamyurdu</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">La caída del rey (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989072697.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029194500 -0400" stop="20261029211500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261029211500 -0400" stop="20261029214500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Enemigo íntimo (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261029214500 -0400" stop="20261029220000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís media noche</title>
@@ -13284,35 +13223,12 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261030070000 -0400" stop="20261030083000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La batidora</title>
-    <desc lang="es">El programa más divertido de la televisión boliviana.(n)</desc>
-    <credits>
-      <actor>Daniel Pesce</actor>
-      <actor>Grisel Quiroga</actor>
-      <actor>Ronald Arnez</actor>
-      <actor>Eloisa Gutierrez</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">La batidora (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20261030083000 -0400" stop="20261030103000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261030103000 -0400" stop="20261030120000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -13340,8 +13256,21 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261030140000 -0400" stop="20261030150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La caída del rey (?)</title>
+    <title lang="es">La caída del rey</title>
+    <desc lang="es">La fachada de Kenan Baran, un hombre carismático y exitoso, comienza a resquebrajarse cuando su esposa Handan descubre una nueva infidelidad. Sofocada por años de traiciones, la mujer se enfrenta a su pasado y a su propio reflejo.(n)</desc>
+    <credits>
+      <actor>Halit Ergenç</actor>
+      <actor>Merve Dizdar</actor>
+      <actor>Aslihan Gürbüz</actor>
+      <actor>Nilperi Sahinkaya</actor>
+      <actor>Murat Garipagaoglu</actor>
+      <actor>Cenan Çamyurdu</actor>
+    </credits>
+    <date>2025</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989072697.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030160000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">La hija del embajador</title>
@@ -13400,17 +13329,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030194500 -0400" stop="20261030211500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Lo mejor de Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Lo mejor de Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261028211500 -0400" stop="20261028214500 -0400" channel="UNITEL">
     <title lang="es">Enemigo íntimo</title>
@@ -13480,21 +13400,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20261029083000 -0400" stop="20261029103000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261029103000 -0400" stop="20261029120000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -13522,21 +13429,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261029140000 -0400" stop="20261029150000 -0400" channel="UNITEL">
-    <title lang="es">La caída del rey</title>
-    <desc lang="es">La fachada de Kenan Baran, un hombre carismático y exitoso, comienza a resquebrajarse cuando su esposa Handan descubre una nueva infidelidad. Sofocada por años de traiciones, la mujer se enfrenta a su pasado y a su propio reflejo.(n)</desc>
-    <credits>
-      <actor>Halit Ergenç</actor>
-      <actor>Merve Dizdar</actor>
-      <actor>Aslihan Gürbüz</actor>
-      <actor>Nilperi Sahinkaya</actor>
-      <actor>Murat Garipagaoglu</actor>
-      <actor>Cenan Çamyurdu</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">La caída del rey (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989072697.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029150000 -0400" stop="20261029160000 -0400" channel="UNITEL">
     <title lang="es">La hija del embajador</title>
@@ -13595,17 +13489,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029194500 -0400" stop="20261029211500 -0400" channel="UNITEL">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261029211500 -0400" stop="20261029214500 -0400" channel="UNITEL">
     <title lang="es">Enemigo íntimo</title>
@@ -13679,21 +13564,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20261030083000 -0400" stop="20261030103000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261030103000 -0400" stop="20261030120000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -13734,8 +13606,21 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261030140000 -0400" stop="20261030150000 -0400" channel="UNITEL">
-    <title lang="es">La caída del rey (?)</title>
+    <title lang="es">La caída del rey</title>
+    <desc lang="es">La fachada de Kenan Baran, un hombre carismático y exitoso, comienza a resquebrajarse cuando su esposa Handan descubre una nueva infidelidad. Sofocada por años de traiciones, la mujer se enfrenta a su pasado y a su propio reflejo.(n)</desc>
+    <credits>
+      <actor>Halit Ergenç</actor>
+      <actor>Merve Dizdar</actor>
+      <actor>Aslihan Gürbüz</actor>
+      <actor>Nilperi Sahinkaya</actor>
+      <actor>Murat Garipagaoglu</actor>
+      <actor>Cenan Çamyurdu</actor>
+    </credits>
+    <date>2025</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989072697.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030160000 -0400" channel="UNITEL">
     <title lang="es">La hija del embajador</title>
@@ -13755,8 +13640,18 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030160000 -0400" stop="20261030170000 -0400" channel="UNITEL">
-    <title lang="es">Telepaís - Edición tarde (?)</title>
+    <title lang="es">Telepaís</title>
+    <desc lang="es">Un programa que repasa lo más destacado de la agenda de noticias nacional e internacional. Junto a un equipo de periodistas, expertos y reporteros, el público podrá informarse al completo sobre la realidad en Bolivia.(n)</desc>
+    <credits>
+      <actor>Paola Araúz</actor>
+      <actor>Agustín Belforte</actor>
+      <actor>Alejandra Fernández</actor>
+    </credits>
+    <date>2025</date>
     <category lang="es">Noticiero</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49943572.jpg" />
+    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261030170000 -0400" stop="20261030190000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -13767,34 +13662,12 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261030190000 -0400" stop="20261030194500 -0400" channel="UNITEL">
-    <title lang="es">La caída del rey</title>
-    <desc lang="es">La fachada de Kenan Baran, un hombre carismático y exitoso, comienza a resquebrajarse cuando su esposa Handan descubre una nueva infidelidad. Sofocada por años de traiciones, la mujer se enfrenta a su pasado y a su propio reflejo.(n)</desc>
-    <credits>
-      <actor>Halit Ergenç</actor>
-      <actor>Merve Dizdar</actor>
-      <actor>Aslihan Gürbüz</actor>
-      <actor>Nilperi Sahinkaya</actor>
-      <actor>Murat Garipagaoglu</actor>
-      <actor>Cenan Çamyurdu</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">La caída del rey (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989072697.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030194500 -0400" stop="20261030211500 -0400" channel="UNITEL">
-    <title lang="es">Lo mejor de Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Lo mejor de Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261028220000 -0400" stop="20261028233000 -0400" channel="BOLIVISION">
     <title lang="es">Espacio pagado</title>
@@ -13893,21 +13766,8 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261029094000 -0400" stop="20261029102000 -0400" channel="BOLIVISION">
-    <title lang="es">Perdóname</title>
-    <desc lang="es">Osman es uno de los empresarios más ricos de Ankara. Se caracteriza por ser un hombre severo y cruel, obsesionado con una disciplina que hace infeliz a su familia. Por eso, todo se complica cuando uno de sus hijos se enamora de la criada.(n)</desc>
-    <credits>
-      <actor>Seyma Korkmaz</actor>
-      <actor>Murat Danaci</actor>
-      <actor>Gaye Turgut</actor>
-      <actor>Ulviye Karaca</actor>
-      <actor>Nusret Senay</actor>
-      <actor>Gamze Igdiroglu</actor>
-    </credits>
-    <date>2011</date>
+    <title lang="es">Perdóname (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3200342.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261029102000 -0400" stop="20261029120000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
@@ -14158,21 +14018,8 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261030094000 -0400" stop="20261030102000 -0400" channel="BOLIVISION">
-    <title lang="es">Perdóname</title>
-    <desc lang="es">Osman es uno de los empresarios más ricos de Ankara. Se caracteriza por ser un hombre severo y cruel, obsesionado con una disciplina que hace infeliz a su familia. Por eso, todo se complica cuando uno de sus hijos se enamora de la criada.(n)</desc>
-    <credits>
-      <actor>Seyma Korkmaz</actor>
-      <actor>Murat Danaci</actor>
-      <actor>Gaye Turgut</actor>
-      <actor>Ulviye Karaca</actor>
-      <actor>Nusret Senay</actor>
-      <actor>Gamze Igdiroglu</actor>
-    </credits>
-    <date>2011</date>
+    <title lang="es">Perdóname (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3200342.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030102000 -0400" stop="20261030120000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
@@ -14184,21 +14031,8 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030124500 -0400" channel="BOLIVISION">
-    <title lang="es">El legado</title>
-    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
-    <credits>
-      <actor>Halil Ibrahim Ceyhan</actor>
-      <actor>Sila Turkoglu</actor>
-      <actor>Berat Rüzgar Özkan</actor>
-      <actor>Melih Ozkaya</actor>
-      <actor>Tolga Pancaroglu</actor>
-      <actor>Ömer Gecü</actor>
-    </credits>
-    <date>2020</date>
+    <title lang="es">El legado (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22848639.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030124500 -0400" stop="20261030133000 -0400" channel="BOLIVISION">
     <title lang="es">Los hilos del pasado</title>
@@ -50489,47 +50323,8 @@ Repetición</title>
   </programme>
   <programme start="20261029025000 -0600" stop="20261029034000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Atrapados</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
-    <credits>
-      <actor>Sophia Bush</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Patrick John Flueger</actor>
-      <actor>Marina Squerciati</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Amy Morton</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Robert Wisdom</actor>
-      <actor>Josh Segarra</actor>
-      <actor>Robin Weigert</actor>
-      <actor>Sarah Timms Chittaro</actor>
-      <actor>Rick Cooke</actor>
-      <actor>Jodi-Kay Edwards</actor>
-      <actor>Quinn Grooms</actor>
-      <actor>Benjamin Hoffman</actor>
-      <actor>Brian Jones</actor>
-      <actor>Steve Kim</actor>
-      <actor>Mary Kocur</actor>
-      <actor>Caleb Martin</actor>
-      <actor>Derek Haas</actor>
-      <actor>Archie Kao</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Jon Seda</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Sheri Beth Dusek</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Slovis</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Craig Cannold</actor>
-      <actor>Matt Olmstead</actor>
-      <actor>Jeanne Caliendo</actor>
-      <actor>Terry Blythe</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19200996.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261029034000 -0600" stop="20261029043000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
@@ -52943,35 +52738,8 @@ Repetición</title>
   </programme>
   <programme start="20261031065500 -0600" stop="20261031075000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">¿Cuándo empezamos a cambiar?</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.(n)</desc>
-    <credits>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Rachel DiPillo</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Marlyne Barrett</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Lorena Diaz</actor>
-      <actor>César Jaime</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>Courtney Rioux</actor>
-      <actor>Ato Essandoh</actor>
-      <actor>Jeremy Shouldis</actor>
-      <actor>Derek Haas</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Dick Wolf</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>Fred Berner</actor>
-      <actor>Michael Brandt</actor>
-      <actor>Daniel Sinclair</actor>
-      <actor>Niki Delone</actor>
-      <actor>Carla Corwin</actor>
-    </credits>
-    <date>2015</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17178703.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261031075000 -0600" stop="20261031084000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">Chicago Med</title>
@@ -59224,35 +58992,8 @@ Repetición</title>
   </programme>
   <programme start="20261031223000 -0600" stop="20261031225500 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">Un cadáver en el bolsillo</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Donald M Krause</actor>
-      <actor>Jillian Nolde</actor>
-      <actor>Gus Rhodes</actor>
-      <actor>Rebecca Landry</actor>
-      <actor>Elton LeBlanc</actor>
-      <actor>Gary Wayne Loper</actor>
-      <actor>Aaron Mitchell</actor>
-      <actor>Lisa Mackel Smith</actor>
-      <actor>Charles Adams</actor>
-      <actor>Eileen Daley</actor>
-      <actor>Victoria Hardway</actor>
-      <actor>Caitlyn Driscoll</actor>
-      <actor>Catherine Pelonero</actor>
-      <actor>Russell Giacontiere</actor>
-      <actor>Hunter McGregor</actor>
-      <actor>Kerry Kelly Gridley</actor>
-      <actor>Michael Hill</actor>
-      <actor>Stacy Brewer</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Mary McDonnell</actor>
-    </credits>
-    <date>2016</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Policial</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4297646.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261031225500 -0600" stop="20261031231500 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">It Takes a Killer</title>
@@ -59301,34 +59042,8 @@ Repetición</title>
   </programme>
   <programme start="20261029030000 -0600" stop="20261029034000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
-    <sub-title lang="es">La navaja de Occams</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.(n)</desc>
-    <credits>
-      <actor>Hugh Laurie</actor>
-      <actor>Omar Epps</actor>
-      <actor>Robert Sean Leonard</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>Bobbin Bergstrom</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Olivia Wilde</actor>
-      <actor>Kal Penn</actor>
-      <actor>Odette Annable</actor>
-      <actor>Charlyne Yi</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Liz Benoit</actor>
-      <actor>Anne Dudek</actor>
-      <actor>Jennifer Crystal Foley</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Greg Yaitanes</actor>
-      <actor>David Shore</actor>
-      <actor>Marcy G Kaplan</actor>
-      <actor>Thomas L Moran</actor>
-    </credits>
-    <date>2004</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26681465.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261029034000 -0600" stop="20261029042500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
@@ -59779,36 +59494,8 @@ Repetición</title>
   </programme>
   <programme start="20261029154500 -0600" stop="20261029163000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Efectos colaterales</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261029163000 -0600" stop="20261029171500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
@@ -59911,29 +59598,8 @@ Repetición</title>
   </programme>
   <programme start="20261029193000 -0600" stop="20261029201500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">The Hunting Party</title>
-    <sub-title lang="es">Adrian Gallo</sub-title>
-    <desc lang="es">Un pequeño equipo de investigadores que se reúnen para localizar y capturar a los asesinos más peligrosos jamás vistos. Estos se acaban de escapar de una prisión secreta a la que la rodean muchos rumores, y todos ellos parecen ser ciertos.(n)</desc>
-    <credits>
-      <actor>Melissa Roxburgh</actor>
-      <actor>Nick Wechsler</actor>
-      <actor>Patrick Sabongui</actor>
-      <actor>Sara Garcia</actor>
-      <actor>Josh McKenzie</actor>
-      <actor>Matt Frewer</actor>
-      <actor>Arvin Shah</actor>
-      <actor>Colleen Foy</actor>
-      <actor>Al McFoster</actor>
-      <actor>Siobhan Williams</actor>
-      <actor>Thor Freudenthal</actor>
-      <actor>Jake Coburn</actor>
-      <actor>JJ Bailey</actor>
-      <actor>Vinny Ferris</actor>
-      <actor>Keto Shimizu</actor>
-    </credits>
-    <date>2025</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/47971689.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261029201500 -0600" stop="20261029210000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">La Brea</title>
@@ -60570,133 +60236,23 @@ Repetición</title>
   </programme>
   <programme start="20261030141500 -0600" stop="20261030150000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
-    <sub-title lang="es">Veneno</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.(n)</desc>
-    <credits>
-      <actor>Hugh Laurie</actor>
-      <actor>Omar Epps</actor>
-      <actor>Robert Sean Leonard</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>Bobbin Bergstrom</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Olivia Wilde</actor>
-      <actor>Kal Penn</actor>
-      <actor>Odette Annable</actor>
-      <actor>Charlyne Yi</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Liz Benoit</actor>
-      <actor>Anne Dudek</actor>
-      <actor>Jennifer Crystal Foley</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Greg Yaitanes</actor>
-      <actor>David Shore</actor>
-      <actor>Marcy G Kaplan</actor>
-      <actor>Thomas L Moran</actor>
-    </credits>
-    <date>2004</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26681465.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261030150000 -0600" stop="20261030154500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Revancha</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261030154500 -0600" stop="20261030163000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Gánster de estudio</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261030163000 -0600" stop="20261030171500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Legado</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261030171500 -0600" stop="20261030180000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: Most Wanted</title>
@@ -61332,34 +60888,8 @@ Repetición</title>
   </programme>
   <programme start="20261031133000 -0600" stop="20261031141500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
-    <sub-title lang="es">Fidelidad</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.(n)</desc>
-    <credits>
-      <actor>Hugh Laurie</actor>
-      <actor>Omar Epps</actor>
-      <actor>Robert Sean Leonard</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>Bobbin Bergstrom</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Olivia Wilde</actor>
-      <actor>Kal Penn</actor>
-      <actor>Odette Annable</actor>
-      <actor>Charlyne Yi</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Liz Benoit</actor>
-      <actor>Anne Dudek</actor>
-      <actor>Jennifer Crystal Foley</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Greg Yaitanes</actor>
-      <actor>David Shore</actor>
-      <actor>Marcy G Kaplan</actor>
-      <actor>Thomas L Moran</actor>
-    </credits>
-    <date>2004</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26681465.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261031141500 -0600" stop="20261031150000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
@@ -61460,36 +60990,8 @@ Repetición</title>
   </programme>
   <programme start="20261031163000 -0600" stop="20261031171500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI</title>
-    <sub-title lang="es">Legado</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
-    <credits>
-      <actor>Courtney Gonzalez</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Jeremy Sisto</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Jonathan Avigdori</actor>
-      <actor>Assibey Blake</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Kenya Brome</actor>
-      <actor>Chris Carlock</actor>
-      <actor>Arthur W Forney</actor>
-      <actor>Carlos Bernard</actor>
-      <actor>Norberto Barba</actor>
-      <actor>Monica Raymund</actor>
-      <actor>Craig Turk</actor>
-      <actor>Alex Chapple</actor>
-      <actor>Niels Arden Oplev</actor>
-      <actor>Fred Berner</actor>
-      <actor>Jon Cassar</actor>
-      <actor>Alex Zakrzewski</actor>
-      <actor>Jean de Segonza</actor>
-      <actor>Nick Gomez</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8217569.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261031171500 -0600" stop="20261031180000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">FBI: Most Wanted</title>
@@ -78342,16 +77844,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20261029095500 -0300" stop="20261029123000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20261029123000 -0300" stop="20261029141000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20261029141000 -0300" stop="20261029171000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -87283,22 +86775,6 @@ En Vivo</title>
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20261029010000 -0400" stop="20261029020000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">World Poker Tour: Bay 101 Shooting Star - Part 2</title>
-    <desc lang="en">Professional poker action from a series of international tournaments.(n)</desc>
-  </programme>
-  <programme start="20261029020000 -0400" stop="20261029023000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">Inside College Football</title>
-    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.(n)</desc>
-  </programme>
-  <programme start="20261029023000 -0400" stop="20261029033000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">We Need to Talk</title>
-    <desc lang="en">A unique take on the world of sports through the eyes of some of the most influential women in the business. The roster of commentators on this award-winning program includes prominent sports broadcasters, journalists, executives, and athletes.(n)</desc>
-  </programme>
-  <programme start="20261029033000 -0400" stop="20261029040000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">Inside College Football</title>
-    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.(n)</desc>
-  </programme>
   <programme start="20261029040000 -0400" stop="20261029080000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Boomer and Gio</title>
     <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.(n)</desc>
@@ -87418,30 +86894,6 @@ En Vivo</title>
   <programme start="20261030213000 -0400" stop="20261030220000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Serie A Full Impact</title>
     <desc lang="en">Italian League soccer weekly review.(n)</desc>
-  </programme>
-  <programme start="20261028223000 -0400" stop="20261029030000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261029030000 -0400" stop="20261029033000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">The Association: Post Up</title>
-    <desc lang="en">"The Association Post Up" looks back at the NBA highlights and news of the day.(n)</desc>
-  </programme>
-  <programme start="20261029033000 -0400" stop="20261029050000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261029050000 -0400" stop="20261029053000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">The Association: Post Up</title>
-    <desc lang="en">"The Association Post Up" looks back at the NBA highlights and news of the day.(n)</desc>
-  </programme>
-  <programme start="20261029053000 -0400" stop="20261029063000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261029063000 -0400" stop="20261029070000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">The Association: Post Up</title>
-    <desc lang="en">"The Association Post Up" looks back at the NBA highlights and news of the day.(n)</desc>
   </programme>
   <programme start="20261029070000 -0400" stop="20261029080000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">Full Court</title>
@@ -88123,13 +87575,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261030233000 -0400" stop="20261031000000 -0400" channel="BYM SPORTS">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia.(n)</desc>
-    <date>2013</date>
+    <title lang="es">The Football Review (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7006818.jpg" />
-    <country lang="es">Colombia</country>
   </programme>
   <programme start="20261029013000 -0600" stop="20261029020000 -0600" channel="AgrotendenciaTV.mx">
     <title lang="es">Notas Destacadas</title>
@@ -139092,42 +138539,6 @@ Repetición</title>
     <category lang="es">Política</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
-  <programme start="20261029010000 -0400" stop="20261029013000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261029013000 -0400" stop="20261029015500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.(n)</desc>
-  </programme>
-  <programme start="20261029015500 -0400" stop="20261029020000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Talking Movies</title>
-    <desc lang="en">Tom Brook presents the latest updates from the film industry, reviews recently released movies and interviews prominent actors.(n)</desc>
-  </programme>
-  <programme start="20261029020000 -0400" stop="20261029035500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261029035500 -0400" stop="20261029040000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Talking Movies</title>
-    <desc lang="en">Tom Brook presents the latest updates from the film industry, reviews recently released movies and interviews prominent actors.(n)</desc>
-  </programme>
-  <programme start="20261029040000 -0400" stop="20261029053000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261029053000 -0400" stop="20261029054500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.(n)</desc>
-  </programme>
-  <programme start="20261029054500 -0400" stop="20261029055500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261029055500 -0400" stop="20261029060000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Talking Movies</title>
-    <desc lang="en">Tom Brook presents the latest updates from the film industry, reviews recently released movies and interviews prominent actors.(n)</desc>
-  </programme>
   <programme start="20261029060000 -0400" stop="20261029073000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.(n)</desc>
@@ -139423,22 +138834,6 @@ Repetición</title>
   <programme start="20261030213000 -0400" stop="20261030220000 -0400" channel="BBCWorldNews.us">
     <title lang="en">The Media Show</title>
     <desc lang="en">Journalists shed light on global affairs and analyze the ways media organizations present controversial topics and social issues.(n)</desc>
-  </programme>
-  <programme start="20261029010000 -0400" stop="20261029020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Gutfeld!</title>
-    <desc lang="en">Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.(n)</desc>
-  </programme>
-  <programme start="20261029020000 -0400" stop="20261029030000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Fox News at Night</title>
-    <desc lang="en">Hard news and analysis of compelling stories from Washington, D.C., and across the country; journalists provide viewers with must-see information and consequential news.(n)</desc>
-  </programme>
-  <programme start="20261029030000 -0400" stop="20261029040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX &amp; Friends First</title>
-    <desc lang="en">Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.(n)</desc>
-  </programme>
-  <programme start="20261029040000 -0400" stop="20261029070000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX and Friends</title>
-    <desc lang="en">Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.(n)</desc>
   </programme>
   <programme start="20261029070000 -0400" stop="20261029090000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">America's Newsroom</title>
@@ -173503,11 +172898,8 @@ En Vivo</title>
   </programme>
   <programme start="20261030003000 -0600" stop="20261030010000 -0600" channel="ImagenTv.mx">
     <title lang="es">CV directo</title>
-    <desc lang="es">Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal.(n)</desc>
-    <date>2000</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Publicidad</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1992791777.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261030010000 -0600" stop="20261030013000 -0600" channel="ImagenTv.mx">
     <title lang="es">CV directo</title>
@@ -189439,16 +188831,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261030090000 -0400" stop="20261030100000 -0400" channel="CANAL I">
-    <title lang="es">Zona I</title>
-    <desc lang="es">Un segmento que lleva las mejores informaciones de la farándula. Además, podrás disfrutar de entrevistas a personalidades, enmarcados en distintas secciones que te mantendrán al día de la información de interés general.(n)</desc>
-    <credits>
-      <actor>Katherine Aguirre</actor>
-    </credits>
-    <date>2016</date>
+    <title lang="es">Zona I (?)</title>
     <category lang="es">Magazine</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9092101.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261030100000 -0400" stop="20261030120000 -0400" channel="CANAL I">
     <title lang="es">Y qué hay de nuevo</title>
@@ -190208,16 +189592,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261030160000 -0400" stop="20261030163000 -0400" channel="GLOBOVISION">
-    <title lang="es">Noticias Globovisión</title>
-    <desc lang="es">Espacio dedicado en su totalidad a la cobertura actualizada del mundo de la salud y los avances que en esta área marcan tendencia en Venezuela y el Mundo. Un espacio de media hora diaria donde la vida saludable es el centro de atención.(n)</desc>
-    <credits>
-      <actor>Daniela Salas</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">Noticias Globovisión - Salud (?)</title>
     <category lang="es">Salud</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14064190.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261030163000 -0400" stop="20261030170000 -0400" channel="GLOBOVISION">
     <title lang="es">Noticias Globovisión</title>
@@ -192613,21 +191989,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995268612.jpg" />
   </programme>
   <programme start="20261029094000 -0400" stop="20261029103000 -0400" channel="TLT">
-    <title lang="es">Rattan</title>
-    <desc lang="es">Un encuentro entre dos desconocidos los conduce a una vida de recuerdos. Un hombre corriente despierta por accidente a la misteriosa Si Teng tras décadas de letargo.(n)</desc>
-    <credits>
-      <actor>Tian Jing</actor>
-      <actor>Vin Zhang</actor>
-      <actor>Daisy Li</actor>
-      <actor>Yichi Zhang</actor>
-      <actor>Junyu Wu</actor>
-      <actor>Zehao Jin</actor>
-    </credits>
-    <date>2021</date>
+    <title lang="es">Rattan (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29248190.jpg" />
-    <country lang="es">China</country>
   </programme>
   <programme start="20261029103000 -0400" stop="20261029104000 -0400" channel="TLT">
     <title lang="es">Japan Video Topics en Tele Tuya</title>
@@ -192818,41 +192181,12 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995040510.jpg" />
   </programme>
   <programme start="20261029190000 -0400" stop="20261029200000 -0400" channel="TLT">
-    <title lang="es">Ciudad perdida</title>
-    <desc lang="es">Una típica familia del Mar Negro, conectada entre sí, se encontrará con personas que intentan aferrarse a la soledad de la vida en este barrio donde se verán obligados a sobrevivir tras su migración a Estambul.(n)</desc>
-    <credits>
-      <actor>Nik Xhelilaj</actor>
-      <actor>Ilker Kaleli</actor>
-      <actor>Nazan Kesal</actor>
-      <actor>Ugur Polat</actor>
-      <actor>Cansu Tosun</actor>
-      <actor>Elifcan Ongurlar</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">Ciudad perdida (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22674155.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
   <programme start="20261029200000 -0400" stop="20261029210000 -0400" channel="TLT">
-    <title lang="es">Isla paraíso</title>
-    <sub-title lang="es">Llamada desconocida</sub-title>
-    <desc lang="es">De un día para otro, Carolina se ve envuelta en una estafa producto de los irresponsables manejos de su marido. Perseguida por la justicia, sale a pedirle ayuda a su hermana, quien está yéndose a una misión religiosa en Isla Paraíso.(n)</desc>
-    <credits>
-      <actor>Paola Volpato</actor>
-      <actor>Francisco Melo</actor>
-      <actor>Andrés Velasco</actor>
-      <actor>Montserrat Ballarin</actor>
-      <actor>Nicolás Oyarzún</actor>
-      <actor>Fernando Godoy</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Isla paraíso (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9521072.jpg" />
-    <country lang="es">Chile</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261029210000 -0400" stop="20261029220000 -0400" channel="TLT">
     <title lang="es">Pacificador</title>
@@ -193188,22 +192522,12 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261030155000 -0400" stop="20261030160000 -0400" channel="TLT">
-    <title lang="es">Tiempo con</title>
-    <desc lang="es">Un programa que profundiza en las trayectorias de las personalidades más influyentes del cine, el entretenimiento y la música. La propuesta combina valor informativo, anécdotas inéditas y los hitos clave que han definido sus carreras.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Tiempo con (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995268612.jpg" />
   </programme>
   <programme start="20261030160000 -0400" stop="20261030175000 -0400" channel="TLT">
-    <title lang="es">Peque Show</title>
-    <desc lang="es">El Tío conejo tuvo una idea, hacer un programa de televisión y sus amigos del bosque lo ayudarán a cumplir ese sueño, pero ¿Están preparados para hacerlo posible?(n)</desc>
-    <date>2022</date>
+    <title lang="es">Peque Show (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Infantiles</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22854879.jpg" />
-    <country lang="es">Venezuela</country>
-    <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
   <programme start="20261030175000 -0400" stop="20261030180000 -0400" channel="TLT">
     <title lang="es">ID La Tele Tuya</title>
@@ -194187,18 +193511,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261029063000 -0400" stop="20261029070000 -0400" channel="TVES">
-    <title lang="es">Salud al natural</title>
-    <desc lang="es">El doctor Gracián Rondón, médico naturista, mostrará cómo mantener un buen estado de salud a través de datos interesantes relacionados con cocina medicinal, historia de los alimentos y hierbas revitalizantes.(n)</desc>
-    <credits>
-      <actor>Mariana Rondón</actor>
-      <actor>Gracián Rondón</actor>
-      <actor>Christian Márquez</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">Salud al natural (?)</title>
     <category lang="es">Salud</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13403150.jpg" />
-    <country lang="es">República del Congo</country>
   </programme>
   <programme start="20261029070000 -0400" stop="20261029080000 -0400" channel="TVES">
     <title lang="es">Dibujos animados</title>
@@ -195575,8 +194889,20 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261030060000 -0400" stop="20261030080000 -0400" channel="VENEVISION">
-    <title lang="es">Noticiero Venevisión - Emisión matutina (?)</title>
+    <title lang="es">Noticiero Venevisión</title>
+    <desc lang="es">Espacio donde se tiene una prioridad: América Latina, con los sucesos y análisis de las informaciones más importantes ocurridas a lo largo del día en un resumen que aborda el acontecer desde un enfoque periodístico.(n)</desc>
+    <credits>
+      <actor>Lirio Pérez Petit</actor>
+      <actor>Gregorio Rojas</actor>
+      <actor>Sol Vargas</actor>
+      <actor>Marco Antoma</actor>
+      <actor>Belkis Sanchez</actor>
+    </credits>
+    <date>1953</date>
     <category lang="es">Noticiero</category>
+    <category lang="es">Noticias</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20889593.jpg" />
+    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261030080000 -0400" stop="20261030090000 -0400" channel="VENEVISION">
     <title lang="es">Los astros</title>
