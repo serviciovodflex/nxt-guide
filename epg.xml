@@ -13344,20 +13344,7 @@ Repetición</title>
     </rating>
   </programme>
   <programme start="20261029211500 -0400" stop="20261029214500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
+    <title lang="es">Enemigo íntimo (?)</title>
   </programme>
   <programme start="20261029214500 -0400" stop="20261029220000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís media noche</title>
@@ -13411,21 +13398,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20261030083000 -0400" stop="20261030103000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261030103000 -0400" stop="20261030120000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -13436,21 +13410,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261030120000 -0400" stop="20261030130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030130000 -0400" stop="20261030140000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Caso cerrado</title>
@@ -13466,21 +13427,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261030140000 -0400" stop="20261030150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La caída del rey</title>
-    <desc lang="es">La fachada de Kenan Baran, un hombre carismático y exitoso, comienza a resquebrajarse cuando su esposa Handan descubre una nueva infidelidad. Sofocada por años de traiciones, la mujer se enfrenta a su pasado y a su propio reflejo.(n)</desc>
-    <credits>
-      <actor>Halit Ergenç</actor>
-      <actor>Merve Dizdar</actor>
-      <actor>Aslihan Gürbüz</actor>
-      <actor>Nilperi Sahinkaya</actor>
-      <actor>Murat Garipagaoglu</actor>
-      <actor>Cenan Çamyurdu</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">La caída del rey (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989072697.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030150000 -0400" stop="20261030160000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">La hija del embajador</title>
@@ -13539,34 +13487,12 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030194500 -0400" stop="20261030211500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Lo mejor de Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Lo mejor de Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261030211500 -0400" stop="20261030214500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Enemigo íntimo (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261030214500 -0400" stop="20261030220000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís media noche</title>
@@ -13638,18 +13564,8 @@ Repetición</title>
     <category lang="es">Infantil</category>
   </programme>
   <programme start="20261031090000 -0400" stop="20261031103000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Tom y Jerry</title>
-    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
-    <credits>
-      <actor>Lillian Randolph</actor>
-      <actor>William Hanna</actor>
-      <actor>Joseph Barbera</actor>
-    </credits>
-    <date>1940</date>
+    <title lang="es">Tom y Jerry (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261031103000 -0400" stop="20261031120000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -13660,21 +13576,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261031120000 -0400" stop="20261031140000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Lo mejor</title>
-    <desc lang="es">Revive lo mejor de la serie. Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Lo mejor - Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261031140000 -0400" stop="20261031160000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Lo mejor de La hija del embajador</title>
@@ -13732,20 +13635,7 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261029211500 -0400" stop="20261029214500 -0400" channel="UNITEL">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
+    <title lang="es">Enemigo íntimo (?)</title>
   </programme>
   <programme start="20261029214500 -0400" stop="20261029220000 -0400" channel="UNITEL">
     <title lang="es">Telepaís media noche</title>
@@ -13799,21 +13689,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10153243.jpg" />
   </programme>
   <programme start="20261030083000 -0400" stop="20261030103000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261030103000 -0400" stop="20261030120000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -13824,21 +13701,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261030120000 -0400" stop="20261030130000 -0400" channel="UNITEL">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030130000 -0400" stop="20261030140000 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
@@ -13927,34 +13791,12 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030194500 -0400" stop="20261030211500 -0400" channel="UNITEL">
-    <title lang="es">Lo mejor de Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Lo mejor de Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261030211500 -0400" stop="20261030214500 -0400" channel="UNITEL">
-    <title lang="es">Enemigo íntimo</title>
-    <desc lang="es">Esta es la historia de Roxana, una joven relacionada con el mundo del crimen organizado que es encarcelada por el capitán de la Policía Federal, quien encarga al agente Daniel infiltrarse en el penal para obtener información sobre ella.(n)</desc>
-    <credits>
-      <actor>Fernanda Castillo</actor>
-      <actor>Raúl Méndez Jr</actor>
-      <actor>Dale Carley</actor>
-      <actor>Alpha Acosta</actor>
-      <actor>Francisco Calvillo</actor>
-      <actor>Matías Novoa</actor>
-    </credits>
-    <date>2018</date>
+    <title lang="es">Enemigo íntimo (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12501905.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261030214500 -0400" stop="20261030220000 -0400" channel="UNITEL">
     <title lang="es">Telepaís media noche</title>
@@ -14057,21 +13899,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261031120000 -0400" stop="20261031140000 -0400" channel="UNITEL">
-    <title lang="es">Lo mejor</title>
-    <desc lang="es">Revive lo mejor de la serie. Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Lo mejor - Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261031140000 -0400" stop="20261031160000 -0400" channel="UNITEL">
     <title lang="es">Lo mejor de La hija del embajador</title>
@@ -14225,8 +14054,21 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261030094000 -0400" stop="20261030102000 -0400" channel="BOLIVISION">
-    <title lang="es">Perdóname (?)</title>
+    <title lang="es">Perdóname</title>
+    <desc lang="es">Osman es uno de los empresarios más ricos de Ankara. Se caracteriza por ser un hombre severo y cruel, obsesionado con una disciplina que hace infeliz a su familia. Por eso, todo se complica cuando uno de sus hijos se enamora de la criada.(n)</desc>
+    <credits>
+      <actor>Seyma Korkmaz</actor>
+      <actor>Murat Danaci</actor>
+      <actor>Gaye Turgut</actor>
+      <actor>Ulviye Karaca</actor>
+      <actor>Nusret Senay</actor>
+      <actor>Gamze Igdiroglu</actor>
+    </credits>
+    <date>2011</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3200342.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030102000 -0400" stop="20261030120000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
@@ -14238,8 +14080,21 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030124500 -0400" channel="BOLIVISION">
-    <title lang="es">El legado (?)</title>
+    <title lang="es">El legado</title>
+    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
+    <credits>
+      <actor>Halil Ibrahim Ceyhan</actor>
+      <actor>Sila Turkoglu</actor>
+      <actor>Berat Rüzgar Özkan</actor>
+      <actor>Melih Ozkaya</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+    </credits>
+    <date>2020</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22848639.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030124500 -0400" stop="20261030133000 -0400" channel="BOLIVISION">
     <title lang="es">Los hilos del pasado</title>
@@ -14259,8 +14114,21 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261030133000 -0400" stop="20261030142000 -0400" channel="BOLIVISION">
-    <title lang="es">Elif (?)</title>
+    <title lang="es">Elif</title>
+    <desc lang="es">Cuenta la historia de Elif, una mujer necesitada de dinero que aceptará ser el vientre de alquiler de Kahraman y Defne una pareja de la alta alcurnia.(n)</desc>
+    <credits>
+      <actor>Selin Sezgin</actor>
+      <actor>Isabella Damla Güvenilir</actor>
+      <actor>Altug Seçkiner</actor>
+      <actor>Hasan Balliktas</actor>
+      <actor>Zeynep Ögren</actor>
+      <actor>Emre Kivilcim</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12146753.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261030142000 -0400" stop="20261030151000 -0400" channel="BOLIVISION">
     <title lang="es">Pasión de gavilanes</title>
@@ -14443,8 +14311,21 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261031061500 -0400" stop="20261031064500 -0400" channel="BOLIVISION">
-    <title lang="es">Beyblade Burst (?)</title>
+    <title lang="es">Beyblade Burst</title>
+    <desc lang="es">Valt Aoi y sus compañeros de clases luchan, a su manera, en diferentes torneos con sus ojos puestos en el título de Blader número uno.(n)</desc>
+    <credits>
+      <actor>Matt Hill</actor>
+      <actor>Antony Kim</actor>
+      <actor>Adrian Petriw</actor>
+      <actor>Sabrina Pitre</actor>
+      <actor>Luis Leonardo Suarez</actor>
+      <actor>Laura Stahl</actor>
+    </credits>
+    <date>2016</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3818028.jpg" />
+    <country lang="es">Japón</country>
   </programme>
   <programme start="20261031064500 -0400" stop="20261031071500 -0400" channel="BOLIVISION">
     <title lang="es">Guinness World Amazing Videos</title>
@@ -14710,38 +14591,12 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261030120000 -0400" stop="20261030130000 -0400" channel="RED UNO">
-    <title lang="es">Las hijas de la señora García</title>
-    <desc lang="es">La madre decidida, la Sra. García, se esfuerza por darles a sus hijas Valeria y Mar un futuro mejor, protegiéndolas de la pobreza. Luchará para ver sus sueños reflejados en ellas y proporcionarles el más alto nivel de vida.(n)</desc>
-    <credits>
-      <actor>María Sorté</actor>
-      <actor>Oka Giner</actor>
-      <actor>Ela Velden</actor>
-      <actor>Brandon Peniche</actor>
-      <actor>Emmanuel Palomares</actor>
-      <actor>Mónica Dionne</actor>
-    </credits>
-    <date>2024</date>
+    <title lang="es">Las hijas de la señora García (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44728614.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261030130000 -0400" stop="20261030142500 -0400" channel="RED UNO">
-    <title lang="es">Dulce ambición</title>
-    <desc lang="es">La rivalidad entre dos familias de justicieros enfrentadas hace generaciones puede llegar a su fin gracias al amor entre Maria da Paz y Amadeu. Sin embargo, la sed de venganza y la violencia no son mas que obstáculos para alcanzar la paz.(n)</desc>
-    <credits>
-      <actor>Juliana Paes</actor>
-      <actor>Agatha Moreira</actor>
-      <actor>Paolla Oliveira</actor>
-      <actor>Sérgio Guizé</actor>
-      <actor>Nathalia Dill</actor>
-      <actor>Guilherme Leicam</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Dulce ambición (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15272291.jpg" />
-    <country lang="es">Brasil</country>
   </programme>
   <programme start="20261030142500 -0400" stop="20261030143000 -0400" channel="RED UNO">
     <title lang="es">Avance informativo</title>
@@ -14873,55 +14728,16 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/15715131.jpg" />
   </programme>
   <programme start="20261031040000 -0400" stop="20261031045500 -0400" channel="RED UNO">
-    <title lang="es">El Chapulín Colorado</title>
-    <desc lang="es">Sigue las aventuras de este héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón.(n)</desc>
-    <credits>
-      <actor>Roberto Gómez Bolaños</actor>
-      <actor>Florinda Meza</actor>
-      <actor>María Antonieta de las Nieves</actor>
-      <actor>Ramón Valdés</actor>
-      <actor>Carlos Villagrán</actor>
-      <actor>Rubén Aguirre</actor>
-    </credits>
-    <date>1973</date>
+    <title lang="es">El Chapulín Colorado (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822850.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261031045500 -0400" stop="20261031055000 -0400" channel="RED UNO">
-    <title lang="es">El Chavo del 8</title>
-    <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.(n)</desc>
-    <credits>
-      <actor>Roberto Gómez Bolaños</actor>
-      <actor>Ramón Valdez</actor>
-      <actor>Carlos Villagrán</actor>
-      <actor>Florinda Meza</actor>
-      <actor>María Antonieta de las Nieves</actor>
-      <actor>Edgar Vivar</actor>
-    </credits>
-    <date>1973</date>
+    <title lang="es">El Chavo del 8 (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822699.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261031055000 -0400" stop="20261031072000 -0400" channel="RED UNO">
-    <title lang="es">Avatar the Last Airbender</title>
-    <desc lang="es">El maestro aire Aang resultó ser el Avatar, persona que tiene la capacidad de poder manejar los cuatro elementos básicos del mundo, Tierra, Aire, Agua y Fuego, y además está destinado a ser quien mantenga el equilibro entre las naciones.(n)</desc>
-    <credits>
-      <actor>Zach Tyler</actor>
-      <actor>Dante Basco</actor>
-      <actor>Jessie Flower</actor>
-      <actor>Jack De Sena</actor>
-      <actor>Dee Bradley Baker</actor>
-      <actor>Mako</actor>
-    </credits>
-    <date>2005</date>
+    <title lang="es">Avatar the Last Airbender (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14008400.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261031072000 -0400" stop="20261031090000 -0400" channel="RED UNO">
     <title lang="es">Mazinger Z</title>
@@ -14984,21 +14800,8 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031140000 -0400" channel="RED UNO">
-    <title lang="es">Lo mejor de Las hijas de la señora García</title>
-    <desc lang="es">La madre decidida, la Sra. García, se esfuerza por darles a sus hijas Valeria y Mar un futuro mejor, protegiéndolas de la pobreza. Luchará para ver sus sueños reflejados en ellas y proporcionarles el más alto nivel de vida.(n)</desc>
-    <credits>
-      <actor>María Sorté</actor>
-      <actor>Oka Giner</actor>
-      <actor>Ela Velden</actor>
-      <actor>Brandon Peniche</actor>
-      <actor>Emmanuel Palomares</actor>
-      <actor>Mónica Dionne</actor>
-    </credits>
-    <date>2024</date>
+    <title lang="es">Lo mejor de Las hijas de la señora García (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44728614.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261031140000 -0400" stop="20261031160000 -0400" channel="RED UNO">
     <title lang="es">Lo mejor de Dulce ambición</title>
@@ -15581,13 +15384,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031070000 -0400" stop="20261031082000 -0400" channel="TVU">
-    <title lang="es">Cuidando tu sonrisa</title>
-    <desc lang="es">Segmento especial dedicado a todos los temas de interés para la población en general, donde podrás encontrar espacios de consulta al odontólogo, además de invitados especiales, sondeo en las calles y mucho más.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Cuidando tu sonrisa (?)</title>
     <category lang="es">Magazine</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10144131.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261031082000 -0400" stop="20261031082500 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -15626,185 +15424,96 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031090000 -0400" stop="20261031095500 -0400" channel="TVU">
-    <title lang="es">Guia médica</title>
-    <desc lang="es">Reporte sobre temas relevantes en medicina, con información actual y precisa en la que se brindan consejos de cuidado y prevención bajo la asesoría de especialistas en la materia, quienes indicarán como llevar una vida saludable.(n)</desc>
-    <date>2014</date>
+    <title lang="es">Guia médica (?)</title>
     <category lang="es">Salud</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436932.jpg" />
-    <country lang="es">Ecuador</country>
   </programme>
   <programme start="20261031095500 -0400" stop="20261031100000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031100000 -0400" stop="20261031105500 -0400" channel="TVU">
-    <title lang="es">Qantati</title>
-    <date>2000</date>
+    <title lang="es">Qantati (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21438650.jpg" />
   </programme>
   <programme start="20261031105500 -0400" stop="20261031110000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031110000 -0400" stop="20261031115500 -0400" channel="TVU">
-    <title lang="es">Hechos meridiano</title>
-    <desc lang="es">Traemos la información en donde podrás seguir en vivo el noticiero Hechos Meridiano.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Hechos meridiano (?)</title>
     <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18182457.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261031115500 -0400" stop="20261031120000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031120000 -0400" stop="20261031125500 -0400" channel="TVU">
-    <title lang="es">Biofartv</title>
-    <desc lang="es">Un programa lleno de información, investigación y debate en cuanto servicios clínicos, información de los medicamentos y mucho más, como actor principal está la facultad de ciencias farmacéuticas y Bioquímicas de la UMSA.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Biofartv (?)</title>
     <category lang="es">Salud</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12540561.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261031125500 -0400" stop="20261031130000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031130000 -0400" stop="20261031135500 -0400" channel="TVU">
-    <title lang="es">La revuelta</title>
-    <desc lang="es">Programa de análisis político realizado por docentes y estudiantes de la Carrera de Ciencias de la Comunicación Social de la Universidad Mayor de San Andrés de la ciudad de La Paz.(n)</desc>
-    <date>2000</date>
+    <title lang="es">La revuelta (?)</title>
     <category lang="es">Educativo</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12586100.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261031135500 -0400" stop="20261031140000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031140000 -0400" stop="20261031145500 -0400" channel="TVU">
-    <title lang="es">Esencia cultural</title>
-    <desc lang="es">Segmento educativo e informativo que trata temas culturales, relacionados con las costumbres y tradiciones de Bolivia: folklore, arte, ciencia y tecnología.(n)</desc>
-    <date>2018</date>
+    <title lang="es">Esencia cultural (?)</title>
     <category lang="es">Cultural</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26503817.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261031145500 -0400" stop="20261031150000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031150000 -0400" stop="20261031155500 -0400" channel="TVU">
-    <title lang="es">Rompecabezas</title>
-    <desc lang="es">Espacio que permite a estudiantes de comunicación social desarrollarse como futuros profesionales de la información, tratando con entretenimiento y dinamismo los hechos y sucesos actuales que son de interés.(n)</desc>
-    <credits>
-      <actor>Paola Rueda</actor>
-      <actor>Fanny Valdez</actor>
-      <actor>David Siles</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">Rompecabezas (?)</title>
     <category lang="es">Cultural</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10267259.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261031155500 -0400" stop="20261031160000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031160000 -0400" stop="20261031165500 -0400" channel="TVU">
-    <title lang="es">Conectados</title>
-    <date>2000</date>
+    <title lang="es">Conectados (?)</title>
     <category lang="es">Religioso</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8078318.jpg" />
   </programme>
   <programme start="20261031165500 -0400" stop="20261031170000 -0400" channel="TVU">
-    <title lang="es">Tv empresas</title>
-    <date>2000</date>
+    <title lang="es">Tv empresas (?)</title>
     <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
   <programme start="20261031170000 -0400" stop="20261031172500 -0400" channel="TVU">
-    <title lang="es">Crónicas universitarias</title>
-    <date>2000</date>
+    <title lang="es">Crónicas universitarias (?)</title>
     <category lang="es">Educativo</category>
-    <category lang="es">Culturales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21555082.jpg" />
   </programme>
   <programme start="20261031172500 -0400" stop="20261031173000 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031173000 -0400" stop="20261031182500 -0400" channel="TVU">
-    <title lang="es">Ingnovatec</title>
-    <desc lang="es">Espacio que promueve el espíritu emprendedor e innovador en los jóvenes, que serán el motor productivo del país.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Ingnovatec (?)</title>
     <category lang="es">Tecnología</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21502718.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261031182500 -0400" stop="20261031182700 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031182700 -0400" stop="20261031191100 -0400" channel="TVU">
-    <title lang="es">Historia de los imperios</title>
-    <date>2000</date>
+    <title lang="es">Historia de los imperios (?)</title>
     <category lang="es">Documental</category>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26431812.jpg" />
   </programme>
   <programme start="20261031191100 -0400" stop="20261031191300 -0400" channel="TVU">
-    <title lang="es">Características y/o avances</title>
-    <date>2000</date>
+    <title lang="es">Características y/o avances (?)</title>
     <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261031191300 -0400" stop="20261031210100 -0400" channel="TVU">
-    <title lang="es">Cine TVU</title>
-    <desc lang="es">Rememora las grandes producciones latinoamericanas y del mundo en este espacio que te pasea por varios géneros cinematográficos.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Cine TVU (?)</title>
     <category lang="es">Película</category>
-    <category lang="es">Ciclo</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12410806.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261030044500 +0000" stop="20261030083000 +0000" channel="ChileVision.cl">
     <title lang="es">Programación de trasnoche</title>
@@ -75534,16 +75243,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20261030104500 -0300" stop="20261030130000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20261030130000 -0300" stop="20261030133000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20261030133000 -0300" stop="20261030163000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -84425,18 +84124,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20261030010000 -0400" stop="20261030020000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">The Ultimate Fighter: Frenemies</title>
-    <desc lang="en">Former TUF season 24 competitor and two-time UFC flyweight champion Brandon Moreno helps Team Cormier during training; Team Sonnen's Furkatbek Yokubov faces Alibi Idiris of Team Cormier in the third flyweight quarterfinal fight.(n)</desc>
-  </programme>
-  <programme start="20261030020000 -0400" stop="20261030030000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">The Ultimate Fighter: A Lesson in Brutality</title>
-    <desc lang="en">TUF alumni and former UFC champions Rose Namajunas and Raquel Pennington help Team Cormier during training; the third welterweight quarterfinal fight, Team Sonnen's Matt Dixon takes on Alex Sanchez of Team Cormier.(n)</desc>
-  </programme>
-  <programme start="20261030030000 -0400" stop="20261030040000 -0400" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">The Ultimate Fighter</title>
-    <desc lang="en">Follows the training and development of professional mixed martial arts fighters.(n)</desc>
-  </programme>
   <programme start="20261030040000 -0400" stop="20261030080000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Boomer and Gio</title>
     <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.(n)</desc>
@@ -84520,34 +84207,6 @@ En Vivo</title>
   <programme start="20261031100000 -0400" stop="20261101000000 -0400" channel="CBSSportsNetworkUSA.us">
     <title lang="en">College Football</title>
     <desc lang="en">All the action from college football.(n)</desc>
-  </programme>
-  <programme start="20261030000000 -0400" stop="20261030020000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261030020000 -0400" stop="20261030023000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">The Association: Post Up</title>
-    <desc lang="en">"The Association Post Up" looks back at the NBA highlights and news of the day.(n)</desc>
-  </programme>
-  <programme start="20261030023000 -0400" stop="20261030040000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261030040000 -0400" stop="20261030043000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">The Association: Post Up</title>
-    <desc lang="en">"The Association Post Up" looks back at the NBA highlights and news of the day.(n)</desc>
-  </programme>
-  <programme start="20261030043000 -0400" stop="20261030053000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261030053000 -0400" stop="20261030060000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">The Association: Post Up</title>
-    <desc lang="en">"The Association Post Up" looks back at the NBA highlights and news of the day.(n)</desc>
-  </programme>
-  <programme start="20261030060000 -0400" stop="20261030070000 -0400" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
   </programme>
   <programme start="20261030070000 -0400" stop="20261030073000 -0400" channel="NBATVLatinAmerica.us">
     <title lang="en">The Association: Post Up</title>
@@ -134215,42 +133874,6 @@ Repetición</title>
     <category lang="es">Sociológicos</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
-  <programme start="20261030010000 -0400" stop="20261030013000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261030013000 -0400" stop="20261030015500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.(n)</desc>
-  </programme>
-  <programme start="20261030015500 -0400" stop="20261030020000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">The Travel Show</title>
-    <desc lang="en">Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.(n)</desc>
-  </programme>
-  <programme start="20261030020000 -0400" stop="20261030035500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261030035500 -0400" stop="20261030040000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">The Travel Show</title>
-    <desc lang="en">Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.(n)</desc>
-  </programme>
-  <programme start="20261030040000 -0400" stop="20261030053000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261030053000 -0400" stop="20261030054500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.(n)</desc>
-  </programme>
-  <programme start="20261030054500 -0400" stop="20261030055500 -0400" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261030055500 -0400" stop="20261030060000 -0400" channel="BBCWorldNews.us">
-    <title lang="en">The Travel Show</title>
-    <desc lang="en">Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.(n)</desc>
-  </programme>
   <programme start="20261030060000 -0400" stop="20261030073000 -0400" channel="BBCWorldNews.us">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.(n)</desc>
@@ -134462,18 +134085,6 @@ Repetición</title>
   <programme start="20261031173000 -0400" stop="20261101050000 -0400" channel="BBCWorldNews.us">
     <title lang="en">Talking Business</title>
     <desc lang="en">The host sits down with experts to shed light on various issues from the business world and interviews them on the latest innovations in technology.(n)</desc>
-  </programme>
-  <programme start="20261030010000 -0400" stop="20261030020000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">Gutfeld!</title>
-    <desc lang="en">Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.(n)</desc>
-  </programme>
-  <programme start="20261030020000 -0400" stop="20261030040000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX &amp; Friends First</title>
-    <desc lang="en">Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.(n)</desc>
-  </programme>
-  <programme start="20261030040000 -0400" stop="20261030070000 -0400" channel="FoxNewsChannel.us">
-    <title lang="en">FOX and Friends</title>
-    <desc lang="en">Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the news.(n)</desc>
   </programme>
   <programme start="20261030070000 -0400" stop="20261030090000 -0400" channel="FoxNewsChannel.us">
     <title lang="en">America's Newsroom</title>
@@ -182669,39 +182280,11 @@ En Vivo</title>
   </programme>
   <programme start="20261031190000 +0000" stop="20261031210000 +0000" channel="PanamericanaTV.pe">
     <title lang="es">Saras y Kumud</title>
-    <desc lang="es">Un joven aristocrático llamado Saras Vyas pierde a su madre, quien se suicidó cuando él era un niño. Al crecer el padre organiza su boda con Kumud Desai, la hija bien educada de su mejor amigo, Vidyachatur. Sin embargo, aún perturbado por la muerte de su mamá, se niega a casarse y escribe una carta a su futura esposa para informarle, pero luego comienza a llevarse bien con la familia y se enamora de ella, en poco tiempo se da cuenta de que la decisión que tomó fue un error.(n)</desc>
-    <credits>
-      <director>Sharad Pandey</director>
-      <director>Arvind Babbal</director>
-      <director>Sanjay Leela</director>
-      <actor>Gautam Rode</actor>
-      <actor>Jennifer Winget</actor>
-      <actor>Ragini Shah</actor>
-      <actor>Shiney Doshi</actor>
-      <actor>Soni Singh</actor>
-      <actor>Aanshul Trivedi</actor>
-      <actor>Alpana Buch</actor>
-      <actor>Varun Kapoor</actor>
-      <actor>Ali Raza Naamdaar</actor>
-      <actor>Vinita Joshi Thakkar</actor>
-    </credits>
     <category lang="es">Telenovela</category>
-    <icon src="https://cdn.mitvstatic.com/programs/pe_saras-y-kumud_l_l.jpg" />
-    <rating>
-      <value>Guía parental sugerida</value>
-    </rating>
   </programme>
   <programme start="20261031210000 +0000" stop="20261101000000 +0000" channel="PanamericanaTV.pe">
     <title lang="es">El show de Edwin</title>
-    <desc lang="es">Programa que cuenta con secuencias de entrevistas a grandes artistas, concursos para el público y un fuerte enfoque social destinado a cumplir sueños y brindar ayuda solidaria a familias de escasos recursos.(n)</desc>
-    <credits>
-      <actor>Edwin Sierra</actor>
-    </credits>
     <category lang="es">Entretenimientos</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
-    <rating>
-      <value>Sin información de rating</value>
-    </rating>
   </programme>
   <programme start="20261030060000 +0000" stop="20261030070000 +0000" channel="TVPeru.pe">
     <title lang="es">TVPerú Sur - Noticiero regional</title>
