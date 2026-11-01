@@ -12903,30 +12903,11 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101053000 -0400" stop="20261101080000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Looney Tunes</title>
-    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
-    <credits>
-      <actor>Mel Blanc</actor>
-      <actor>Chuck Jones</actor>
-    </credits>
-    <date>1946</date>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
-    <country lang="es">EE. UU.</country>
+    <title lang="es">Looney Tunes (?)</title>
   </programme>
   <programme start="20261101080000 -0400" stop="20261101103000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Tom y Jerry</title>
-    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
-    <credits>
-      <actor>Lillian Randolph</actor>
-      <actor>William Hanna</actor>
-      <actor>Joseph Barbera</actor>
-    </credits>
-    <date>1940</date>
+    <title lang="es">Tom y Jerry (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101103000 -0400" stop="20261101120000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -13087,21 +13068,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261102120000 -0400" stop="20261102130000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Hercai</title>
-    <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261102130000 -0400" stop="20261102140000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Caso cerrado</title>
@@ -13117,21 +13085,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261102140000 -0400" stop="20261102150000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">La caída del rey</title>
-    <desc lang="es">La fachada de Kenan Baran, un hombre carismático y exitoso, comienza a resquebrajarse cuando su esposa Handan descubre una nueva infidelidad. Sofocada por años de traiciones, la mujer se enfrenta a su pasado y a su propio reflejo.(n)</desc>
-    <credits>
-      <actor>Halit Ergenç</actor>
-      <actor>Merve Dizdar</actor>
-      <actor>Aslihan Gürbüz</actor>
-      <actor>Nilperi Sahinkaya</actor>
-      <actor>Murat Garipagaoglu</actor>
-      <actor>Cenan Çamyurdu</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">La caída del rey (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1989072697.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261102150000 -0400" stop="20261102160000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">La hija del embajador</title>
@@ -13190,17 +13145,8 @@ Repetición</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261102194500 -0400" stop="20261102211500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Yo me llamo</title>
-    <desc lang="es">Un certamen musical en el que los participantes compiten por ser el mejor cantante imitador a nivel nacional. El programa cuenta con un jurado conformado por profesionales de la música, como Luis Vega, Vero Perez y Vladimir Bravo.(n)</desc>
-    <credits>
-      <actor>Luis Vega</actor>
-      <actor>Vero Pérez</actor>
-      <actor>Vladimir Bravo</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Yo me llamo (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1619726264.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261031210000 -0400" stop="20261031224500 -0400" channel="UNITEL">
     <title lang="es">Caso cerrado</title>
@@ -13242,18 +13188,8 @@ Repetición</title>
     <title lang="es">Looney Tunes (?)</title>
   </programme>
   <programme start="20261101080000 -0400" stop="20261101103000 -0400" channel="UNITEL">
-    <title lang="es">Tom y Jerry</title>
-    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
-    <credits>
-      <actor>Lillian Randolph</actor>
-      <actor>William Hanna</actor>
-      <actor>Joseph Barbera</actor>
-    </credits>
-    <date>1940</date>
+    <title lang="es">Tom y Jerry (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101103000 -0400" stop="20261101120000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -13264,21 +13200,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261101120000 -0400" stop="20261101160000 -0400" channel="UNITEL">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.(n)</desc>
-    <credits>
-      <actor>Julie Kavner</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Hank Azaria</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Karl Wiedergott</actor>
-      <actor>Harry Shearer</actor>
-    </credits>
-    <date>1989</date>
+    <title lang="es">Los Simpson (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12602011.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101160000 -0400" stop="20261101180000 -0400" channel="UNITEL">
     <title lang="es">El Hombre Araña 2</title>
@@ -13588,8 +13511,21 @@ Repetición</title>
     <category lang="es">Infantil</category>
   </programme>
   <programme start="20261101043000 -0400" stop="20261101045000 -0400" channel="BOLIVISION">
-    <title lang="es">La abeja Maya (?)</title>
+    <title lang="es">La abeja Maya</title>
+    <desc lang="es">Una abeja joven llamada Maya ha dejado su colmena para descubrir la belleza y los misterios de la naturaleza, encontrándose con otros insectos que están allí, a quienes contagia su enorme entusiasmo.(n)</desc>
+    <credits>
+      <actor>Kira Tozer</actor>
+      <actor>Andrea Libman</actor>
+      <actor>Paul Louis Muller</actor>
+      <actor>Gerd Meyer</actor>
+      <actor>Hali Beth Muller</actor>
+      <actor>Zalina Sanchez</actor>
+    </credits>
+    <date>2012</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/35013092.jpg" />
+    <country lang="es">Francia</country>
   </programme>
   <programme start="20261101045000 -0400" stop="20261101061500 -0400" channel="BOLIVISION">
     <title lang="es">Plaza Sésamo</title>
@@ -13647,13 +13583,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101074500 -0400" stop="20261101081500 -0400" channel="BOLIVISION">
-    <title lang="es">El conciertazo</title>
-    <desc lang="es">Entretenimiento educativo musical. Pretende acercar la música clásica al público infantil con un estilo desenfadado y ameno. Mientras la orquesta interpreta piezas en directo, el público interactúa a través de concursos y juegos.(n)</desc>
-    <date>2000</date>
+    <title lang="es">El conciertazo (?)</title>
     <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12146741.jpg" />
-    <country lang="es">España</country>
   </programme>
   <programme start="20261101081500 -0400" stop="20261101090000 -0400" channel="BOLIVISION">
     <title lang="es">Popcorn TV</title>
@@ -13911,21 +13842,8 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261102094000 -0400" stop="20261102102000 -0400" channel="BOLIVISION">
-    <title lang="es">Perdóname</title>
-    <desc lang="es">Osman es uno de los empresarios más ricos de Ankara. Se caracteriza por ser un hombre severo y cruel, obsesionado con una disciplina que hace infeliz a su familia. Por eso, todo se complica cuando uno de sus hijos se enamora de la criada.(n)</desc>
-    <credits>
-      <actor>Seyma Korkmaz</actor>
-      <actor>Murat Danaci</actor>
-      <actor>Gaye Turgut</actor>
-      <actor>Ulviye Karaca</actor>
-      <actor>Nusret Senay</actor>
-      <actor>Gamze Igdiroglu</actor>
-    </credits>
-    <date>2011</date>
+    <title lang="es">Perdóname (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3200342.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261102102000 -0400" stop="20261102120000 -0400" channel="BOLIVISION">
     <title lang="es">Al día</title>
@@ -14157,28 +14075,106 @@ Repetición</title>
     <category lang="es">Infantil</category>
   </programme>
   <programme start="20261101061500 -0400" stop="20261101064500 -0400" channel="RED UNO">
-    <title lang="es">Baby Shark's Big Show (?)</title>
+    <title lang="es">Baby Shark's Big Show</title>
+    <desc lang="es">Baby Shark y su mejor amigo, el pez William, emprenden varias aventuras en su comunidad de Carnivore Cove, donde siempre aprenden algo nuevo.(n)</desc>
+    <credits>
+      <actor>Kimiko Glenn</actor>
+      <actor>Luke Youngblood</actor>
+      <actor>Natasha Rothwell</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Debra Wilson</actor>
+      <actor>Patrick Warburton</actor>
+    </credits>
+    <date>2020</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12763284.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101064500 -0400" stop="20261101071500 -0400" channel="RED UNO">
-    <title lang="es">PAW Patrol (?)</title>
+    <title lang="es">PAW Patrol</title>
+    <desc lang="es">Conoce a un equipo de cachorros liderado por el energético Ryder, que está siempre listo cuando se trata de ayudar en la bulliciosa ciudad de Bahía Aventura.(n)</desc>
+    <credits>
+      <actor>Alex Thorne</actor>
+      <actor>Gabriela Milani</actor>
+      <actor>Valentina Letelier</actor>
+      <actor>Carolina Highet</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Drew Davis</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7751111.jpg" />
+    <country lang="es">Canadá</country>
   </programme>
   <programme start="20261101071500 -0400" stop="20261101074500 -0400" channel="RED UNO">
-    <title lang="es">Plim Plim, un héroe del corazón (?)</title>
+    <title lang="es">Plim Plim, un héroe del corazón</title>
+    <desc lang="es">Con su estilo innovador, El payaso Plim Plim: Un héroe del corazón, hace de la simpleza un valor y de la infancia un mundo mágico. Sus historias en formato de fábula incluyen guiños visuales, musicales, cinematográficos y literarios.(n)</desc>
+    <credits>
+      <actor>Bianca Alencar</actor>
+      <actor>Fábio Lucindo</actor>
+      <actor>Matheus Ferreira</actor>
+      <actor>Isabela Guarnieri</actor>
+      <actor>Tess Amorim</actor>
+      <actor>Vinni Takahashi</actor>
+    </credits>
+    <date>2011</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Infantiles</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/649673.jpg" />
+    <country lang="es">Argentina</country>
   </programme>
   <programme start="20261101074500 -0400" stop="20261101080000 -0400" channel="RED UNO">
-    <title lang="es">Space Cops (?)</title>
+    <title lang="es">Space Cops</title>
+    <desc lang="es">¿Podrán los Policías Espaciales encontrar y revivir a los Guardianes Espaciales y restaurar la paz de la Tierra y la seguridad de la humanidad?(n)</desc>
+    <credits>
+      <actor>Kang Ho-Cheol</actor>
+      <actor>Nam Do-Hyeong</actor>
+      <actor>Choi Ha-na</actor>
+      <actor>Sa Mun Yeong</actor>
+      <actor>Lee MinGyu</actor>
+      <actor>Lee Da-eun</actor>
+    </credits>
+    <date>2021</date>
     <category lang="es">Animación</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990013033.jpg" />
+    <country lang="es">Corea</country>
   </programme>
   <programme start="20261101080000 -0400" stop="20261101083000 -0400" channel="RED UNO">
-    <title lang="es">Metal Cardbots (?)</title>
+    <title lang="es">Metal Cardbots</title>
+    <desc lang="es">Tras una explosión que obliga a unos vehículos robóticos llamados Cardbots a llegar a la Tierra, estos se disfrazan de vehículos normales. Un joven ciclista de BMX se hace amigo de ellos y encuentra un dispositivo para darles energía.(n)</desc>
+    <credits>
+      <actor>Jang Ye-na</actor>
+      <actor>Kim Eun-ah</actor>
+      <actor>Kim Ga-ryung</actor>
+      <actor>Lee Hyun</actor>
+      <actor>Choi Han</actor>
+      <actor>Hwang Chang-yung</actor>
+    </credits>
+    <date>2023</date>
     <category lang="es">Animación</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990606841.jpg" />
+    <country lang="es">Corea del Sur</country>
   </programme>
   <programme start="20261101083000 -0400" stop="20261101090000 -0400" channel="RED UNO">
-    <title lang="es">Bob Esponja (?)</title>
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional.(n)</desc>
+    <credits>
+      <actor>Rodger Bumpass</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Mr Lawrence</actor>
+      <actor>Carolyn Lawrence</actor>
+      <actor>Sirena Irwin</actor>
+    </credits>
+    <date>1999</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/39455996.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101090000 -0400" stop="20261101093000 -0400" channel="RED UNO">
     <title lang="es">The Loud House</title>
@@ -14198,21 +14194,8 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101093000 -0400" stop="20261101102500 -0400" channel="RED UNO">
-    <title lang="es">El Chapulín Colorado</title>
-    <desc lang="es">Sigue las aventuras de este héroe cobarde con poderes especiales que combate el mal y acude cuando alguien necesita ayuda. Usa diferentes armas contra el crimen como las pastillas de chiquitolina o el chipote chillón.(n)</desc>
-    <credits>
-      <actor>Roberto Gómez Bolaños</actor>
-      <actor>Florinda Meza</actor>
-      <actor>María Antonieta de las Nieves</actor>
-      <actor>Ramón Valdés</actor>
-      <actor>Carlos Villagrán</actor>
-      <actor>Rubén Aguirre</actor>
-    </credits>
-    <date>1973</date>
+    <title lang="es">El Chapulín Colorado (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822850.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261101102500 -0400" stop="20261101120000 -0400" channel="RED UNO">
     <title lang="es">Notivisión</title>
@@ -14479,47 +14462,16 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/40982392.jpg" />
   </programme>
   <programme start="20261102143000 -0400" stop="20261102150000 -0400" channel="RED UNO">
-    <title lang="es">El Chavo del 8</title>
-    <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.(n)</desc>
-    <credits>
-      <actor>Roberto Gómez Bolaños</actor>
-      <actor>Ramón Valdez</actor>
-      <actor>Carlos Villagrán</actor>
-      <actor>Florinda Meza</actor>
-      <actor>María Antonieta de las Nieves</actor>
-      <actor>Edgar Vivar</actor>
-    </credits>
-    <date>1973</date>
+    <title lang="es">El Chavo del 8 (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822699.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261102150000 -0400" stop="20261102165500 -0400" channel="RED UNO">
-    <title lang="es">Dueños de la tarde</title>
-    <desc lang="es">Un espacio donde la información, el debate y el entretenimiento se fusionan. Daniel Dueñas y Ximena Zalzer abordan temas de salud, bienestar, tecnología y espiritualidad, con la participación de un panel de especialistas.(n)</desc>
-    <credits>
-      <actor>Daniel Dueñas</actor>
-      <actor>Ximena Zalzer</actor>
-      <actor>Vitorio Lema</actor>
-      <actor>Nicole Gutiérrez</actor>
-      <actor>José Daniel Núñez</actor>
-      <actor>Claudia Miranda</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Dueños de la tarde (?)</title>
     <category lang="es">Magazine</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/49135876.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261102165500 -0400" stop="20261102184500 -0400" channel="RED UNO">
-    <title lang="es">Notivisión</title>
-    <desc lang="es">Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Notivisión (?)</title>
     <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22787315.jpg" />
-    <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261102184500 -0400" stop="20261102200000 -0400" channel="RED UNO">
     <title lang="es">La gran batalla</title>
@@ -51649,8 +51601,39 @@ Repetición</title>
   </programme>
   <programme start="20261101115000 -0600" stop="20261101124000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">La ley y el orden: UVE</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <sub-title lang="es">Sueños aplazados</sub-title>
+    <desc lang="es">Los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, mientras intentan balancear los efectos de la investigación en sus propias vidas.(n)</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>BD Wong</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Diane Neal</actor>
+      <actor>Stephanie March</actor>
+      <actor>Mike Doyle</actor>
+      <actor>Joel de la Fuente</actor>
+      <actor>Kelli Giddish</actor>
+      <actor>Danny Pino</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Caren Browning</actor>
+      <actor>Isabel Gillies</actor>
+      <actor>Peter Hermann</actor>
+      <actor>Michelle Hurd</actor>
+      <actor>Andrew Polk</actor>
+      <actor>Rafael Feldman</actor>
+      <actor>Sarita Choudhury</actor>
+      <actor>Dann Florek</actor>
+      <actor>David Platt</actor>
+      <actor>Jean de Segonzac</actor>
+      <actor>Dick Wolf</actor>
+      <actor>Ice-T</actor>
+      <actor>Batan Silva</actor>
+    </credits>
+    <date>1999</date>
     <category lang="es">Policial</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6017773.jpg" />
+    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261101124000 -0600" stop="20261101133000 -0600" channel="UNIVERSAL CHANNEL MX">
     <title lang="es">The Rookie</title>
@@ -58175,19 +58158,8 @@ Repetición</title>
   </programme>
   <programme start="20261101013000 -0600" stop="20261101021500 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
-    <sub-title lang="es">Jardín del mal</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261101021500 -0600" stop="20261101030000 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
@@ -58450,19 +58422,8 @@ Repetición</title>
   </programme>
   <programme start="20261101122000 -0600" stop="20261101130500 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
-    <sub-title lang="es">Viviendo con miedo</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261101130500 -0600" stop="20261101135000 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
@@ -59470,26 +59431,8 @@ Repetición</title>
   </programme>
   <programme start="20261103101000 -0600" stop="20261103105500 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">A Lie to Die For</title>
-    <sub-title lang="es">Mentiras explosivas</sub-title>
-    <desc lang="es">Las mentiras contadas por algunas personas serán protegidas a toda costa, incluido el asesinato. Cada episodio sigue cada caso a medida que los investigadores descifran cada tragedia, todo para proteger la mentira.(n)</desc>
-    <credits>
-      <actor>Judy Ho</actor>
-      <actor>Caroline Klidonas</actor>
-      <actor>Dylan Sharon</actor>
-      <actor>Paula Lauzon</actor>
-      <actor>GeorgeAnne Carden</actor>
-      <actor>Matthew B Rogers</actor>
-      <actor>Dan Worthington</actor>
-      <actor>Roger Korsiak</actor>
-      <actor>Michael Matassa</actor>
-      <actor>Joni E Johnston</actor>
-      <actor>Dana Johnston</actor>
-      <actor>Glenn Kirschbaum</actor>
-    </credits>
-    <date>2019</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/34152155.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261103105500 -0600" stop="20261103114000 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Hermanos asesinos</title>
@@ -59561,19 +59504,8 @@ Repetición</title>
   </programme>
   <programme start="20261103141500 -0600" stop="20261103150000 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
-    <sub-title lang="es">La tormenta del siglo</sub-title>
-    <desc lang="es">Historias de crímenes reales donde la víctima fue encontrada enterrada en el lugar más desprevenido: el patio trasero. Sin embargo, encontrar los restos es solo el comienzo.(n)</desc>
-    <credits>
-      <actor>Sadie Medley</actor>
-      <actor>Kelly Ann Barrett</actor>
-      <actor>Mignon Farmani</actor>
-      <actor>Dana Devlin</actor>
-      <actor>David Garfinkle</actor>
-    </credits>
-    <date>2018</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9996288.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261103150000 -0600" stop="20261103154500 -0600" channel="UNIVERSAL CRIME MX">
     <title lang="es">Enterrado en el jardín</title>
@@ -76862,11 +76794,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20261101110000 -0300" stop="20261101140000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20261101140000 -0300" stop="20261101165000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -84882,14 +84809,6 @@ En Vivo</title>
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20261101010000 -0500" stop="20261101020000 -0500" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">World Poker Tour: Bay 101 Shooting Star - Part 3</title>
-    <desc lang="en">Professional poker action from a series of international tournaments.(n)</desc>
-  </programme>
-  <programme start="20261101020000 -0500" stop="20261101040000 -0500" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">Inside College Football</title>
-    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.(n)</desc>
-  </programme>
   <programme start="20261101040000 -0500" stop="20261101060000 -0500" channel="CBSSportsNetworkUSA.us">
     <title lang="en">FA Women's Super League: Arsenal vs. Aston Villa</title>
     <desc lang="en">From Emirates Stadium in London.(n)</desc>
@@ -85018,14 +84937,6 @@ En Vivo</title>
     <title lang="en">Course Record With Michael Breed</title>
     <desc lang="en">Features Breed's unique analysis and commentary, recapping the weekend in tournament golf, reacting to the latest and biggest storylines in the sport, and looking ahead to notable events on the golf calendar. The show also has instruction segments.(n)</desc>
   </programme>
-  <programme start="20261101013000 -0500" stop="20261101030000 -0500" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101033000 -0500" channel="NBATVLatinAmerica.us">
-    <title lang="en">The Association: Post Up</title>
-    <desc lang="en">"The Association Post Up" looks back at the NBA highlights and news of the day.(n)</desc>
-  </programme>
   <programme start="20261101033000 -0500" stop="20261101043000 -0500" channel="NBATVLatinAmerica.us">
     <title lang="en">Full Court</title>
     <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
@@ -85133,10 +85044,6 @@ En Vivo</title>
   <programme start="20261102210000 -0500" stop="20261102230000 -0500" channel="NBATVLatinAmerica.us">
     <title lang="en">Full Court</title>
     <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261031230000 -0400" stop="20261101023000 -0400" channel="TennisChannel.us">
-    <title lang="en">Center Court: Tokyo-WTA Final; Vienna-ATP, Basel-ATP &amp; Guangzhou-WTA Semifinals</title>
-    <desc lang="en">Tennis action from around the world.(n)</desc>
   </programme>
   <programme start="20261101023000 -0500" stop="20261101050000 -0500" channel="TennisChannel.us">
     <title lang="en">Center Court: Tokyo-WTA Final; Vienna-ATP, Basel-ATP &amp; Guangzhou-WTA Semifinals</title>
@@ -85312,14 +85219,8 @@ En Vivo</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
   <programme start="20261101143000 -0400" stop="20261101150000 -0400" channel="BYM SPORTS">
-    <title lang="es">Football's Greatest</title>
-    <desc lang="es">Serie especial de espectáculos dedicados a los mejores jugadores que han honrado el fútbol soccer.(n)</desc>
-    <date>2010</date>
+    <title lang="es">Football's Greatest (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10762739.jpg" />
-    <country lang="es">Gran Bretaña</country>
-    <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
   <programme start="20261101150000 -0400" stop="20261101153000 -0400" channel="BYM SPORTS">
     <title lang="es">The Evolution of Sport</title>
@@ -126625,24 +126526,10 @@ En Vivo</title>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/1139583.png" />
   </programme>
   <programme start="20261101070500 -0300" stop="20261101082300 -0300" channel="Clan TVE">
-    <title lang="es">Elli y el equipo de monstruos</title>
+    <title lang="es">Elli y el equipo de monstruos (?)</title>
     <desc lang="es">Elli, una pequeña fantasma sin hogar, busca un lugar donde pertenecer. En un tren fantasma conoce a una comunidad de monstruos y juntos se embarcan en una misión para salvar y liberar a su tío.(n)</desc>
-    <credits>
-      <director>Piet De Rycker</director>
-      <writer>Piet De Rycker</writer>
-      <writer>Jesper Møller</writer>
-      <writer>Carpe Diem Film "#38; TV</writer>
-      <writer>Dreamin' Dolphin Film</writer>
-      <writer>Eagle Eye Filmproduktion</writer>
-      <writer>Fish Blowing Bubbles</writer>
-      <writer>Jens Møller</writer>
-    </credits>
-    <date>2024</date>
     <category lang="es">Aventuras</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/bf/1106623.png" />
-    <rating>
-      <value>TP</value>
-    </rating>
   </programme>
   <programme start="20261101082300 -0300" stop="20261101083000 -0300" channel="Clan TVE">
     <title lang="es">Bluey</title>
@@ -126940,20 +126827,11 @@ En Vivo</title>
     </rating>
   </programme>
   <programme start="20261101124600 -0300" stop="20261101130800 -0300" channel="Clan TVE">
-    <title lang="es">Una casa de locos</title>
+    <title lang="es">Una casa de locos (?)</title>
     <sub-title lang="es">Un pollo de miedo / Histerias de la cripta</sub-title>
     <desc lang="es">Un pollo fantasma incordia a los Casagrande. ¿Pero solo le interesa Sergio? / Los niños intentan superar el récord de resistir más tiempo en el cementerio por la noche.(n)</desc>
-    <credits>
-      <writer>Chris Savino</writer>
-      <writer>Chris Savino Productions</writer>
-      <writer>Nickelodeon Animation Studios</writer>
-    </credits>
-    <date>2025</date>
     <category lang="es">Infantil</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/83/728963.png" />
-    <rating>
-      <value>TP</value>
-    </rating>
   </programme>
   <programme start="20261101130800 -0300" stop="20261101133000 -0300" channel="Clan TVE">
     <title lang="es">Una casa de locos</title>
@@ -137061,18 +136939,6 @@ Repetición</title>
   <programme start="20261102214500 -0500" stop="20261102220000 -0500" channel="BBCWorldNews.us">
     <title lang="en">Asia Specific</title>
     <desc lang="en">Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.(n)</desc>
-  </programme>
-  <programme start="20261101000000 -0500" stop="20261101020000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">FOX News Saturday Night With Jimmy Failla</title>
-    <desc lang="en">Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.(n)</desc>
-  </programme>
-  <programme start="20261101020000 -0500" stop="20261101030000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">My View With Lara Trump</title>
-    <desc lang="en">Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.(n)</desc>
-  </programme>
-  <programme start="20261101030000 -0500" stop="20261101040000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">FOX News Saturday Night With Jimmy Failla</title>
-    <desc lang="en">Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.(n)</desc>
   </programme>
   <programme start="20261101040000 -0500" stop="20261101080000 -0500" channel="FoxNewsChannel.us">
     <title lang="en">Fox &amp; Friends Weekend</title>
@@ -169941,8 +169807,26 @@ En Vivo</title>
   </programme>
   <programme start="20261102173000 -0600" stop="20261102190000 -0600" channel="ImagenTv.mx">
     <title lang="es">Legado de amor</title>
-    <desc lang="es">No hay información disponible.(n)</desc>
+    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
+    <credits>
+      <actor>Halil Ibrahim Ceyhan</actor>
+      <actor>Sila Turkoglu</actor>
+      <actor>Berat Rüzgar Özkan</actor>
+      <actor>Melih Ozkaya</actor>
+      <actor>Tolga Pancaroglu</actor>
+      <actor>Ömer Gecü</actor>
+      <actor>Derya Oguz Ertün</actor>
+      <actor>Oguz Yagci</actor>
+      <actor>Binnaz Ekren</actor>
+      <actor>Özge Agyar</actor>
+      <actor>Ayhan Özen</actor>
+      <actor>Basak Yazi Odasi</actor>
+      <actor>Nazmiye Yilmaz</actor>
+    </credits>
+    <date>2020</date>
     <category lang="es">Drama</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22885993.jpg" />
+    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261102190000 -0600" stop="20261102203000 -0600" channel="ImagenTv.mx">
     <title lang="es">Jesús</title>
@@ -187364,8 +187248,21 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261101060000 -0400" stop="20261101070000 -0400" channel="TELEVEN">
-    <title lang="es">Los Pitufos (?)</title>
+    <title lang="es">Los Pitufos</title>
+    <desc lang="es">Son unas criaturas azules no mayores a un dedo índice, que viven en una aldea de hongos oculta en el bosque. Gargamel y su gato Azrael, intentarán atraparlos por ser un ingrediente necesario para obtener la piedra filosofal.(n)</desc>
+    <credits>
+      <actor>Davis Freeman</actor>
+      <actor>Youssef El Kaoukibi</actor>
+      <actor>Vincent Broes</actor>
+      <actor>Joshua Rubin</actor>
+      <actor>Jackie Jones</actor>
+      <actor>Sandra Asratian</actor>
+    </credits>
+    <date>2021</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20272709.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101070000 -0400" stop="20261101073000 -0400" channel="TELEVEN">
     <title lang="es">Santa Misa dominical</title>
@@ -188038,16 +187935,88 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22931442.jpg" />
   </programme>
-  <programme start="20261102000700 -0400" stop="20261102020000 -0400" channel="TLT">
-    <title lang="es">Programación TLT</title>
-    <desc lang="es">Programas deportivos, series, series animadas, conciertos, películas y documentales.(n)</desc>
+  <programme start="20261102000700 -0400" stop="20261102001700 -0400" channel="TLT">
+    <title lang="es">Cine con intermedio</title>
+    <date>2000</date>
+    <category lang="es">Película</category>
+    <category lang="es">Ciclo</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3327049.jpg" />
+  </programme>
+  <programme start="20261102001700 -0400" stop="20261102020000 -0400" channel="TLT">
+    <title lang="es">Araya</title>
+    <desc lang="es">Araya es una salina natural, ubicada al nordeste de Venezuela en la Península del mismo nombre, cuyos recursos han sido explotados manualmente por largos años. Margot Benacerraf plasma en imágenes la vida de los salineros.(n)</desc>
+    <credits>
+      <actor>Laurent Terzieff</actor>
+      <actor>José Ignacio Cabrujas</actor>
+      <actor>Margot Benacerraf</actor>
+      <actor>Henry Nadler</actor>
+      <actor>Pierre Seghers</actor>
+    </credits>
+    <date>1959</date>
+    <category lang="es">Documental</category>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4171825.jpg" />
+    <country lang="es">Francia</country>
+  </programme>
+  <programme start="20261102020000 -0400" stop="20261102031000 -0400" channel="TLT">
+    <title lang="es">Agua y vida</title>
+    <sub-title lang="es">Aguas invisibles</sub-title>
+    <desc lang="es">Un viaje a través de multitud de entornos naturales para mostrar el papel del agua en todas las facetas de la vida animal, dando a conocer espectaculares ecosistemas de todo el mundo y escuchando la palabra de los expertos.(n)</desc>
+    <credits>
+      <actor>Juan Antonio Rodríguez Llano</actor>
+      <actor>Lluís Marco</actor>
+      <actor>Christian Brückner</actor>
+      <actor>Steve Hughes</actor>
+      <actor>Juan Antonio Domínguez</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Documental</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/33909161.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20261102031000 -0400" stop="20261102032000 -0400" channel="TLT">
+    <title lang="es">La nota</title>
+    <desc lang="es">Las historias de quienes día a día transforman nuestra realidad con trabajo, esfuerzo y superación. Mariángel Villegas descubre las historias de quienes emprenden, construyen y se entregan día a día por el país.(n)</desc>
+    <credits>
+      <actor>Mariángel Villegas</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995494777.jpg" />
+    <country lang="es">Venezuela</country>
+  </programme>
+  <programme start="20261102032000 -0400" stop="20261102033000 -0400" channel="TLT">
+    <title lang="es">Japan Video Topics en Tele Tuya</title>
+    <desc lang="es">Serie de audiovisuales que ofrecen una visión global de la cultura japonesa, la naturaleza, la ciencia, la tecnología, educación, tradiciones, costumbres e ideologías, con entrevistas y reportajes increíbles sobre esta nación milenaria.(n)</desc>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4976179.jpg" />
-    <country lang="es">Venezuela</country>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/35101262.jpg" />
+    <country lang="es">Japón</country>
   </programme>
-  <programme start="20261102020000 -0400" stop="20261102040000 -0400" channel="TLT">
+  <programme start="20261102033000 -0400" stop="20261102034000 -0400" channel="TLT">
+    <title lang="es">Un corto viaje</title>
+    <desc lang="es">Los cortometrajes son la parada obligatoria de todo cineasta. Desde los más experimentados hasta los nóveles han probado el extraordinario arte de contar grandes historias en pocos minutos.(n)</desc>
+    <credits>
+      <actor>Luyo Castillo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Cortometrajes</category>
+    <category lang="es">Ciclo</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22859789.jpg" />
+  </programme>
+  <programme start="20261102034000 -0400" stop="20261102040000 -0400" channel="TLT">
+    <title lang="es">El mundo sin palabras</title>
+    <desc lang="es">Te llevamos a conocer el mundo a través de los más hermosos paisajes.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Turismo</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22974956.jpg" />
+  </programme>
+  <programme start="20261102040000 -0400" stop="20261102060000 -0400" channel="TLT">
     <title lang="es">Conciertos TLT</title>
     <desc lang="es">Un espacio que presenta diversas presentaciones de artistas, músicos y grupos musicales. El público podrá disfrutar de los espectáculos más emocionantes mientras los protagonistas en escena hacen gala de su talento.(n)</desc>
     <date>2022</date>
@@ -188055,24 +188024,6 @@ Repetición</title>
     <category lang="es">Musicales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/23358098.jpg" />
     <country lang="es">Venezuela</country>
-  </programme>
-  <programme start="20261102040000 -0400" stop="20261102055000 -0400" channel="TLT">
-    <title lang="es">Programación TLT</title>
-    <desc lang="es">Programas deportivos, series, series animadas, conciertos, películas y documentales.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4976179.jpg" />
-    <country lang="es">Venezuela</country>
-  </programme>
-  <programme start="20261102055000 -0400" stop="20261102060000 -0400" channel="TLT">
-    <title lang="es">Japan Video Topics</title>
-    <desc lang="es">Serie de audiovisuales que ofrecen una visión global de la cultura japonesa, la naturaleza, la ciencia, la tecnología, educación, tradiciones, costumbres e ideologías, con entrevistas y reportajes increíbles sobre esta nación milenaria.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/35101262.jpg" />
-    <country lang="es">Japón</country>
   </programme>
   <programme start="20261102060000 -0400" stop="20261102060700 -0400" channel="TLT">
     <title lang="es">Himno Nacional</title>
@@ -188106,15 +188057,18 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995268612.jpg" />
   </programme>
   <programme start="20261102063000 -0400" stop="20261102070000 -0400" channel="TLT">
-    <title lang="es">Verdades cruzadas</title>
-    <desc lang="es">Serie que a través del testimonio de representantes de las tres grandes religiones monoteistas, aborda los diversos temas del quehacer humano y el desarrollo de la humanidad en esos ámbitos.(n)</desc>
+    <title lang="es">Signos vitales</title>
+    <sub-title lang="es">Show de viajes</sub-title>
+    <desc lang="es">Un espacio que, a través de una perspectiva global, nos ayuda a comprender cómo los problemas de salud pueden ser detectados, tratados y manejados en la sociedad.(n)</desc>
     <credits>
-      <actor>Debla Morales Pozo</actor>
+      <actor>Sanjay Gupta</actor>
     </credits>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/24602348.jpg" />
+    <date>2011</date>
+    <category lang="es">Salud</category>
+    <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/23020497.jpg" />
+    <country lang="es">EE. UU.</country>
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261102070000 -0400" stop="20261102082000 -0400" channel="TLT">
     <title lang="es">Peque Show</title>
@@ -188124,6 +188078,7 @@ Repetición</title>
     <category lang="es">Infantiles</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22854879.jpg" />
     <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
   <programme start="20261102082000 -0400" stop="20261102083000 -0400" channel="TLT">
     <title lang="es">La nota</title>
@@ -188139,6 +188094,7 @@ Repetición</title>
   </programme>
   <programme start="20261102083000 -0400" stop="20261102090000 -0400" channel="TLT">
     <title lang="es">La alquimia del chef</title>
+    <sub-title lang="es">Envuelto de plátano, relleno de pescado a la parrilla</sub-title>
     <desc lang="es">El arte de combinar creativamente ingredientes para lograr cautivantes sabores es la propuesta de Rómulo Hidalgo, que también te enseña el valor de nuestra tierra.(n)</desc>
     <credits>
       <actor>Rómulo Hidalgo</actor>
@@ -188149,6 +188105,7 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22954102.jpg" />
     <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S7</episode-num>
   </programme>
   <programme start="20261102090000 -0400" stop="20261102093000 -0400" channel="TLT">
     <title lang="es">Catálogo digital</title>
@@ -188161,14 +188118,18 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22854970.jpg" />
     <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S9 E57</episode-num>
   </programme>
   <programme start="20261102093000 -0400" stop="20261102094000 -0400" channel="TLT">
-    <title lang="es">Tiempo con</title>
-    <desc lang="es">Un programa que profundiza en las trayectorias de las personalidades más influyentes del cine, el entretenimiento y la música. La propuesta combina valor informativo, anécdotas inéditas y los hitos clave que han definido sus carreras.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Entretenimientos</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995268612.jpg" />
+    <title lang="es">Un corto viaje</title>
+    <desc lang="es">Los cortometrajes son la parada obligatoria de todo cineasta. Desde los más experimentados hasta los nóveles han probado el extraordinario arte de contar grandes historias en pocos minutos.(n)</desc>
+    <credits>
+      <actor>Luyo Castillo</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Cortometrajes</category>
+    <category lang="es">Ciclo</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22859789.jpg" />
   </programme>
   <programme start="20261102094000 -0400" stop="20261102103000 -0400" channel="TLT">
     <title lang="es">Rattan</title>
@@ -188188,7 +188149,7 @@ Repetición</title>
     <country lang="es">China</country>
   </programme>
   <programme start="20261102103000 -0400" stop="20261102104000 -0400" channel="TLT">
-    <title lang="es">Japan Video Topics</title>
+    <title lang="es">Japan Video Topics en Tele Tuya</title>
     <desc lang="es">Serie de audiovisuales que ofrecen una visión global de la cultura japonesa, la naturaleza, la ciencia, la tecnología, educación, tradiciones, costumbres e ideologías, con entrevistas y reportajes increíbles sobre esta nación milenaria.(n)</desc>
     <date>2000</date>
     <category lang="es">Interés general</category>
@@ -188212,6 +188173,7 @@ Repetición</title>
     <category lang="es">Series</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/18172792.jpg" />
     <country lang="es">Turquía</country>
+    <episode-num system="onscreen">S1 E29</episode-num>
   </programme>
   <programme start="20261102114000 -0400" stop="20261102115000 -0400" channel="TLT">
     <title lang="es">Pendiente de la jugada</title>
@@ -188233,53 +188195,42 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995494777.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102120000 -0400" stop="20261102130000 -0400" channel="TLT">
-    <title lang="es">Arriba el humor</title>
-    <desc lang="es">Arriba el humor llega para alegrar tus noches con los mejores humoristas de Venezuela. Esos espectáculos de Stand Up Comedy de los bares y teatros de la ciudad dicen presente en nuestra señal.(n)</desc>
+  <programme start="20261102120000 -0400" stop="20261102123000 -0400" channel="TLT">
+    <title lang="es">Más criollo que...</title>
+    <sub-title lang="es">Alpargata</sub-title>
+    <desc lang="es">Un programa que recorre Venezuela para descubrir aquellas costumbres y platos únicos del venezolano, hablando directamente con los artesanos, cocineros y creadores de la cultura viva.(n)</desc>
     <credits>
-      <actor>César Arriba</actor>
+      <actor>Jonathan Silva</actor>
+      <actor>Debla Morales Pozo</actor>
+      <actor>Adriana Petrilli</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Cultural</category>
+    <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29275075.jpg" />
+    <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20261102123000 -0400" stop="20261102130000 -0400" channel="TLT">
+    <title lang="es">Verdades cruzadas</title>
+    <sub-title lang="es">Economía</sub-title>
+    <desc lang="es">Serie que a través del testimonio de representantes de las tres grandes religiones monoteistas, aborda los diversos temas del quehacer humano y el desarrollo de la humanidad en esos ámbitos.(n)</desc>
+    <credits>
+      <actor>Debla Morales Pozo</actor>
     </credits>
     <date>2000</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22931076.jpg" />
-    <country lang="es">Venezuela</country>
+    <category lang="es">Interés general</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/24602348.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20261102130000 -0400" stop="20261102140000 -0400" channel="TLT">
+  <programme start="20261102130000 -0400" stop="20261102143000 -0400" channel="TLT">
     <title lang="es">Conciertos TLT</title>
     <desc lang="es">Un espacio que presenta diversas presentaciones de artistas, músicos y grupos musicales. El público podrá disfrutar de los espectáculos más emocionantes mientras los protagonistas en escena hacen gala de su talento.(n)</desc>
     <date>2022</date>
     <category lang="es">Musical</category>
     <category lang="es">Musicales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/23358098.jpg" />
-    <country lang="es">Venezuela</country>
-  </programme>
-  <programme start="20261102140000 -0400" stop="20261102141000 -0400" channel="TLT">
-    <title lang="es">La nota</title>
-    <desc lang="es">Las historias de quienes día a día transforman nuestra realidad con trabajo, esfuerzo y superación. Mariángel Villegas descubre las historias de quienes emprenden, construyen y se entregan día a día por el país.(n)</desc>
-    <credits>
-      <actor>Mariángel Villegas</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995494777.jpg" />
-    <country lang="es">Venezuela</country>
-  </programme>
-  <programme start="20261102141000 -0400" stop="20261102142000 -0400" channel="TLT">
-    <title lang="es">Japan Video Topics</title>
-    <desc lang="es">Serie de audiovisuales que ofrecen una visión global de la cultura japonesa, la naturaleza, la ciencia, la tecnología, educación, tradiciones, costumbres e ideologías, con entrevistas y reportajes increíbles sobre esta nación milenaria.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/35101262.jpg" />
-    <country lang="es">Japón</country>
-  </programme>
-  <programme start="20261102142000 -0400" stop="20261102143000 -0400" channel="TLT">
-    <title lang="es">Así de bueno</title>
-    <date>2022</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22862066.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102143000 -0400" stop="20261102153000 -0400" channel="TLT">
@@ -188298,6 +188249,7 @@ Repetición</title>
     <category lang="es">Series</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/17100697.jpg" />
     <country lang="es">Turquía</country>
+    <episode-num system="onscreen">S1 E94</episode-num>
   </programme>
   <programme start="20261102153000 -0400" stop="20261102154000 -0400" channel="TLT">
     <title lang="es">Pendiente de la jugada</title>
@@ -188316,7 +188268,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995268612.jpg" />
   </programme>
   <programme start="20261102155000 -0400" stop="20261102160000 -0400" channel="TLT">
-    <title lang="es">Japan Video Topics</title>
+    <title lang="es">Japan Video Topics en Tele Tuya</title>
     <desc lang="es">Serie de audiovisuales que ofrecen una visión global de la cultura japonesa, la naturaleza, la ciencia, la tecnología, educación, tradiciones, costumbres e ideologías, con entrevistas y reportajes increíbles sobre esta nación milenaria.(n)</desc>
     <date>2000</date>
     <category lang="es">Interés general</category>
@@ -188332,6 +188284,7 @@ Repetición</title>
     <category lang="es">Infantiles</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22854879.jpg" />
     <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
   <programme start="20261102175000 -0400" stop="20261102180000 -0400" channel="TLT">
     <title lang="es">ID La Tele Tuya</title>
@@ -188350,14 +188303,17 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22854970.jpg" />
     <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S9 E51</episode-num>
   </programme>
   <programme start="20261102183000 -0400" stop="20261102190000 -0400" channel="TLT">
-    <title lang="es">Compacto</title>
+    <title lang="es">Resumen MotoGP</title>
+    <sub-title lang="es">Gran Premio de Malasia, Circuito Internacional de Sepang</sub-title>
     <desc lang="es">Vive lo más emocionante de las carreras disputadas en la 78º edición delMoto GP. Los amantes del deporte disfrutarán de la adrenalina de los pilotos en la categoría principal del Campeonato Mundial de Motociclismo.(n)</desc>
     <date>2026</date>
     <category lang="es">Motociclismo</category>
     <category lang="es">Deportes</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990167862.jpg" />
+    <episode-num system="onscreen">S2026</episode-num>
   </programme>
   <programme start="20261102190000 -0400" stop="20261102200000 -0400" channel="TLT">
     <title lang="es">Ciudad perdida</title>
@@ -188375,9 +188331,11 @@ Repetición</title>
     <category lang="es">Series</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22674155.jpg" />
     <country lang="es">Turquía</country>
+    <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
   <programme start="20261102200000 -0400" stop="20261102210000 -0400" channel="TLT">
     <title lang="es">Isla paraíso</title>
+    <sub-title lang="es">¿Carolina aceptó el plan de Carlos?</sub-title>
     <desc lang="es">De un día para otro, Carolina se ve envuelta en una estafa producto de los irresponsables manejos de su marido. Perseguida por la justicia, sale a pedirle ayuda a su hermana, quien está yéndose a una misión religiosa en Isla Paraíso.(n)</desc>
     <credits>
       <actor>Paola Volpato</actor>
@@ -188392,55 +188350,47 @@ Repetición</title>
     <category lang="es">Series</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/9521072.jpg" />
     <country lang="es">Chile</country>
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20261102210000 -0400" stop="20261102220000 -0400" channel="TLT">
-    <title lang="es">Pacificador</title>
-    <desc lang="es">La historia del superhéroe de DC, un hombre fascinante y arrogante que cree en la paz a cualquier precio, sin importar a cuánta gente tenga que matar para conseguirla.(n)</desc>
+  <programme start="20261102210000 -0400" stop="20261102230000 -0400" channel="TLT">
+    <title lang="es">Saul, el viaje a Damasco</title>
+    <desc lang="es">Jerusalén, año 38 d.C. Saúl perseguía con crueldad a quienes creían en Jesús de Nazaret. Pero un día, en el camino hacia Damasco, una revelación del Mesías hizo que fuera bautizado y cambiará su fe.(n)</desc>
     <credits>
-      <actor>John Cena</actor>
-      <actor>Danielle Brooks</actor>
-      <actor>Freddie Stroma</actor>
-      <actor>Chukwudi Iwuji</actor>
-      <actor>Jennifer Holland</actor>
-      <actor>Steve Agee</actor>
+      <actor>Emmanuelle Vaugier</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Kris Holden-Ried</actor>
+      <actor>Callum Blue</actor>
+      <actor>Kyle Schmid</actor>
+      <actor>Dan Cade</actor>
     </credits>
-    <date>2022</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/34811857.jpg" />
-    <country lang="es">EE. UU.</country>
-  </programme>
-  <programme start="20261102220000 -0400" stop="20261102230000 -0400" channel="TLT">
-    <title lang="es">Encuentro en el estudio</title>
-    <desc lang="es">Lalo Mir recibe en los estudios Ion a muchas de las figuras representativas de la escena musical argentina. El ciclo ofrece la historia esencial de los artistas, refleja las identidades de época y desgrana acordes y melodías.(n)</desc>
-    <credits>
-      <actor>Lalo Mir</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Musical</category>
-    <category lang="es">Musicales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990984357.jpg" />
-    <country lang="es">Argentina</country>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Cine</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1606372.jpg" />
+    <country lang="es">Canadá</country>
   </programme>
   <programme start="20261102230000 -0400" stop="20261102233000 -0400" channel="TLT">
-    <title lang="es">Programación TLT</title>
-    <desc lang="es">Programas deportivos, series, series animadas, conciertos, películas y documentales.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4976179.jpg" />
-    <country lang="es">Venezuela</country>
-  </programme>
-  <programme start="20261102233000 -0400" stop="20261102234000 -0400" channel="TLT">
-    <title lang="es">Un tiempo con</title>
-    <desc lang="es">Un programa que profundiza en las trayectorias de las personalidades más influyentes del cine, el entretenimiento y la música. La propuesta combina valor informativo, anécdotas inéditas y los hitos clave que han definido sus carreras.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Catálogo digital</title>
+    <desc lang="es">Una guía especializada donde conocerás las películas, series, documentales y mucho más contenido que está disponible en las distintas plataformas de streaming.(n)</desc>
+    <credits>
+      <actor>Yelena Bravo</actor>
+    </credits>
+    <date>2021</date>
     <category lang="es">Entretenimientos</category>
     <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995268612.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22854970.jpg" />
+    <country lang="es">Venezuela</country>
+    <episode-num system="onscreen">S9 E51</episode-num>
+  </programme>
+  <programme start="20261102233000 -0400" stop="20261102234000 -0400" channel="TLT">
+    <title lang="es">Así de bueno</title>
+    <date>2022</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22862066.jpg" />
+    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102234000 -0400" stop="20261102235500 -0400" channel="TLT">
-    <title lang="es">Japan Video Topic en Tele Tuya</title>
+    <title lang="es">Japan Video Topics en Tele Tuya</title>
     <desc lang="es">Serie de audiovisuales que ofrecen una visión global de la cultura japonesa, la naturaleza, la ciencia, la tecnología, educación, tradiciones, costumbres e ideologías, con entrevistas y reportajes increíbles sobre esta nación milenaria.(n)</desc>
     <date>2000</date>
     <category lang="es">Interés general</category>
@@ -188807,8 +188757,21 @@ Repetición</title>
     <country lang="es">Rep. Dominicana</country>
   </programme>
   <programme start="20261102000000 -0400" stop="20261102010000 -0400" channel="TV FAMILIA">
-    <title lang="es">El toque de un ángel (?)</title>
+    <title lang="es">El toque de un ángel</title>
+    <desc lang="es">Esta serie recrea la vida de un ángel moderno que inspira a la gente que atraviesa períodos difíciles a cambiar sus vidas antes que sea demasiado tarde.(n)</desc>
+    <credits>
+      <actor>Della Reese</actor>
+      <actor>John Dye</actor>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Gavin Sheehan</actor>
+      <actor>Alexis Cruz</actor>
+      <actor>Charles Rocket</actor>
+    </credits>
+    <date>1994</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2666753.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261102010000 -0400" stop="20261102020000 -0400" channel="TV FAMILIA">
     <title lang="es">La Santa Misa</title>
@@ -189293,7 +189256,7 @@ Repetición</title>
   </programme>
   <programme start="20261101173000 -0400" stop="20261101193000 -0400" channel="TVES">
     <title lang="es">Liga FUTVE</title>
-    <sub-title lang="es">La Guaira vs. Portuguesa, Quadrangular - 3, Estadio Olimpico de la UCV</sub-title>
+    <sub-title lang="es">La Guaira vs. Portuguesa, Quadrangular - 3, Estadio Brigido Iriarte</sub-title>
     <desc lang="es">Vive los partidos de la 70º edición de la Primera División de Venezuela, torneo organizado por la Liga FUTVE bajo la supervisión de la Federación Venezolana de Fútbol.(n)</desc>
     <date>2026</date>
     <category lang="es">Fútbol</category>
@@ -190748,6 +190711,16 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261101000000 -0400" stop="20261101010000 -0400" channel="VENEVISION PLUS">
+    <title lang="es">El palenque</title>
+    <desc lang="es">Con 'El Palenque', Enrique Santos inaugura una nueva generación de talk show: ágil y entretenido, que a veces será divertido y en ocasiones estará cargado de drama y sentimientos.(n)</desc>
+    <credits>
+      <actor>Enrique Santos</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1986953059.jpg" />
+  </programme>
+  <programme start="20261101010000 -0400" stop="20261101020000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
     <desc lang="es">La doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, escuchan y resuelven problemas de ciudadanos comunes. Una tribuna para analizar y buscar soluciones a los diferentes conflictos familiares y de pareja.(n)</desc>
     <credits>
@@ -190759,7 +190732,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2425527.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101010000 -0400" stop="20261101020000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101020000 -0400" stop="20261101030000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Entre mujeres</title>
     <desc lang="es">Un espacio para debatir diversos temas relacionados a las mujeres.(n)</desc>
     <date>2024</date>
@@ -190767,7 +190740,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/37780281.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261101020000 -0400" stop="20261101030000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101030000 -0400" stop="20261101040000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
     <desc lang="es">Espacio que dará de qué hablar cuando la doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, lleguen a escuchar y a resolver los problemas de las partes en conflicto para luego decidir quién tiene la razón.(n)</desc>
     <credits>
@@ -190778,17 +190751,18 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1058994.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101030000 -0400" stop="20261101040000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101040000 -0400" stop="20261101050000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El palenque</title>
     <desc lang="es">Con 'El Palenque', Enrique Santos inaugura una nueva generación de talk show: ágil y entretenido, que a veces será divertido y en ocasiones estará cargado de drama y sentimientos.(n)</desc>
     <credits>
       <actor>Enrique Santos</actor>
     </credits>
     <date>2000</date>
+    <category lang="es">Talk Show</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1986953059.jpg" />
   </programme>
-  <programme start="20261101040000 -0400" stop="20261101050000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101050000 -0400" stop="20261101060000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
     <desc lang="es">Espacio que dará de qué hablar cuando la doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, lleguen a escuchar y a resolver los problemas de las partes en conflicto para luego decidir quién tiene la razón.(n)</desc>
     <credits>
@@ -190800,7 +190774,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1058994.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101050000 -0400" stop="20261101060000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101060000 -0400" stop="20261101070000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Astros: terapias y rituales</title>
     <desc lang="es">Programa que se enfoca en brindar herramientas de bienestar, incluyendo rituales, meditación, tarot, yoga, y medicina alternativa para mejorar la energía y la salud emocional.(n)</desc>
     <credits>
@@ -190812,7 +190786,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991186363.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101060000 -0400" stop="20261101070000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101070000 -0400" stop="20261101080000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Casos de familia</title>
     <desc lang="es">La calamidad familiar es la protagonista de este espacio donde se presentan los casos más dramáticos, con gran sensibilidad y carisma.(n)</desc>
     <credits>
@@ -190825,7 +190799,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4041908.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101070000 -0400" stop="20261101080000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101080000 -0400" stop="20261101090000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Astros: terapias y rituales</title>
     <desc lang="es">Programa que se enfoca en brindar herramientas de bienestar, incluyendo rituales, meditación, tarot, yoga, y medicina alternativa para mejorar la energía y la salud emocional.(n)</desc>
     <credits>
@@ -190837,7 +190811,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991186363.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101080000 -0400" stop="20261101090000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101090000 -0400" stop="20261101100000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Sabor al día</title>
     <desc lang="es">Walter Kovacs nos enseña a preparar recetas sabrosas, sencillas y divertidas para deleitarnos en nuestra cocina.(n)</desc>
     <credits>
@@ -190849,7 +190823,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/37701695.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261101090000 -0400" stop="20261101100000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101100000 -0400" stop="20261101110000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Doctor familia</title>
     <desc lang="es">Un espacio enfocado en el bienestar, la prevención de enfermedades y la promoción de la salud.(n)</desc>
     <date>2024</date>
@@ -190858,7 +190832,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/37778240.jpg" />
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20261101100000 -0400" stop="20261101110000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101110000 -0400" stop="20261101120000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Entre mujeres</title>
     <desc lang="es">Un espacio para debatir diversos temas relacionados a las mujeres.(n)</desc>
     <date>2024</date>
@@ -190867,7 +190841,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/37780281.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261101110000 -0400" stop="20261101120000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101120000 -0400" stop="20261101130000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El cotorreo</title>
     <desc lang="es">Un espacio femenino donde abordamos diversas temáticas de las que muchos no se atreven a hablar y compartimos distintas miradas, opiniones y perspectivas.(n)</desc>
     <date>2025</date>
@@ -190875,18 +190849,6 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949220560.jpg" />
     <country lang="es">Venezuela</country>
-  </programme>
-  <programme start="20261101120000 -0400" stop="20261101130000 -0400" channel="VENEVISION PLUS">
-    <title lang="es">¿Quién tiene la razón?</title>
-    <desc lang="es">Espacio que dará de qué hablar cuando la doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, lleguen a escuchar y a resolver los problemas de las partes en conflicto para luego decidir quién tiene la razón.(n)</desc>
-    <credits>
-      <actor>Nancy Álvarez</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1058994.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101130000 -0400" stop="20261101140000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
@@ -190901,6 +190863,18 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101140000 -0400" stop="20261101150000 -0400" channel="VENEVISION PLUS">
+    <title lang="es">¿Quién tiene la razón?</title>
+    <desc lang="es">Espacio que dará de qué hablar cuando la doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, lleguen a escuchar y a resolver los problemas de las partes en conflicto para luego decidir quién tiene la razón.(n)</desc>
+    <credits>
+      <actor>Nancy Álvarez</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Talk Show</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1058994.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20261101150000 -0400" stop="20261101160000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Casos de familia</title>
     <desc lang="es">La calamidad familiar es la protagonista de este espacio donde se presentan los casos más dramáticos, con gran sensibilidad y carisma.(n)</desc>
     <credits>
@@ -190913,7 +190887,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4041908.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101150000 -0400" stop="20261101160000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101160000 -0400" stop="20261101170000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El palenque</title>
     <desc lang="es">Con 'El Palenque', Enrique Santos inaugura una nueva generación de talk show: ágil y entretenido, que a veces será divertido y en ocasiones estará cargado de drama y sentimientos.(n)</desc>
     <credits>
@@ -190924,7 +190898,7 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1986953059.jpg" />
   </programme>
-  <programme start="20261101160000 -0400" stop="20261101170000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101170000 -0400" stop="20261101180000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
     <desc lang="es">La doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, escuchan y resuelven problemas de ciudadanos comunes. Una tribuna para analizar y buscar soluciones a los diferentes conflictos familiares y de pareja.(n)</desc>
     <credits>
@@ -190937,7 +190911,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2425527.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101170000 -0400" stop="20261101180000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101180000 -0400" stop="20261101190000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Amorcito corazón</title>
     <desc lang="es">Este melodrama narra la historia de Isabel, una arquitecta que tiene marcado su destino amoroso, Zoe, la aparente ama de casa perfecta y Lucía novicia de corazón.(n)</desc>
     <credits>
@@ -190954,7 +190928,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22971351.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20261101180000 -0400" stop="20261101190000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101190000 -0400" stop="20261101200000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Entre mujeres</title>
     <desc lang="es">Un espacio para debatir diversos temas relacionados a las mujeres.(n)</desc>
     <date>2024</date>
@@ -190963,7 +190937,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/37780281.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261101190000 -0400" stop="20261101200000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101200000 -0400" stop="20261101210000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
     <desc lang="es">Espacio que dará de qué hablar cuando la doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, lleguen a escuchar y a resolver los problemas de las partes en conflicto para luego decidir quién tiene la razón.(n)</desc>
     <credits>
@@ -190975,7 +190949,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1058994.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101200000 -0400" stop="20261101210000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101210000 -0400" stop="20261101220000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El cotorreo</title>
     <desc lang="es">Un espacio femenino donde abordamos diversas temáticas de las que muchos no se atreven a hablar y compartimos distintas miradas, opiniones y perspectivas.(n)</desc>
     <date>2025</date>
@@ -190984,7 +190958,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949220560.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261101210000 -0400" stop="20261101220000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101220000 -0400" stop="20261101230000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
     <desc lang="es">La doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, escuchan y resuelven problemas de ciudadanos comunes. Una tribuna para analizar y buscar soluciones a los diferentes conflictos familiares y de pareja.(n)</desc>
     <credits>
@@ -190997,7 +190971,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2425527.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261101220000 -0400" stop="20261101230000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261101230000 -0400" stop="20261102000000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El cotorreo</title>
     <desc lang="es">Un espacio femenino donde abordamos diversas temáticas de las que muchos no se atreven a hablar y compartimos distintas miradas, opiniones y perspectivas.(n)</desc>
     <date>2025</date>
@@ -191006,7 +190980,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949220560.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261101230000 -0400" stop="20261102000000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102000000 -0400" stop="20261102010000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Casos de familia</title>
     <desc lang="es">La calamidad familiar es la protagonista de este espacio donde se presentan los casos más dramáticos, con gran sensibilidad y carisma.(n)</desc>
     <credits>
@@ -191019,7 +190993,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4041908.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261102000000 -0400" stop="20261102010000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102010000 -0400" stop="20261102020000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El palenque</title>
     <desc lang="es">Con 'El Palenque', Enrique Santos inaugura una nueva generación de talk show: ágil y entretenido, que a veces será divertido y en ocasiones estará cargado de drama y sentimientos.(n)</desc>
     <credits>
@@ -191029,18 +191003,6 @@ Repetición</title>
     <category lang="es">Talk Show</category>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1986953059.jpg" />
-  </programme>
-  <programme start="20261102010000 -0400" stop="20261102020000 -0400" channel="VENEVISION PLUS">
-    <title lang="es">¿Quién tiene la razón?</title>
-    <desc lang="es">Espacio que dará de qué hablar cuando la doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, lleguen a escuchar y a resolver los problemas de las partes en conflicto para luego decidir quién tiene la razón.(n)</desc>
-    <credits>
-      <actor>Nancy Álvarez</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="es">Talk Show</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1058994.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261102020000 -0400" stop="20261102030000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
@@ -191080,27 +191042,17 @@ Repetición</title>
   </programme>
   <programme start="20261102050000 -0400" stop="20261102060000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
-    <desc lang="es">La doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, escuchan y resuelven problemas de ciudadanos comunes. Una tribuna para analizar y buscar soluciones a los diferentes conflictos familiares y de pareja.(n)</desc>
+    <desc lang="es">Espacio que dará de qué hablar cuando la doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, lleguen a escuchar y a resolver los problemas de las partes en conflicto para luego decidir quién tiene la razón.(n)</desc>
     <credits>
-      <actor>Carmen Jara</actor>
       <actor>Nancy Álvarez</actor>
     </credits>
     <date>2003</date>
     <category lang="es">Talk Show</category>
     <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2425527.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1058994.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261102060000 -0400" stop="20261102070000 -0400" channel="VENEVISION PLUS">
-    <title lang="es">Entre mujeres</title>
-    <desc lang="es">Un espacio para debatir diversos temas relacionados a las mujeres.(n)</desc>
-    <date>2024</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/37780281.jpg" />
-    <country lang="es">Venezuela</country>
-  </programme>
-  <programme start="20261102070000 -0400" stop="20261102080000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
     <desc lang="es">La doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, escuchan y resuelven problemas de ciudadanos comunes. Una tribuna para analizar y buscar soluciones a los diferentes conflictos familiares y de pareja.(n)</desc>
     <credits>
@@ -191113,7 +191065,29 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2425527.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
+  <programme start="20261102070000 -0400" stop="20261102080000 -0400" channel="VENEVISION PLUS">
+    <title lang="es">Entre mujeres</title>
+    <desc lang="es">Un espacio para debatir diversos temas relacionados a las mujeres.(n)</desc>
+    <date>2024</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/37780281.jpg" />
+    <country lang="es">Venezuela</country>
+  </programme>
   <programme start="20261102080000 -0400" stop="20261102090000 -0400" channel="VENEVISION PLUS">
+    <title lang="es">¿Quién tiene la razón?</title>
+    <desc lang="es">La doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, escuchan y resuelven problemas de ciudadanos comunes. Una tribuna para analizar y buscar soluciones a los diferentes conflictos familiares y de pareja.(n)</desc>
+    <credits>
+      <actor>Carmen Jara</actor>
+      <actor>Nancy Álvarez</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Talk Show</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2425527.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20261102090000 -0400" stop="20261102100000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El palenque</title>
     <desc lang="es">Con 'El Palenque', Enrique Santos inaugura una nueva generación de talk show: ágil y entretenido, que a veces será divertido y en ocasiones estará cargado de drama y sentimientos.(n)</desc>
     <credits>
@@ -191124,7 +191098,7 @@ Repetición</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1986953059.jpg" />
   </programme>
-  <programme start="20261102090000 -0400" stop="20261102100000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102100000 -0400" stop="20261102110000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Los astros</title>
     <desc lang="es">Este programa ofrece al público temas de astrología, numerología, análisis del nombre y entrevistas a especialistas del mundo holístico, además de herramientas de crecimiento personal, éxito y prosperidad.(n)</desc>
     <credits>
@@ -191137,7 +191111,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/11234056.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102100000 -0400" stop="20261102110000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102110000 -0400" stop="20261102120000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Rebeca</title>
     <desc lang="es">Un padre y su hijo enfrentados por el amor de una misma mujer. ¿Quién se quedará con la protagonista?(n)</desc>
     <credits>
@@ -191154,7 +191128,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2407914.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102110000 -0400" stop="20261102120000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102120000 -0400" stop="20261102130000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Somos tú y yo</title>
     <desc lang="es">Dos jóvenes que se enamoran a través de la música. Todos podrán vivir junto a Víctor cuando se muda a la gran ciudad. También verán a Sheryl escondiendo sus sentimientos y refugiándose en la música.(n)</desc>
     <credits>
@@ -191171,7 +191145,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4146863.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102120000 -0400" stop="20261102130000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102130000 -0400" stop="20261102140000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
     <desc lang="es">Espacio que dará de qué hablar cuando la doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, lleguen a escuchar y a resolver los problemas de las partes en conflicto para luego decidir quién tiene la razón.(n)</desc>
     <credits>
@@ -191183,7 +191157,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1058994.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261102130000 -0400" stop="20261102140000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102140000 -0400" stop="20261102150000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El cotorreo</title>
     <desc lang="es">Un espacio femenino donde abordamos diversas temáticas de las que muchos no se atreven a hablar y compartimos distintas miradas, opiniones y perspectivas.(n)</desc>
     <date>2025</date>
@@ -191192,7 +191166,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949220560.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102140000 -0400" stop="20261102150000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102150000 -0400" stop="20261102160000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Pecadora</title>
     <desc lang="es">Luz María es una hermosa mujer que por necesidad engaña a muchas personas haciéndose pasar por una exitosa psicóloga de la capital, lo que le traerá problemas especialmente con Bruno, el hombre de su vida.(n)</desc>
     <credits>
@@ -191209,7 +191183,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/8616998.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261102150000 -0400" stop="20261102160000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102160000 -0400" stop="20261102170000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El amor las vuelve locas</title>
     <desc lang="es">Cuando el amor verdadero es realmente de corazón, el tiempo no puede borrarlo. Fernanda ha estado infelizmente casada durante 20 años, pero su vida cambia cuando se reencuentra con Pablo, su amor de la adolescencia.(n)</desc>
     <credits>
@@ -191226,7 +191200,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/15070885.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102160000 -0400" stop="20261102170000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102170000 -0400" stop="20261102180000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Rebeca</title>
     <desc lang="es">Un padre y su hijo enfrentados por el amor de una misma mujer. ¿Quién se quedará con la protagonista?(n)</desc>
     <credits>
@@ -191243,7 +191217,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2407914.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102170000 -0400" stop="20261102180000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102180000 -0400" stop="20261102190000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Somos tú y yo</title>
     <desc lang="es">Dos jóvenes que se enamoran a través de la música. Todos podrán vivir junto a Víctor cuando se muda a la gran ciudad. También verán a Sheryl escondiendo sus sentimientos y refugiándose en la música.(n)</desc>
     <credits>
@@ -191260,7 +191234,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4146863.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102180000 -0400" stop="20261102190000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102190000 -0400" stop="20261102200000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Amorcito corazón</title>
     <desc lang="es">Este melodrama narra la historia de Isabel, una arquitecta que tiene marcado su destino amoroso, Zoe, la aparente ama de casa perfecta y Lucía novicia de corazón.(n)</desc>
     <credits>
@@ -191277,7 +191251,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/22971351.jpg" />
     <country lang="es">México</country>
   </programme>
-  <programme start="20261102190000 -0400" stop="20261102200000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102200000 -0400" stop="20261102210000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Casos de familia</title>
     <desc lang="es">La calamidad familiar es la protagonista de este espacio donde se presentan los casos más dramáticos, con gran sensibilidad y carisma.(n)</desc>
     <credits>
@@ -191290,7 +191264,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/4041908.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261102200000 -0400" stop="20261102210000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102210000 -0400" stop="20261102220000 -0400" channel="VENEVISION PLUS">
     <title lang="es">El cotorreo</title>
     <desc lang="es">Un espacio femenino donde abordamos diversas temáticas de las que muchos no se atreven a hablar y compartimos distintas miradas, opiniones y perspectivas.(n)</desc>
     <date>2025</date>
@@ -191299,7 +191273,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949220560.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102210000 -0400" stop="20261102220000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102220000 -0400" stop="20261102230000 -0400" channel="VENEVISION PLUS">
     <title lang="es">¿Quién tiene la razón?</title>
     <desc lang="es">Espacio que dará de qué hablar cuando la doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, lleguen a escuchar y a resolver los problemas de las partes en conflicto para luego decidir quién tiene la razón.(n)</desc>
     <credits>
@@ -191311,7 +191285,7 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1058994.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20261102220000 -0400" stop="20261102230000 -0400" channel="VENEVISION PLUS">
+  <programme start="20261102230000 -0400" stop="20261103000000 -0400" channel="VENEVISION PLUS">
     <title lang="es">Rebeca</title>
     <desc lang="es">Un padre y su hijo enfrentados por el amor de una misma mujer. ¿Quién se quedará con la protagonista?(n)</desc>
     <credits>
@@ -191327,23 +191301,6 @@ Repetición</title>
     <category lang="es">Series</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2407914.jpg" />
     <country lang="es">Venezuela</country>
-  </programme>
-  <programme start="20261102230000 -0400" stop="20261103000000 -0400" channel="VENEVISION PLUS">
-    <title lang="es">Pecadora</title>
-    <desc lang="es">Luz María es una hermosa mujer que por necesidad engaña a muchas personas haciéndose pasar por una exitosa psicóloga de la capital, lo que le traerá problemas especialmente con Bruno, el hombre de su vida.(n)</desc>
-    <credits>
-      <actor>Litzy Vanya</actor>
-      <actor>Marjorie De Sousa</actor>
-      <actor>Daniel Elbittar</actor>
-      <actor>Maritza Bustamante</actor>
-      <actor>Ariel López Padilla</actor>
-      <actor>Roberto Vander</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8616998.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261101000000 -0400" stop="20261101010000 -0400" channel="TVEPACO">
     <title lang="es">Programación VEPACO TV</title>
