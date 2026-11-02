@@ -1408,7 +1408,6 @@
   </channel>
   <channel id="BYM SPORTS">
     <display-name lang="es">ByM Sports</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/23581100.jpg" />
     <url>http://www.inter.com.ve</url>
   </channel>
   <channel id="DAZN1Spain.uk">
@@ -1632,7 +1631,6 @@
   </channel>
   <channel id="LoveNature">
     <display-name lang="es">Love Nature</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/48592907.jpg" />
     <url>http://www.startvmexico.com</url>
   </channel>
   <channel id="NationalGeographicWild.es">
@@ -77528,16 +77526,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20261102103500 -0300" stop="20261102123500 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20261102123500 -0300" stop="20261102153000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20261102153000 -0300" stop="20261102174000 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -85571,14 +85559,6 @@ En Vivo</title>
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20261102010000 -0500" stop="20261102020000 -0500" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">World Poker Tour: Bay 101 Shooting Star - Part 3</title>
-    <desc lang="en">Professional poker action from a series of international tournaments.(n)</desc>
-  </programme>
-  <programme start="20261102020000 -0500" stop="20261102030000 -0500" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">World Poker Tour: WPT Bay 101 Shooting Star - Part 4</title>
-    <desc lang="en">Professional poker action from a series of international tournaments.(n)</desc>
-  </programme>
   <programme start="20261102030000 -0500" stop="20261102070000 -0500" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Boomer and Gio</title>
     <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.(n)</desc>
@@ -85819,7 +85799,6 @@ En Vivo</title>
     <title lang="es">50 Years of Sport</title>
     <date>2000</date>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S5 E4</episode-num>
   </programme>
   <programme start="20261102003000 -0400" stop="20261102010000 -0400" channel="BYM SPORTS">
@@ -85827,14 +85806,12 @@ En Vivo</title>
     <desc lang="es">Toda la información que necesitas sobre la actualidad deportiva.(n)</desc>
     <date>2000</date>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20261102010000 -0400" stop="20261102013000 -0400" channel="BYM SPORTS">
     <title lang="es">50 Years of Sport</title>
     <date>2000</date>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
   <programme start="20261102013000 -0400" stop="20261102020000 -0400" channel="BYM SPORTS">
@@ -85842,7 +85819,6 @@ En Vivo</title>
     <desc lang="es">Toda la información que necesitas sobre la actualidad deportiva.(n)</desc>
     <date>2000</date>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
   <programme start="20261102020000 -0400" stop="20261102050000 -0400" channel="BYM SPORTS">
@@ -85851,7 +85827,6 @@ En Vivo</title>
     <date>2026</date>
     <category lang="es">Béisbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996205073.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102050000 -0400" stop="20261102053000 -0400" channel="BYM SPORTS">
@@ -85859,7 +85834,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Automovilismo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20261102053000 -0400" stop="20261102060000 -0400" channel="BYM SPORTS">
@@ -85867,7 +85841,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
   <programme start="20261102060000 -0400" stop="20261102070000 -0400" channel="BYM SPORTS">
@@ -85875,7 +85848,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
   <programme start="20261102070000 -0400" stop="20261102080000 -0400" channel="BYM SPORTS">
@@ -85888,7 +85860,6 @@ En Vivo</title>
     <date>2021</date>
     <category lang="es">Periodístico</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/40843153.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102080000 -0400" stop="20261102083000 -0400" channel="BYM SPORTS">
@@ -85896,7 +85867,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Automovilismo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
   <programme start="20261102083000 -0400" stop="20261102090000 -0400" channel="BYM SPORTS">
@@ -85905,7 +85875,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Básquet</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996233007.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261102090000 -0400" stop="20261102120000 -0400" channel="BYM SPORTS">
@@ -85914,7 +85883,6 @@ En Vivo</title>
     <date>2026</date>
     <category lang="es">Béisbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996205073.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102120000 -0400" stop="20261102130000 -0400" channel="BYM SPORTS">
@@ -85927,7 +85895,6 @@ En Vivo</title>
     <date>2021</date>
     <category lang="es">Periodístico</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/40843153.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102130000 -0400" stop="20261102140000 -0400" channel="BYM SPORTS">
@@ -85942,7 +85909,6 @@ En Vivo</title>
     <date>2026</date>
     <category lang="es">Béisbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996362321.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102140000 -0400" stop="20261102143000 -0400" channel="BYM SPORTS">
@@ -85950,7 +85916,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
   <programme start="20261102143000 -0400" stop="20261102150000 -0400" channel="BYM SPORTS">
@@ -85959,7 +85924,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20261102150000 -0400" stop="20261102153000 -0400" channel="BYM SPORTS">
@@ -85968,7 +85932,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991645082.jpg" />
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
   <programme start="20261102153000 -0400" stop="20261102160000 -0400" channel="BYM SPORTS">
@@ -85976,7 +85939,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S4 E1</episode-num>
   </programme>
   <programme start="20261102160000 -0400" stop="20261102163000 -0400" channel="BYM SPORTS">
@@ -85984,7 +85946,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20261102163000 -0400" stop="20261102170000 -0400" channel="BYM SPORTS">
@@ -85992,7 +85953,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20261102170000 -0400" stop="20261102180000 -0400" channel="BYM SPORTS">
@@ -86007,7 +85967,6 @@ En Vivo</title>
     <date>2026</date>
     <category lang="es">Béisbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996362321.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102180000 -0400" stop="20261102183000 -0400" channel="BYM SPORTS">
@@ -86016,7 +85975,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27641049.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102183000 -0400" stop="20261102213000 -0400" channel="BYM SPORTS">
@@ -86025,7 +85983,6 @@ En Vivo</title>
     <date>2026</date>
     <category lang="es">Béisbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996205073.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102213000 -0400" stop="20261102220000 -0400" channel="BYM SPORTS">
@@ -86033,7 +85990,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
   <programme start="20261102220000 -0400" stop="20261102230000 -0400" channel="BYM SPORTS">
@@ -86041,7 +85997,6 @@ En Vivo</title>
     <date>2025</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949262091.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102230000 -0400" stop="20261102233000 -0400" channel="BYM SPORTS">
@@ -86050,7 +86005,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27641049.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102233000 -0400" stop="20261103000000 -0400" channel="BYM SPORTS">
@@ -86059,7 +86013,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20261103000000 -0400" stop="20261103003000 -0400" channel="BYM SPORTS">
@@ -86068,7 +86021,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991645082.jpg" />
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
   <programme start="20261103003000 -0400" stop="20261103010000 -0400" channel="BYM SPORTS">
@@ -86076,7 +86028,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S4 E1</episode-num>
   </programme>
   <programme start="20261103010000 -0400" stop="20261103013000 -0400" channel="BYM SPORTS">
@@ -86084,7 +86035,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20261103013000 -0400" stop="20261103020000 -0400" channel="BYM SPORTS">
@@ -86092,7 +86042,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20261103020000 -0400" stop="20261103050000 -0400" channel="BYM SPORTS">
@@ -86101,7 +86050,6 @@ En Vivo</title>
     <date>2026</date>
     <category lang="es">Béisbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996205073.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103050000 -0400" stop="20261103053000 -0400" channel="BYM SPORTS">
@@ -86110,7 +86058,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20261103053000 -0400" stop="20261103060000 -0400" channel="BYM SPORTS">
@@ -86119,7 +86066,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Automovilismo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261103060000 -0400" stop="20261103063000 -0400" channel="BYM SPORTS">
@@ -86128,7 +86074,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20261103063000 -0400" stop="20261103070000 -0400" channel="BYM SPORTS">
@@ -86137,7 +86082,6 @@ En Vivo</title>
     <date>2010</date>
     <category lang="es">Fútbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10762739.jpg" />
     <country lang="es">Gran Bretaña</country>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
@@ -86151,7 +86095,6 @@ En Vivo</title>
     <date>2021</date>
     <category lang="es">Periodístico</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/40843153.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103080000 -0400" stop="20261103083000 -0400" channel="BYM SPORTS">
@@ -86159,7 +86102,6 @@ En Vivo</title>
     <date>2025</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949262091.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103083000 -0400" stop="20261103093000 -0400" channel="BYM SPORTS">
@@ -86174,7 +86116,6 @@ En Vivo</title>
     <date>2026</date>
     <category lang="es">Béisbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996362321.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103093000 -0400" stop="20261103120000 -0400" channel="BYM SPORTS">
@@ -86183,7 +86124,6 @@ En Vivo</title>
     <date>2026</date>
     <category lang="es">Béisbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996205073.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103120000 -0400" stop="20261103130000 -0400" channel="BYM SPORTS">
@@ -86196,7 +86136,6 @@ En Vivo</title>
     <date>2021</date>
     <category lang="es">Periodístico</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/40843153.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103130000 -0400" stop="20261103133000 -0400" channel="BYM SPORTS">
@@ -86209,7 +86148,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Fútbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11309951.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103133000 -0400" stop="20261103140000 -0400" channel="BYM SPORTS">
@@ -86218,7 +86156,6 @@ En Vivo</title>
     <date>2013</date>
     <category lang="es">Fútbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7006818.jpg" />
     <country lang="es">Colombia</country>
   </programme>
   <programme start="20261103140000 -0400" stop="20261103143000 -0400" channel="BYM SPORTS">
@@ -86226,7 +86163,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S5 E7</episode-num>
   </programme>
   <programme start="20261103143000 -0400" stop="20261103150000 -0400" channel="BYM SPORTS">
@@ -86235,7 +86171,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
   <programme start="20261103150000 -0400" stop="20261103153000 -0400" channel="BYM SPORTS">
@@ -86244,7 +86179,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1991645082.jpg" />
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
   <programme start="20261103153000 -0400" stop="20261103160000 -0400" channel="BYM SPORTS">
@@ -86252,7 +86186,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S4 E2</episode-num>
   </programme>
   <programme start="20261103160000 -0400" stop="20261103163000 -0400" channel="BYM SPORTS">
@@ -86265,7 +86198,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Fútbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11309951.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103163000 -0400" stop="20261103173000 -0400" channel="BYM SPORTS">
@@ -86274,7 +86206,6 @@ En Vivo</title>
     <date>2017</date>
     <category lang="es">Lucha</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27810977.jpg" />
     <episode-num system="onscreen">S3 E12</episode-num>
   </programme>
   <programme start="20261103173000 -0400" stop="20261103180000 -0400" channel="BYM SPORTS">
@@ -86283,7 +86214,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27641049.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103180000 -0400" stop="20261103183000 -0400" channel="BYM SPORTS">
@@ -86292,7 +86222,6 @@ En Vivo</title>
     <date>2000</date>
     <category lang="es">Deportivo</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27641049.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103183000 -0400" stop="20261103190000 -0400" channel="BYM SPORTS">
@@ -86301,7 +86230,6 @@ En Vivo</title>
     <date>2026</date>
     <category lang="es">Béisbol</category>
     <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996436404.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103190000 -0400" stop="20261103220000 -0400" channel="BYM SPORTS">
@@ -86322,13 +86250,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103230000 -0400" stop="20261103233000 -0400" channel="BYM SPORTS">
-    <title lang="es">The Football Review</title>
-    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia.(n)</desc>
-    <date>2013</date>
+    <title lang="es">The Football Review (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7006818.jpg" />
-    <country lang="es">Colombia</country>
   </programme>
   <programme start="20261103233000 -0400" stop="20261104000000 -0400" channel="BYM SPORTS">
     <title lang="es">50 Years of Sport</title>
@@ -96544,7 +96467,25 @@ En Vivo</title>
   </programme>
   <programme start="20261103164000 +0000" stop="20261103173000 +0000" channel="Discovery.cl">
     <title lang="es">A prueba de todo</title>
+    <title lang="en">Man vs. Wild</title>
     <sub-title lang="es">Alaska</sub-title>
+    <desc lang="es">Bear continúa sus aventuras en Alaska. Baja a rapel por un glaciar que se resquebraja y escapa de una gruta de hielo. En un bosque lleno de osos negros, cuelga de los dedos cuando un puente colapsa, y queda varado en un témpano de hielo.(n)</desc>
+    <credits>
+      <director>Stephen Shearman</director>
+      <director>Chris Richards</director>
+      <director>Carl Hindmarch</director>
+      <director>Nicholas White</director>
+      <actor>Bear Grylls</actor>
+      <actor>Tony Lee</actor>
+      <actor>Ben Duncan</actor>
+      <actor>David Johnson</actor>
+      <actor>Justin Kelly</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_a-prueba-de-todo-s04e05-alaska_l_l.jpg" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating>
+      <value>Guía parental sugerida</value>
+    </rating>
   </programme>
   <programme start="20261103173000 +0000" stop="20261103182000 +0000" channel="Discovery.cl">
     <title lang="es">A prueba de todo</title>
@@ -96666,917 +96607,6 @@ En Vivo</title>
     <rating>
       <value>Guía parental sugerida</value>
     </rating>
-  </programme>
-  <programme start="20261102031000 -0600" stop="20261102040500 -0600" channel="LoveNature">
-    <title lang="es">Escuela selvática para orangutanes</title>
-    <sub-title lang="es">Amigos ausentes</sub-title>
-    <desc lang="es">Conmovedoras historias de jóvenes simios a los que el personal del mayor centro de rescate de orangutanes ayuda a adaptarse, a alcanzar la mayoría de edad y a lograr reinsertarse en la selva.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/32895701.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261102040500 -0600" stop="20261102050000 -0600" channel="LoveNature">
-    <title lang="es">Escuela selvática para orangutanes</title>
-    <sub-title lang="es">Día de graduación</sub-title>
-    <desc lang="es">Conmovedoras historias de jóvenes simios a los que el personal del mayor centro de rescate de orangutanes ayuda a adaptarse, a alcanzar la mayoría de edad y a lograr reinsertarse en la selva.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/32895701.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261102050000 -0600" stop="20261102052500 -0600" channel="LoveNature">
-    <title lang="es">Criaturas extrañas</title>
-    <sub-title lang="es">Rastreadores espeluznantes gigantes</sub-title>
-    <desc lang="es">La vida se derrama desde todos los rincones de este planeta. La mayoría de las veces no la vemos, y cuando nos detenemos a mirar, nos atrae lo que es hermoso y fácil de entender. Algunas de las formas de vida más asombrosas son horrorosas.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11541435.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261102052500 -0600" stop="20261102062000 -0600" channel="LoveNature">
-    <title lang="es">Ciencia salvaje</title>
-    <sub-title lang="es">Hipopótamo</sub-title>
-    <desc lang="es">Sigue la evolución del león, desde depredador prehistórico hasta gobernante moderno, mientras la ciencia revela las batallas, los lazos y las brutales estrategias de supervivencia que han forjado a este icónico cazador africano.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995212308.jpg" />
-    <country lang="es">Canadá</country>
-  </programme>
-  <programme start="20261102062000 -0600" stop="20261102071500 -0600" channel="LoveNature">
-    <title lang="es">Ciencia salvaje</title>
-    <sub-title lang="es">Caimán</sub-title>
-    <desc lang="es">Sigue la evolución del león, desde depredador prehistórico hasta gobernante moderno, mientras la ciencia revela las batallas, los lazos y las brutales estrategias de supervivencia que han forjado a este icónico cazador africano.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995212308.jpg" />
-    <country lang="es">Canadá</country>
-  </programme>
-  <programme start="20261102071500 -0600" stop="20261102081000 -0600" channel="LoveNature">
-    <title lang="es">El lado salvaje de la luna</title>
-    <sub-title lang="es">Romance a la luz de la Luna</sub-title>
-    <desc lang="es">Un documental que revela cómo las fuerzas lunares influyen en las criaturas de todo el planeta. Una producción que muestra cómo toda forma de vida está conectada por la compañera constante de la Tierra: la Luna.(n)</desc>
-    <credits>
-      <actor>Tilda Swinton</actor>
-      <actor>Dominic Weston</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996527213.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261102081000 -0600" stop="20261102090500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Rivales mortales</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261102090500 -0600" stop="20261102100000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Enfrentamiento de Búfalos</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261102100000 -0600" stop="20261102105000 -0600" channel="LoveNature">
-    <title lang="es">Evolución de la Tierra</title>
-    <sub-title lang="es">Tierra</sub-title>
-    <desc lang="es">Material que viaja a los rincones más lejanos del mundo y descubre las formas en que los animales se están adaptando al planeta que cambia rápidamente. El ser humano es testigo de la resiliencia de la naturaleza a medida que se transforma.(n)</desc>
-    <credits>
-      <actor>Oliver Twinch</actor>
-      <actor>Charlotte Lathane</actor>
-      <actor>Rachelle Keeling</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/34679780.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261102105000 -0600" stop="20261102114000 -0600" channel="LoveNature">
-    <title lang="es">Rescate de vida silvestre de Malawi</title>
-    <sub-title lang="es">Persiguiendo la libertad</sub-title>
-    <desc lang="es">Sigue los esfuerzos de la jefa de veterinaria Amanda Salb y el equipo del único centro de rescate de animales de Malawi, que se dedican a salvar animales heridos y huérfanos para devolverlos a la naturaleza.(n)</desc>
-    <credits>
-      <actor>BJ Butler</actor>
-      <actor>Amanda Salb</actor>
-      <actor>Jo Robinson</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18681634.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261102114000 -0600" stop="20261102123500 -0600" channel="LoveNature">
-    <title lang="es">Ciencia salvaje</title>
-    <sub-title lang="es">Hipopótamo</sub-title>
-    <desc lang="es">Sigue la evolución del león, desde depredador prehistórico hasta gobernante moderno, mientras la ciencia revela las batallas, los lazos y las brutales estrategias de supervivencia que han forjado a este icónico cazador africano.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995212308.jpg" />
-    <country lang="es">Canadá</country>
-  </programme>
-  <programme start="20261102123500 -0600" stop="20261102133000 -0600" channel="LoveNature">
-    <title lang="es">Ciencia salvaje</title>
-    <sub-title lang="es">Caimán</sub-title>
-    <desc lang="es">Sigue la evolución del león, desde depredador prehistórico hasta gobernante moderno, mientras la ciencia revela las batallas, los lazos y las brutales estrategias de supervivencia que han forjado a este icónico cazador africano.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995212308.jpg" />
-    <country lang="es">Canadá</country>
-  </programme>
-  <programme start="20261102133000 -0600" stop="20261102142500 -0600" channel="LoveNature">
-    <title lang="es">Escuela selvática para orangutanes</title>
-    <sub-title lang="es">Reunión de clase</sub-title>
-    <desc lang="es">Conmovedoras historias de jóvenes simios a los que el personal del mayor centro de rescate de orangutanes ayuda a adaptarse, a alcanzar la mayoría de edad y a lograr reinsertarse en la selva.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/32895701.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261102142500 -0600" stop="20261102152000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Rivales mortales</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261102152000 -0600" stop="20261102161500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Enfrentamiento de Búfalos</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261102161500 -0600" stop="20261102171000 -0600" channel="LoveNature">
-    <title lang="es">Crónicas del jaguar</title>
-    <sub-title lang="es">Conoce a los jaguares</sub-title>
-    <desc lang="es">La bióloga y conservacionista Lizzie Daly se aventura en el Pantanal, donde utiliza la última tecnología de etiquetado para conocer las fascinantes vidas de un grupo de jaguares, y adentrarse en su hábitat, su rutina y su comportamiento.(n)</desc>
-    <credits>
-      <actor>Lizzie Daly</actor>
-      <actor>Mark Davenport</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/43399768.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261102171000 -0600" stop="20261102180500 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">¡Fuera, Einstein!</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261102180500 -0600" stop="20261102190000 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">Adaptarse o morir</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261102190000 -0600" stop="20261102195500 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">El juego del escondite</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261102195500 -0600" stop="20261102205000 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">Lazos de familia</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261102205000 -0600" stop="20261102214500 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">El reinado de Einstein</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261102214500 -0600" stop="20261102224000 -0600" channel="LoveNature">
-    <title lang="es">Pridelands: desierto renacido</title>
-    <sub-title lang="es">Pridelands: el desierto renace</sub-title>
-    <desc lang="es">La familia Hutchinson dejó su cómoda vida en Australia y se dispuso a restaurar un antiguo rancho de caza sudafricano llamado Pridelands.(n)</desc>
-    <credits>
-      <actor>Sophie Hutchinson</actor>
-      <actor>Mark Hutchinson</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14221346.jpg" />
-  </programme>
-  <programme start="20261102224000 -0600" stop="20261102233500 -0600" channel="LoveNature">
-    <title lang="es">Crónicas del jaguar</title>
-    <sub-title lang="es">Conoce a los jaguares</sub-title>
-    <desc lang="es">La bióloga y conservacionista Lizzie Daly se aventura en el Pantanal, donde utiliza la última tecnología de etiquetado para conocer las fascinantes vidas de un grupo de jaguares, y adentrarse en su hábitat, su rutina y su comportamiento.(n)</desc>
-    <credits>
-      <actor>Lizzie Daly</actor>
-      <actor>Mark Davenport</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/43399768.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261102233500 -0600" stop="20261103002500 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">¡Fuera, Einstein!</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261103002500 -0600" stop="20261103012000 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">Adaptarse o morir</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261103012000 -0600" stop="20261103021500 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">El juego del escondite</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261103021500 -0600" stop="20261103031000 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">Lazos de familia</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261103031000 -0600" stop="20261103040500 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">El reinado de Einstein</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261103040500 -0600" stop="20261103050000 -0600" channel="LoveNature">
-    <title lang="es">Pridelands: desierto renacido</title>
-    <sub-title lang="es">Pridelands: el desierto renace</sub-title>
-    <desc lang="es">La familia Hutchinson dejó su cómoda vida en Australia y se dispuso a restaurar un antiguo rancho de caza sudafricano llamado Pridelands.(n)</desc>
-    <credits>
-      <actor>Sophie Hutchinson</actor>
-      <actor>Mark Hutchinson</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14221346.jpg" />
-  </programme>
-  <programme start="20261103050000 -0600" stop="20261103052500 -0600" channel="LoveNature">
-    <title lang="es">Criaturas extrañas</title>
-    <sub-title lang="es">Camuflaje y coloración</sub-title>
-    <desc lang="es">La vida se derrama desde todos los rincones de este planeta. La mayoría de las veces no la vemos, y cuando nos detenemos a mirar, nos atrae lo que es hermoso y fácil de entender. Algunas de las formas de vida más asombrosas son horrorosas.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11541435.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261103052500 -0600" stop="20261103062000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Rivales mortales</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103062000 -0600" stop="20261103071500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Enfrentamiento de Búfalos</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103071500 -0600" stop="20261103081000 -0600" channel="LoveNature">
-    <title lang="es">El lado salvaje de la luna</title>
-    <sub-title lang="es">Guiados por la luna</sub-title>
-    <desc lang="es">Un documental que revela cómo las fuerzas lunares influyen en las criaturas de todo el planeta. Una producción que muestra cómo toda forma de vida está conectada por la compañera constante de la Tierra: la Luna.(n)</desc>
-    <credits>
-      <actor>Tilda Swinton</actor>
-      <actor>Dominic Weston</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996527213.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261103081000 -0600" stop="20261103090500 -0600" channel="LoveNature">
-    <title lang="es">Kalahari: tierra de alianzas secretas</title>
-    <sub-title lang="es">En el calor</sub-title>
-    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
-    <credits>
-      <actor>Virginie Efira</actor>
-      <actor>Pierre Stine</actor>
-      <actor>Emilie Dumond</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529873.jpg" />
-    <country lang="es">Francia</country>
-  </programme>
-  <programme start="20261103090500 -0600" stop="20261103100000 -0600" channel="LoveNature">
-    <title lang="es">Kalahari: tierra de alianzas secretas</title>
-    <sub-title lang="es">Empujado hacia los límites</sub-title>
-    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
-    <credits>
-      <actor>Virginie Efira</actor>
-      <actor>Pierre Stine</actor>
-      <actor>Emilie Dumond</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529873.jpg" />
-    <country lang="es">Francia</country>
-  </programme>
-  <programme start="20261103100000 -0600" stop="20261103105000 -0600" channel="LoveNature">
-    <title lang="es">Evolución de la Tierra</title>
-    <sub-title lang="es">Islas</sub-title>
-    <desc lang="es">Material que viaja a los rincones más lejanos del mundo y descubre las formas en que los animales se están adaptando al planeta que cambia rápidamente. El ser humano es testigo de la resiliencia de la naturaleza a medida que se transforma.(n)</desc>
-    <credits>
-      <actor>Oliver Twinch</actor>
-      <actor>Charlotte Lathane</actor>
-      <actor>Rachelle Keeling</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/34679780.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261103105000 -0600" stop="20261103114000 -0600" channel="LoveNature">
-    <title lang="es">Rescate de vida silvestre de Malawi</title>
-    <sub-title lang="es">Locura de monos</sub-title>
-    <desc lang="es">Sigue los esfuerzos de la jefa de veterinaria Amanda Salb y el equipo del único centro de rescate de animales de Malawi, que se dedican a salvar animales heridos y huérfanos para devolverlos a la naturaleza.(n)</desc>
-    <credits>
-      <actor>BJ Butler</actor>
-      <actor>Amanda Salb</actor>
-      <actor>Jo Robinson</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18681634.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261103114000 -0600" stop="20261103123500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Rivales mortales</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103123500 -0600" stop="20261103133000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Enfrentamiento de Búfalos</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103133000 -0600" stop="20261103142500 -0600" channel="LoveNature">
-    <title lang="es">Escuela selvática para orangutanes</title>
-    <sub-title lang="es">Lecciones difíciles</sub-title>
-    <desc lang="es">Conmovedoras historias de jóvenes simios a los que el personal del mayor centro de rescate de orangutanes ayuda a adaptarse, a alcanzar la mayoría de edad y a lograr reinsertarse en la selva.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/32895701.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261103142500 -0600" stop="20261103152000 -0600" channel="LoveNature">
-    <title lang="es">Kalahari: tierra de alianzas secretas</title>
-    <sub-title lang="es">En el calor</sub-title>
-    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
-    <credits>
-      <actor>Virginie Efira</actor>
-      <actor>Pierre Stine</actor>
-      <actor>Emilie Dumond</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529873.jpg" />
-    <country lang="es">Francia</country>
-  </programme>
-  <programme start="20261103152000 -0600" stop="20261103161500 -0600" channel="LoveNature">
-    <title lang="es">Kalahari: tierra de alianzas secretas</title>
-    <sub-title lang="es">Empujado hacia los límites</sub-title>
-    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
-    <credits>
-      <actor>Virginie Efira</actor>
-      <actor>Pierre Stine</actor>
-      <actor>Emilie Dumond</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529873.jpg" />
-    <country lang="es">Francia</country>
-  </programme>
-  <programme start="20261103161500 -0600" stop="20261103171000 -0600" channel="LoveNature">
-    <title lang="es">Crónicas del jaguar</title>
-    <sub-title lang="es">Mamá</sub-title>
-    <desc lang="es">La bióloga y conservacionista Lizzie Daly se aventura en el Pantanal, donde utiliza la última tecnología de etiquetado para conocer las fascinantes vidas de un grupo de jaguares, y adentrarse en su hábitat, su rutina y su comportamiento.(n)</desc>
-    <credits>
-      <actor>Lizzie Daly</actor>
-      <actor>Mark Davenport</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/43399768.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261103171000 -0600" stop="20261103180500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">El leopardo hambriento</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103180500 -0600" stop="20261103190000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Rivales mortales</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103190000 -0600" stop="20261103195500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Enfrentamiento de Búfalos</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103195500 -0600" stop="20261103205000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Las pruebas de Olimba</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103205000 -0600" stop="20261103214500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Hermanos en guerra</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103214500 -0600" stop="20261103224000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Los reyes de Nsefu</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261103224000 -0600" stop="20261103233500 -0600" channel="LoveNature">
-    <title lang="es">Crónicas del jaguar</title>
-    <sub-title lang="es">Mamá</sub-title>
-    <desc lang="es">La bióloga y conservacionista Lizzie Daly se aventura en el Pantanal, donde utiliza la última tecnología de etiquetado para conocer las fascinantes vidas de un grupo de jaguares, y adentrarse en su hábitat, su rutina y su comportamiento.(n)</desc>
-    <credits>
-      <actor>Lizzie Daly</actor>
-      <actor>Mark Davenport</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/43399768.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261103233500 -0600" stop="20261104021500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">El leopardo hambriento</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104021500 -0600" stop="20261104031000 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">Lazos de familia</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261104031000 -0600" stop="20261104040500 -0600" channel="LoveNature">
-    <title lang="es">Reglas de la manada</title>
-    <sub-title lang="es">El reinado de Einstein</sub-title>
-    <desc lang="es">Una mirada notable a las manadas de leones, sus políticas, su incesante afán de supervivencia y las luchas diarias que enfrentan para proteger su territorio.(n)</desc>
-    <credits>
-      <actor>Ivanno Jeremiah</actor>
-      <actor>Kira Ivanoff</actor>
-      <actor>Peter Lamberti</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1949432982.jpg" />
-    <country lang="es">Sudáfrica</country>
-  </programme>
-  <programme start="20261104040500 -0600" stop="20261104050000 -0600" channel="LoveNature">
-    <title lang="es">Pridelands: desierto renacido</title>
-    <sub-title lang="es">Pridelands: el desierto renace</sub-title>
-    <desc lang="es">La familia Hutchinson dejó su cómoda vida en Australia y se dispuso a restaurar un antiguo rancho de caza sudafricano llamado Pridelands.(n)</desc>
-    <credits>
-      <actor>Sophie Hutchinson</actor>
-      <actor>Mark Hutchinson</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14221346.jpg" />
-  </programme>
-  <programme start="20261104050000 -0600" stop="20261104052500 -0600" channel="LoveNature">
-    <title lang="es">Criaturas extrañas</title>
-    <sub-title lang="es">Camuflaje y coloración</sub-title>
-    <desc lang="es">La vida se derrama desde todos los rincones de este planeta. La mayoría de las veces no la vemos, y cuando nos detenemos a mirar, nos atrae lo que es hermoso y fácil de entender. Algunas de las formas de vida más asombrosas son horrorosas.(n)</desc>
-    <date>2015</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11541435.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261104052500 -0600" stop="20261104062000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Rivales mortales</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104062000 -0600" stop="20261104071500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Enfrentamiento de Búfalos</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104071500 -0600" stop="20261104081000 -0600" channel="LoveNature">
-    <title lang="es">El lado salvaje de la luna</title>
-    <sub-title lang="es">Guiados por la luna</sub-title>
-    <desc lang="es">Un documental que revela cómo las fuerzas lunares influyen en las criaturas de todo el planeta. Una producción que muestra cómo toda forma de vida está conectada por la compañera constante de la Tierra: la Luna.(n)</desc>
-    <credits>
-      <actor>Tilda Swinton</actor>
-      <actor>Dominic Weston</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996527213.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261104081000 -0600" stop="20261104090500 -0600" channel="LoveNature">
-    <title lang="es">Kalahari: tierra de alianzas secretas</title>
-    <sub-title lang="es">En el calor</sub-title>
-    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
-    <credits>
-      <actor>Virginie Efira</actor>
-      <actor>Pierre Stine</actor>
-      <actor>Emilie Dumond</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529873.jpg" />
-    <country lang="es">Francia</country>
-  </programme>
-  <programme start="20261104090500 -0600" stop="20261104100000 -0600" channel="LoveNature">
-    <title lang="es">Kalahari: tierra de alianzas secretas</title>
-    <sub-title lang="es">Empujado hacia los límites</sub-title>
-    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
-    <credits>
-      <actor>Virginie Efira</actor>
-      <actor>Pierre Stine</actor>
-      <actor>Emilie Dumond</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529873.jpg" />
-    <country lang="es">Francia</country>
-  </programme>
-  <programme start="20261104100000 -0600" stop="20261104105000 -0600" channel="LoveNature">
-    <title lang="es">Evolución de la Tierra</title>
-    <sub-title lang="es">Islas</sub-title>
-    <desc lang="es">Material que viaja a los rincones más lejanos del mundo y descubre las formas en que los animales se están adaptando al planeta que cambia rápidamente. El ser humano es testigo de la resiliencia de la naturaleza a medida que se transforma.(n)</desc>
-    <credits>
-      <actor>Oliver Twinch</actor>
-      <actor>Charlotte Lathane</actor>
-      <actor>Rachelle Keeling</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/34679780.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261104105000 -0600" stop="20261104114000 -0600" channel="LoveNature">
-    <title lang="es">Rescate de vida silvestre de Malawi</title>
-    <sub-title lang="es">Locura de monos</sub-title>
-    <desc lang="es">Sigue los esfuerzos de la jefa de veterinaria Amanda Salb y el equipo del único centro de rescate de animales de Malawi, que se dedican a salvar animales heridos y huérfanos para devolverlos a la naturaleza.(n)</desc>
-    <credits>
-      <actor>BJ Butler</actor>
-      <actor>Amanda Salb</actor>
-      <actor>Jo Robinson</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18681634.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261104114000 -0600" stop="20261104123500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Rivales mortales</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104123500 -0600" stop="20261104133000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Enfrentamiento de Búfalos</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104133000 -0600" stop="20261104142500 -0600" channel="LoveNature">
-    <title lang="es">Escuela selvática para orangutanes</title>
-    <sub-title lang="es">Lecciones difíciles</sub-title>
-    <desc lang="es">Conmovedoras historias de jóvenes simios a los que el personal del mayor centro de rescate de orangutanes ayuda a adaptarse, a alcanzar la mayoría de edad y a lograr reinsertarse en la selva.(n)</desc>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/32895701.jpg" />
-    <country lang="es">EE. UU</country>
-  </programme>
-  <programme start="20261104142500 -0600" stop="20261104152000 -0600" channel="LoveNature">
-    <title lang="es">Kalahari: tierra de alianzas secretas</title>
-    <sub-title lang="es">En el calor</sub-title>
-    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
-    <credits>
-      <actor>Virginie Efira</actor>
-      <actor>Pierre Stine</actor>
-      <actor>Emilie Dumond</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529873.jpg" />
-    <country lang="es">Francia</country>
-  </programme>
-  <programme start="20261104152000 -0600" stop="20261104161500 -0600" channel="LoveNature">
-    <title lang="es">Kalahari: tierra de alianzas secretas</title>
-    <sub-title lang="es">Empujado hacia los límites</sub-title>
-    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
-    <credits>
-      <actor>Virginie Efira</actor>
-      <actor>Pierre Stine</actor>
-      <actor>Emilie Dumond</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Cultural</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529873.jpg" />
-    <country lang="es">Francia</country>
-  </programme>
-  <programme start="20261104161500 -0600" stop="20261104171000 -0600" channel="LoveNature">
-    <title lang="es">Crónicas del jaguar</title>
-    <sub-title lang="es">Mamá</sub-title>
-    <desc lang="es">La bióloga y conservacionista Lizzie Daly se aventura en el Pantanal, donde utiliza la última tecnología de etiquetado para conocer las fascinantes vidas de un grupo de jaguares, y adentrarse en su hábitat, su rutina y su comportamiento.(n)</desc>
-    <credits>
-      <actor>Lizzie Daly</actor>
-      <actor>Mark Davenport</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/43399768.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261104171000 -0600" stop="20261104180500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">El leopardo hambriento</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104180500 -0600" stop="20261104190000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Rivales mortales</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104190000 -0600" stop="20261104195500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Enfrentamiento de Búfalos</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104195500 -0600" stop="20261104205000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Las pruebas de Olimba</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104205000 -0600" stop="20261104214500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Hermanos en guerra</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104214500 -0600" stop="20261104224000 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">Los reyes de Nsefu</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
-  </programme>
-  <programme start="20261104224000 -0600" stop="20261104233500 -0600" channel="LoveNature">
-    <title lang="es">Crónicas del jaguar</title>
-    <sub-title lang="es">Mamá</sub-title>
-    <desc lang="es">La bióloga y conservacionista Lizzie Daly se aventura en el Pantanal, donde utiliza la última tecnología de etiquetado para conocer las fascinantes vidas de un grupo de jaguares, y adentrarse en su hábitat, su rutina y su comportamiento.(n)</desc>
-    <credits>
-      <actor>Lizzie Daly</actor>
-      <actor>Mark Davenport</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/43399768.jpg" />
-    <country lang="es">Reino Unido</country>
-  </programme>
-  <programme start="20261104233500 -0600" stop="20261105002500 -0600" channel="LoveNature">
-    <title lang="es">Cazadores de África</title>
-    <sub-title lang="es">El leopardo hambriento</sub-title>
-    <desc lang="es">Estas seis películas rastrean la vida de algunos de los depredadores más formidables de Zambia: leones, leopardos e hienas. Seguimos a los personajes día y noche, conociendo a los individuos y revelando nuevos comportamientos.(n)</desc>
-    <credits>
-      <actor>Gillian Burke</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documental</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10300951.jpg" />
   </programme>
   <programme start="20261101162000 -0300" stop="20261101170500 -0300" channel="NationalGeographicWild.es">
     <title lang="es">África: el corazón salvaje de la Tierra</title>
@@ -138977,18 +138007,6 @@ Repetición</title>
     <title lang="en">Asia Specific</title>
     <desc lang="en">Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.(n)</desc>
   </programme>
-  <programme start="20261102010000 -0500" stop="20261102020000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">Life, Liberty &amp; Levin</title>
-    <desc lang="en">Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.(n)</desc>
-  </programme>
-  <programme start="20261102020000 -0500" stop="20261102030000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">Sunday Night in America With Trey Gowdy</title>
-    <desc lang="en">Analysis and an outlook on the issues facing the country; Trey Gowdy, the former South Carolina Congressman, breaks down the legal and political news.(n)</desc>
-  </programme>
-  <programme start="20261102030000 -0500" stop="20261102040000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">FOX &amp; Friends First</title>
-    <desc lang="en">Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.(n)</desc>
-  </programme>
   <programme start="20261102040000 -0500" stop="20261102070000 -0500" channel="FoxNewsChannel.us">
     <title lang="en">FOX and Friends</title>
     <desc lang="en">Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the news.(n)</desc>
@@ -172550,14 +171568,8 @@ En Vivo</title>
   </programme>
   <programme start="20261102130000 -0600" stop="20261102140000 -0600" channel="ImagenTv.mx">
     <title lang="es">Historias de un milagro</title>
-    <desc lang="es">Vidas marcadas por la pérdida, la traición, el amor, la injusticia y las segundas oportunidades. Una verdad o un acto de amor puede cambiar todo. Porque los milagros no siempre caen del cielo a veces llegan justo cuando más los necesitamos.(n)</desc>
-    <credits>
-      <actor>Rocío Sánchez Azuara</actor>
-    </credits>
-    <date>2026</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995272669.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261102140000 -0600" stop="20261102150000 -0600" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -172873,14 +171885,8 @@ En Vivo</title>
   </programme>
   <programme start="20261103130000 -0600" stop="20261103140000 -0600" channel="ImagenTv.mx">
     <title lang="es">Historias de un milagro</title>
-    <desc lang="es">Vidas marcadas por la pérdida, la traición, el amor, la injusticia y las segundas oportunidades. Una verdad o un acto de amor puede cambiar todo. Porque los milagros no siempre caen del cielo a veces llegan justo cuando más los necesitamos.(n)</desc>
-    <credits>
-      <actor>Rocío Sánchez Azuara</actor>
-    </credits>
-    <date>2026</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995272669.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261103140000 -0600" stop="20261103150000 -0600" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -173188,14 +172194,8 @@ En Vivo</title>
   </programme>
   <programme start="20261104130000 -0600" stop="20261104140000 -0600" channel="ImagenTv.mx">
     <title lang="es">Historias de un milagro</title>
-    <desc lang="es">Vidas marcadas por la pérdida, la traición, el amor, la injusticia y las segundas oportunidades. Una verdad o un acto de amor puede cambiar todo. Porque los milagros no siempre caen del cielo a veces llegan justo cuando más los necesitamos.(n)</desc>
-    <credits>
-      <actor>Rocío Sánchez Azuara</actor>
-    </credits>
-    <date>2026</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995272669.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261104140000 -0600" stop="20261104150000 -0600" channel="ImagenTv.mx">
     <title lang="es">Imagen noticias</title>
@@ -173223,26 +172223,8 @@ En Vivo</title>
   </programme>
   <programme start="20261104173000 -0600" stop="20261104190000 -0600" channel="ImagenTv.mx">
     <title lang="es">Legado de amor</title>
-    <desc lang="es">Kevser creció en un barrio humilde y pobre y después de que ella se convierta en la novia del hijo de la rica familia Kirimli, su padre corta todos los lazos con ella ya que no aprueba este matrimonio.(n)</desc>
-    <credits>
-      <actor>Halil Ibrahim Ceyhan</actor>
-      <actor>Sila Turkoglu</actor>
-      <actor>Berat Rüzgar Özkan</actor>
-      <actor>Melih Ozkaya</actor>
-      <actor>Tolga Pancaroglu</actor>
-      <actor>Ömer Gecü</actor>
-      <actor>Derya Oguz Ertün</actor>
-      <actor>Oguz Yagci</actor>
-      <actor>Binnaz Ekren</actor>
-      <actor>Özge Agyar</actor>
-      <actor>Ayhan Özen</actor>
-      <actor>Basak Yazi Odasi</actor>
-      <actor>Nazmiye Yilmaz</actor>
-    </credits>
-    <date>2020</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22885993.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261104190000 -0600" stop="20261104203000 -0600" channel="ImagenTv.mx">
     <title lang="es">Jesús</title>
@@ -190912,21 +189894,8 @@ En Vivo</title>
     <country lang="es">Tailandia</country>
   </programme>
   <programme start="20261102160000 -0400" stop="20261102170000 -0400" channel="TELEVEN">
-    <title lang="es">El buen doctor</title>
-    <desc lang="es">Shaun, un joven cirujano con autismo y síndrome de Savant, es reclutado en la unidad quirúrgica pediátrica de un prestigioso hospital. ¿Puede una persona que no tiene la capacidad de relacionarse con la gente realmente salvar sus vidas?(n)</desc>
-    <credits>
-      <actor>Richard Schiff</actor>
-      <actor>Hill Harper</actor>
-      <actor>Nicholas Gonzalez</actor>
-      <actor>Antonia Thomas</actor>
-      <actor>Chuku Modu</actor>
-      <actor>Beau Garrett</actor>
-    </credits>
-    <date>2017</date>
+    <title lang="es">El buen doctor (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9706086.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261102170000 -0400" stop="20261102180000 -0400" channel="TELEVEN">
     <title lang="es">Lo que callamos las mujeres</title>
@@ -191970,21 +190939,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103094000 -0400" stop="20261103103000 -0400" channel="TLT">
-    <title lang="es">Rattan</title>
-    <desc lang="es">Un encuentro entre dos desconocidos los conduce a una vida de recuerdos. Un hombre corriente despierta por accidente a la misteriosa Si Teng tras décadas de letargo.(n)</desc>
-    <credits>
-      <actor>Tian Jing</actor>
-      <actor>Vin Zhang</actor>
-      <actor>Daisy Li</actor>
-      <actor>Yichi Zhang</actor>
-      <actor>Junyu Wu</actor>
-      <actor>Zehao Jin</actor>
-    </credits>
-    <date>2021</date>
+    <title lang="es">Rattan (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29248190.jpg" />
-    <country lang="es">China</country>
   </programme>
   <programme start="20261103103000 -0400" stop="20261103104000 -0400" channel="TLT">
     <title lang="es">Japan Video Topics en Tele Tuya</title>
@@ -192067,22 +191023,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103143000 -0400" stop="20261103153000 -0400" channel="TLT">
-    <title lang="es">Te amé una vez</title>
-    <desc lang="es">Aslim va a Ankara para inscribirse en la universidad privada. Allí conoce a Ozan, con quien mantiene un apasionado romance. Sin embargo, sus condiciones económicas diferentes y el pasado de sus familias destruirán sus vidas.(n)</desc>
-    <credits>
-      <actor>Yagmur Çokgenç</actor>
-      <actor>Oguzhan Kayra Koç</actor>
-      <actor>Berk Bakioglu</actor>
-      <actor>Sifanur Gül</actor>
-      <actor>Didem Aygün</actor>
-      <actor>Irfan Kilinc</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Te amé una vez (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/17100697.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E95</episode-num>
   </programme>
   <programme start="20261103153000 -0400" stop="20261103154000 -0400" channel="TLT">
     <title lang="es">Pendiente de la jugada</title>
@@ -192162,22 +191104,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/1995040510.jpg" />
   </programme>
   <programme start="20261103190000 -0400" stop="20261103200000 -0400" channel="TLT">
-    <title lang="es">Ciudad perdida</title>
-    <desc lang="es">Una típica familia del Mar Negro, conectada entre sí, se encontrará con personas que intentan aferrarse a la soledad de la vida en este barrio donde se verán obligados a sobrevivir tras su migración a Estambul.(n)</desc>
-    <credits>
-      <actor>Nik Xhelilaj</actor>
-      <actor>Ilker Kaleli</actor>
-      <actor>Nazan Kesal</actor>
-      <actor>Ugur Polat</actor>
-      <actor>Cansu Tosun</actor>
-      <actor>Elifcan Ongurlar</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">Ciudad perdida (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22674155.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
   <programme start="20261103200000 -0400" stop="20261103210000 -0400" channel="TLT">
     <title lang="es">Isla paraíso</title>
@@ -192568,21 +191496,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2426307.jpg" />
   </programme>
   <programme start="20261102190000 -0400" stop="20261102200000 -0400" channel="TV FAMILIA">
-    <title lang="es">La pequena casa de la pradera</title>
-    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.(n)</desc>
-    <credits>
-      <actor>Michael Landon</actor>
-      <actor>Melissa Gilbert</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-    </credits>
-    <date>1974</date>
+    <title lang="es">La pequena casa de la pradera (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55024418.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261102200000 -0400" stop="20261102210000 -0400" channel="TV FAMILIA">
     <title lang="es">Atrápame si puedes</title>
@@ -192597,21 +191512,8 @@ En Vivo</title>
     <country lang="es">España</country>
   </programme>
   <programme start="20261102210000 -0400" stop="20261102213000 -0400" channel="TV FAMILIA">
-    <title lang="es">Tres por tres</title>
-    <desc lang="es">Una cómica mirada al hogar en el que tres hombres jóvenes y solteros experimentan las delicias de ser padres mientras se encargan de la crianza de tres adorables niñas.(n)</desc>
-    <credits>
-      <actor>John Stamos</actor>
-      <actor>B Saget</actor>
-      <actor>Dave Coulier</actor>
-      <actor>Jodie Sweetin</actor>
-      <actor>Mary-Kate Olsen</actor>
-      <actor>Ashley Olsen</actor>
-    </credits>
-    <date>1987</date>
+    <title lang="es">Tres por tres (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20574020.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261102213000 -0400" stop="20261102223000 -0400" channel="TV FAMILIA">
     <title lang="es">Grandes miniseries</title>
@@ -192762,8 +191664,16 @@ En Vivo</title>
     <country lang="es">Colombia</country>
   </programme>
   <programme start="20261103060000 -0400" stop="20261103063000 -0400" channel="TV FAMILIA">
-    <title lang="es">Abriendo caminos (?)</title>
+    <title lang="es">Abriendo caminos</title>
+    <desc lang="es">Un espacio que presenta los caminos ejemplares y hermosos que inspiran y, además, nos llenan de esperanza, con la conducción de María García de Fleury.(n)</desc>
+    <credits>
+      <actor>María García de Fleury</actor>
+    </credits>
+    <date>2016</date>
     <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6616992.jpg" />
+    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103063000 -0400" stop="20261103070000 -0400" channel="TV FAMILIA">
     <title lang="es">Dios sana hoy</title>
@@ -193143,12 +192053,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102113000 -0400" stop="20261102114500 -0400" channel="TVES">
-    <title lang="es">Actualidad RT</title>
-    <desc lang="es">Te ofrecemos una variada gama informativa que contiene una programación basada en documentales, reportajes y espacios periodísticos, a través de los cuales podrás conocer el acontecer diario, además de tópicos de interés.(n)</desc>
-    <date>2000</date>
+    <title lang="es">Actualidad RT (?)</title>
     <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/5041018.jpg" />
-    <country lang="es">Rusia</country>
   </programme>
   <programme start="20261102114500 -0400" stop="20261102120000 -0400" channel="TVES">
     <title lang="es">Los fuegos artificiales del Kremlin</title>
@@ -193412,15 +192318,8 @@ En Vivo</title>
     <country lang="es">Senegal</country>
   </programme>
   <programme start="20261103173000 -0400" stop="20261103193000 -0400" channel="TVES">
-    <title lang="es">Liga FUTVE</title>
-    <sub-title lang="es">Monagas vs. Caracas, Fecha 9, Estadio Monumental de Maturín</sub-title>
-    <desc lang="es">Vive los partidos de la 70º edición de la Primera División de Venezuela, torneo organizado por la Liga FUTVE bajo la supervisión de la Federación Venezolana de Fútbol.(n)</desc>
-    <date>2026</date>
+    <title lang="es">Liga FUTVE (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1987762929.jpg" />
-    <country lang="es">Venezuela</country>
-    <episode-num system="onscreen">S0</episode-num>
   </programme>
   <programme start="20261103193000 -0400" stop="20261103220000 -0400" channel="TVES">
     <title lang="es">Liga Venezolana de Béisbol Profesional de Venezuela</title>
@@ -193511,14 +192410,14 @@ En Vivo</title>
     <category lang="es">Culturales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/12060867.jpg" />
     <country lang="es">México</country>
+    <episode-num system="onscreen">S1 E226</episode-num>
   </programme>
   <programme start="20261102080000 -0400" stop="20261102090000 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
+    <title lang="es">Los invasores de cuerpos</title>
     <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <category lang="es">Especial</category>
+    <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26420198.jpg" />
   </programme>
   <programme start="20261102090000 -0400" stop="20261102100000 -0400" channel="VALE TV">
     <title lang="es">En forma</title>
@@ -193534,7 +192433,7 @@ En Vivo</title>
     <country lang="es">Alemania</country>
   </programme>
   <programme start="20261102100000 -0400" stop="20261102110000 -0400" channel="VALE TV">
-    <title lang="es">Aprendemos juntos</title>
+    <title lang="es">Aprendemos Juntos</title>
     <desc lang="es">Emprenderemos una mágica aventura de conocimiento y educación. Un contenido que concibe la educación de un modo plural, dialogante y abierto.(n)</desc>
     <date>2000</date>
     <category lang="es">Educativo</category>
@@ -193552,15 +192451,15 @@ En Vivo</title>
     <country lang="es">Alemania</country>
   </programme>
   <programme start="20261102113000 -0400" stop="20261102120000 -0400" channel="VALE TV">
-    <title lang="es">Economía creativa</title>
-    <desc lang="es">Los reporteros de DW Español visitan proyectos exitosos en la región e investigan su impacto socioeconómico en reportajes de 12 minutos. La economía creativa genera empleo, educación y futuro en América Latina.(n)</desc>
+    <title lang="es">Enfoque Europa</title>
+    <desc lang="es">Magazine dedicado a informar acerca de la diversidad de los pueblos, sus culturas y paisajes, haciendo hincapié en la convivencia y los conflictos. También presenta historias directas de la vida de las personas en Europa.(n)</desc>
     <credits>
-      <actor>Carolina Chimoy</actor>
+      <actor>Valeria Risi</actor>
     </credits>
-    <date>2017</date>
-    <category lang="es">Entrevista</category>
-    <category lang="es">Periodístico</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/3791377.jpg" />
+    <date>2014</date>
+    <category lang="es">Magazine</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2445901.jpg" />
     <country lang="es">Alemania</country>
   </programme>
   <programme start="20261102120000 -0400" stop="20261102123000 -0400" channel="VALE TV">
@@ -193582,105 +192481,61 @@ En Vivo</title>
     <country lang="es">Alemania</country>
   </programme>
   <programme start="20261102130000 -0400" stop="20261102140000 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
+    <title lang="es">Especiales de Vida Salvaje</title>
+    <sub-title lang="es">Ballenas jorobadas</sub-title>
+    <desc lang="es">Un documental que muestra cómo es la vida de las diversas especies que habitan, a lo largo y ancho, la selva amazónica. Aquí se presenta una mirada diferente sobre el hábitat de cada una de estas criaturas.(n)</desc>
     <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <category lang="es">Educativo</category>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/7465238.jpg" />
+    <country lang="es">Colombia</country>
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261102140000 -0400" stop="20261102150000 -0400" channel="VALE TV">
-    <title lang="es">Mundo natural</title>
-    <desc lang="es">Un programa que presenta las imágenes más impresionantes sobre la naturaleza y el mundo animal. El público será testigo de los cambios de los bosques a través de los siglos, la flora y fauna que habitan en las costas y los ríos.(n)</desc>
+    <title lang="es">Bebes de la naturaleza</title>
+    <desc lang="es">Una serie que explora el mundo animal y a las crías, cachorros y polluelos de diferentes especies. El público podrá descubrir cómo los animales cuidan a sus descendientes y los protegen mientras crecen y se preparan para afrontar el mundo.(n)</desc>
     <date>2000</date>
     <category lang="es">Interés general</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/25784185.jpg" />
+    <category lang="es">Documentales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29087658.jpg" />
   </programme>
   <programme start="20261102150000 -0400" stop="20261102151500 -0400" channel="VALE TV">
-    <title lang="es">Robocar Poli</title>
-    <desc lang="es">No hay un día aburrido en la ciudad. El auto de policía Poli, el camión de bomberos Roy y sus amigos del equipo de rescate están siempre listos para proteger a los habitantes.(n)</desc>
-    <credits>
-      <actor>Kate Bristol</actor>
-      <actor>Jason Griffith</actor>
-      <actor>Rebecca Soler</actor>
-      <actor>Eileen Stevens</actor>
-      <actor>Marc Thompson</actor>
-      <actor>Alyson Leigh Rosenfeld</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9322759.jpg" />
-    <country lang="es">Corea del Sur</country>
-  </programme>
-  <programme start="20261102151500 -0400" stop="20261102153000 -0400" channel="VALE TV">
-    <title lang="es">Robocar Poli</title>
-    <desc lang="es">No hay un día aburrido en la ciudad. El auto de policía Poli, el camión de bomberos Roy y sus amigos del equipo de rescate están siempre listos para proteger a los habitantes.(n)</desc>
-    <credits>
-      <actor>Kate Bristol</actor>
-      <actor>Jason Griffith</actor>
-      <actor>Rebecca Soler</actor>
-      <actor>Eileen Stevens</actor>
-      <actor>Marc Thompson</actor>
-      <actor>Alyson Leigh Rosenfeld</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9322759.jpg" />
-    <country lang="es">Corea del Sur</country>
-  </programme>
-  <programme start="20261102153000 -0400" stop="20261102160000 -0400" channel="VALE TV">
-    <title lang="es">Érase una vez el espacio</title>
-    <desc lang="es">Un equipo por la paz navega la galaxia resolviendo disputas y explorando nuevos mundos. Durante sus peligrosos viajes a través de la inmensidad del universo, Maestro y sus numerosos amigos conocen a extrañas criaturas de estrellas lejanas.(n)</desc>
-    <credits>
-      <actor>Roger Carel</actor>
-      <actor>Annie Balestra</actor>
-      <actor>Alain Dorval</actor>
-      <actor>José Luccioni</actor>
-      <actor>Yves-Marie Maurin</actor>
-      <actor>Sady Rebbot</actor>
-    </credits>
-    <date>1982</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/42271138.jpg" />
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20261102160000 -0400" stop="20261102161500 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
+    <title lang="es">Policías del espacio</title>
+    <sub-title lang="es">Vuela, Reno</sub-title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27183621.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20261102161500 -0400" stop="20261102163000 -0400" channel="VALE TV">
-    <title lang="es">Robocar Poli</title>
-    <desc lang="es">No hay un día aburrido en la ciudad. El auto de policía Poli, el camión de bomberos Roy y sus amigos del equipo de rescate están siempre listos para proteger a los habitantes.(n)</desc>
-    <credits>
-      <actor>Kate Bristol</actor>
-      <actor>Jason Griffith</actor>
-      <actor>Rebecca Soler</actor>
-      <actor>Eileen Stevens</actor>
-      <actor>Marc Thompson</actor>
-      <actor>Alyson Leigh Rosenfeld</actor>
-    </credits>
-    <date>2011</date>
+  <programme start="20261102151500 -0400" stop="20261102153000 -0400" channel="VALE TV">
+    <title lang="es">Policías del espacio</title>
+    <sub-title lang="es">Gold Rock se enamora. Parte 1</sub-title>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27183621.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20261102153000 -0400" stop="20261102160000 -0400" channel="VALE TV">
+    <title lang="es">Las 1001 Américas</title>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26819188.jpg" />
+  </programme>
+  <programme start="20261102160000 -0400" stop="20261102163000 -0400" channel="VALE TV">
+    <title lang="es">Érase una vez el espacio (?)</title>
     <category lang="es">Animación</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9322759.jpg" />
-    <country lang="es">Corea del Sur</country>
   </programme>
   <programme start="20261102163000 -0400" stop="20261102170000 -0400" channel="VALE TV">
-    <title lang="es">Animales asombrosos</title>
-    <desc lang="es">Un viaje mágico a través del reino animal. Un metraje único que captura momentos mágicos en la vida de los animales y una exploración a sus rasgos en comportamiento, hábitos y estilo de vida.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Documental</category>
-    <category lang="es">Documentales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/38564706.jpg" />
-    <country lang="es">EE. UU.</country>
+    <title lang="es">La banda de Mozart</title>
+    <sub-title lang="es">El desengaño de Beethoven</sub-title>
+    <desc lang="es">Serie educativa sobre un grupo de niños que quiere formar una banda, pero mientras nos relatan sus aventuras, van contando también hechos reales que les sucedieron a los grandes compositores.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26045346.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261102170000 -0400" stop="20261102173000 -0400" channel="VALE TV">
     <title lang="es">Enlaces</title>
@@ -193707,15 +192562,11 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102180000 -0400" stop="20261102190000 -0400" channel="VALE TV">
-    <title lang="es">Megaconstrucciones</title>
-    <desc lang="es">El objetivo de este contrato es generar contenido atractivo que destaque uno de los proyectos de infraestructura que más han transformado Ciudad de México, el tren interurbano elevado que conectará al DF con Toluca.(n)</desc>
-    <credits>
-      <actor>Maricarmen Solis</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Arquitectura</category>
+    <title lang="es">Naturaleza de las cosas</title>
+    <date>2000</date>
+    <category lang="es">Documental</category>
     <category lang="es">Documentales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1990135273.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26425310.jpg" />
   </programme>
   <programme start="20261102190000 -0400" stop="20261102193000 -0400" channel="VALE TV">
     <title lang="es">DW analiza</title>
@@ -193738,16 +192589,12 @@ En Vivo</title>
     <country lang="es">Alemania</country>
   </programme>
   <programme start="20261102200000 -0400" stop="20261102203000 -0400" channel="VALE TV">
-    <title lang="es">Noticiero NCC</title>
-    <desc lang="es">Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias.(n)</desc>
-    <credits>
-      <actor>Iván Carrillo</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12005028.jpg" />
-    <country lang="es">México</country>
+    <title lang="es">Actualidad</title>
+    <sub-title lang="es">Nocias DW</sub-title>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8522330.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261102203000 -0400" stop="20261102210000 -0400" channel="VALE TV">
     <title lang="es">Emprendiendo con Victoria</title>
@@ -193761,37 +192608,32 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/38391602.jpg" />
     <country lang="es">Venezuela</country>
   </programme>
-  <programme start="20261102210000 -0400" stop="20261102213000 -0400" channel="VALE TV">
-    <title lang="es">Explorando Japón</title>
-    <desc lang="es">.Un acercamiento a cómo la cultura japonesa se inserta en distintos lugares del mundo en donde se producen fusiones con la música, moda, gastronomía, deportes, artes y ciencias locales.(n)</desc>
+  <programme start="20261102210000 -0400" stop="20261102223000 -0400" channel="VALE TV">
+    <title lang="es">Su vida privada</title>
+    <sub-title lang="es">¿Conoces a los fans?</sub-title>
+    <desc lang="es">La vida de una curadora de artes se desmorona al intentar ocultarle que era fan del K-pop al nuevo director de su galería.(n)</desc>
     <credits>
-      <actor>Ayana Misawa</actor>
+      <actor>Park Min-young</actor>
+      <actor>Ahn Bo-hyun</actor>
+      <actor>Kim Jae-uk</actor>
+      <actor>Jung Je-won</actor>
+      <actor>Park Jin-Joo</actor>
+      <actor>Kim Bo-ra</actor>
     </credits>
-    <date>2016</date>
-    <category lang="es">Interés general</category>
+    <date>2019</date>
+    <category lang="es">Romántica</category>
     <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12747748.jpg" />
-    <country lang="es">Japón</country>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26133404.jpg" />
+    <country lang="es">Corea del Sur</country>
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20261102213000 -0400" stop="20261102220000 -0400" channel="VALE TV">
-    <title lang="es">Explorando Japón</title>
-    <desc lang="es">.Un acercamiento a cómo la cultura japonesa se inserta en distintos lugares del mundo en donde se producen fusiones con la música, moda, gastronomía, deportes, artes y ciencias locales.(n)</desc>
-    <credits>
-      <actor>Ayana Misawa</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12747748.jpg" />
-    <country lang="es">Japón</country>
-  </programme>
-  <programme start="20261102220000 -0400" stop="20261102233000 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
+  <programme start="20261102223000 -0400" stop="20261102233000 -0400" channel="VALE TV">
+    <title lang="es">Las Aventuras del Quest</title>
+    <desc lang="es">Entrar a un dominio nuevo sin conocer sus peligros es la esencia de la aventura.(n)</desc>
     <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <category lang="es">Aventura</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/28017607.jpg" />
   </programme>
   <programme start="20261102233000 -0400" stop="20261103000000 -0400" channel="VALE TV">
     <title lang="es">Valores</title>
@@ -193806,12 +192648,11 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103000000 -0400" stop="20261103003000 -0400" channel="VALE TV">
-    <title lang="es">Embajada de China</title>
-    <desc lang="es">Programación especial para conmemorar el comienzo de la también llamada Fiesta de la primavera.(n)</desc>
+    <title lang="es">Tercer planeta</title>
     <date>2000</date>
-    <category lang="es">Especial</category>
     <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26287601.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/25678660.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
   <programme start="20261103003000 -0400" stop="20261103060000 -0400" channel="VALE TV">
     <title lang="es">Fin de transmisión</title>
@@ -193864,12 +192705,11 @@ En Vivo</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261103080000 -0400" stop="20261103090000 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
+    <title lang="es">Los invasores de cuerpos</title>
     <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <category lang="es">Especial</category>
+    <category lang="es">Culturales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26420198.jpg" />
   </programme>
   <programme start="20261103090000 -0400" stop="20261103100000 -0400" channel="VALE TV">
     <title lang="es">En forma</title>
@@ -193885,13 +192725,15 @@ En Vivo</title>
     <country lang="es">Alemania</country>
   </programme>
   <programme start="20261103100000 -0400" stop="20261103110000 -0400" channel="VALE TV">
-    <title lang="es">Aprendemos juntos</title>
+    <title lang="es">Aprendemos Juntos</title>
+    <sub-title lang="es">¿Qué importancia ene la imagen para ti?, con Mara Jiménez (Desafíos)</sub-title>
     <desc lang="es">Emprenderemos una mágica aventura de conocimiento y educación. Un contenido que concibe la educación de un modo plural, dialogante y abierto.(n)</desc>
     <date>2000</date>
     <category lang="es">Educativo</category>
     <category lang="es">Culturales</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/11675442.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261103110000 -0400" stop="20261103113000 -0400" channel="VALE TV">
     <title lang="es">Global Es</title>
@@ -193903,12 +192745,16 @@ En Vivo</title>
     <country lang="es">Alemania</country>
   </programme>
   <programme start="20261103113000 -0400" stop="20261103120000 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
-    <date>2000</date>
-    <category lang="es">Interés general</category>
+    <title lang="es">Enfoque Europa</title>
+    <desc lang="es">Magazine dedicado a informar acerca de la diversidad de los pueblos, sus culturas y paisajes, haciendo hincapié en la convivencia y los conflictos. También presenta historias directas de la vida de las personas en Europa.(n)</desc>
+    <credits>
+      <actor>Valeria Risi</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Magazine</category>
     <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2445901.jpg" />
+    <country lang="es">Alemania</country>
   </programme>
   <programme start="20261103120000 -0400" stop="20261103123000 -0400" channel="VALE TV">
     <title lang="es">Visión futuro</title>
@@ -193929,88 +192775,58 @@ En Vivo</title>
     <country lang="es">Alemania</country>
   </programme>
   <programme start="20261103130000 -0400" stop="20261103140000 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
+    <title lang="es">Sobrevivientes</title>
+    <desc lang="es">Sobrevivientes es una serie que retrata la historia de personas que sostienen oficios tradicionales, con esfuerzo, orgullo y pasión, a pesar del tiempo y la tecnología (Lucha libre, relojero, sastre, proyeccionista, orfebre, etc.).(n)</desc>
     <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <category lang="es">Documental</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10567780.jpg" />
   </programme>
   <programme start="20261103140000 -0400" stop="20261103150000 -0400" channel="VALE TV">
-    <title lang="es">La vida de las aves</title>
-    <desc lang="es">David Attenborough examina la variedad de aves deespecies diferentes y sus formas de vida.(n)</desc>
-    <credits>
-      <actor>David Attenborough</actor>
-      <actor>Joanna Sarsby</actor>
-      <actor>Mike Salisbury</actor>
-      <actor>Ian Gray</actor>
-      <actor>Phil Hurrell</actor>
-      <actor>Miles Barton</actor>
-    </credits>
-    <date>1998</date>
-    <category lang="es">Documental</category>
+    <title lang="es">Bebes de la naturaleza</title>
+    <desc lang="es">Una serie que explora el mundo animal y a las crías, cachorros y polluelos de diferentes especies. El público podrá descubrir cómo los animales cuidan a sus descendientes y los protegen mientras crecen y se preparan para afrontar el mundo.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
     <category lang="es">Documentales</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/50556353.jpg" />
-    <country lang="es">Reino Unido</country>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29087658.jpg" />
   </programme>
   <programme start="20261103150000 -0400" stop="20261103151500 -0400" channel="VALE TV">
-    <title lang="es">Metal Cardbot (?)</title>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261103151500 -0400" stop="20261103153000 -0400" channel="VALE TV">
-    <title lang="es">Metal Cardbot (?)</title>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme start="20261103153000 -0400" stop="20261103160000 -0400" channel="VALE TV">
-    <title lang="es">El divertido mundo de Peep</title>
-    <desc lang="es">Un pollito recién sacado sale en aventuras diarias con sus amigos, Peep aprende en cada aventura nuevos conceptos científicos.(n)</desc>
-    <date>2004</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26289891.jpg" />
-    <country lang="es">Canadá</country>
-  </programme>
-  <programme start="20261103160000 -0400" stop="20261103161500 -0400" channel="VALE TV">
-    <title lang="es">Robocar Poli</title>
-    <desc lang="es">No hay un día aburrido en la ciudad. El auto de policía Poli, el camión de bomberos Roy y sus amigos del equipo de rescate están siempre listos para proteger a los habitantes.(n)</desc>
-    <credits>
-      <actor>Kate Bristol</actor>
-      <actor>Jason Griffith</actor>
-      <actor>Rebecca Soler</actor>
-      <actor>Eileen Stevens</actor>
-      <actor>Marc Thompson</actor>
-      <actor>Alyson Leigh Rosenfeld</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9322759.jpg" />
-    <country lang="es">Corea del Sur</country>
-  </programme>
-  <programme start="20261103161500 -0400" stop="20261103163000 -0400" channel="VALE TV">
-    <title lang="es">Robocar Poli</title>
-    <desc lang="es">No hay un día aburrido en la ciudad. El auto de policía Poli, el camión de bomberos Roy y sus amigos del equipo de rescate están siempre listos para proteger a los habitantes.(n)</desc>
-    <credits>
-      <actor>Kate Bristol</actor>
-      <actor>Jason Griffith</actor>
-      <actor>Rebecca Soler</actor>
-      <actor>Eileen Stevens</actor>
-      <actor>Marc Thompson</actor>
-      <actor>Alyson Leigh Rosenfeld</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/9322759.jpg" />
-    <country lang="es">Corea del Sur</country>
-  </programme>
-  <programme start="20261103163000 -0400" stop="20261103170000 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
+    <title lang="es">Policías del espacio</title>
+    <sub-title lang="es">Gold Rock se enamora. Parte 1</sub-title>
     <date>2000</date>
     <category lang="es">Interés general</category>
     <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27183621.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20261103151500 -0400" stop="20261103153000 -0400" channel="VALE TV">
+    <title lang="es">Policías del espacio</title>
+    <sub-title lang="es">Gold Rock se enamora. Parte 2</sub-title>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27183621.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20261103153000 -0400" stop="20261103160000 -0400" channel="VALE TV">
+    <title lang="es">Las 1001 Américas</title>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26819188.jpg" />
+  </programme>
+  <programme start="20261103160000 -0400" stop="20261103163000 -0400" channel="VALE TV">
+    <title lang="es">Érase una vez el espacio (?)</title>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20261103163000 -0400" stop="20261103170000 -0400" channel="VALE TV">
+    <title lang="es">La banda de Mozart</title>
+    <sub-title lang="es">Cabizbundo y meditabundo</sub-title>
+    <desc lang="es">Serie educativa sobre un grupo de niños que quiere formar una banda, pero mientras nos relatan sus aventuras, van contando también hechos reales que les sucedieron a los grandes compositores.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Interés general</category>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26045346.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261103170000 -0400" stop="20261103173000 -0400" channel="VALE TV">
     <title lang="es">Enlaces</title>
@@ -194037,12 +192853,11 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103180000 -0400" stop="20261103190000 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
+    <title lang="es">Naturaleza de las cosas</title>
     <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <category lang="es">Documental</category>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26425310.jpg" />
   </programme>
   <programme start="20261103190000 -0400" stop="20261103193000 -0400" channel="VALE TV">
     <title lang="es">Cultura.21</title>
@@ -194066,16 +192881,12 @@ En Vivo</title>
     <country lang="es">Alemania</country>
   </programme>
   <programme start="20261103200000 -0400" stop="20261103203000 -0400" channel="VALE TV">
-    <title lang="es">Noticiero NCC</title>
-    <desc lang="es">Con la conducción de Iván Carrillo, este informativo dará visibilidad a las actividades de innovación y difusión tecnológica en Iberoamérica, con el fin de hacer más accesible el conocimiento científico para sus diversas audiencias.(n)</desc>
-    <credits>
-      <actor>Iván Carrillo</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Noticiero</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12005028.jpg" />
-    <country lang="es">México</country>
+    <title lang="es">Actualidad</title>
+    <sub-title lang="es">Nocias DW</sub-title>
+    <date>2000</date>
+    <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/8522330.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261103203000 -0400" stop="20261103210000 -0400" channel="VALE TV">
     <title lang="es">De la mano con la iglesia</title>
@@ -194084,29 +192895,30 @@ En Vivo</title>
     <category lang="es">Variedades</category>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/27437153.jpg" />
   </programme>
-  <programme start="20261103210000 -0400" stop="20261103213000 -0400" channel="VALE TV">
-    <title lang="es">Isabel (?)</title>
-    <category lang="es">Entretenimientos</category>
-  </programme>
-  <programme start="20261103213000 -0400" stop="20261103220000 -0400" channel="VALE TV">
-    <title lang="es">Explorando Japón</title>
-    <desc lang="es">.Un acercamiento a cómo la cultura japonesa se inserta en distintos lugares del mundo en donde se producen fusiones con la música, moda, gastronomía, deportes, artes y ciencias locales.(n)</desc>
+  <programme start="20261103210000 -0400" stop="20261103223000 -0400" channel="VALE TV">
+    <title lang="es">Su vida privada</title>
+    <desc lang="es">La vida de una curadora de artes se desmorona al intentar ocultarle que era fan del K-pop al nuevo director de su galería.(n)</desc>
     <credits>
-      <actor>Ayana Misawa</actor>
+      <actor>Park Min-young</actor>
+      <actor>Ahn Bo-hyun</actor>
+      <actor>Kim Jae-uk</actor>
+      <actor>Jung Je-won</actor>
+      <actor>Park Jin-Joo</actor>
+      <actor>Kim Bo-ra</actor>
     </credits>
-    <date>2016</date>
-    <category lang="es">Interés general</category>
+    <date>2019</date>
+    <category lang="es">Romántica</category>
     <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12747748.jpg" />
-    <country lang="es">Japón</country>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26133404.jpg" />
+    <country lang="es">Corea del Sur</country>
   </programme>
-  <programme start="20261103220000 -0400" stop="20261103233000 -0400" channel="VALE TV">
-    <title lang="es">Canal local</title>
-    <desc lang="es">Espacio de comunicación local.(n)</desc>
+  <programme start="20261103223000 -0400" stop="20261103233000 -0400" channel="VALE TV">
+    <title lang="es">Las Aventuras del Quest</title>
+    <desc lang="es">Entrar a un dominio nuevo sin conocer sus peligros es la esencia de la aventura.(n)</desc>
     <date>2000</date>
-    <category lang="es">Interés general</category>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26533762.jpg" />
+    <category lang="es">Aventura</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/28017607.jpg" />
   </programme>
   <programme start="20261103233000 -0400" stop="20261104000000 -0400" channel="VALE TV">
     <title lang="es">Últimas palabras</title>
@@ -194179,8 +192991,16 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102070000 -0400" stop="20261102080000 -0400" channel="VENEVISION">
-    <title lang="es">Abriendo puertas (?)</title>
+    <title lang="es">Abriendo puertas</title>
+    <desc lang="es">Un ciclo de actualidad y entrevistas de la mano de Margarita Oropeza, quien nos lleva a descubrir diferentes personalidades.(n)</desc>
+    <credits>
+      <actor>Margarita Oropeza</actor>
+    </credits>
+    <date>2023</date>
     <category lang="es">Entrevista</category>
+    <category lang="es">Periodístico</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/27669241.jpg" />
+    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261102080000 -0400" stop="20261102090000 -0400" channel="VENEVISION">
     <title lang="es">Los astros</title>
@@ -194255,8 +193075,11 @@ En Vivo</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261102150000 -0400" stop="20261102160000 -0400" channel="VENEVISION">
-    <title lang="es">¡Siéntese quien pueda! (?)</title>
+    <title lang="es">¡Siéntese quien pueda!</title>
+    <desc lang="es">El primer reality show en el que participan periodistas y miembros de la farándula, quienes comentan y arman polémica sobre las noticias más actuales de ese medio y la cultura pop.(n)</desc>
+    <date>2022</date>
     <category lang="es">Reality Show</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20261102160000 -0400" stop="20261102170000 -0400" channel="VENEVISION">
     <title lang="es">La rosa de Guadalupe</title>
@@ -194518,45 +193341,16 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261103140000 -0400" stop="20261103150000 -0400" channel="VENEVISION">
-    <title lang="es">Regalo de amor</title>
-    <desc lang="es">Isabella es una mujer dulce y anhela ser madre. Este fuerte deseo se ve truncado por la repentina muerte de su esposo hasta que conoce a Eugenio. Él es un hombre generoso y la vida le da a ambos la oportunidad de ser padres.(n)</desc>
-    <credits>
-      <actor>Claudia Ramírez</actor>
-      <actor>Diana Bracho</actor>
-      <actor>Alejandra Robles Gil</actor>
-      <actor>Chris Pascal</actor>
-      <actor>Valentina Buzzurro</actor>
-      <actor>Alberto Estrella</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Regalo de amor (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53749366.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261103150000 -0400" stop="20261103160000 -0400" channel="VENEVISION">
-    <title lang="es">¡Siéntese quien pueda!</title>
-    <desc lang="es">El primer reality show en el que participan periodistas y miembros de la farándula, quienes comentan y arman polémica sobre las noticias más actuales de ese medio y la cultura pop.(n)</desc>
-    <date>2022</date>
+    <title lang="es">¡Siéntese quien pueda! (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20261103160000 -0400" stop="20261103170000 -0400" channel="VENEVISION">
-    <title lang="es">La rosa de Guadalupe</title>
-    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.(n)</desc>
-    <credits>
-      <actor>Milia Nader</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Maru Dueñas</actor>
-      <actor>Aleyda Gallardo</actor>
-      <actor>Miriam Calderón</actor>
-      <actor>Sandra Itzel</actor>
-    </credits>
-    <date>2008</date>
+    <title lang="es">La rosa de Guadalupe (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/54682488.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261103170000 -0400" stop="20261103180000 -0400" channel="VENEVISION">
     <title lang="es">Desiguales</title>
