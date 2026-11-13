@@ -13355,16 +13355,7 @@ Repetición</title>
     <country lang="es">Bolivia</country>
   </programme>
   <programme start="20261112214500 -0400" stop="20261112224500 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Caso cerrado</title>
-    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
-    <credits>
-      <actor>Ana María Polo</actor>
-      <actor>Steven Feldman</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Variedades</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19654293.jpg" />
-    <country lang="es">EE. UU.</country>
+    <title lang="es">Caso cerrado (?)</title>
   </programme>
   <programme start="20261112224500 -0400" stop="20261113040000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Pare de sufrir</title>
@@ -13602,17 +13593,8 @@ Repetición</title>
     <country lang="es">México</country>
   </programme>
   <programme start="20261114073000 -0400" stop="20261114090000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Looney Tunes</title>
-    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
-    <credits>
-      <actor>Mel Blanc</actor>
-      <actor>Chuck Jones</actor>
-    </credits>
-    <date>1946</date>
+    <title lang="es">Looney Tunes (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261114090000 -0400" stop="20261114103000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Tom y Jerry</title>
@@ -13637,21 +13619,8 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/13146617.jpg" />
   </programme>
   <programme start="20261114120000 -0400" stop="20261114140000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Lo mejor</title>
-    <desc lang="es">Revive lo mejor de la serie. Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
-    <credits>
-      <actor>Akin Akinözü</actor>
-      <actor>Ebru Sahin</actor>
-      <actor>Gülçin Santircioglu</actor>
-      <actor>Serhat Tutumluer</actor>
-      <actor>Macit Sonkan</actor>
-      <actor>Oya Unustasi</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Lo mejor - Hercai (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10651249.jpg" />
-    <country lang="es">Turquía</country>
   </programme>
   <programme start="20261114140000 -0400" stop="20261114160000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Lo mejor de Aziz</title>
@@ -14410,21 +14379,8 @@ Repetición</title>
     <country lang="es">Australia</country>
   </programme>
   <programme start="20261114043000 -0400" stop="20261114045000 -0400" channel="BOLIVISION">
-    <title lang="es">La abeja Maya</title>
-    <desc lang="es">Una abeja joven llamada Maya ha dejado su colmena para descubrir la belleza y los misterios de la naturaleza, encontrándose con otros insectos que están allí, a quienes contagia su enorme entusiasmo.(n)</desc>
-    <credits>
-      <actor>Kira Tozer</actor>
-      <actor>Andrea Libman</actor>
-      <actor>Paul Louis Muller</actor>
-      <actor>Gerd Meyer</actor>
-      <actor>Hali Beth Muller</actor>
-      <actor>Zalina Sanchez</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">La abeja Maya (?)</title>
     <category lang="es">Infantil</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/35013092.jpg" />
-    <country lang="es">Francia</country>
   </programme>
   <programme start="20261114045000 -0400" stop="20261114061500 -0400" channel="BOLIVISION">
     <title lang="es">Plaza Sésamo</title>
@@ -31220,56 +31176,13 @@ Repetición</title>
   </programme>
   <programme start="20261113230100 +0000" stop="20261114004400 +0000" channel="GoldenEdge.cl">
     <title lang="es">Destino final</title>
-    <title lang="en">Final Destination</title>
-    <desc lang="es">A bordo de un avión listo para partir rumbo a Francia como parte de un viaje de estudio, Alex tiene una premonición y es retirado junto a algunos amigos. Enseguida, todos ven la aeronave explotar en el aire, matando a todos los pasajeros. Ahora Alex debe descifrar el plan de La Muerte, a medida que cada uno de los estudiantes sobrevivientes caen víctimas de ella uno a uno. Mientras que evita que pase lo peor, Alex también debe evadir al FBI, que cree que él causó la explosión del avión.(n)</desc>
-    <credits>
-      <director>James Wong</director>
-      <actor>Devon Sawa</actor>
-      <actor>Ali Larter</actor>
-      <actor>Kerr Smith</actor>
-      <actor>Roger Guenveur Smith</actor>
-      <actor>Brendan Fehr</actor>
-      <actor>Chad Donella</actor>
-      <actor>Kristen Cloke</actor>
-      <actor>Forbes Angus</actor>
-      <actor>Christine Chatelain</actor>
-      <actor>Daniel Roebuck</actor>
-    </credits>
     <date>2000</date>
     <category lang="es">Terror</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_destino-final-2000_l_l.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>13+</value>
-    </rating>
   </programme>
   <programme start="20261114004400 +0000" stop="20261114030000 +0000" channel="GoldenEdge.cl">
     <title lang="es">El exorcista</title>
-    <title lang="en">The Exorcist</title>
-    <desc lang="es">Regan, de doce años, comienza a sufrir cambios de personalidad y físicos afirmando que es el demonio. Cuando su madre no puede dar con una respuesta científica solicita ayuda a la Iglesia, que afirma que es necesario practicarle un exorcismo.(n)</desc>
-    <credits>
-      <director>William Friedkin</director>
-      <actor>Ellen Burstyn</actor>
-      <actor>Max Von Sydow</actor>
-      <actor>Jason Miller</actor>
-      <actor>Linda Blair</actor>
-      <actor>Jack MacGowran</actor>
-      <actor>William O'Malley</actor>
-      <actor>Barton Heyman</actor>
-      <actor>Peter Masterson</actor>
-      <actor>Rudolf Schündler</actor>
-      <actor>Gina Petrushka</actor>
-    </credits>
     <date>1973</date>
     <category lang="es">Terror</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_el-exorcista-1973_l_l.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>13+</value>
-    </rating>
-    <star-rating system="IMdb">
-      <value>8.0</value>
-    </star-rating>
   </programme>
   <programme start="20261114030000 +0000" stop="20261114045700 +0000" channel="GoldenEdge.cl">
     <title lang="es">Escupiré sobre tu tumba 2</title>
@@ -31488,31 +31401,8 @@ Repetición</title>
   </programme>
   <programme start="20261114173400 +0000" stop="20261114194600 +0000" channel="GoldenEdge.cl">
     <title lang="es">El exorcista</title>
-    <title lang="en">The Exorcist</title>
-    <desc lang="es">Regan, de doce años, comienza a sufrir cambios de personalidad y físicos afirmando que es el demonio. Cuando su madre no puede dar con una respuesta científica solicita ayuda a la Iglesia, que afirma que es necesario practicarle un exorcismo.(n)</desc>
-    <credits>
-      <director>William Friedkin</director>
-      <actor>Ellen Burstyn</actor>
-      <actor>Max Von Sydow</actor>
-      <actor>Jason Miller</actor>
-      <actor>Linda Blair</actor>
-      <actor>Jack MacGowran</actor>
-      <actor>William O'Malley</actor>
-      <actor>Barton Heyman</actor>
-      <actor>Peter Masterson</actor>
-      <actor>Rudolf Schündler</actor>
-      <actor>Gina Petrushka</actor>
-    </credits>
     <date>1973</date>
     <category lang="es">Terror</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_el-exorcista-1973_l_l.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>13+</value>
-    </rating>
-    <star-rating system="IMdb">
-      <value>8.0</value>
-    </star-rating>
   </programme>
   <programme start="20261114194600 +0000" stop="20261114213800 +0000" channel="GoldenEdge.cl">
     <title lang="es">El último desafío</title>
@@ -56514,26 +56404,8 @@ Repetición</title>
   </programme>
   <programme start="20261115090000 -0600" stop="20261115093000 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
-    <sub-title lang="es">Parte 2</sub-title>
-    <desc lang="es">Jake Peralta, un inmaduro pero talentoso detective de Nueva York en el distrito 99 de Brooklyn, entra en conflicto con su nuevo oficial al mando, el severo capitán Ray Holt.(n)</desc>
-    <credits>
-      <actor>Terry Crews</actor>
-      <actor>Melissa Fumero</actor>
-      <actor>Joe Lo Truglio</actor>
-      <actor>Dirk Blocker</actor>
-      <actor>Joel McKinnon Miller</actor>
-      <actor>Andy Samberg</actor>
-      <actor>Andre Braugher</actor>
-      <actor>Chelsea Peretti</actor>
-      <actor>Stephanie Beatriz</actor>
-      <actor>Dan Goor</actor>
-      <actor>Michael Schur</actor>
-      <actor>Matt Nodella</actor>
-    </credits>
-    <date>2013</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/4125186.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261115093000 -0600" stop="20261115095500 -0600" channel="UNIVERSAL COMEDY MX">
     <title lang="es">Brooklyn Nine-Nine</title>
@@ -57037,34 +56909,8 @@ Repetición</title>
   </programme>
   <programme start="20261113021500 -0600" stop="20261113030000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
-    <sub-title lang="es">No es oro todo lo que reluce</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.(n)</desc>
-    <credits>
-      <actor>Hugh Laurie</actor>
-      <actor>Omar Epps</actor>
-      <actor>Robert Sean Leonard</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>Bobbin Bergstrom</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Olivia Wilde</actor>
-      <actor>Kal Penn</actor>
-      <actor>Odette Annable</actor>
-      <actor>Charlyne Yi</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Liz Benoit</actor>
-      <actor>Anne Dudek</actor>
-      <actor>Jennifer Crystal Foley</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Greg Yaitanes</actor>
-      <actor>David Shore</actor>
-      <actor>Marcy G Kaplan</actor>
-      <actor>Thomas L Moran</actor>
-    </credits>
-    <date>2004</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Drama</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/26681465.jpg" />
-    <country lang="es">EE. UU</country>
   </programme>
   <programme start="20261113030000 -0600" stop="20261113034500 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">House M.D.</title>
@@ -58075,7 +57921,7 @@ Repetición</title>
   </programme>
   <programme start="20261114072000 -0600" stop="20261114082000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">El Conde de Montecristo</title>
-    <sub-title lang="es">Le trésor</sub-title>
+    <sub-title lang="es">El tesoro</sub-title>
     <desc lang="es">Edmond, un marinero acusado falsamente de traición, es encarcelado en el castillo de If, frente a las costas de Marsella. Tras escapar y adoptar la identidad del Conde de Montecristo, planea vengarse de quienes lo acusaron injustamente.(n)</desc>
     <credits>
       <actor>Sam Claflin</actor>
@@ -58427,7 +58273,7 @@ Repetición</title>
   </programme>
   <programme start="20261114181000 -0600" stop="20261114191000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">El Conde de Montecristo</title>
-    <sub-title lang="es">Le trésor</sub-title>
+    <sub-title lang="es">El tesoro</sub-title>
     <desc lang="es">Edmond, un marinero acusado falsamente de traición, es encarcelado en el castillo de If, frente a las costas de Marsella. Tras escapar y adoptar la identidad del Conde de Montecristo, planea vengarse de quienes lo acusaron injustamente.(n)</desc>
     <credits>
       <actor>Sam Claflin</actor>
@@ -58751,7 +58597,7 @@ Repetición</title>
   </programme>
   <programme start="20261115072000 -0600" stop="20261115082000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">El Conde de Montecristo</title>
-    <sub-title lang="es">Le trésor</sub-title>
+    <sub-title lang="es">El tesoro</sub-title>
     <desc lang="es">Edmond, un marinero acusado falsamente de traición, es encarcelado en el castillo de If, frente a las costas de Marsella. Tras escapar y adoptar la identidad del Conde de Montecristo, planea vengarse de quienes lo acusaron injustamente.(n)</desc>
     <credits>
       <actor>Sam Claflin</actor>
@@ -59103,7 +58949,7 @@ Repetición</title>
   </programme>
   <programme start="20261115181000 -0600" stop="20261115191000 -0600" channel="UNIVERSAL PREMIERE MX">
     <title lang="es">El Conde de Montecristo</title>
-    <sub-title lang="es">Le trésor</sub-title>
+    <sub-title lang="es">El tesoro</sub-title>
     <desc lang="es">Edmond, un marinero acusado falsamente de traición, es encarcelado en el castillo de If, frente a las costas de Marsella. Tras escapar y adoptar la identidad del Conde de Montecristo, planea vengarse de quienes lo acusaron injustamente.(n)</desc>
     <credits>
       <actor>Sam Claflin</actor>
@@ -73867,16 +73713,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20261113111000 -0300" stop="20261113125500 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20261113125500 -0300" stop="20261113153000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20261113153000 -0300" stop="20261113175500 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -81148,18 +80984,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20261112230000 -0500" stop="20261113020000 -0500" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Reloaded: UFC 239: Jones vs. Santos</title>
-    <desc lang="en">Two of the greatest mixed martial artists of all time return to the Octagon to defend their belts. Jon Jones faces Thiago Santos and Amanda Nunes takes on former champion Holly Holm.(n)</desc>
-  </programme>
-  <programme start="20261113020000 -0500" stop="20261113030000 -0500" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Main Events: Volkanovski vs. Holloway 3</title>
-    <desc lang="en">Showcasing the best fights from recent events, revealing backstories of the athletes and their mindsets.(n)</desc>
-  </programme>
-  <programme start="20261113030000 -0500" stop="20261113040000 -0500" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">UFC Main Events: Namajunas vs. Zhang 2</title>
-    <desc lang="en">Showcasing the best fights from recent events, revealing backstories of the athletes and their mindsets.(n)</desc>
-  </programme>
   <programme start="20261113040000 -0500" stop="20261113080000 -0500" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Boomer and Gio</title>
     <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.(n)</desc>
@@ -81263,18 +81087,6 @@ En Vivo</title>
   <programme start="20261114203000 -0500" stop="20261115000000 -0500" channel="CBSSportsNetworkUSA.us">
     <title lang="en">College Football: Colorado State at Washington State</title>
     <desc lang="en">From Gesa Field at Martin Stadium in Pullman, Wash.(n)</desc>
-  </programme>
-  <programme start="20261113000000 -0500" stop="20261113020000 -0500" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
-  </programme>
-  <programme start="20261113020000 -0500" stop="20261113023000 -0500" channel="NBATVLatinAmerica.us">
-    <title lang="en">The Association: Post Up</title>
-    <desc lang="en">"The Association Post Up" looks back at the NBA highlights and news of the day.(n)</desc>
-  </programme>
-  <programme start="20261113023000 -0500" stop="20261113040000 -0500" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
   </programme>
   <programme start="20261113040000 -0500" stop="20261113043000 -0500" channel="NBATVLatinAmerica.us">
     <title lang="en">The Association: Post Up</title>
@@ -133839,14 +133651,6 @@ Repetición</title>
     <category lang="es">Sociológicos</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
-  <programme start="20261113010000 -0500" stop="20261113025500 -0500" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261113025500 -0500" stop="20261113030000 -0500" channel="BBCWorldNews.us">
-    <title lang="en">The Travel Show</title>
-    <desc lang="en">Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.(n)</desc>
-  </programme>
   <programme start="20261113030000 -0500" stop="20261113043000 -0500" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -134198,18 +134002,6 @@ Repetición</title>
   <programme start="20261114213000 -0500" stop="20261114220000 -0500" channel="BBCWorldNews.us">
     <title lang="en">Clive Myrie's African Adventure: Abeokuta</title>
     <desc lang="en">Clive gets hands-on to create authentic tie-and-dye adire clothes, finds out what sport is taking the country by storm and experiences how Nigerians throw a birthday party.(n)</desc>
-  </programme>
-  <programme start="20261113010000 -0500" stop="20261113020000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">Gutfeld!</title>
-    <desc lang="en">Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.(n)</desc>
-  </programme>
-  <programme start="20261113020000 -0500" stop="20261113030000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">Fox News at Night</title>
-    <desc lang="en">Hard news and analysis of compelling stories from Washington, D.C., and across the country; journalists provide viewers with must-see information and consequential news.(n)</desc>
-  </programme>
-  <programme start="20261113030000 -0500" stop="20261113040000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">FOX &amp; Friends First</title>
-    <desc lang="en">Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.(n)</desc>
   </programme>
   <programme start="20261113040000 -0500" stop="20261113070000 -0500" channel="FoxNewsChannel.us">
     <title lang="en">FOX and Friends</title>
@@ -168845,26 +168637,8 @@ En Vivo</title>
   </programme>
   <programme start="20261114103000 -0600" stop="20261114124500 -0600" channel="ImagenTv.mx">
     <title lang="es">Pareja de emergencia</title>
-    <desc lang="es">Una pareja divorciada reaviva los sentimientos tumultuosos del otro cuando se reúnen seis años después como internos en el mismo hospital.(n)</desc>
-    <credits>
-      <actor>Choi Jin Hyuk</actor>
-      <actor>Lee Pil-mo</actor>
-      <actor>Yeo-jin Choi</actor>
-      <actor>Clara Lee</actor>
-      <actor>Jong-Hoon Yoon</actor>
-      <actor>Park Joon Geum</actor>
-      <actor>Hyun-sung Lim</actor>
-      <actor>Ji-hyo Song</actor>
-      <actor>Min Sun-Hee</actor>
-      <actor>Cheol-gyu Kim</actor>
-      <actor>Choi Yoon Jung</actor>
-      <actor>Lee Chan Ho</actor>
-      <actor>Kim Cheol Kyu</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13502789.jpg" />
-    <country lang="es">Corea</country>
   </programme>
   <programme start="20261114124500 -0600" stop="20261114150000 -0600" channel="ImagenTv.mx">
     <title lang="es">Al fin de primera mano</title>
@@ -169145,26 +168919,8 @@ En Vivo</title>
   </programme>
   <programme start="20261115103000 -0600" stop="20261115124500 -0600" channel="ImagenTv.mx">
     <title lang="es">Pareja de emergencia</title>
-    <desc lang="es">Una pareja divorciada reaviva los sentimientos tumultuosos del otro cuando se reúnen seis años después como internos en el mismo hospital.(n)</desc>
-    <credits>
-      <actor>Choi Jin Hyuk</actor>
-      <actor>Lee Pil-mo</actor>
-      <actor>Yeo-jin Choi</actor>
-      <actor>Clara Lee</actor>
-      <actor>Jong-Hoon Yoon</actor>
-      <actor>Park Joon Geum</actor>
-      <actor>Hyun-sung Lim</actor>
-      <actor>Ji-hyo Song</actor>
-      <actor>Min Sun-Hee</actor>
-      <actor>Cheol-gyu Kim</actor>
-      <actor>Choi Yoon Jung</actor>
-      <actor>Lee Chan Ho</actor>
-      <actor>Kim Cheol Kyu</actor>
-    </credits>
-    <date>2014</date>
+    <desc lang="es">No hay información disponible.(n)</desc>
     <category lang="es">Comedia</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13502789.jpg" />
-    <country lang="es">Corea</country>
   </programme>
   <programme start="20261115124500 -0600" stop="20261115150000 -0600" channel="ImagenTv.mx">
     <title lang="es">Al fin de primera mano</title>
@@ -184855,39 +184611,12 @@ En Vivo</title>
     <country lang="es">Colombia</country>
   </programme>
   <programme start="20261114013000 -0400" stop="20261114023000 -0400" channel="IVC">
-    <title lang="es">Amor y esperanza</title>
-    <desc lang="es">Zeynep trabajó incansablemente y obtuvo el acceso al departamento de derecho de la universidad de su elección. Él sueña con mudarse a Estambul con su madre para ir a la universidad pero desconoce la desgracia que ésta sufre.(n)</desc>
-    <credits>
-      <actor>Furkan Okumus</actor>
-      <actor>Hakan Dinçkol</actor>
-      <actor>Eda Baslamisli</actor>
-      <actor>Zafer Demircan</actor>
-      <actor>Zeynep Melis Girsen</actor>
-      <actor>Duygu Keser</actor>
-    </credits>
-    <date>2022</date>
+    <title lang="es">Amor y esperanza (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53374552.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
   <programme start="20261114023000 -0400" stop="20261114033000 -0400" channel="IVC">
-    <title lang="es">La venganza de Analía</title>
-    <desc lang="es">Analía decide tomar venganza contra el asesino de su madre, el candidato a la Presidencia de la República, Guillermo León Mejía. Para eso se convertirá en la más importante asesora política y en la mano derecha del candidato.(n)</desc>
-    <credits>
-      <actor>Jacobo Diez</actor>
-      <actor>Carolina Gómez</actor>
-      <actor>Marlon Moreno</actor>
-      <actor>George Slebi</actor>
-      <actor>Camilo Calvo</actor>
-      <actor>Mauricio Figueroa</actor>
-    </credits>
-    <date>2020</date>
+    <title lang="es">La venganza de Analía (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11285365.jpg" />
-    <country lang="es">Colombia</country>
   </programme>
   <programme start="20261114033000 -0400" stop="20261114043000 -0400" channel="IVC">
     <title lang="es">Los Briceño</title>
@@ -185343,16 +185072,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261113180000 -0400" stop="20261113190000 -0400" channel="MERIDIANO TV">
-    <title lang="es">Tercer tiempo</title>
-    <desc lang="es">Disfruta de entrevistas a las personalidades del mundo futbolístico, de todos los goles y la información más completa de cada jornada del Fútbol Nacional y de las ligas de Europa.(n)</desc>
-    <credits>
-      <actor>Juan Carlos Rutilo</actor>
-    </credits>
-    <date>2000</date>
+    <title lang="es">Tercer tiempo (?)</title>
     <category lang="es">Fútbol</category>
-    <category lang="es">Deportes</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11651014.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261113190000 -0400" stop="20261113210000 -0400" channel="MERIDIANO TV">
     <title lang="es">Meridiano Televisión</title>
@@ -187263,22 +186984,8 @@ En Vivo</title>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261114082000 -0400" stop="20261114084000 -0400" channel="TLT">
-    <title lang="es">Mondo Yan</title>
-    <sub-title lang="es">Borrowed Glove</sub-title>
-    <desc lang="es">Tres héroes un tan poco comunes han sido elegidos por tres excéntricos Ancianos a aprender sus secretos y proteger el Mundo Yan de un villano intrigante y frustrado llamado Negu.(n)</desc>
-    <credits>
-      <actor>Jody O'Neill</actor>
-      <actor>Paul Tylak</actor>
-      <actor>Morgan C Jones</actor>
-      <actor>Myriam Ballesteros</actor>
-      <actor>Txema Ocio</actor>
-    </credits>
-    <date>2020</date>
+    <title lang="es">Mondo Yan (?)</title>
     <category lang="es">Animación</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13659849.jpg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261114084000 -0400" stop="20261114090000 -0400" channel="TLT">
     <title lang="es">Sardina en el espacio</title>
@@ -188041,21 +187748,8 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2426307.jpg" />
   </programme>
   <programme start="20261114090000 -0400" stop="20261114100000 -0400" channel="TV FAMILIA">
-    <title lang="es">El toque de un ángel</title>
-    <desc lang="es">Esta serie recrea la vida de un ángel moderno que inspira a la gente que atraviesa períodos difíciles a cambiar sus vidas antes que sea demasiado tarde.(n)</desc>
-    <credits>
-      <actor>Della Reese</actor>
-      <actor>John Dye</actor>
-      <actor>Valerie Bertinelli</actor>
-      <actor>Gavin Sheehan</actor>
-      <actor>Alexis Cruz</actor>
-      <actor>Charles Rocket</actor>
-    </credits>
-    <date>1994</date>
+    <title lang="es">El toque de un ángel (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2666753.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261114100000 -0400" stop="20261114113000 -0400" channel="TV FAMILIA">
     <title lang="es">De retiro con la voz de Jesús</title>
@@ -188152,21 +187846,8 @@ En Vivo</title>
     <country lang="es">España</country>
   </programme>
   <programme start="20261114163000 -0400" stop="20261114173000 -0400" channel="TV FAMILIA">
-    <title lang="es">La pequeña casa de la pradera</title>
-    <desc lang="es">Sigue a los Ingalls, una familia humilde que vive en el pueblo de Walnut Grove, Minnesota, a finales del siglo XIX. Exploran territorios inexplorados, enfrentándose a indígenas, animales salvajes y otros peligros.(n)</desc>
-    <credits>
-      <actor>Michael Landon</actor>
-      <actor>Melissa Gilbert</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-    </credits>
-    <date>1974</date>
+    <title lang="es">La pequeña casa de la pradera (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/55024418.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261114173000 -0400" stop="20261114180000 -0400" channel="TV FAMILIA">
     <title lang="es">El santo rosario</title>
@@ -188799,8 +188480,12 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/28510053.jpg" />
   </programme>
   <programme start="20261113140000 -0400" stop="20261113150000 -0400" channel="VALE TV">
-    <title lang="es">Bebes de la naturaleza (?)</title>
+    <title lang="es">Bebes de la naturaleza</title>
+    <desc lang="es">Una serie que explora el mundo animal y a las crías, cachorros y polluelos de diferentes especies. El público podrá descubrir cómo los animales cuidan a sus descendientes y los protegen mientras crecen y se preparan para afrontar el mundo.(n)</desc>
+    <date>2000</date>
     <category lang="es">Interés general</category>
+    <category lang="es">Documentales</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29087658.jpg" />
   </programme>
   <programme start="20261113150000 -0400" stop="20261113151500 -0400" channel="VALE TV">
     <title lang="es">Cabeón</title>
@@ -189328,21 +189013,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261113140000 -0400" stop="20261113150000 -0400" channel="VENEVISION">
-    <title lang="es">Regalo de amor</title>
-    <desc lang="es">Isabella es una mujer dulce y anhela ser madre. Este fuerte deseo se ve truncado por la repentina muerte de su esposo hasta que conoce a Eugenio. Él es un hombre generoso y la vida le da a ambos la oportunidad de ser padres.(n)</desc>
-    <credits>
-      <actor>Claudia Ramírez</actor>
-      <actor>Diana Bracho</actor>
-      <actor>Alejandra Robles Gil</actor>
-      <actor>Chris Pascal</actor>
-      <actor>Valentina Buzzurro</actor>
-      <actor>Alberto Estrella</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Regalo de amor (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53749366.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261113150000 -0400" stop="20261113160000 -0400" channel="VENEVISION">
     <title lang="es">¡Siéntese quien pueda!</title>
@@ -189573,21 +189245,8 @@ En Vivo</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261114100000 -0400" stop="20261114110000 -0400" channel="VENEVISION">
-    <title lang="es">El Chavo</title>
-    <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.(n)</desc>
-    <credits>
-      <actor>Roberto Gómez Bolaños</actor>
-      <actor>Ramón Valdez</actor>
-      <actor>Carlos Villagrán</actor>
-      <actor>Florinda Meza</actor>
-      <actor>María Antonieta de las Nieves</actor>
-      <actor>Edgar Vivar</actor>
-    </credits>
-    <date>1973</date>
+    <title lang="es">El Chavo (?)</title>
     <category lang="es">Comedia</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/44822699.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261114110000 -0400" stop="20261114120000 -0400" channel="VENEVISION">
     <title lang="es">Alerta salud</title>
@@ -189717,8 +189376,21 @@ En Vivo</title>
     <country lang="es">Turquía</country>
   </programme>
   <programme start="20261114220000 -0400" stop="20261114230000 -0400" channel="VENEVISION">
-    <title lang="es">Velvet (?)</title>
+    <title lang="es">Velvet</title>
+    <desc lang="es">Entre las paredes de las Galerías Velvet se encuentran los trajes más elegantes, sofisticados y caros del momento, pero sobre todo se esconde una de las más maravillosas historias de amor que se haya contado jamás: la de Ana y Alberto.(n)</desc>
+    <credits>
+      <actor>Miguel Ángel Silvestre</actor>
+      <actor>Sean Campbell</actor>
+      <actor>Aitana Sánchez-Gijón</actor>
+      <actor>Cecilia Freire</actor>
+      <actor>Adrián Lastra</actor>
+      <actor>José Sacristán</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/39755754.jpg" />
+    <country lang="es">España</country>
   </programme>
   <programme start="20261114230000 -0400" stop="20261115000000 -0400" channel="VENEVISION">
     <title lang="es">Yellowstone</title>
