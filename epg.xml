@@ -12882,11 +12882,30 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261122053000 -0400" stop="20261122080000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Looney Tunes (?)</title>
+    <title lang="es">Looney Tunes</title>
+    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
+    <credits>
+      <actor>Mel Blanc</actor>
+      <actor>Chuck Jones</actor>
+    </credits>
+    <date>1946</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261122080000 -0400" stop="20261122103000 -0400" channel="UNITEL SANTA CRUZ">
-    <title lang="es">Tom y Jerry (?)</title>
+    <title lang="es">Tom y Jerry</title>
+    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
+    <credits>
+      <actor>Lillian Randolph</actor>
+      <actor>William Hanna</actor>
+      <actor>Joseph Barbera</actor>
+    </credits>
+    <date>1940</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261122103000 -0400" stop="20261122120000 -0400" channel="UNITEL SANTA CRUZ">
     <title lang="es">Telepaís</title>
@@ -13193,11 +13212,30 @@ Repetición</title>
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261122053000 -0400" stop="20261122080000 -0400" channel="UNITEL">
-    <title lang="es">Looney Tunes (?)</title>
+    <title lang="es">Looney Tunes</title>
+    <desc lang="es">Gracias a ACME, la corporación de envíos por correo, puedes disfrutar de los yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control.(n)</desc>
+    <credits>
+      <actor>Mel Blanc</actor>
+      <actor>Chuck Jones</actor>
+    </credits>
+    <date>1946</date>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/19641190.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261122080000 -0400" stop="20261122103000 -0400" channel="UNITEL">
-    <title lang="es">Tom y Jerry (?)</title>
+    <title lang="es">Tom y Jerry</title>
+    <desc lang="es">El tenaz gato Tom persigue al escurridizo ratón Jerry, quien siempre logra escapar. Este legendario dúo fue creado por William Hanna y Joseph Babera, quienes en ese entonces trabajaban para MGM.(n)</desc>
+    <credits>
+      <actor>Lillian Randolph</actor>
+      <actor>William Hanna</actor>
+      <actor>Joseph Barbera</actor>
+    </credits>
+    <date>1940</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/2132407.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261122103000 -0400" stop="20261122120000 -0400" channel="UNITEL">
     <title lang="es">Telepaís</title>
@@ -13548,16 +13586,53 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/3214981.jpg" />
   </programme>
   <programme start="20261122040000 -0400" stop="20261122043000 -0400" channel="BOLIVISION">
-    <title lang="es">Master Raindrop (?)</title>
+    <title lang="es">Master Raindrop</title>
+    <desc lang="es">Maetro Raindrop sigue al novato en artes marciales Raindrop y su amiga Shao Yen en su viaje. Ellos buscan salvar a su Maestro Yun y eventualmente a su pacífica tierra del malvado General Bu y su ejército de Guerreros Terracota.(n)</desc>
+    <credits>
+      <actor>Jane O'Brien</actor>
+      <actor>Rachel King</actor>
+      <actor>Sarah Aubrey</actor>
+      <actor>Steve Cooper</actor>
+    </credits>
+    <date>2008</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/902586.jpg" />
+    <country lang="es">Australia</country>
   </programme>
   <programme start="20261122043000 -0400" stop="20261122045000 -0400" channel="BOLIVISION">
-    <title lang="es">Vic, el vikingo (?)</title>
+    <title lang="es">Vic, el vikingo</title>
+    <desc lang="es">Conoce la historia de Vickie, un niño vikingo de poca estatura y miedoso que acompaña a su padre, el jefe de su pueblo, y a sus hombres en sus aventuras, pero que usa su ingenio e instintos para ayudar en momentos de necesidad.(n)</desc>
+    <credits>
+      <actor>Lionel Tua</actor>
+      <actor>Marie Facundo</actor>
+      <actor>Peter Callan</actor>
+      <actor>Tanguy Goasdoué</actor>
+      <actor>Thierry Kazazian</actor>
+      <actor>Cyrille Monge</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13450372.jpg" />
+    <country lang="es">Austria</country>
   </programme>
   <programme start="20261122045000 -0400" stop="20261122061500 -0400" channel="BOLIVISION">
-    <title lang="es">Plaza Sésamo (?)</title>
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.(n)</desc>
+    <credits>
+      <actor>Leticia Amezcua</actor>
+      <actor>Gerardo Zardain</actor>
+      <actor>Odin Dupeyrón</actor>
+      <actor>Rocio Lara</actor>
+      <actor>Héctor Márquez</actor>
+      <actor>Santiago Hernández</actor>
+    </credits>
+    <date>1972</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Infantiles</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/29861082.jpg" />
+    <country lang="es">México</country>
   </programme>
   <programme start="20261122061500 -0400" stop="20261122064500 -0400" channel="BOLIVISION">
     <title lang="es">Beyblade Burst</title>
@@ -14130,12 +14205,35 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/2403050.jpg" />
   </programme>
   <programme start="20261122060000 -0400" stop="20261122061500 -0400" channel="RED UNO">
-    <title lang="es">Bebefinn (?)</title>
+    <title lang="es">Bebefinn</title>
+    <desc lang="es">El pequeño Finn nos invita a vivir aventuras llenas de diversión y a aprender algo nuevo cada día.(n)</desc>
+    <credits>
+      <actor>Bang Marshall Jeanwon</actor>
+      <actor>Scarlett Vivian Unger</actor>
+      <actor>Bommie Catherine Han</actor>
+    </credits>
+    <date>2022</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/38197805.jpg" />
+    <country lang="es">Corea</country>
   </programme>
   <programme start="20261122061500 -0400" stop="20261122064500 -0400" channel="RED UNO">
-    <title lang="es">Baby Shark's Big Show (?)</title>
+    <title lang="es">Baby Shark's Big Show</title>
+    <desc lang="es">Baby Shark y su mejor amigo, el pez William, emprenden varias aventuras en su comunidad de Carnivore Cove, donde siempre aprenden algo nuevo.(n)</desc>
+    <credits>
+      <actor>Kimiko Glenn</actor>
+      <actor>Luke Youngblood</actor>
+      <actor>Natasha Rothwell</actor>
+      <actor>Eric Edelstein</actor>
+      <actor>Debra Wilson</actor>
+      <actor>Patrick Warburton</actor>
+    </credits>
+    <date>2020</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/12763284.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261122064500 -0400" stop="20261122071500 -0400" channel="RED UNO">
     <title lang="es">PAW Patrol</title>
@@ -14808,8 +14906,10 @@ Repetición</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/21436405.jpg" />
   </programme>
   <programme start="20261122094000 -0400" stop="20261122094500 -0400" channel="TVU">
-    <title lang="es">Tv empresas (?)</title>
+    <title lang="es">Tv empresas</title>
+    <date>2000</date>
     <category lang="es">Variedades</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10226986.jpg" />
   </programme>
   <programme start="20261122094500 -0400" stop="20261122095000 -0400" channel="TVU">
     <title lang="es">Características y/o avances</title>
@@ -75419,16 +75519,6 @@ En Vivo</title>
       <value>Todas las edades</value>
     </rating>
   </programme>
-  <programme start="20261122100000 -0300" stop="20261122130000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20261122130000 -0300" stop="20261122155000 -0300" channel="Combate.br">
-    <title lang="pt">Agora na TV</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Luta</category>
-  </programme>
   <programme start="20261122155000 -0300" stop="20261122163500 -0300" channel="Combate.br">
     <title lang="pt">Agora na TV</title>
     <category lang="pt">Esporte</category>
@@ -83528,14 +83618,6 @@ En Vivo</title>
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20261122010000 -0500" stop="20261122023000 -0500" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">SailGP: Dubai, Day 1</title>
-    <desc lang="en">Top-performing athletes from all over the globe showcase their skills as they compete in the SailGP to win the coveted title.(n)</desc>
-  </programme>
-  <programme start="20261122023000 -0500" stop="20261122040000 -0500" channel="CBSSportsNetworkUSA.us">
-    <title lang="en">Inside College Football</title>
-    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.(n)</desc>
-  </programme>
   <programme start="20261122040000 -0500" stop="20261122053000 -0500" channel="CBSSportsNetworkUSA.us">
     <title lang="en">SailGP: Dubai, Day 2</title>
     <desc lang="en">Top-performing athletes from all over the globe showcase their skills as they compete in the SailGP to win the coveted title.(n)</desc>
@@ -83655,10 +83737,6 @@ En Vivo</title>
   <programme start="20261123200000 -0500" stop="20261123220000 -0500" channel="CBSSportsNetworkUSA.us">
     <title lang="en">Athletes Unlimited Pro Softball</title>
     <desc lang="en">Softball action where athletes compete to win team, individual, and MVP points. From Parkway Bank Sports Complex in Chicago.(n)</desc>
-  </programme>
-  <programme start="20261122000000 -0500" stop="20261122040000 -0500" channel="NBATVLatinAmerica.us">
-    <title lang="en">Full Court</title>
-    <desc lang="en">Catch up on the night's NBA action with a fast-paced recap featuring game highlights, standout performances and postgame sound.(n)</desc>
   </programme>
   <programme start="20261122040000 -0500" stop="20261122043000 -0500" channel="NBATVLatinAmerica.us">
     <title lang="en">The Association: Post Up</title>
@@ -84301,9 +84379,6 @@ En Vivo</title>
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/27184673.jpg" />
     <episode-num system="onscreen">S5 E2</episode-num>
   </programme>
-  <programme start="20261122010000 -0600" stop="20261122013000 -0600" channel="AgrotendenciaTV.mx">
-    <title lang="es">El Campo Caquetá</title>
-  </programme>
   <programme start="20261122013000 -0600" stop="20261122020000 -0600" channel="AgrotendenciaTV.mx">
     <title lang="es">Tierra fertil</title>
   </programme>
@@ -84435,6 +84510,135 @@ En Vivo</title>
   </programme>
   <programme start="20261123003000 -0600" stop="20261123010000 -0600" channel="AgrotendenciaTV.mx">
     <title lang="es">Agrolatina</title>
+  </programme>
+  <programme start="20261123010000 -0600" stop="20261123013000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Ranchos de Hoy</title>
+  </programme>
+  <programme start="20261123013000 -0600" stop="20261123020000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Tv Agro Centroamérica</title>
+  </programme>
+  <programme start="20261123020000 -0600" stop="20261123023000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Panorama Agropecuario MÉX</title>
+  </programme>
+  <programme start="20261123023000 -0600" stop="20261123030000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Escuela de Campo</title>
+  </programme>
+  <programme start="20261123030000 -0600" stop="20261123033000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Sabores de Campo Cordeo</title>
+  </programme>
+  <programme start="20261123033000 -0600" stop="20261123040000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Tierra fertil</title>
+  </programme>
+  <programme start="20261123040000 -0600" stop="20261123043000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Caballos</title>
+  </programme>
+  <programme start="20261123043000 -0600" stop="20261123050000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Carnes, cortes &amp; Sabores</title>
+  </programme>
+  <programme start="20261123050000 -0600" stop="20261123053000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Noticias del Agro (NDA)</title>
+  </programme>
+  <programme start="20261123053000 -0600" stop="20261123063000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agro Latina</title>
+  </programme>
+  <programme start="20261123063000 -0600" stop="20261123070000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agricultura al Día</title>
+  </programme>
+  <programme start="20261123070000 -0600" stop="20261123080000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Tierra fertil</title>
+  </programme>
+  <programme start="20261123080000 -0600" stop="20261123083000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agrotendencia</title>
+  </programme>
+  <programme start="20261123083000 -0600" stop="20261123090000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Empresarios del Campo</title>
+  </programme>
+  <programme start="20261123090000 -0600" stop="20261123093000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Notas Destacadas</title>
+  </programme>
+  <programme start="20261123093000 -0600" stop="20261123100000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">El Campo Caquetá</title>
+  </programme>
+  <programme start="20261123100000 -0600" stop="20261123103000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">America's Heartland</title>
+  </programme>
+  <programme start="20261123103000 -0600" stop="20261123110000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agronoticias Sie7e</title>
+  </programme>
+  <programme start="20261123110000 -0600" stop="20261123113000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agroriente</title>
+  </programme>
+  <programme start="20261123113000 -0600" stop="20261123120000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Saber Rural</title>
+  </programme>
+  <programme start="20261123120000 -0600" stop="20261123123000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Panorama Agropecuario MÉX</title>
+  </programme>
+  <programme start="20261123123000 -0600" stop="20261123130000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">La Finca Hoy</title>
+  </programme>
+  <programme start="20261123130000 -0600" stop="20261123133000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Noticias del Agro (NDA)</title>
+  </programme>
+  <programme start="20261123133000 -0600" stop="20261123143000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agro Latina</title>
+  </programme>
+  <programme start="20261123143000 -0600" stop="20261123150000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agricultura al Día</title>
+  </programme>
+  <programme start="20261123150000 -0600" stop="20261123160000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Tierra fertil</title>
+  </programme>
+  <programme start="20261123160000 -0600" stop="20261123163000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agrotendencia</title>
+  </programme>
+  <programme start="20261123163000 -0600" stop="20261123170000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Empresarios del Campo</title>
+  </programme>
+  <programme start="20261123170000 -0600" stop="20261123173000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Notas Destacadas</title>
+  </programme>
+  <programme start="20261123173000 -0600" stop="20261123180000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">El Campo Caquetá</title>
+  </programme>
+  <programme start="20261123180000 -0600" stop="20261123183000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">America's Heartland</title>
+  </programme>
+  <programme start="20261123183000 -0600" stop="20261123190000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agronoticias Sie7e</title>
+  </programme>
+  <programme start="20261123190000 -0600" stop="20261123193000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agroriente</title>
+  </programme>
+  <programme start="20261123193000 -0600" stop="20261123200000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Saber Rural</title>
+  </programme>
+  <programme start="20261123200000 -0600" stop="20261123203000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Panorama Agropecuario MÉX</title>
+  </programme>
+  <programme start="20261123203000 -0600" stop="20261123210000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">La Finca Hoy</title>
+  </programme>
+  <programme start="20261123210000 -0600" stop="20261123213000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Noticias del Agro (NDA)</title>
+  </programme>
+  <programme start="20261123213000 -0600" stop="20261123223000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agro Latina</title>
+  </programme>
+  <programme start="20261123223000 -0600" stop="20261123230000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agricultura al Día</title>
+  </programme>
+  <programme start="20261123230000 -0600" stop="20261123233000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">El Campo Caquetá</title>
+  </programme>
+  <programme start="20261123233000 -0600" stop="20261124000000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Cuaderno Agrario</title>
+  </programme>
+  <programme start="20261124000000 -0600" stop="20261124003000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Agricultura al Día</title>
+  </programme>
+  <programme start="20261124003000 -0600" stop="20261124010000 -0600" channel="AgrotendenciaTV.mx">
+    <title lang="es">Notas Destacadas</title>
   </programme>
   <programme start="20261122011200 -0600" stop="20261122020000 -0600" channel="AnimalPlanetLatinAmerica.us">
     <title lang="es">Guardianes al rescate</title>
@@ -138587,22 +138791,6 @@ Repetición</title>
     <category lang="es">Actualidad</category>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ed/31369197.png" />
   </programme>
-  <programme start="20261122000000 -0500" stop="20261122013000 -0500" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261122013000 -0500" stop="20261122014500 -0500" channel="BBCWorldNews.us">
-    <title lang="en">Africa Enterprise</title>
-    <desc lang="en">No details are there for this program.(n)</desc>
-  </programme>
-  <programme start="20261122014500 -0500" stop="20261122033000 -0500" channel="BBCWorldNews.us">
-    <title lang="en">BBC News</title>
-    <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
-  </programme>
-  <programme start="20261122033000 -0500" stop="20261122040000 -0500" channel="BBCWorldNews.us">
-    <title lang="en">Focus on Africa: The Conversation</title>
-    <desc lang="en">This week, Focus on Africa: The Conversation explores a shift in Africa's migration story, as diaspora Africans raised in the West return home, sharing personal experiences and perspectives.(n)</desc>
-  </programme>
   <programme start="20261122040000 -0500" stop="20261122044500 -0500" channel="BBCWorldNews.us">
     <title lang="en">BBC News</title>
     <desc lang="en">Twenty-four hours a day, the latest national and international stories as they break.(n)</desc>
@@ -138914,18 +139102,6 @@ Repetición</title>
   <programme start="20261123214500 -0500" stop="20261123220000 -0500" channel="BBCWorldNews.us">
     <title lang="en">BBC Sport</title>
     <desc lang="en">Coverage, commentary highlights and more from the world's biggest sporting events.(n)</desc>
-  </programme>
-  <programme start="20261122010000 -0500" stop="20261122020000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">Life, Liberty &amp; Levin</title>
-    <desc lang="en">Explore the fundamental values and principles undergirding American society, culture and politics; examine their relevance to the nation's future and everyday lives of the citizens.(n)</desc>
-  </programme>
-  <programme start="20261122020000 -0500" stop="20261122030000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">My View With Lara Trump</title>
-    <desc lang="en">Presenting in-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.(n)</desc>
-  </programme>
-  <programme start="20261122030000 -0500" stop="20261122040000 -0500" channel="FoxNewsChannel.us">
-    <title lang="en">FOX News Saturday Night With Jimmy Failla</title>
-    <desc lang="en">Host Jimmy Failla welcomes guests to give a humorous perspective on the stories America is talking about and everyday issues.(n)</desc>
   </programme>
   <programme start="20261122040000 -0500" stop="20261122080000 -0500" channel="FoxNewsChannel.us">
     <title lang="en">Fox &amp; Friends Weekend</title>
@@ -187783,16 +187959,8 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261122200000 -0400" stop="20261122210000 -0400" channel="CANAL I">
-    <title lang="es">Una noche tan linda con Osmel</title>
-    <desc lang="es">Esta emocionante producción está protagonizada por el máximo experto en la materia, el reconocido Osmel Sousa, el Zar de la Belleza. A lo largo de la serie, el público disfrutará de entrevistas exclusivas con distintas reinas.(n)</desc>
-    <credits>
-      <actor>Osmel Sousa</actor>
-      <actor>Karin Aridi</actor>
-    </credits>
-    <date>2026</date>
+    <title lang="es">Una noche tan linda con Osmel (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/1996159622.jpg" />
-    <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261122210000 -0400" stop="20261122220000 -0400" channel="CANAL I">
     <title lang="es">Con voz propia</title>
@@ -189209,22 +189377,8 @@ Repetición</title>
     <country lang="es">Colombia</country>
   </programme>
   <programme start="20261123150000 -0400" stop="20261123160000 -0400" channel="IVC">
-    <title lang="es">Amor y esperanza</title>
-    <desc lang="es">Zeynep trabajó incansablemente y obtuvo el acceso al departamento de derecho de la universidad de su elección. Él sueña con mudarse a Estambul con su madre para ir a la universidad pero desconoce la desgracia que ésta sufre.(n)</desc>
-    <credits>
-      <actor>Furkan Okumus</actor>
-      <actor>Hakan Dinçkol</actor>
-      <actor>Eda Baslamisli</actor>
-      <actor>Zafer Demircan</actor>
-      <actor>Zeynep Melis Girsen</actor>
-      <actor>Duygu Keser</actor>
-    </credits>
-    <date>2022</date>
+    <title lang="es">Amor y esperanza (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53374552.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E31</episode-num>
   </programme>
   <programme start="20261123160000 -0400" stop="20261123170000 -0400" channel="IVC">
     <title lang="es">El Rey: Vicente Fernández</title>
@@ -189246,22 +189400,8 @@ Repetición</title>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20261123170000 -0400" stop="20261123180000 -0400" channel="IVC">
-    <title lang="es">Los Briceño</title>
-    <desc lang="es">Cecilia, más conocida como 'La Chiqui', es la hija menor de una familia de camioneros y queda embarazada a los dieciseis años. Su padre, Don Armando, el patriarca de la familia, se ofende y la echa de la casa.(n)</desc>
-    <credits>
-      <actor>Juan Manuel Restrepo</actor>
-      <actor>Katherine Escobar</actor>
-      <actor>Mario Espitia</actor>
-      <actor>Camilo Amores</actor>
-      <actor>Melisa Bermudez</actor>
-      <actor>Felipe Bernedette</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="es">Los Briceño (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13857684.jpg" />
-    <country lang="es">Colombia</country>
-    <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
   <programme start="20261123180000 -0400" stop="20261123190000 -0400" channel="IVC">
     <title lang="es">Play Top</title>
@@ -190289,8 +190429,21 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261122060000 -0400" stop="20261122070000 -0400" channel="TELEVEN">
-    <title lang="es">Los Pitufos (?)</title>
+    <title lang="es">Los Pitufos</title>
+    <desc lang="es">Son unas criaturas azules no mayores a un dedo índice, que viven en una aldea de hongos oculta en el bosque. Gargamel y su gato Azrael, intentarán atraparlos por ser un ingrediente necesario para obtener la piedra filosofal.(n)</desc>
+    <credits>
+      <actor>Davis Freeman</actor>
+      <actor>Youssef El Kaoukibi</actor>
+      <actor>Vincent Broes</actor>
+      <actor>Joshua Rubin</actor>
+      <actor>Jackie Jones</actor>
+      <actor>Sandra Asratian</actor>
+    </credits>
+    <date>2021</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20272709.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261122070000 -0400" stop="20261122073000 -0400" channel="TELEVEN">
     <title lang="es">Santa Misa dominical</title>
@@ -190462,21 +190615,8 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261122230000 -0400" stop="20261123000000 -0400" channel="TELEVEN">
-    <title lang="es">Amores que engañan</title>
-    <desc lang="es">Historias diferentes basadas en dramas humanos de mujeres reales en situaciones cotidianas, abordando el amor, la ilusión y la confianza, el dolor, la traición, el desengaño y, en algunos casos, el crimen.(n)</desc>
-    <credits>
-      <actor>Lupita Ferrer</actor>
-      <actor>Erika de la Rosa</actor>
-      <actor>Gabriela Vergara</actor>
-      <actor>Mark Tacher</actor>
-      <actor>Gabriel Porras</actor>
-      <actor>Francisco Gattorno</actor>
-    </credits>
-    <date>2022</date>
+    <title lang="es">Amores que engañan (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20702806.jpg" />
-    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261123000000 -0400" stop="20261123004500 -0400" channel="TELEVEN">
     <title lang="es">No desista</title>
@@ -191320,22 +191460,8 @@ Repetición</title>
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
   <programme start="20261123190000 -0400" stop="20261123200000 -0400" channel="TLT">
-    <title lang="es">Ciudad perdida</title>
-    <desc lang="es">Una típica familia del Mar Negro, conectada entre sí, se encontrará con personas que intentan aferrarse a la soledad de la vida en este barrio donde se verán obligados a sobrevivir tras su migración a Estambul.(n)</desc>
-    <credits>
-      <actor>Nik Xhelilaj</actor>
-      <actor>Ilker Kaleli</actor>
-      <actor>Nazan Kesal</actor>
-      <actor>Ugur Polat</actor>
-      <actor>Cansu Tosun</actor>
-      <actor>Elifcan Ongurlar</actor>
-    </credits>
-    <date>2012</date>
+    <title lang="es">Ciudad perdida (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22674155.jpg" />
-    <country lang="es">Turquía</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
   <programme start="20261123200000 -0400" stop="20261123210000 -0400" channel="TLT">
     <title lang="es">Isla paraíso</title>
@@ -192282,8 +192408,21 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261122113000 -0400" stop="20261122120000 -0400" channel="TVES">
-    <title lang="es">Viva el rey Julien (?)</title>
+    <title lang="es">Viva el rey Julien</title>
+    <desc lang="es">El rey Julien, junto a su asesor Maurice y su fiel sirviente Mort, además de los divertidos amigos de Madagascar, viven las aventuras más disparatadas de la selva, a la vez que intenta gobernar su reino con toda la fuerza de la diversión.(n)</desc>
+    <credits>
+      <actor>Andy Richter</actor>
+      <actor>India de Beaufort</actor>
+      <actor>Debra Wilson</actor>
+      <actor>Sarah Thyre</actor>
+      <actor>Betsy Sodaro</actor>
+      <actor>Kevin Michael Richardson</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Infantil</category>
+    <category lang="es">Series</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/20574803.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20261122120000 -0400" stop="20261122123000 -0400" channel="TVES">
     <title lang="es">Viva el rey Julien</title>
@@ -193631,45 +193770,16 @@ Repetición</title>
     <country lang="es">Venezuela</country>
   </programme>
   <programme start="20261123140000 -0400" stop="20261123150000 -0400" channel="VENEVISION">
-    <title lang="es">Regalo de amor</title>
-    <desc lang="es">Isabella es una mujer dulce y anhela ser madre. Este fuerte deseo se ve truncado por la repentina muerte de su esposo hasta que conoce a Eugenio. Él es un hombre generoso y la vida le da a ambos la oportunidad de ser padres.(n)</desc>
-    <credits>
-      <actor>Claudia Ramírez</actor>
-      <actor>Diana Bracho</actor>
-      <actor>Alejandra Robles Gil</actor>
-      <actor>Chris Pascal</actor>
-      <actor>Valentina Buzzurro</actor>
-      <actor>Alberto Estrella</actor>
-    </credits>
-    <date>2025</date>
+    <title lang="es">Regalo de amor (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/53749366.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261123150000 -0400" stop="20261123160000 -0400" channel="VENEVISION">
-    <title lang="es">¡Siéntese quien pueda!</title>
-    <desc lang="es">El primer reality show en el que participan periodistas y miembros de la farándula, quienes comentan y arman polémica sobre las noticias más actuales de ese medio y la cultura pop.(n)</desc>
-    <date>2022</date>
+    <title lang="es">¡Siéntese quien pueda! (?)</title>
     <category lang="es">Reality Show</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22970674.jpg" />
   </programme>
   <programme start="20261123160000 -0400" stop="20261123170000 -0400" channel="VENEVISION">
-    <title lang="es">La rosa de Guadalupe</title>
-    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.(n)</desc>
-    <credits>
-      <actor>Milia Nader</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Maru Dueñas</actor>
-      <actor>Aleyda Gallardo</actor>
-      <actor>Miriam Calderón</actor>
-      <actor>Sandra Itzel</actor>
-    </credits>
-    <date>2008</date>
+    <title lang="es">La rosa de Guadalupe (?)</title>
     <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <icon src="http://www.reportv.com.ar/buscador/img/Programas/54682488.jpg" />
-    <country lang="es">México</country>
   </programme>
   <programme start="20261123170000 -0400" stop="20261123180000 -0400" channel="VENEVISION">
     <title lang="es">Desiguales</title>
